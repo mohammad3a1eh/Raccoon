@@ -1,1 +1,272 @@
-[]
+[
+    {
+        "title": "How IDOR Leads toAccount Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://dishasutariya22.medium.com/how-idor-leads-toaccount-takeover-51ea6d0df06a?source=rss------idor-5\"><img src=\"https://cdn-images-1.medium.com/max/1514/1*Mvy6GRHeP9xAA-K07BtLaQ.png\" width=\"1514\" /></a></p><p class=\"medium-feed-snippet\">Hellooo wowieee people&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://dishasutariya22.medium.com/how-idor-leads-toaccount-takeover-51ea6d0df06a?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://dishasutariya22.medium.com/how-idor-leads-toaccount-takeover-51ea6d0df06a?source=rss------idor-5",
+        "published": "Sat, 21 Sep 2024 14:03:39 GMT"
+    },
+    {
+        "title": "Exploiting IDOR Vulnerabilities\u200a\u2014\u200aPortswigger",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@aashutos.katare/exploiting-idor-vulnerabilities-portswigger-77f1fc4e8d7d?source=rss------idor-5\"><img src=\"https://cdn-images-1.medium.com/max/1001/1*wywxP25AgZNK2x7zZF7aVg.png\" width=\"1001\" /></a></p><p class=\"medium-feed-snippet\">Description -</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@aashutos.katare/exploiting-idor-vulnerabilities-portswigger-77f1fc4e8d7d?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@aashutos.katare/exploiting-idor-vulnerabilities-portswigger-77f1fc4e8d7d?source=rss------idor-5",
+        "published": "Mon, 16 Sep 2024 05:40:57 GMT"
+    },
+    {
+        "title": "How to Easily Find Your First 5 Bug Bounties [Proven Method]",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@firdansp/how-to-easily-find-your-first-5-bug-bounties-proven-method-6319117abe19?source=rss------idor-5\"><img src=\"https://cdn-images-1.medium.com/max/960/1*mO348qqzq5NpRH4lbwR5aQ.jpeg\" width=\"960\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@firdansp/how-to-easily-find-your-first-5-bug-bounties-proven-method-6319117abe19?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@firdansp/how-to-easily-find-your-first-5-bug-bounties-proven-method-6319117abe19?source=rss------idor-5",
+        "published": "Mon, 16 Sep 2024 04:27:43 GMT"
+    },
+    {
+        "title": "IDOR\u200a\u2014\u200aBroken Access Control",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Understanding IDOR Vulnerabilities: A Comprehensive Guide</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingboltacademy/idor-broken-access-control-efeb6698919f?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingboltacademy/idor-broken-access-control-efeb6698919f?source=rss------idor-5",
+        "published": "Sun, 15 Sep 2024 06:13:11 GMT"
+    },
+    {
+        "title": "How Unguessable IDOR Worth me \u20ac1000 On Intigriti",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@manan_sanghvi/how-unguessable-idor-worth-me-1000-on-intigriti-7ab6f928b3d9?source=rss------idor-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*A8maz_T-ICfpp4lq5zHKpQ.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Welcome back! I&#x2019;m Manan Sanghvi, an Engineering Student and Ethical Hacker (Bug Bounty Hunter).</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@manan_sanghvi/how-unguessable-idor-worth-me-1000-on-intigriti-7ab6f928b3d9?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@manan_sanghvi/how-unguessable-idor-worth-me-1000-on-intigriti-7ab6f928b3d9?source=rss------idor-5",
+        "published": "Fri, 13 Sep 2024 04:37:29 GMT"
+    },
+    {
+        "title": "Mastering IDOR: The Ultimate Resource Guide",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@RaunakGupta1922/mastering-idor-the-ultimate-resource-guide-84e44052f70c?source=rss------idor-5\"><img src=\"https://cdn-images-1.medium.com/max/812/1*UHSwzq1MHMa0zjuqfzLdQg.png\" width=\"812\" /></a></p><p class=\"medium-feed-snippet\">Hello! I&#x2019;m Raunak Gupta, a Security Researcher, Bug Bounty Hunter, and Computer Science student from India.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@RaunakGupta1922/mastering-idor-the-ultimate-resource-guide-84e44052f70c?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@RaunakGupta1922/mastering-idor-the-ultimate-resource-guide-84e44052f70c?source=rss------idor-5",
+        "published": "Thu, 12 Sep 2024 13:19:20 GMT"
+    },
+    {
+        "title": "[IDOR] View other users\u2019 transaction details",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Bug ini memungkinkan penyerang bisa melihat detail transaksi milik pengguna lain</p><p class=\"medium-feed-link\"><a href=\"https://rhidayah.medium.com/idor-view-other-users-transaction-details-73c0c80aada6?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://rhidayah.medium.com/idor-view-other-users-transaction-details-73c0c80aada6?source=rss------idor-5",
+        "published": "Thu, 12 Sep 2024 12:44:03 GMT"
+    },
+    {
+        "title": "How I Was Able to Extract Half a Million Users\u2019 Data Through Simple Misconfigurations and Bug\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@muhsinbinirshad/how-i-able-to-extract-half-a-million-users-data-through-simple-misconfigurations-and-bug-chaining-23add47c43db?source=rss------idor-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*lQj27em-xs6wkCI5H_lMzA.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Today, I&#x2019;m going to show you how I was able to extract around half a million users&#x2019; data by leveraging some misconfigurations and chaining&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@muhsinbinirshad/how-i-able-to-extract-half-a-million-users-data-through-simple-misconfigurations-and-bug-chaining-23add47c43db?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@muhsinbinirshad/how-i-able-to-extract-half-a-million-users-data-through-simple-misconfigurations-and-bug-chaining-23add47c43db?source=rss------idor-5",
+        "published": "Thu, 12 Sep 2024 07:28:04 GMT"
+    },
+    {
+        "title": "Would you mind to tell me what your bank balance is? No? Okay, I\u2019ll hack it.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/would-you-mind-to-tell-me-what-your-bank-balance-is-no-okay-ill-hack-it-b3f49810cfe2?source=rss------idor-5\"><img src=\"https://cdn-images-1.medium.com/max/1249/1*hoNKIWLfSebniOdQEOpQpA.png\" width=\"1249\" /></a></p><p class=\"medium-feed-snippet\">IDOR x Bank = Exposed bank balance.</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/would-you-mind-to-tell-me-what-your-bank-balance-is-no-okay-ill-hack-it-b3f49810cfe2?source=rss------idor-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/would-you-mind-to-tell-me-what-your-bank-balance-is-no-okay-ill-hack-it-b3f49810cfe2?source=rss------idor-5",
+        "published": "Tue, 10 Sep 2024 09:41:39 GMT"
+    },
+    {
+        "title": "About X (Twitter)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">The Evolution of Twitter: From Humble Beginnings to Global Phenomenon</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dogars7790/about-x-twitter-81abc420215e?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dogars7790/about-x-twitter-81abc420215e?source=rss------xss-5",
+        "published": "Sat, 21 Sep 2024 15:26:47 GMT"
+    },
+    {
+        "title": "The Popularity of Text-Only Posts on X: Why Simplicity Drives Engagement",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@creatorsklub/the-popularity-of-text-only-posts-on-x-why-simplicity-drives-engagement-51f4b0f1f6bc?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*SgOJLziUkazds0WZ\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">A startling new trend has surfaced on social media, where text-only messages on X (previously Twitter) are becoming more commonplace in a&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@creatorsklub/the-popularity-of-text-only-posts-on-x-why-simplicity-drives-engagement-51f4b0f1f6bc?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@creatorsklub/the-popularity-of-text-only-posts-on-x-why-simplicity-drives-engagement-51f4b0f1f6bc?source=rss------xss-5",
+        "published": "Fri, 20 Sep 2024 21:04:16 GMT"
+    },
+    {
+        "title": "This Is How I Use Twitter/X To Make $53.47 Per Day!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@AmandaMichelle12/this-is-how-i-use-twitter-x-to-make-53-47-per-day-4c1a87cad284?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*w9z9Ka_S63JR-Uuy\" width=\"3840\" /></a></p><p class=\"medium-feed-snippet\">Tweeting my way to payday&#x200a;&#x2014;&#x200a;characters matter more than you think.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@AmandaMichelle12/this-is-how-i-use-twitter-x-to-make-53-47-per-day-4c1a87cad284?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@AmandaMichelle12/this-is-how-i-use-twitter-x-to-make-53-47-per-day-4c1a87cad284?source=rss------xss-5",
+        "published": "Thu, 19 Sep 2024 10:01:43 GMT"
+    },
+    {
+        "title": "\u3010\u6700\u65b0\u3011Twitter\u52d5\u753b\u4fdd\u5b58\u30e9\u30f3\u30ad\u30f3\u30b0Top10\uff0124\u6642\u9593/\u9031\u9593/\u6708\u9593\u3067\u4eba\u6c17\u306e\u52d5\u753b\u3092\u7c21\u5358\u306b\u78ba\u8a8d\uff01",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Twitter&#x3067;&#x8a71;&#x984c;&#x306e;&#x4eba;&#x6c17;&#x52d5;&#x753b;&#x3092;&#x63a2;&#x3057;&#x3066;&#x3044;&#x307e;&#x3059;&#x304b;&#xff1f;&#x3053;&#x306e;&#x8a18;&#x4e8b;&#x3067;&#x306f;&#x3001;Twitter&#x52d5;&#x753b;&#x4fdd;&#x5b58;&#x30e9;&#x30f3;&#x30ad;&#x30f3;&#x30b0;Top10&#x30b5;&#x30a4;&#x30c8;&#x3092;&#x53b3;&#x9078;&#x3057;&#x3066;&#x7d39;&#x4ecb;&#x3057;&#x307e;&#x3059;&#x3002;monsnode&#x3001;twihozon&#x3001;monstics&#x3001;Twivideo&#x3001;twiigle&#x3001;Twitter&#x52d5;&#x753b;&#x4fdd;&#x7ba1;&#x5eab;&#x3001;&#x30c4;&#x30a4;&#x30d5;&#x30ea;&#x30c3;&#x30af;&#x30b9;&#x306a;&#x3069;&#x306e;&#x30b5;&#x30a4;&#x30c8;&#x306f;&#x3001;&#x30ea;&#x30a2;&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@TybaltKihm/%E6%9C%80%E6%96%B0-twitter%E5%8B%95%E7%94%BB%E4%BF%9D%E5%AD%98%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0top10-24%E6%99%82%E9%96%93-%E9%80%B1%E9%96%93-%E6%9C%88%E9%96%93%E3%81%A7%E4%BA%BA%E6%B0%97%E3%81%AE%E5%8B%95%E7%94%BB%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E7%A2%BA%E8%AA%8D-d522de8f58f4?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@TybaltKihm/%E6%9C%80%E6%96%B0-twitter%E5%8B%95%E7%94%BB%E4%BF%9D%E5%AD%98%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0top10-24%E6%99%82%E9%96%93-%E9%80%B1%E9%96%93-%E6%9C%88%E9%96%93%E3%81%A7%E4%BA%BA%E6%B0%97%E3%81%AE%E5%8B%95%E7%94%BB%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E7%A2%BA%E8%AA%8D-d522de8f58f4?source=rss------xss-5",
+        "published": "Thu, 19 Sep 2024 06:21:19 GMT"
+    },
+    {
+        "title": "How Many Posts and Accounts to Trend on Twitter",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kiksee.com/how-many-posts-and-accounts-to-trend-on-twitter-394d25351eae?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/750/0*PeXP2pVxmhNR9jRF.jpg\" width=\"750\" /></a></p><p class=\"medium-feed-snippet\">Find out how many tweets and accounts are needed to make your topic trend on Twitter.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kiksee.com/how-many-posts-and-accounts-to-trend-on-twitter-394d25351eae?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kiksee.com/how-many-posts-and-accounts-to-trend-on-twitter-394d25351eae?source=rss------xss-5",
+        "published": "Wed, 18 Sep 2024 19:49:52 GMT"
+    },
+    {
+        "title": "Mass Unfollow Twitter / X Accounts: The Best 7 Apps and Tools",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@altugaltug/mass-unfollow-twitter-x-accounts-the-best-7-apps-and-tools-ce29dc5e7559?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/2240/1*58tEcpwIJ8mbUTSFNzkE4g.jpeg\" width=\"2240\" /></a></p><p class=\"medium-feed-snippet\">Let&#x2019;s say you want to unfollow 5,000 Twitter accounts quickly and all at once, but you&#x2019;re not sure how to do it. Or maybe you want to find&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@altugaltug/mass-unfollow-twitter-x-accounts-the-best-7-apps-and-tools-ce29dc5e7559?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@altugaltug/mass-unfollow-twitter-x-accounts-the-best-7-apps-and-tools-ce29dc5e7559?source=rss------xss-5",
+        "published": "Wed, 18 Sep 2024 14:06:24 GMT"
+    },
+    {
+        "title": "FortiAnalyzer: A\u011f G\u00fcvenli\u011finizi Geli\u015ftirmek \u0130\u00e7in Anahtar \u00d6zellikler ve Kavramlar",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Siber g&#xfc;venlik alan&#x131;nda, a&#x11f; &#xfc;zerindeki tehditleri h&#x131;zl&#x131; bir &#x15f;ekilde tespit etmek ve bunlara etkin bir &#x15f;ekilde yan&#x131;t vermek kritik &#xf6;neme&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ceaynurbalci/fortianalyzer-a%C4%9F-g%C3%BCvenli%C4%9Finizi-geli%C5%9Ftirmek-i%CC%87%C3%A7in-anahtar-%C3%B6zellikler-ve-kavramlar-2ae8735e53b5?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ceaynurbalci/fortianalyzer-a%C4%9F-g%C3%BCvenli%C4%9Finizi-geli%C5%9Ftirmek-i%CC%87%C3%A7in-anahtar-%C3%B6zellikler-ve-kavramlar-2ae8735e53b5?source=rss------cybersecurity-5",
+        "published": "Sat, 21 Sep 2024 18:23:29 GMT"
+    },
+    {
+        "title": "Exploring the Top 10 Careers in Computer Science",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@masoomab4u/exploring-the-top-10-careers-in-computer-science-35ecf910f29e?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*EqwJngt0iBOh3uHn.jpg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">by Dear Teacher</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@masoomab4u/exploring-the-top-10-careers-in-computer-science-35ecf910f29e?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@masoomab4u/exploring-the-top-10-careers-in-computer-science-35ecf910f29e?source=rss------cybersecurity-5",
+        "published": "Sat, 21 Sep 2024 18:22:50 GMT"
+    },
+    {
+        "title": "Five Essential Cybersecurity Practices to Secure Your Smartphone",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://fizaghaffar.medium.com/five-essential-cybersecurity-practices-to-secure-your-smartphone-4c6ff092d3d6?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*rPLmzzXkHBDmTORs\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">You are a smartphone user. Aren&#x2019;t you? How will you feel upon being told that your smartphone is not as secure as you may think it is&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://fizaghaffar.medium.com/five-essential-cybersecurity-practices-to-secure-your-smartphone-4c6ff092d3d6?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://fizaghaffar.medium.com/five-essential-cybersecurity-practices-to-secure-your-smartphone-4c6ff092d3d6?source=rss------cybersecurity-5",
+        "published": "Sat, 21 Sep 2024 18:16:58 GMT"
+    },
+    {
+        "title": "8240568678//Pcfin cease terminated Customer Care Number//8240568678//8240568678//Pcfin cease\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://medium.com/@xabefiwellorgcom/8240568678-pcfin-cease-terminated-customer-care-number-8240568678-8240568678-pcfin-cease-65adef78e24b?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@xabefiwellorgcom/8240568678-pcfin-cease-terminated-customer-care-number-8240568678-8240568678-pcfin-cease-65adef78e24b?source=rss------cybersecurity-5",
+        "published": "Sat, 21 Sep 2024 18:14:49 GMT"
+    },
+    {
+        "title": "8240568678//Pcfin cease terminated Customer Care Number//8240568678//8240568678//Pcfin cease\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://medium.com/@xabefiwellorgcom/8240568678-pcfin-cease-terminated-customer-care-number-8240568678-8240568678-pcfin-cease-e6e6f0a9ef8d?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@xabefiwellorgcom/8240568678-pcfin-cease-terminated-customer-care-number-8240568678-8240568678-pcfin-cease-e6e6f0a9ef8d?source=rss------cybersecurity-5",
+        "published": "Sat, 21 Sep 2024 18:14:28 GMT"
+    },
+    {
+        "title": "G\u00fcvenlik Operasyon Merkezi (SOC) ve \u00d6nemi",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Bu yaz&#x131;da, G&#xfc;venlik Operasyon Merkezi (SOC) kavram&#x131;n&#x131;, bir organizasyon i&#xe7;in &#xf6;nemini, i&#xe7;erdi&#x11f;i rolleri ve a&#x11f;&#x131;n&#x131;z&#x131; koruma konusunda nas&#x131;l&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ceaynurbalci/g%C3%BCvenlik-operasyon-merkezi-soc-ve-%C3%B6nemi-c254745ff636?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ceaynurbalci/g%C3%BCvenlik-operasyon-merkezi-soc-ve-%C3%B6nemi-c254745ff636?source=rss------cybersecurity-5",
+        "published": "Sat, 21 Sep 2024 18:14:20 GMT"
+    },
+    {
+        "title": "Day 21 of 30 Days MyDFIR SOC Analyst Challenge",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@j.e.v.e.ldu/day-21-of-30-days-mydfir-soc-analyst-challenge-6aef6d1ddecd?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/608/1*uRAKD02HrFeR8j6eKd9q2w.png\" width=\"608\" /></a></p><p class=\"medium-feed-snippet\">MyDFIR video as reference:</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@j.e.v.e.ldu/day-21-of-30-days-mydfir-soc-analyst-challenge-6aef6d1ddecd?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@j.e.v.e.ldu/day-21-of-30-days-mydfir-soc-analyst-challenge-6aef6d1ddecd?source=rss------cybersecurity-5",
+        "published": "Sat, 21 Sep 2024 18:13:41 GMT"
+    },
+    {
+        "title": "What is DNS enumeration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Ekenejoseph/what-is-dns-enumeration-078b25cb8733?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/960/1*NeIoWiW9Kb-1CF8waXY4pw.png\" width=\"960\" /></a></p><p class=\"medium-feed-snippet\">DNS enumeration is the process of collecting information about a domain and its associated infrastructure by querying the Domain Name&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Ekenejoseph/what-is-dns-enumeration-078b25cb8733?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Ekenejoseph/what-is-dns-enumeration-078b25cb8733?source=rss------cybersecurity-5",
+        "published": "Sat, 21 Sep 2024 18:09:42 GMT"
+    },
+    {
+        "title": "Is Your Family Safe Online? The Hidden Cyber Risks You\u2019re Overlooking\u200a\u2014\u200aHow Then",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Abmerz/is-your-family-safe-online-the-hidden-cyber-risks-youre-overlooking-how-then-324469db3724?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/665/0*kGIrK0vDPFDAAzaG.png\" width=\"665\" /></a></p><p class=\"medium-feed-snippet\">So, how can you be sure that your family is safe online? The truth is, most of us are overlooking subtle but significant threats. Here&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Abmerz/is-your-family-safe-online-the-hidden-cyber-risks-youre-overlooking-how-then-324469db3724?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Abmerz/is-your-family-safe-online-the-hidden-cyber-risks-youre-overlooking-how-then-324469db3724?source=rss------cybersecurity-5",
+        "published": "Sat, 21 Sep 2024 18:02:58 GMT"
+    },
+    {
+        "title": "Ai in reverse engineering",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Ekenejoseph/ai-in-reverse-engineering-b52f0f71a801?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*xTKoxsbkFM5-lHpJbacwZQ.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">AI has become a crucial tool in malware analysis, enhancing the ability to detect, analyze, and mitigate malicious software. Here are some&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Ekenejoseph/ai-in-reverse-engineering-b52f0f71a801?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Ekenejoseph/ai-in-reverse-engineering-b52f0f71a801?source=rss------cybersecurity-5",
+        "published": "Sat, 21 Sep 2024 17:58:44 GMT"
+    },
+    {
+        "title": "You only need this Python Websocket turtorial to start build you event-driven backend",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://funnymous43.medium.com/you-only-need-this-python-websocket-turtorial-to-start-build-you-event-driven-backend-15236fabed22?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://funnymous43.medium.com/you-only-need-this-python-websocket-turtorial-to-start-build-you-event-driven-backend-15236fabed22?source=rss------python-5",
+        "published": "Sat, 21 Sep 2024 18:28:17 GMT"
+    },
+    {
+        "title": "What are the best programming interview questions you\u2019ve ever asked or been asked?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://victoriamills.medium.com/what-are-the-best-programming-interview-questions-youve-ever-asked-or-been-asked-5c391977d0c8?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/700/1*nDz6PsT8i5a-_BgaeqN5jg.png\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">Programming Interview Questions</p><p class=\"medium-feed-link\"><a href=\"https://victoriamills.medium.com/what-are-the-best-programming-interview-questions-youve-ever-asked-or-been-asked-5c391977d0c8?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://victoriamills.medium.com/what-are-the-best-programming-interview-questions-youve-ever-asked-or-been-asked-5c391977d0c8?source=rss------python-5",
+        "published": "Sat, 21 Sep 2024 18:18:48 GMT"
+    },
+    {
+        "title": "Membuat Gambar Acak dengan Python",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://imadehermanto.medium.com/membuat-gambar-banner-acak-dengan-python-010be472d16b?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*02fywQZgP_3ro-3Axvbvzg.png\" width=\"6912\" /></a></p><p class=\"medium-feed-snippet\">Dalam tutorial ini, kita akan belajar cara menghasilkan gambar acak menggunakan Python dan pustaka Pillow (PIL).</p><p class=\"medium-feed-link\"><a href=\"https://imadehermanto.medium.com/membuat-gambar-banner-acak-dengan-python-010be472d16b?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://imadehermanto.medium.com/membuat-gambar-banner-acak-dengan-python-010be472d16b?source=rss------python-5",
+        "published": "Sat, 21 Sep 2024 18:11:44 GMT"
+    },
+    {
+        "title": "Programming: A Heavily Paid Job",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@msinha.2022/sure-heres-the-complete-write-up-with-a-concluding-sentence-4f015fcde2e9?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/694/1*N0-0R7ZpNxs04aHJA4LOwA.png\" width=\"694\" /></a></p><p class=\"medium-feed-snippet\">Programming is a language that is completely understood by a computer, and programming is writing codes and instructions that are&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@msinha.2022/sure-heres-the-complete-write-up-with-a-concluding-sentence-4f015fcde2e9?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@msinha.2022/sure-heres-the-complete-write-up-with-a-concluding-sentence-4f015fcde2e9?source=rss------python-5",
+        "published": "Sat, 21 Sep 2024 18:09:06 GMT"
+    },
+    {
+        "title": "\ud5cc\ubc95\uc7ac\ud310\uad00 \uccad\ubb38\ud68c \uba85\ud488\uac00\ubc29 \ub17c\ub780 \ud3ed\ubc1c!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://frowth.medium.com/%ED%97%8C%EB%B2%95%EC%9E%AC%ED%8C%90%EA%B4%80-%EC%B2%AD%EB%AC%B8%ED%9A%8C-%EB%AA%85%ED%92%88%EA%B0%80%EB%B0%A9-%EB%85%BC%EB%9E%80-%ED%8F%AD%EB%B0%9C-4f6178e61c56?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://frowth.medium.com/%ED%97%8C%EB%B2%95%EC%9E%AC%ED%8C%90%EA%B4%80-%EC%B2%AD%EB%AC%B8%ED%9A%8C-%EB%AA%85%ED%92%88%EA%B0%80%EB%B0%A9-%EB%85%BC%EB%9E%80-%ED%8F%AD%EB%B0%9C-4f6178e61c56?source=rss------python-5",
+        "published": "Sat, 21 Sep 2024 18:07:40 GMT"
+    },
+    {
+        "title": "Which programming languages are in highest demand? Why?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://victoriamills.medium.com/which-programming-languages-are-in-highest-demand-why-3c0150b0eddf?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2560/1*V5dMI_4XeDgmtKPNDl8XSA.png\" width=\"2560\" /></a></p><p class=\"medium-feed-snippet\">The programming languages in highest demand vary depending on the industry, location, and job requirements. However, based on the current&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://victoriamills.medium.com/which-programming-languages-are-in-highest-demand-why-3c0150b0eddf?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://victoriamills.medium.com/which-programming-languages-are-in-highest-demand-why-3c0150b0eddf?source=rss------python-5",
+        "published": "Sat, 21 Sep 2024 17:56:15 GMT"
+    },
+    {
+        "title": "PyGWalker: Revolutionizing Data Exploration in Python with Interactive Visuals",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://hmix13.medium.com/pygwalker-revolutionizing-data-exploration-in-python-with-interactive-visuals-267ca6594d92?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1058/1*q4cH3eavqxh1g9Iqv7xPoA.png\" width=\"1058\" /></a></p><p class=\"medium-feed-snippet\">Interactive Data Exploration Made Effortless Using PyGWalker and Pandas</p><p class=\"medium-feed-link\"><a href=\"https://hmix13.medium.com/pygwalker-revolutionizing-data-exploration-in-python-with-interactive-visuals-267ca6594d92?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://hmix13.medium.com/pygwalker-revolutionizing-data-exploration-in-python-with-interactive-visuals-267ca6594d92?source=rss------python-5",
+        "published": "Sat, 21 Sep 2024 17:54:39 GMT"
+    },
+    {
+        "title": "Python Lists",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Hey there, Python enthusiasts! Today, we&#x2019;re diving into one of the most versatile and commonly used data structures in Python: lists&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@lukeskybecker90/python-list-da6129d89f14?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@lukeskybecker90/python-list-da6129d89f14?source=rss------python-5",
+        "published": "Sat, 21 Sep 2024 17:43:09 GMT"
+    },
+    {
+        "title": "Decision Tree\u200a\u2014\u200aImplementasi Decision Tree dalam Klasifikasi Gaji",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mikaelsilvano04/decision-tree-implementasi-decision-tree-dalam-klasifikasi-gaji-d93169bf7b81?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1600/0*pP2g4bvm1clxF3S8\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">Artikel ini merupakan refleksi perkuliahan Pengantar Data Science di Universitas Pelita Harapan. Analisis ini dikerjakan oleh Annabel&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mikaelsilvano04/decision-tree-implementasi-decision-tree-dalam-klasifikasi-gaji-d93169bf7b81?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mikaelsilvano04/decision-tree-implementasi-decision-tree-dalam-klasifikasi-gaji-d93169bf7b81?source=rss------python-5",
+        "published": "Sat, 21 Sep 2024 17:11:39 GMT"
+    },
+    {
+        "title": "wtecno cuidadopersonal",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://medium.com/@walterdelujan/wtecno-cuidadopersonal-63b360afa692?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@walterdelujan/wtecno-cuidadopersonal-63b360afa692?source=rss------python-5",
+        "published": "Sat, 21 Sep 2024 17:01:05 GMT"
+    },
+    {
+        "title": "500$: Open Redirect Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@a13h1/500-open-redirect-vulnerability-9cc9fd4d9b7b?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*VLKRco0NhNXXlpNFV5f-kQ.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Hello Everyone, I&#x2019;m excited to share my latest discovery in huliaHub&#x2019;s authentication mechanism. Recently, I uncovered a critical&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@a13h1/500-open-redirect-vulnerability-9cc9fd4d9b7b?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@a13h1/500-open-redirect-vulnerability-9cc9fd4d9b7b?source=rss------infosec-5",
+        "published": "Sat, 21 Sep 2024 13:02:55 GMT"
+    },
+    {
+        "title": "Uncovering ICICI Bank Phishing Campaign: New Fraud App Found",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://rakeshkrish.medium.com/uncovering-icici-bank-phishing-campaign-new-fraud-app-found-4f1088c0564d?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1856/1*V3BAFl5qtYIjXye6p02YVg.png\" width=\"1856\" /></a></p><p class=\"medium-feed-snippet\">Today, during my Research, I came across a malicious host which mimics ICICI Bank and also uncovered a Malicious App which is disguised as&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://rakeshkrish.medium.com/uncovering-icici-bank-phishing-campaign-new-fraud-app-found-4f1088c0564d?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://rakeshkrish.medium.com/uncovering-icici-bank-phishing-campaign-new-fraud-app-found-4f1088c0564d?source=rss------infosec-5",
+        "published": "Sat, 21 Sep 2024 08:57:51 GMT"
+    },
+    {
+        "title": "Buying & Spying\u00a0: Inside the World of Commercial Surveillance",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@subhajitsaha0x/buying-spying-inside-the-world-of-commercial-surveillance-82e0cc612e23?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/700/1*cF9R9l8SjcwcPOXQ-OEeQw.jpeg\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">Modern Times my friend&#xa0;!!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@subhajitsaha0x/buying-spying-inside-the-world-of-commercial-surveillance-82e0cc612e23?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@subhajitsaha0x/buying-spying-inside-the-world-of-commercial-surveillance-82e0cc612e23?source=rss------infosec-5",
+        "published": "Sat, 21 Sep 2024 05:45:35 GMT"
+    },
+    {
+        "title": "The Windows Security Journey\u200a\u2014\u200aDifferences between \u201cWDAC\u201d and \u201cAppLocker\u201d",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@boutnaru/the-windows-security-journey-differences-between-wdac-and-applocker-211e9f991e0f?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/740/0*f_3W60YL1-dj3TXt\" width=\"740\" /></a></p><p class=\"medium-feed-snippet\">In general, both AppLocker (https://medium.com/@boutnaru/the-windows-security-journey-applocker-application-locking-b9547fb9cbbd) and WDAC&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@boutnaru/the-windows-security-journey-differences-between-wdac-and-applocker-211e9f991e0f?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@boutnaru/the-windows-security-journey-differences-between-wdac-and-applocker-211e9f991e0f?source=rss------infosec-5",
+        "published": "Sat, 21 Sep 2024 04:55:03 GMT"
+    },
+    {
+        "title": "Critical Ivanti Cloud Appliance Flaw Actively Exploited in Cyberattacks",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@navedsaxena16/critical-ivanti-cloud-appliance-flaw-actively-exploited-in-cyberattacks-5a36bbf7d4f9?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@navedsaxena16/critical-ivanti-cloud-appliance-flaw-actively-exploited-in-cyberattacks-5a36bbf7d4f9?source=rss------infosec-5",
+        "published": "Fri, 20 Sep 2024 14:28:44 GMT"
+    },
+    {
+        "title": "Cyber Briefing: 2024.09.20",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://cybermaterial.medium.com/cyber-briefing-2024-09-20-ddbdf035bfb1?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/700/1*Y9OVbKYxQozIwZ4zwxedCQ.jpeg\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">&#x1f449; What are the latest cybersecurity alerts, incidents, and news?</p><p class=\"medium-feed-link\"><a href=\"https://cybermaterial.medium.com/cyber-briefing-2024-09-20-ddbdf035bfb1?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://cybermaterial.medium.com/cyber-briefing-2024-09-20-ddbdf035bfb1?source=rss------infosec-5",
+        "published": "Fri, 20 Sep 2024 14:04:01 GMT"
+    },
+    {
+        "title": "Cracks in the Onion: How German Law Enforcement is Piercing Tor\u2019s Anonymity",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://intarmour.medium.com/cracks-in-the-onion-how-german-law-enforcement-is-piercing-tors-anonymity-25e25bfacc7d?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*L4WPkhL8a-WnyMY3APfVxg.png\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">The Tor network, which has long been considered a beacon of privacy and anonymity for its users, is now facing serious scrutiny. Recent&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://intarmour.medium.com/cracks-in-the-onion-how-german-law-enforcement-is-piercing-tors-anonymity-25e25bfacc7d?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://intarmour.medium.com/cracks-in-the-onion-how-german-law-enforcement-is-piercing-tors-anonymity-25e25bfacc7d?source=rss------infosec-5",
+        "published": "Fri, 20 Sep 2024 11:01:00 GMT"
+    },
+    {
+        "title": "How to Perform Reverse DNS Lookups Using Python",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/how-to-perform-reverse-dns-lookups-using-python-7831e1c064d5?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1075/1*5-pJBOILI4Fdr2W7WoD7hA.jpeg\" width=\"1075\" /></a></p><p class=\"medium-feed-snippet\">Learn how to perform reverse DNS lookups and find other websites hosted on the same server using Python and the ViewDNS API.</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/how-to-perform-reverse-dns-lookups-using-python-7831e1c064d5?source=rss------infosec-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/how-to-perform-reverse-dns-lookups-using-python-7831e1c064d5?source=rss------infosec-5",
+        "published": "Fri, 20 Sep 2024 08:54:34 GMT"
+    },
+    {
+        "title": "URGENT WARNING: Elasticsearch Configuration Vulnerability Leads to Global Data Leakage, Governments\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@zoomeye_team/urgent-warning-elasticsearch-configuration-vulnerability-leads-to-global-data-leakage-governments-fb44bce18f0f?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1056/1*9lQj-sLSxlRg9-TTJGvg9w.png\" width=\"1056\" /></a></p><p class=\"medium-feed-snippet\">Introduction:</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@zoomeye_team/urgent-warning-elasticsearch-configuration-vulnerability-leads-to-global-data-leakage-governments-fb44bce18f0f?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@zoomeye_team/urgent-warning-elasticsearch-configuration-vulnerability-leads-to-global-data-leakage-governments-fb44bce18f0f?source=rss------infosec-5",
+        "published": "Fri, 20 Sep 2024 08:47:37 GMT"
+    },
+    {
+        "title": "The Windows Security Journey\u200a\u2014\u200aControlled Folder Access",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@boutnaru/the-windows-security-journey-controlled-folder-access-d9972de1b9ea?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1207/0*3YTfUn-yBhCdpjEM\" width=\"1207\" /></a></p><p class=\"medium-feed-snippet\">&#x201c;Controlled Folder Access&#x201d; is a ransomware protection feature included as part of the Windows operating system (since Windows 10). It is&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@boutnaru/the-windows-security-journey-controlled-folder-access-d9972de1b9ea?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@boutnaru/the-windows-security-journey-controlled-folder-access-d9972de1b9ea?source=rss------infosec-5",
+        "published": "Fri, 20 Sep 2024 06:37:04 GMT"
+    }
+]
