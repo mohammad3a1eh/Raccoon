@@ -84,7 +84,7 @@ async def main():
         print(f"RSS feed for tag: {tag}")
         for entry in rss_feed.entries:
             
-            time.sleep(8)
+            time.sleep(10)
             
             post = {
                 "title" : f"{entry.title}",
