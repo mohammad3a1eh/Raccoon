@@ -268,5 +268,131 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@boutnaru/the-windows-security-journey-controlled-folder-access-d9972de1b9ea?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1207/0*3YTfUn-yBhCdpjEM\" width=\"1207\" /></a></p><p class=\"medium-feed-snippet\">&#x201c;Controlled Folder Access&#x201d; is a ransomware protection feature included as part of the Windows operating system (since Windows 10). It is&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@boutnaru/the-windows-security-journey-controlled-folder-access-d9972de1b9ea?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@boutnaru/the-windows-security-journey-controlled-folder-access-d9972de1b9ea?source=rss------infosec-5",
         "published": "Fri, 20 Sep 2024 06:37:04 GMT"
+    },
+    {
+        "title": "Shadows in Rust: Crafting Advanced Windows Malware",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://sid4hack.medium.com/shadows-in-rust-crafting-advanced-windows-malware-8db52c009fdb?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/0*epO-mHhqFdt1tX0c\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">&#x201c;How Rust is Revolutionizing Malware Development and Evasion Techniques&#x201d;</p><p class=\"medium-feed-link\"><a href=\"https://sid4hack.medium.com/shadows-in-rust-crafting-advanced-windows-malware-8db52c009fdb?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://sid4hack.medium.com/shadows-in-rust-crafting-advanced-windows-malware-8db52c009fdb?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:15:37 GMT"
+    },
+    {
+        "title": "Cybersecurity in the Age of IoT and AIoT: Why Maxwell Drake\u2019s Latest Book is a Must-Read for\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@costigermano/cybersecurity-in-the-age-of-iot-and-aiot-why-maxwell-drakes-latest-book-is-a-must-read-for-da615fd88f80?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*CgFC_E1dvOeamoLsvo9ymQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">In today&#x2019;s hyper-connected world, where the Internet of Things (IoT) and the Artificial Intelligence of Things (AIoT) are becoming the&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@costigermano/cybersecurity-in-the-age-of-iot-and-aiot-why-maxwell-drakes-latest-book-is-a-must-read-for-da615fd88f80?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@costigermano/cybersecurity-in-the-age-of-iot-and-aiot-why-maxwell-drakes-latest-book-is-a-must-read-for-da615fd88f80?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:12:27 GMT"
+    },
+    {
+        "title": "Python\u2019s Cyber Sentinels: 10 Magical Scripts to Fortify Your Web Castle",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*W409UzzNziPuC5H5l4aN2Q.png\" width=\"6342\" /></a></p><p class=\"medium-feed-snippet\">In the vast realm of the internet, your website stands as a digital castle, a beacon of your online presence. But beware! The cyber seas&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:07:35 GMT"
+    },
+    {
+        "title": "Man-in-the-Middle Attacks explained",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@minahilamer23/man-in-the-middle-attacks-explained-23181c881d3f?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*kivllo90DrNjOuf8eH12DQ.jpeg\" width=\"6124\" /></a></p><p class=\"medium-feed-snippet\">The MitM attack is a very sneaky type of cyber intrusion in which the attacker puts him/herself between two communicating parties for&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@minahilamer23/man-in-the-middle-attacks-explained-23181c881d3f?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@minahilamer23/man-in-the-middle-attacks-explained-23181c881d3f?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:03:08 GMT"
+    },
+    {
+        "title": "DHCP Starvation attack",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/dhcp-starvation-attack-8125f291bd30?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/700/0*0DrNvtRuKAylXeo-.png\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">Today, we are going to implement a DHCP starvation attack, which is a Denial of Service (DoS) attack targeting the DHCP service. The DHCP&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/dhcp-starvation-attack-8125f291bd30?source=rss------cybersecurity-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/dhcp-starvation-attack-8125f291bd30?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:02:26 GMT"
+    },
+    {
+        "title": "Bash Script for Red Team USB Drop Attack Simulation",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/aardvark-infinity/bash-script-for-red-team-usb-drop-attack-simulation-98acc77fe250?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*24Ge0apPzIaD-1w1\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Title: Red Team USB Drop Attack Simulation Script</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/aardvark-infinity/bash-script-for-red-team-usb-drop-attack-simulation-98acc77fe250?source=rss------cybersecurity-5\">Continue reading on Aardvark Infinity \u00bb</a></p></div>",
+        "link": "https://medium.com/aardvark-infinity/bash-script-for-red-team-usb-drop-attack-simulation-98acc77fe250?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:02:07 GMT"
+    },
+    {
+        "title": "Cyber Security Advance courses list for hacking, penetration testing, soc analyst, security\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">best sans courses for penetration testing</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@khambrotech/cyber-security-advance-courses-list-for-hacking-penetration-testing-soc-analyst-security-70cb7d9f71fc?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@khambrotech/cyber-security-advance-courses-list-for-hacking-penetration-testing-soc-analyst-security-70cb7d9f71fc?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 07:56:24 GMT"
+    },
+    {
+        "title": "Digital dictatorships",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anasali_15197/digital-dictatorships-a07b7da202e8?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/736/1*OGghrb0TlnKF1p7VaQ4ehw.jpeg\" width=\"736\" /></a></p><p class=\"medium-feed-snippet\">AI often frightens people</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anasali_15197/digital-dictatorships-a07b7da202e8?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anasali_15197/digital-dictatorships-a07b7da202e8?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 07:55:55 GMT"
+    },
+    {
+        "title": "SSL/TLS explained.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@minahilamer23/ssl-tls-explained-b55298c65a7a?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*D047iuSW2Fj_WrwAzehiog.jpeg\" width=\"5824\" /></a></p><p class=\"medium-feed-snippet\">SSL/TLS is the cryptographic protocol designed to ensure that information such as passwords and credit card numbers is moved safely across&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@minahilamer23/ssl-tls-explained-b55298c65a7a?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@minahilamer23/ssl-tls-explained-b55298c65a7a?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 07:48:45 GMT"
+    },
+    {
+        "title": "The Future of Online Safety: What You Need to Know",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://muhammadimran194p.medium.com/the-future-of-online-safety-what-you-need-to-know-805af54db123?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/640/0*LTcuxvVCMZo1wLj2.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">As our lives increasingly move into the digital realm, the importance of online safety has never been more pressing. With rapid&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://muhammadimran194p.medium.com/the-future-of-online-safety-what-you-need-to-know-805af54db123?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://muhammadimran194p.medium.com/the-future-of-online-safety-what-you-need-to-know-805af54db123?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 07:47:39 GMT"
+    },
+    {
+        "title": "Using boto3 with Python to work with AWS\u200a\u2014\u200aBuckets",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Hello folks I am studying for become Data Engineer, and in this road I needed to use some functions of AWS with python like connect with&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@felipe00/using-boto3-with-python-to-work-with-aws-buckets-ac04f8a4db43?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@felipe00/using-boto3-with-python-to-work-with-aws-buckets-ac04f8a4db43?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 08:12:47 GMT"
+    },
+    {
+        "title": "\ubcc0\ud654 \uc774\uc288 \ub2f9\uc2e0\uc758 \uc120\ud0dd \uc2e0\uc138\uacc4\uac00 \uc5f4\ub9ac\ub294 \uc21c\uac04!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://frowth.medium.com/%EB%B3%80%ED%99%94-%EC%9D%B4%EC%8A%88-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%84%A0%ED%83%9D-%EC%8B%A0%EC%84%B8%EA%B3%84%EA%B0%80-%EC%97%B4%EB%A6%AC%EB%8A%94-%EC%88%9C%EA%B0%84-70dc14b35718?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://frowth.medium.com/%EB%B3%80%ED%99%94-%EC%9D%B4%EC%8A%88-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%84%A0%ED%83%9D-%EC%8B%A0%EC%84%B8%EA%B3%84%EA%B0%80-%EC%97%B4%EB%A6%AC%EB%8A%94-%EC%88%9C%EA%B0%84-70dc14b35718?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 08:11:13 GMT"
+    },
+    {
+        "title": "Python\u2019s Cyber Sentinels: 10 Magical Scripts to Fortify Your Web Castle",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*W409UzzNziPuC5H5l4aN2Q.png\" width=\"6342\" /></a></p><p class=\"medium-feed-snippet\">In the vast realm of the internet, your website stands as a digital castle, a beacon of your online presence. But beware! The cyber seas&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 08:07:35 GMT"
+    },
+    {
+        "title": "Python\u200a\u2014\u200aNested IF",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@figojulioez/python-nested-if-6dbc50faa79c?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/700/0*LEImUyyk-dd4uPDa.png\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">A. Pengenalan Python</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@figojulioez/python-nested-if-6dbc50faa79c?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@figojulioez/python-nested-if-6dbc50faa79c?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:58:07 GMT"
+    },
+    {
+        "title": "Mojo E3\u200a\u2014\u200aLinear Regression in Mojo: Benchmarking Against Python",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@furcifer/mojo-e3-linear-regression-in-mojo-benchmarking-against-python-d97494b230a6?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1377/1*qFDX_hJSBxNX22hqdpFDtA.png\" width=\"1377\" /></a></p><p class=\"medium-feed-snippet\">Machine learning is all about speed and efficiency, especially when you&#x2019;re working with massive datasets. Linear regression, though basic&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@furcifer/mojo-e3-linear-regression-in-mojo-benchmarking-against-python-d97494b230a6?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@furcifer/mojo-e3-linear-regression-in-mojo-benchmarking-against-python-d97494b230a6?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:52:13 GMT"
+    },
+    {
+        "title": "Mastering Risk Management Techniques in Crypto Trading",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@xmxdfvr/mastering-risk-management-techniques-in-crypto-trading-d2c1a2856ac7?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*GH9Loq8C6Na48TNVvN652w@2x.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@xmxdfvr/mastering-risk-management-techniques-in-crypto-trading-d2c1a2856ac7?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@xmxdfvr/mastering-risk-management-techniques-in-crypto-trading-d2c1a2856ac7?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:49:11 GMT"
+    },
+    {
+        "title": "Connecting Microsoft SQL Server & PostgreSQL with FastAPI and SQLAlchemy: Read from One, Write to\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Introduction:</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dhruvahuja2330/connecting-microsoft-sql-server-postgresql-with-fastapi-and-sqlalchemy-read-from-one-write-to-ea8ca92c4b04?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dhruvahuja2330/connecting-microsoft-sql-server-postgresql-with-fastapi-and-sqlalchemy-read-from-one-write-to-ea8ca92c4b04?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:38:30 GMT"
+    },
+    {
+        "title": "The Comprehensive Guide to Sequential vs.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kinsg96sun/the-comprehensive-guide-to-sequential-vs-3d16cf05ceb4?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*0GKpbMxkDK5oxpJCeBtJ3w.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">In today&#x2019;s world of high-performance computing, efficiency and speed are paramount. Whether you&#x2019;re dealing with large-scale data&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kinsg96sun/the-comprehensive-guide-to-sequential-vs-3d16cf05ceb4?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kinsg96sun/the-comprehensive-guide-to-sequential-vs-3d16cf05ceb4?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:32:02 GMT"
+    },
+    {
+        "title": "In Python, partitioning data by specific columns (similar to the SQL PARTITION BY clause) can be\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@khushboo639147/in-python-partitioning-data-by-specific-columns-similar-to-the-sql-partition-by-clause-can-be-a746fbca75f0?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*BKZCFpWZrfcK03BMYXihhA.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">The shift() function is similar to SQL&apos;s LAG() and is used to access the previous row&apos;s value within a group, just as PARTITION BY does in&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@khushboo639147/in-python-partitioning-data-by-specific-columns-similar-to-the-sql-partition-by-clause-can-be-a746fbca75f0?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@khushboo639147/in-python-partitioning-data-by-specific-columns-similar-to-the-sql-partition-by-clause-can-be-a746fbca75f0?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:29:51 GMT"
+    },
+    {
+        "title": "Understanding Python\u2019s Global Interpreter Lock (GIL) and Its Impact on Concurrency",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/612/0*9-wYnV6JgILxZAF7\" width=\"612\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:25:47 GMT"
+    },
+    {
+        "title": "The Linux Concept Journey\u200a\u2014\u200a/etc/nologin",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">The goal of the &#x201c;/etc/nologin&#x201d; file is to disallow users from logging to a system and notify it will be unavailable for an extended period&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@boutnaru/the-linux-concept-journey-etc-nologin-2cb76d1b2031?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@boutnaru/the-linux-concept-journey-etc-nologin-2cb76d1b2031?source=rss------infosec-5",
+        "published": "Sun, 22 Sep 2024 04:07:03 GMT"
     }
 ]
