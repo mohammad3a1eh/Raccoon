@@ -3,7 +3,7 @@ name: RSS to Telegram
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 5 * * *'
 
 jobs:
   send_rss_to_telegram:
@@ -30,7 +30,7 @@ jobs:
         TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
         CHAT_ID: ${{ secrets.CHAT_ID }}
       run: |
-        python main.py --telegram_token $TELEGRAM_TOKEN --chat_id $CHAT_ID
+        python raccoon.py --telegram_token $TELEGRAM_TOKEN --chat_id $CHAT_ID
 
     - name: Commit and push changes
       run: |
