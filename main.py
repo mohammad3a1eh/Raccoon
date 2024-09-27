@@ -36,11 +36,16 @@ bot = telegram.Bot(token=telegram_token)
 
 
 tags = [
-    "idor",
-    "xss",
-    "cybersecurity",
-    "python",
-    "infosec"
+    "bug-bounty",
+    "hacking",
+    "bug-bounty-writeup",
+    "bugbounty-writeup",
+    "penetration-testing",
+    "hackerone",
+    "vulnerability",
+    "bugcrowd",
+    "bug-bounty-tips",
+    "bug-hunting"
 ]
 
 
@@ -131,6 +136,7 @@ async def main():
     await send_text_to_tel(f"Find {post_} post", chat_id)            
     await send_text_to_tel("End the process", chat_id)
 
-# اجرای برنامه
+
+
 if __name__ == "__main__":
     asyncio.run(main())
