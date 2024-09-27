@@ -268,5 +268,1091 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@boutnaru/the-windows-security-journey-controlled-folder-access-d9972de1b9ea?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1207/0*3YTfUn-yBhCdpjEM\" width=\"1207\" /></a></p><p class=\"medium-feed-snippet\">&#x201c;Controlled Folder Access&#x201d; is a ransomware protection feature included as part of the Windows operating system (since Windows 10). It is&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@boutnaru/the-windows-security-journey-controlled-folder-access-d9972de1b9ea?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@boutnaru/the-windows-security-journey-controlled-folder-access-d9972de1b9ea?source=rss------infosec-5",
         "published": "Fri, 20 Sep 2024 06:37:04 GMT"
+    },
+    {
+        "title": "Shadows in Rust: Crafting Advanced Windows Malware",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://sid4hack.medium.com/shadows-in-rust-crafting-advanced-windows-malware-8db52c009fdb?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/0*epO-mHhqFdt1tX0c\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">&#x201c;How Rust is Revolutionizing Malware Development and Evasion Techniques&#x201d;</p><p class=\"medium-feed-link\"><a href=\"https://sid4hack.medium.com/shadows-in-rust-crafting-advanced-windows-malware-8db52c009fdb?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://sid4hack.medium.com/shadows-in-rust-crafting-advanced-windows-malware-8db52c009fdb?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:15:37 GMT"
+    },
+    {
+        "title": "Cybersecurity in the Age of IoT and AIoT: Why Maxwell Drake\u2019s Latest Book is a Must-Read for\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@costigermano/cybersecurity-in-the-age-of-iot-and-aiot-why-maxwell-drakes-latest-book-is-a-must-read-for-da615fd88f80?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*CgFC_E1dvOeamoLsvo9ymQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">In today&#x2019;s hyper-connected world, where the Internet of Things (IoT) and the Artificial Intelligence of Things (AIoT) are becoming the&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@costigermano/cybersecurity-in-the-age-of-iot-and-aiot-why-maxwell-drakes-latest-book-is-a-must-read-for-da615fd88f80?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@costigermano/cybersecurity-in-the-age-of-iot-and-aiot-why-maxwell-drakes-latest-book-is-a-must-read-for-da615fd88f80?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:12:27 GMT"
+    },
+    {
+        "title": "Python\u2019s Cyber Sentinels: 10 Magical Scripts to Fortify Your Web Castle",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*W409UzzNziPuC5H5l4aN2Q.png\" width=\"6342\" /></a></p><p class=\"medium-feed-snippet\">In the vast realm of the internet, your website stands as a digital castle, a beacon of your online presence. But beware! The cyber seas&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:07:35 GMT"
+    },
+    {
+        "title": "Man-in-the-Middle Attacks explained",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@minahilamer23/man-in-the-middle-attacks-explained-23181c881d3f?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*kivllo90DrNjOuf8eH12DQ.jpeg\" width=\"6124\" /></a></p><p class=\"medium-feed-snippet\">The MitM attack is a very sneaky type of cyber intrusion in which the attacker puts him/herself between two communicating parties for&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@minahilamer23/man-in-the-middle-attacks-explained-23181c881d3f?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@minahilamer23/man-in-the-middle-attacks-explained-23181c881d3f?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:03:08 GMT"
+    },
+    {
+        "title": "DHCP Starvation attack",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/dhcp-starvation-attack-8125f291bd30?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/700/0*0DrNvtRuKAylXeo-.png\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">Today, we are going to implement a DHCP starvation attack, which is a Denial of Service (DoS) attack targeting the DHCP service. The DHCP&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/dhcp-starvation-attack-8125f291bd30?source=rss------cybersecurity-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/dhcp-starvation-attack-8125f291bd30?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:02:26 GMT"
+    },
+    {
+        "title": "Bash Script for Red Team USB Drop Attack Simulation",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/aardvark-infinity/bash-script-for-red-team-usb-drop-attack-simulation-98acc77fe250?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*24Ge0apPzIaD-1w1\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Title: Red Team USB Drop Attack Simulation Script</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/aardvark-infinity/bash-script-for-red-team-usb-drop-attack-simulation-98acc77fe250?source=rss------cybersecurity-5\">Continue reading on Aardvark Infinity \u00bb</a></p></div>",
+        "link": "https://medium.com/aardvark-infinity/bash-script-for-red-team-usb-drop-attack-simulation-98acc77fe250?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 08:02:07 GMT"
+    },
+    {
+        "title": "Cyber Security Advance courses list for hacking, penetration testing, soc analyst, security\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">best sans courses for penetration testing</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@khambrotech/cyber-security-advance-courses-list-for-hacking-penetration-testing-soc-analyst-security-70cb7d9f71fc?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@khambrotech/cyber-security-advance-courses-list-for-hacking-penetration-testing-soc-analyst-security-70cb7d9f71fc?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 07:56:24 GMT"
+    },
+    {
+        "title": "Digital dictatorships",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anasali_15197/digital-dictatorships-a07b7da202e8?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/736/1*OGghrb0TlnKF1p7VaQ4ehw.jpeg\" width=\"736\" /></a></p><p class=\"medium-feed-snippet\">AI often frightens people</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anasali_15197/digital-dictatorships-a07b7da202e8?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anasali_15197/digital-dictatorships-a07b7da202e8?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 07:55:55 GMT"
+    },
+    {
+        "title": "SSL/TLS explained.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@minahilamer23/ssl-tls-explained-b55298c65a7a?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*D047iuSW2Fj_WrwAzehiog.jpeg\" width=\"5824\" /></a></p><p class=\"medium-feed-snippet\">SSL/TLS is the cryptographic protocol designed to ensure that information such as passwords and credit card numbers is moved safely across&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@minahilamer23/ssl-tls-explained-b55298c65a7a?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@minahilamer23/ssl-tls-explained-b55298c65a7a?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 07:48:45 GMT"
+    },
+    {
+        "title": "The Future of Online Safety: What You Need to Know",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://muhammadimran194p.medium.com/the-future-of-online-safety-what-you-need-to-know-805af54db123?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/640/0*LTcuxvVCMZo1wLj2.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">As our lives increasingly move into the digital realm, the importance of online safety has never been more pressing. With rapid&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://muhammadimran194p.medium.com/the-future-of-online-safety-what-you-need-to-know-805af54db123?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://muhammadimran194p.medium.com/the-future-of-online-safety-what-you-need-to-know-805af54db123?source=rss------cybersecurity-5",
+        "published": "Sun, 22 Sep 2024 07:47:39 GMT"
+    },
+    {
+        "title": "Using boto3 with Python to work with AWS\u200a\u2014\u200aBuckets",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Hello folks I am studying for become Data Engineer, and in this road I needed to use some functions of AWS with python like connect with&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@felipe00/using-boto3-with-python-to-work-with-aws-buckets-ac04f8a4db43?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@felipe00/using-boto3-with-python-to-work-with-aws-buckets-ac04f8a4db43?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 08:12:47 GMT"
+    },
+    {
+        "title": "\ubcc0\ud654 \uc774\uc288 \ub2f9\uc2e0\uc758 \uc120\ud0dd \uc2e0\uc138\uacc4\uac00 \uc5f4\ub9ac\ub294 \uc21c\uac04!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://frowth.medium.com/%EB%B3%80%ED%99%94-%EC%9D%B4%EC%8A%88-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%84%A0%ED%83%9D-%EC%8B%A0%EC%84%B8%EA%B3%84%EA%B0%80-%EC%97%B4%EB%A6%AC%EB%8A%94-%EC%88%9C%EA%B0%84-70dc14b35718?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://frowth.medium.com/%EB%B3%80%ED%99%94-%EC%9D%B4%EC%8A%88-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%84%A0%ED%83%9D-%EC%8B%A0%EC%84%B8%EA%B3%84%EA%B0%80-%EC%97%B4%EB%A6%AC%EB%8A%94-%EC%88%9C%EA%B0%84-70dc14b35718?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 08:11:13 GMT"
+    },
+    {
+        "title": "Python\u2019s Cyber Sentinels: 10 Magical Scripts to Fortify Your Web Castle",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*W409UzzNziPuC5H5l4aN2Q.png\" width=\"6342\" /></a></p><p class=\"medium-feed-snippet\">In the vast realm of the internet, your website stands as a digital castle, a beacon of your online presence. But beware! The cyber seas&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@praktik.id/pythons-cyber-sentinels-10-magical-scripts-to-fortify-your-web-castle-ddfd889e53cb?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 08:07:35 GMT"
+    },
+    {
+        "title": "Python\u200a\u2014\u200aNested IF",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@figojulioez/python-nested-if-6dbc50faa79c?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/700/0*LEImUyyk-dd4uPDa.png\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">A. Pengenalan Python</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@figojulioez/python-nested-if-6dbc50faa79c?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@figojulioez/python-nested-if-6dbc50faa79c?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:58:07 GMT"
+    },
+    {
+        "title": "Mojo E3\u200a\u2014\u200aLinear Regression in Mojo: Benchmarking Against Python",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@furcifer/mojo-e3-linear-regression-in-mojo-benchmarking-against-python-d97494b230a6?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1377/1*qFDX_hJSBxNX22hqdpFDtA.png\" width=\"1377\" /></a></p><p class=\"medium-feed-snippet\">Machine learning is all about speed and efficiency, especially when you&#x2019;re working with massive datasets. Linear regression, though basic&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@furcifer/mojo-e3-linear-regression-in-mojo-benchmarking-against-python-d97494b230a6?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@furcifer/mojo-e3-linear-regression-in-mojo-benchmarking-against-python-d97494b230a6?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:52:13 GMT"
+    },
+    {
+        "title": "Mastering Risk Management Techniques in Crypto Trading",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@xmxdfvr/mastering-risk-management-techniques-in-crypto-trading-d2c1a2856ac7?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*GH9Loq8C6Na48TNVvN652w@2x.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@xmxdfvr/mastering-risk-management-techniques-in-crypto-trading-d2c1a2856ac7?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@xmxdfvr/mastering-risk-management-techniques-in-crypto-trading-d2c1a2856ac7?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:49:11 GMT"
+    },
+    {
+        "title": "Connecting Microsoft SQL Server & PostgreSQL with FastAPI and SQLAlchemy: Read from One, Write to\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Introduction:</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dhruvahuja2330/connecting-microsoft-sql-server-postgresql-with-fastapi-and-sqlalchemy-read-from-one-write-to-ea8ca92c4b04?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dhruvahuja2330/connecting-microsoft-sql-server-postgresql-with-fastapi-and-sqlalchemy-read-from-one-write-to-ea8ca92c4b04?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:38:30 GMT"
+    },
+    {
+        "title": "The Comprehensive Guide to Sequential vs.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kinsg96sun/the-comprehensive-guide-to-sequential-vs-3d16cf05ceb4?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*0GKpbMxkDK5oxpJCeBtJ3w.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">In today&#x2019;s world of high-performance computing, efficiency and speed are paramount. Whether you&#x2019;re dealing with large-scale data&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kinsg96sun/the-comprehensive-guide-to-sequential-vs-3d16cf05ceb4?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kinsg96sun/the-comprehensive-guide-to-sequential-vs-3d16cf05ceb4?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:32:02 GMT"
+    },
+    {
+        "title": "In Python, partitioning data by specific columns (similar to the SQL PARTITION BY clause) can be\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@khushboo639147/in-python-partitioning-data-by-specific-columns-similar-to-the-sql-partition-by-clause-can-be-a746fbca75f0?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*BKZCFpWZrfcK03BMYXihhA.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">The shift() function is similar to SQL&apos;s LAG() and is used to access the previous row&apos;s value within a group, just as PARTITION BY does in&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@khushboo639147/in-python-partitioning-data-by-specific-columns-similar-to-the-sql-partition-by-clause-can-be-a746fbca75f0?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@khushboo639147/in-python-partitioning-data-by-specific-columns-similar-to-the-sql-partition-by-clause-can-be-a746fbca75f0?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:29:51 GMT"
+    },
+    {
+        "title": "Understanding Python\u2019s Global Interpreter Lock (GIL) and Its Impact on Concurrency",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/612/0*9-wYnV6JgILxZAF7\" width=\"612\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://aditya-sunjava.medium.com/understanding-pythons-global-interpreter-lock-gil-and-its-impact-on-concurrency-8507187ae25b?source=rss------python-5",
+        "published": "Sun, 22 Sep 2024 07:25:47 GMT"
+    },
+    {
+        "title": "The Linux Concept Journey\u200a\u2014\u200a/etc/nologin",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">The goal of the &#x201c;/etc/nologin&#x201d; file is to disallow users from logging to a system and notify it will be unavailable for an extended period&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@boutnaru/the-linux-concept-journey-etc-nologin-2cb76d1b2031?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@boutnaru/the-linux-concept-journey-etc-nologin-2cb76d1b2031?source=rss------infosec-5",
+        "published": "Sun, 22 Sep 2024 04:07:03 GMT"
+    },
+    {
+        "title": "Strategic Cyber Defense: Applying Sun Tzu\u2019s Art of War Lessons to the Cybersecurity Compass",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://cybersecuritycompass.medium.com/strategic-cyber-defense-applying-sun-tzus-art-of-war-lessons-to-the-cybersecurity-compass-e36612f52d4d?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*KMIXkTnyEukxctEUJsIoZQ.jpeg\" width=\"3000\" /></a></p><p class=\"medium-feed-snippet\">In over two decades of working in cybersecurity, I&#x2019;ve witnessed the digital landscape evolve at an unprecedented pace. Throughout this&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://cybersecuritycompass.medium.com/strategic-cyber-defense-applying-sun-tzus-art-of-war-lessons-to-the-cybersecurity-compass-e36612f52d4d?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://cybersecuritycompass.medium.com/strategic-cyber-defense-applying-sun-tzus-art-of-war-lessons-to-the-cybersecurity-compass-e36612f52d4d?source=rss------cybersecurity-5",
+        "published": "Mon, 23 Sep 2024 08:21:05 GMT"
+    },
+    {
+        "title": "Himachal Pradesh gramin  Bank se paise cut Jaaye To Kya Karen - 09589\u2014547\u2014380\u00a0,\u0906\u092a \u0905\u092a\u0928\u0947 \u092c\u0948\u0902\u0915 \u0915\u0940\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-282b644434b1?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*CNdqOe8a_mfAEHT7\" width=\"5760\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-282b644434b1?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-282b644434b1?source=rss------cybersecurity-5",
+        "published": "Mon, 23 Sep 2024 08:17:26 GMT"
+    },
+    {
+        "title": "Himachal Pradesh gramin  Bank se paise cut Jaaye To Kya Karen - 09589\u2014547\u2014380\u00a0,\u0906\u092a \u0905\u092a\u0928\u0947 \u092c\u0948\u0902\u0915 \u0915\u0940\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-00f133c2a0d5?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*P75F-kJsCkki14dJ\" width=\"3840\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-00f133c2a0d5?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-00f133c2a0d5?source=rss------cybersecurity-5",
+        "published": "Mon, 23 Sep 2024 08:16:53 GMT"
+    },
+    {
+        "title": "Himachal Pradesh gramin  Bank se paise cut Jaaye To Kya Karen - 09589\u2014547\u2014380\u00a0,\u0906\u092a \u0905\u092a\u0928\u0947 \u092c\u0948\u0902\u0915 \u0915\u0940\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-e7e399830011?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*FE7dsEufnI_VfZ5g\" width=\"5760\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-e7e399830011?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-e7e399830011?source=rss------cybersecurity-5",
+        "published": "Mon, 23 Sep 2024 08:16:07 GMT"
+    },
+    {
+        "title": "Himachal Pradesh gramin  Bank se paise cut Jaaye To Kya Karen - 09589\u2014547\u2014380\u00a0,\u0906\u092a \u0905\u092a\u0928\u0947 \u092c\u0948\u0902\u0915 \u0915\u0940\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-abd7fd5aaeee?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*CbtQrwuH9QBZJJIT\" width=\"3200\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-abd7fd5aaeee?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-abd7fd5aaeee?source=rss------cybersecurity-5",
+        "published": "Mon, 23 Sep 2024 08:15:06 GMT"
+    },
+    {
+        "title": "Himachal Pradesh gramin  Bank se paise cut Jaaye To Kya Karen - 09589\u2014547\u2014380\u00a0,\u0906\u092a \u0905\u092a\u0928\u0947 \u092c\u0948\u0902\u0915 \u0915\u0940\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-8ec8c0ec01c0?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*S9he-vJRIg9NIy5W\" width=\"3904\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-8ec8c0ec01c0?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-8ec8c0ec01c0?source=rss------cybersecurity-5",
+        "published": "Mon, 23 Sep 2024 08:14:24 GMT"
+    },
+    {
+        "title": "Himachal Pradesh gramin  Bank se paise cut Jaaye To Kya Karen - 09589\u2014547\u2014380\u00a0,\u0906\u092a \u0905\u092a\u0928\u0947 \u092c\u0948\u0902\u0915 \u0915\u0940\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-3dec6eb4d112?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-3dec6eb4d112?source=rss------cybersecurity-5",
+        "published": "Mon, 23 Sep 2024 08:13:14 GMT"
+    },
+    {
+        "title": "Himachal Pradesh gramin  Bank se paise cut Jaaye To Kya Karen - 09589\u2014547\u2014380\u00a0,\u0906\u092a \u0905\u092a\u0928\u0947 \u092c\u0948\u0902\u0915 \u0915\u0940\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-3188f79f9077?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*Thgu30beGSrFDFgn\" width=\"3712\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-3188f79f9077?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-3188f79f9077?source=rss------cybersecurity-5",
+        "published": "Mon, 23 Sep 2024 08:12:10 GMT"
+    },
+    {
+        "title": "Himachal Pradesh gramin  Bank se paise cut Jaaye To Kya Karen - 09589\u2014547\u2014380\u00a0,\u0906\u092a \u0905\u092a\u0928\u0947 \u092c\u0948\u0902\u0915 \u0915\u0940\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-1bc655da1d0d?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*DRWYi1fQPNJrKol4\" width=\"8256\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-1bc655da1d0d?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-1bc655da1d0d?source=rss------cybersecurity-5",
+        "published": "Mon, 23 Sep 2024 08:11:37 GMT"
+    },
+    {
+        "title": "Himachal Pradesh gramin  Bank se paise cut Jaaye To Kya Karen - 09589\u2014547\u2014380\u00a0,\u0906\u092a \u0905\u092a\u0928\u0947 \u092c\u0948\u0902\u0915 \u0915\u0940\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-d331a8be3175?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*KXjNSpZ7bXPxsBN8\" width=\"8256\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-d331a8be3175?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iojymqpemailcom/himachal-pradesh-gramin-bank-se-paise-cut-jaaye-to-kya-karen-09589-547-380-%E0%A4%86%E0%A4%AA-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%87-%E0%A4%AC%E0%A5%88%E0%A4%82%E0%A4%95-%E0%A4%95%E0%A5%80-d331a8be3175?source=rss------cybersecurity-5",
+        "published": "Mon, 23 Sep 2024 08:11:14 GMT"
+    },
+    {
+        "title": "The Secret to Learning Data Science Easily: It\u2019s All About the Right Order!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@shajahanpj10/the-secret-to-learning-data-science-easily-its-all-about-the-right-order-2860398374ed?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*ZzuOHrGLN5XC2eOg22GOiw.png\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">The world of data science can seem overwhelming at first, with so many concepts and technologies to grasp. But here&#x2019;s the secret: learning&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@shajahanpj10/the-secret-to-learning-data-science-easily-its-all-about-the-right-order-2860398374ed?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@shajahanpj10/the-secret-to-learning-data-science-easily-its-all-about-the-right-order-2860398374ed?source=rss------python-5",
+        "published": "Mon, 23 Sep 2024 08:28:52 GMT"
+    },
+    {
+        "title": "6377119564/Yono Arcade customer care helpline number/*///6377119564//",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">6377119564/Yono Arcade customer care helpline number/*///6377119564//</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-179bef7ebce6?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-179bef7ebce6?source=rss------python-5",
+        "published": "Mon, 23 Sep 2024 08:28:52 GMT"
+    },
+    {
+        "title": "6377119564/Yono Arcade customer care helpline number/*///6377119564//",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">6377119564/Yono Arcade customer care helpline number/*///6377119564//</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-fde77da5ece8?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-fde77da5ece8?source=rss------python-5",
+        "published": "Mon, 23 Sep 2024 08:27:53 GMT"
+    },
+    {
+        "title": "6377119564/Yono Arcade customer care helpline number/*///6377119564//",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">6377119564/Yono Arcade customer care helpline number/*///6377119564//</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-2565e71e88fd?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-2565e71e88fd?source=rss------python-5",
+        "published": "Mon, 23 Sep 2024 08:26:59 GMT"
+    },
+    {
+        "title": "6377119564/Yono Arcade customer care helpline number/*///6377119564//",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-9350951636a3?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*cV71VNXgbYhpAONe\" width=\"4000\" /></a></p><p class=\"medium-feed-snippet\">6377119564/Yono Arcade customer care helpline number/*///6377119564//</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-9350951636a3?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-9350951636a3?source=rss------python-5",
+        "published": "Mon, 23 Sep 2024 08:25:53 GMT"
+    },
+    {
+        "title": "6377119564/Yono Arcade customer care helpline number/*///6377119564//",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">6377119564/Yono Arcade customer care helpline number/*///6377119564//</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-7ee31b217bf0?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-7ee31b217bf0?source=rss------python-5",
+        "published": "Mon, 23 Sep 2024 08:24:30 GMT"
+    },
+    {
+        "title": "6377119564/Yono Arcade customer care helpline number/*///6377119564//",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-43ea8abc8635?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*x7Ss6FALKOGkmZtO\" width=\"3500\" /></a></p><p class=\"medium-feed-snippet\">6377119564/Yono Arcade customer care helpline number/*///6377119564//</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-43ea8abc8635?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sunsetskumari/6377119564-yono-arcade-customer-care-helpline-number-6377119564-43ea8abc8635?source=rss------python-5",
+        "published": "Mon, 23 Sep 2024 08:24:09 GMT"
+    },
+    {
+        "title": "Smart Fire Safety: How YOLOv8 and Flask Power Real-Time Fire and Smoke Detection",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://python.plainenglish.io/smart-fire-safety-how-yolov8-and-flask-power-real-time-fire-and-smoke-detection-79058b024b09?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/640/1*rbqEu1u7TzXHcg4SCwMBbg.gif\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">In recent years, artificial intelligence and machine learning advancements have revolutionized various industries, including public safety&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://python.plainenglish.io/smart-fire-safety-how-yolov8-and-flask-power-real-time-fire-and-smoke-detection-79058b024b09?source=rss------python-5\">Continue reading on Python in Plain English \u00bb</a></p></div>",
+        "link": "https://python.plainenglish.io/smart-fire-safety-how-yolov8-and-flask-power-real-time-fire-and-smoke-detection-79058b024b09?source=rss------python-5",
+        "published": "Mon, 23 Sep 2024 08:20:48 GMT"
+    },
+    {
+        "title": "\ucd94\uc11d \uc219\ubc15\uc2dc\uc124 \ud654\uc7ac\uc548\uc804\uc870\uc0ac \uc548\uc804\uc774 \uc6b0\uc120\uc774\ub2e4!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://frowth.medium.com/%EC%B6%94%EC%84%9D-%EC%88%99%EB%B0%95%EC%8B%9C%EC%84%A4-%ED%99%94%EC%9E%AC%EC%95%88%EC%A0%84%EC%A1%B0%EC%82%AC-%EC%95%88%EC%A0%84%EC%9D%B4-%EC%9A%B0%EC%84%A0%EC%9D%B4%EB%8B%A4-383ae98d64b1?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://frowth.medium.com/%EC%B6%94%EC%84%9D-%EC%88%99%EB%B0%95%EC%8B%9C%EC%84%A4-%ED%99%94%EC%9E%AC%EC%95%88%EC%A0%84%EC%A1%B0%EC%82%AC-%EC%95%88%EC%A0%84%EC%9D%B4-%EC%9A%B0%EC%84%A0%EC%9D%B4%EB%8B%A4-383ae98d64b1?source=rss------python-5",
+        "published": "Mon, 23 Sep 2024 08:18:37 GMT"
+    },
+    {
+        "title": "Jackpotyes customer care helpline number 6377119564//6377119564",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@fzcctcrufhhhhhtvt/jackpotyes-customer-care-helpline-number-6377119564-6377119564-ece1e3ecdfcf?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*uzGTsb4ZTvk-8GZx\" width=\"4000\" /></a></p><p class=\"medium-feed-snippet\">Jackpotyes customer care helpline number 6377119564//6377119564</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@fzcctcrufhhhhhtvt/jackpotyes-customer-care-helpline-number-6377119564-6377119564-ece1e3ecdfcf?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@fzcctcrufhhhhhtvt/jackpotyes-customer-care-helpline-number-6377119564-6377119564-ece1e3ecdfcf?source=rss------python-5",
+        "published": "Mon, 23 Sep 2024 08:17:28 GMT"
+    },
+    {
+        "title": "Weekly #InfoSec News Roundup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecsherpa.medium.com/weekly-infosec-news-roundup-9cfbdd55155d?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*mSUEzbBFjInnRpWrBX9bVA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">InfoSecSherpa: Your Guide Up a Mountain of Information!</p><p class=\"medium-feed-link\"><a href=\"https://infosecsherpa.medium.com/weekly-infosec-news-roundup-9cfbdd55155d?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://infosecsherpa.medium.com/weekly-infosec-news-roundup-9cfbdd55155d?source=rss------infosec-5",
+        "published": "Mon, 23 Sep 2024 01:16:41 GMT"
+    },
+    {
+        "title": "I Have Nothing to Hide\u200a\u2014\u200aBiggest Myth You\u2019re Falling For",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/i-have-nothing-to-hide-biggest-myth-youre-falling-for-fa5250116297?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*_4zIK2--0ERX1BgHgiMQzg.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">You Think Your Data Is Safe? Here&#x2019;s Why You&#x2019;re Wrong!</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/i-have-nothing-to-hide-biggest-myth-youre-falling-for-fa5250116297?source=rss------infosec-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/i-have-nothing-to-hide-biggest-myth-youre-falling-for-fa5250116297?source=rss------infosec-5",
+        "published": "Sun, 22 Sep 2024 23:40:08 GMT"
+    },
+    {
+        "title": "Cyberyami Web Warriors CTF",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://aftab700.medium.com/cyberyami-web-warriors-ctf-74bf1a751756?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1723/0*wI55n9za_0WlZcb0\" width=\"1723\" /></a></p><p class=\"medium-feed-snippet\">Writeups for the Cyberyami Web Warriors Capture The Flag (CTF) event.</p><p class=\"medium-feed-link\"><a href=\"https://aftab700.medium.com/cyberyami-web-warriors-ctf-74bf1a751756?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://aftab700.medium.com/cyberyami-web-warriors-ctf-74bf1a751756?source=rss------infosec-5",
+        "published": "Sun, 22 Sep 2024 17:40:46 GMT"
+    },
+    {
+        "title": "How I Discovered an Account Takeover from a Reset Password Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bountyget/how-i-discovered-an-account-takeover-from-a-reset-password-vulnerability-aa39fe0896b5?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*qtR0hvvRwFCtstAE\" width=\"4000\" /></a></p><p class=\"medium-feed-snippet\">Vulnerabilities related to password management are both common and impactful. They offer a window of opportunity for attackers to hijack&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bountyget/how-i-discovered-an-account-takeover-from-a-reset-password-vulnerability-aa39fe0896b5?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bountyget/how-i-discovered-an-account-takeover-from-a-reset-password-vulnerability-aa39fe0896b5?source=rss------infosec-5",
+        "published": "Sun, 22 Sep 2024 13:43:48 GMT"
+    },
+    {
+        "title": "From Simple File Import to Full Server Exposure: The Power of SSRF Exploitation",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@tusharpuri6/from-simple-file-import-to-full-server-exposure-the-power-of-ssrf-exploitation-64ee925e54dc?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*z7G0S7p87oq2H4CK.gif\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">During a recent penetration test, I was tasked with assessing the security of an educational platform designed for internal employees. At&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@tusharpuri6/from-simple-file-import-to-full-server-exposure-the-power-of-ssrf-exploitation-64ee925e54dc?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@tusharpuri6/from-simple-file-import-to-full-server-exposure-the-power-of-ssrf-exploitation-64ee925e54dc?source=rss------infosec-5",
+        "published": "Sun, 22 Sep 2024 13:26:23 GMT"
+    },
+    {
+        "title": "Embarking on MDFIR 30-Day SOC Analyst Challenge: Day 0",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@li.megbuna/embarking-on-mdfir-30-day-soc-analyst-challenge-day-0-af8ad5b4e9a8?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*g6CwX_ws0gdTRWqJXi3YrA.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Hey everyone! I&#x2019;m kicking off the MDFIR 30-Day SOC Analyst Challenge, a month-long journey to build hands-on experience in cybersecurity&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@li.megbuna/embarking-on-mdfir-30-day-soc-analyst-challenge-day-0-af8ad5b4e9a8?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@li.megbuna/embarking-on-mdfir-30-day-soc-analyst-challenge-day-0-af8ad5b4e9a8?source=rss------infosec-5",
+        "published": "Sun, 22 Sep 2024 08:39:13 GMT"
+    },
+    {
+        "title": "Exploiting Ansible Galaxy Vulnerabilities | HackTheBox Intuition Writeup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://motasemhamdan.medium.com/exploiting-ansible-galaxy-vulnerabilities-hackthebox-intuition-writeup-bef8d83a33b9?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/1*NRBATnhCOkhjUJbfgsm3Cg.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">HackTheBox Intuition begins with a series of websites focused on document compression. There&#x2019;s an authentication site, a bug reporting&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://motasemhamdan.medium.com/exploiting-ansible-galaxy-vulnerabilities-hackthebox-intuition-writeup-bef8d83a33b9?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://motasemhamdan.medium.com/exploiting-ansible-galaxy-vulnerabilities-hackthebox-intuition-writeup-bef8d83a33b9?source=rss------infosec-5",
+        "published": "Sun, 22 Sep 2024 08:23:49 GMT"
+    },
+    {
+        "title": "HackTheBox SolarLab Writeup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://motasemhamdan.medium.com/hackthebox-solarlab-writeup-36e0dc884876?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/1*1EeV_cYKz56DxrED5YCWLg.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">or this Hack the Box (HTB) machine, I utilized techniques such as enumeration, user pivoting, and privilege escalation to capture both the&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://motasemhamdan.medium.com/hackthebox-solarlab-writeup-36e0dc884876?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://motasemhamdan.medium.com/hackthebox-solarlab-writeup-36e0dc884876?source=rss------infosec-5",
+        "published": "Sun, 22 Sep 2024 08:20:17 GMT"
+    },
+    {
+        "title": "LFI and SSRF + IDOR in admin panel file download method real cases found during recent audit",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ogcybersec/lfi-and-ssrf-idor-in-admin-panel-file-download-method-real-cases-found-during-recent-audit-6e934ae8cfa7?source=rss------idor-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*0EOriBXgiaI4wDkuGneUTg.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Intro.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ogcybersec/lfi-and-ssrf-idor-in-admin-panel-file-download-method-real-cases-found-during-recent-audit-6e934ae8cfa7?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ogcybersec/lfi-and-ssrf-idor-in-admin-panel-file-download-method-real-cases-found-during-recent-audit-6e934ae8cfa7?source=rss------idor-5",
+        "published": "Mon, 23 Sep 2024 13:21:23 GMT"
+    },
+    {
+        "title": "X will soon allow accounts you have blocked to see your public posts.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Changes to X&#x2019;s website noticed by independent app researcher Nima Owji indicate that X may soon modify the technology behind its block&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@richyieze/x-will-soon-allow-accounts-you-have-blocked-to-see-your-public-posts-14b95723643c?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@richyieze/x-will-soon-allow-accounts-you-have-blocked-to-see-your-public-posts-14b95723643c?source=rss------xss-5",
+        "published": "Tue, 24 Sep 2024 05:28:26 GMT"
+    },
+    {
+        "title": "Big Quotes | Final Cut Pro X",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@04cytcxqgr/big-quotes-final-cut-pro-x-53dcc1dc4763?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*0kvRCRU5_2wcdl-a\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@04cytcxqgr/big-quotes-final-cut-pro-x-53dcc1dc4763?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@04cytcxqgr/big-quotes-final-cut-pro-x-53dcc1dc4763?source=rss------xss-5",
+        "published": "Tue, 24 Sep 2024 00:34:48 GMT"
+    },
+    {
+        "title": "Phone X App UI Promo",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@04cynbkheg/phone-x-app-ui-promo-de1583258b48?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*uEn-eVnIFZ6Jw-Sh\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@04cynbkheg/phone-x-app-ui-promo-de1583258b48?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@04cynbkheg/phone-x-app-ui-promo-de1583258b48?source=rss------xss-5",
+        "published": "Tue, 24 Sep 2024 00:31:50 GMT"
+    },
+    {
+        "title": "X vs Twitter G\u00f6nderi Olu\u015fturma Ekranlar\u0131n\u0131n Kar\u015f\u0131la\u015ft\u0131r\u0131lmas\u0131",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@fiartaks/x-twitter-g%C3%B6nderi-olu%C5%9Fturma-ekranlar%C4%B1n%C4%B1n-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1r%C4%B1lmas%C4%B1-37a2a2d518f2?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/1021/1*AyT71yNAsNEyNdW7XLns-Q.png\" width=\"1021\" /></a></p><p class=\"medium-feed-snippet\">D&#x130;J&#x130;TAL ARAY&#xdc;ZLER ARASINDA YOLCULUK</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@fiartaks/x-twitter-g%C3%B6nderi-olu%C5%9Fturma-ekranlar%C4%B1n%C4%B1n-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1r%C4%B1lmas%C4%B1-37a2a2d518f2?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@fiartaks/x-twitter-g%C3%B6nderi-olu%C5%9Fturma-ekranlar%C4%B1n%C4%B1n-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1r%C4%B1lmas%C4%B1-37a2a2d518f2?source=rss------xss-5",
+        "published": "Mon, 23 Sep 2024 21:44:48 GMT"
+    },
+    {
+        "title": "The Poet X",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@averiewoodson/the-poet-x-ea1874a99ede?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*hVGAUicbYkFlD2P_.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@averiewoodson/the-poet-x-ea1874a99ede?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@averiewoodson/the-poet-x-ea1874a99ede?source=rss------xss-5",
+        "published": "Mon, 23 Sep 2024 15:14:34 GMT"
+    },
+    {
+        "title": "\u0406\u043b\u043e\u043d \u041c\u0430\u0441\u043a \u0442\u0430 X \u0443\u043a\u043b\u0430\u043b\u0438 \u0443\u0433\u043e\u0434\u0443 \u0437 \u0412\u0435\u0440\u0445\u043e\u0432\u043d\u0438\u043c \u0441\u0443\u0434\u043e\u043c \u0411\u0440\u0430\u0437\u0438\u043b\u0456\u0457: \u0428\u0442\u0440\u0430\u0444\u0438 \u0441\u043f\u043b\u0430\u0447\u0435\u043d\u043e, \u0430 \u0440\u0430\u0445\u0443\u043d\u043a\u0438 \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u0435\u043d\u043e",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://medium.com/@GizchinaUkraine/%D1%96%D0%BB%D0%BE%D0%BD-%D0%BC%D0%B0%D1%81%D0%BA-%D1%82%D0%B0-x-%D1%83%D0%BA%D0%BB%D0%B0%D0%BB%D0%B8-%D1%83%D0%B3%D0%BE%D0%B4%D1%83-%D0%B7-%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BD%D0%B8%D0%BC-%D1%81%D1%83%D0%B4%D0%BE%D0%BC-%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D1%96%D1%97-%D1%88%D1%82%D1%80%D0%B0%D1%84%D0%B8-%D1%81%D0%BF%D0%BB%D0%B0%D1%87%D0%B5%D0%BD%D0%BE-%D0%B0-%D1%80%D0%B0%D1%85%D1%83%D0%BD%D0%BA%D0%B8-%D0%B2%D1%96%D0%B4%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE-849c76483468?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@GizchinaUkraine/%D1%96%D0%BB%D0%BE%D0%BD-%D0%BC%D0%B0%D1%81%D0%BA-%D1%82%D0%B0-x-%D1%83%D0%BA%D0%BB%D0%B0%D0%BB%D0%B8-%D1%83%D0%B3%D0%BE%D0%B4%D1%83-%D0%B7-%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BD%D0%B8%D0%BC-%D1%81%D1%83%D0%B4%D0%BE%D0%BC-%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D1%96%D1%97-%D1%88%D1%82%D1%80%D0%B0%D1%84%D0%B8-%D1%81%D0%BF%D0%BB%D0%B0%D1%87%D0%B5%D0%BD%D0%BE-%D0%B0-%D1%80%D0%B0%D1%85%D1%83%D0%BD%D0%BA%D0%B8-%D0%B2%D1%96%D0%B4%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE-849c76483468?source=rss------xss-5",
+        "published": "Mon, 23 Sep 2024 09:50:28 GMT"
+    },
+    {
+        "title": "The Vulnerability of GenAI Models: How Easily They Can Be Compromised",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://blog.bugzero.io/the-vulnerability-of-genai-models-how-easily-they-can-be-compromised-d8ac4a3903d0?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/720/0*_j85OZXSYsosJUpM\" width=\"720\" /></a></p><p class=\"medium-feed-snippet\">Generative AI (GenAI) models have transformed industries by driving innovation in natural language processing, image generation, and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://blog.bugzero.io/the-vulnerability-of-genai-models-how-easily-they-can-be-compromised-d8ac4a3903d0?source=rss------cybersecurity-5\">Continue reading on Bug Zero \u00bb</a></p></div>",
+        "link": "https://blog.bugzero.io/the-vulnerability-of-genai-models-how-easily-they-can-be-compromised-d8ac4a3903d0?source=rss------cybersecurity-5",
+        "published": "Tue, 24 Sep 2024 08:19:31 GMT"
+    },
+    {
+        "title": "Stop Cyberbullies in Their Tracks: How to Avoid Money Scams in Online Chats",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@thanuja.kj/stop-cyberbullies-in-their-tracks-how-to-avoid-money-scams-in-online-chats-2db7d1849895?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/800/1*uLyrQsZwAt6jgYO24cBm4g.jpeg\" width=\"800\" /></a></p><p class=\"medium-feed-snippet\">In the age of digital communication, it&#x2019;s become incredibly easy to connect with others through online chats. Whether it&#x2019;s for business&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@thanuja.kj/stop-cyberbullies-in-their-tracks-how-to-avoid-money-scams-in-online-chats-2db7d1849895?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@thanuja.kj/stop-cyberbullies-in-their-tracks-how-to-avoid-money-scams-in-online-chats-2db7d1849895?source=rss------cybersecurity-5",
+        "published": "Tue, 24 Sep 2024 08:17:51 GMT"
+    },
+    {
+        "title": "Caught in the Net: How Email Spoofing Tricks You into Trust",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://bytecys.medium.com/caught-in-the-net-how-email-spoofing-tricks-you-into-trust-f392ac710ff2?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*Lh_ovJ52janFvcEavv4hVw.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Deceptive emails designed to bypass security measures and exploit human psychology to gain the recipient&#x2019;s trust and compliance.</p><p class=\"medium-feed-link\"><a href=\"https://bytecys.medium.com/caught-in-the-net-how-email-spoofing-tricks-you-into-trust-f392ac710ff2?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://bytecys.medium.com/caught-in-the-net-how-email-spoofing-tricks-you-into-trust-f392ac710ff2?source=rss------cybersecurity-5",
+        "published": "Tue, 24 Sep 2024 08:17:05 GMT"
+    },
+    {
+        "title": "Become a Certified Security Professional with Tonex CSE Course",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrahman_93458/become-a-certified-security-professional-with-tonex-cse-course-5cff21658390?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*dA6RCRAlYaBsH_jYbMj_6w.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Tonex&#x2019;s Certified Security Essentials (CSE) course is designed to equip professionals with a solid foundation in cybersecurity&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrahman_93458/become-a-certified-security-professional-with-tonex-cse-course-5cff21658390?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrahman_93458/become-a-certified-security-professional-with-tonex-cse-course-5cff21658390?source=rss------cybersecurity-5",
+        "published": "Tue, 24 Sep 2024 08:15:37 GMT"
+    },
+    {
+        "title": "Generative AI Security: Emerging Attack Vectors and Mitigation Strategies",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@petertou12/generative-ai-security-emerging-attack-vectors-and-mitigation-strategies-c0de90edb446?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2258/0*y50PO6-HNDNYijyV.png\" width=\"2258\" /></a></p><p class=\"medium-feed-snippet\">In the rapidly evolving landscape of artificial intelligence, Generative AI (GenAI) has emerged as a game-changer, revolutionizing&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@petertou12/generative-ai-security-emerging-attack-vectors-and-mitigation-strategies-c0de90edb446?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@petertou12/generative-ai-security-emerging-attack-vectors-and-mitigation-strategies-c0de90edb446?source=rss------cybersecurity-5",
+        "published": "Tue, 24 Sep 2024 08:09:35 GMT"
+    },
+    {
+        "title": "OverTheWire: Wargames | Bandit level 13-level 14",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@zargi.teddy7/overthewire-wargames-bandit-level-13-level-14-6440ab3ab469?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*l81FdAl20mfM_EtbZEb7VQ.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Password untuk level selanjutnya ada di dalam /etc/bandit_pass/bandit14 dan hanya dapat dibaca oleh user bandit14. Pada level ini kita&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@zargi.teddy7/overthewire-wargames-bandit-level-13-level-14-6440ab3ab469?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@zargi.teddy7/overthewire-wargames-bandit-level-13-level-14-6440ab3ab469?source=rss------cybersecurity-5",
+        "published": "Tue, 24 Sep 2024 08:02:05 GMT"
+    },
+    {
+        "title": "How to Restrict Insider Access by Using Application-Layer Encryption",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/codex/how-to-restrict-insider-access-by-using-application-layer-encryption-f558afb7d224?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*-axO-2KuJnAMZgC-fX5LhA.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">In this article, we&#x2019;ll explore how application-layer encryption works and how it restricts insider threats.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/codex/how-to-restrict-insider-access-by-using-application-layer-encryption-f558afb7d224?source=rss------cybersecurity-5\">Continue reading on CodeX \u00bb</a></p></div>",
+        "link": "https://medium.com/codex/how-to-restrict-insider-access-by-using-application-layer-encryption-f558afb7d224?source=rss------cybersecurity-5",
+        "published": "Tue, 24 Sep 2024 07:57:58 GMT"
+    },
+    {
+        "title": "Combating Online Fraud: Cybersecurity for E-commerce Businesses",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@owen.h_23846/combating-online-fraud-cybersecurity-for-e-commerce-businesses-3c6398ee6635?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/700/0*QLuJlmuC9X5g2wJI.jpg\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">In the ever-changing world of e-commerce, online fraud remains a serious threat that can lead to major financial losses, compromised&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@owen.h_23846/combating-online-fraud-cybersecurity-for-e-commerce-businesses-3c6398ee6635?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@owen.h_23846/combating-online-fraud-cybersecurity-for-e-commerce-businesses-3c6398ee6635?source=rss------cybersecurity-5",
+        "published": "Tue, 24 Sep 2024 07:56:52 GMT"
+    },
+    {
+        "title": "Mastering Subdomain Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@verylazytech/mastering-subdomain-takeover-48d9b9d593a9?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/914/1*ECPZCMELP1cXgu0XVsy9QA.png\" width=\"914\" /></a></p><p class=\"medium-feed-snippet\">Subdomain takeovers are a critical vulnerability that allows attackers to seize control of a subdomain by exploiting misconfigurations in&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@verylazytech/mastering-subdomain-takeover-48d9b9d593a9?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@verylazytech/mastering-subdomain-takeover-48d9b9d593a9?source=rss------cybersecurity-5",
+        "published": "Tue, 24 Sep 2024 07:55:29 GMT"
+    },
+    {
+        "title": "\u201cWhat is Cybersecurity\u201d",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@malikmona793/what-is-cybersecurity-9e4e4ad9b14c?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/710/1*kft4GG_PPmVRgEQ5egwe8Q.jpeg\" width=\"710\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@malikmona793/what-is-cybersecurity-9e4e4ad9b14c?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@malikmona793/what-is-cybersecurity-9e4e4ad9b14c?source=rss------cybersecurity-5",
+        "published": "Tue, 24 Sep 2024 07:40:39 GMT"
+    },
+    {
+        "title": "Python for Building a Trend-Following Strategy in Commodity Futures Trading",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@deepml1818/python-for-building-a-trend-following-strategy-in-commodity-futures-trading-42fdf3e2cef2?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1033/1*yVp61vtq1gOKlBNXB6TQ2w.png\" width=\"1033\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@deepml1818/python-for-building-a-trend-following-strategy-in-commodity-futures-trading-42fdf3e2cef2?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@deepml1818/python-for-building-a-trend-following-strategy-in-commodity-futures-trading-42fdf3e2cef2?source=rss------python-5",
+        "published": "Tue, 24 Sep 2024 08:21:27 GMT"
+    },
+    {
+        "title": "A comprensive guide for analysing rich tabular datasets (Part 3)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@vincent.castaignet/a-comprensive-guide-for-analysing-rich-tabular-datasets-part-3-565ac7ed419f?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*8cD758kPKEtS8XzQhGDngg.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Feature engineering</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@vincent.castaignet/a-comprensive-guide-for-analysing-rich-tabular-datasets-part-3-565ac7ed419f?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@vincent.castaignet/a-comprensive-guide-for-analysing-rich-tabular-datasets-part-3-565ac7ed419f?source=rss------python-5",
+        "published": "Tue, 24 Sep 2024 08:18:28 GMT"
+    },
+    {
+        "title": "A comprensive guide for analysing rich tabular datasets (Part 2)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@vincent.castaignet/a-comprensive-guide-for-analysing-rich-tabular-datasets-part-2-7ddb613cc911?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*IgsnenPGXXm3_NHbwCcXrA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Dataset cleaning</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@vincent.castaignet/a-comprensive-guide-for-analysing-rich-tabular-datasets-part-2-7ddb613cc911?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@vincent.castaignet/a-comprensive-guide-for-analysing-rich-tabular-datasets-part-2-7ddb613cc911?source=rss------python-5",
+        "published": "Tue, 24 Sep 2024 08:14:38 GMT"
+    },
+    {
+        "title": "Storing Data in Python",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@gagansaralaya/storing-data-in-python-45102dab80fe?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*e_JhUr3VadhkzesN\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">Imagine you have a bunch of numbers and you assign a variable to each of these numbers. Now everytime you want to access these set of&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@gagansaralaya/storing-data-in-python-45102dab80fe?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@gagansaralaya/storing-data-in-python-45102dab80fe?source=rss------python-5",
+        "published": "Tue, 24 Sep 2024 08:05:29 GMT"
+    },
+    {
+        "title": "A comprensive guide for analysing rich tabular datasets (Part 1)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@vincent.castaignet/a-comprensive-guide-for-analysing-rich-tabular-datasets-part-1-9b25e2d76bf6?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*fInYPqM7fWtXr6OESRCfYw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Characterizing datasets and their variables</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@vincent.castaignet/a-comprensive-guide-for-analysing-rich-tabular-datasets-part-1-9b25e2d76bf6?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@vincent.castaignet/a-comprensive-guide-for-analysing-rich-tabular-datasets-part-1-9b25e2d76bf6?source=rss------python-5",
+        "published": "Tue, 24 Sep 2024 08:02:03 GMT"
+    },
+    {
+        "title": "[GO] Building a File Download API in Go",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mohitdubey_83162/go-building-a-file-download-api-in-go-0eaf268b1984?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/882/1*ySkmDjmxCTDrlk-c7dMYNA.png\" width=\"882\" /></a></p><p class=\"medium-feed-snippet\">In this article, we&#x2019;ll guide you through creating a simple yet effective file download API using Go and the Gorilla Mux library. This API&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mohitdubey_83162/go-building-a-file-download-api-in-go-0eaf268b1984?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mohitdubey_83162/go-building-a-file-download-api-in-go-0eaf268b1984?source=rss------python-5",
+        "published": "Tue, 24 Sep 2024 07:49:22 GMT"
+    },
+    {
+        "title": "How to download Youtube Videos using Python",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@micodin0plant/how-to-download-youtube-videos-using-python-567ba1266010?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1860/1*C-ChvW0_2LJmClFLbyQU3w.png\" width=\"1860\" /></a></p><p class=\"medium-feed-snippet\">Create a new python file</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@micodin0plant/how-to-download-youtube-videos-using-python-567ba1266010?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@micodin0plant/how-to-download-youtube-videos-using-python-567ba1266010?source=rss------python-5",
+        "published": "Tue, 24 Sep 2024 07:46:55 GMT"
+    },
+    {
+        "title": "Handling Large Files and Optimizing File Operations in Python",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/django-unleashed/handling-large-files-and-optimizing-file-operations-in-python-b2f65579bb01?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1344/1*7NiNkZ9-5ZyleMVK5_f3AQ.png\" width=\"1344\" /></a></p><p class=\"medium-feed-snippet\">In this blog post, we&#x2019;ll explore strategies for reading, writing, and processing large files in Python, ensuring your applications remain&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/django-unleashed/handling-large-files-and-optimizing-file-operations-in-python-b2f65579bb01?source=rss------python-5\">Continue reading on Django Unleashed \u00bb</a></p></div>",
+        "link": "https://medium.com/django-unleashed/handling-large-files-and-optimizing-file-operations-in-python-b2f65579bb01?source=rss------python-5",
+        "published": "Tue, 24 Sep 2024 07:38:21 GMT"
+    },
+    {
+        "title": "[Python] Building a File Upload and Download System with Python Flask",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mohitdubey_83162/python-building-a-file-upload-and-download-system-with-python-flask-69e19e2c83af?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1360/1*XXP9D_cSBhgb7zZ7XbecnQ.jpeg\" width=\"1360\" /></a></p><p class=\"medium-feed-snippet\">In this article, we&#x2019;ll explore the fundamentals of building a file upload and download system using Flask, a lightweight web framework for&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mohitdubey_83162/python-building-a-file-upload-and-download-system-with-python-flask-69e19e2c83af?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mohitdubey_83162/python-building-a-file-upload-and-download-system-with-python-flask-69e19e2c83af?source=rss------python-5",
+        "published": "Tue, 24 Sep 2024 07:28:52 GMT"
+    },
+    {
+        "title": "Transformer from Scratch in TF Part 2: Encoder",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sabaybiometzger/transformer-from-scratch-in-tf-part-2-encoder-9b17fbc190da?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*5oPlxOMhoL86B9t_xWBm9g.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Story 1: Embedding and Positional Encoding</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sabaybiometzger/transformer-from-scratch-in-tf-part-2-encoder-9b17fbc190da?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sabaybiometzger/transformer-from-scratch-in-tf-part-2-encoder-9b17fbc190da?source=rss------python-5",
+        "published": "Tue, 24 Sep 2024 07:24:43 GMT"
+    },
+    {
+        "title": "Wireless hacking guide for beginners: wep",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@redfanatic7/the-wireless-hacking-guide-for-beginners-wep-3eb1c4b019ab?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*0_S18CIPQglFH5ey\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">The WEP (Wired Equivalent Privacy) is a security protocol developed to protect wireless Wi-Fi networks. It was designed in the late 1990s&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@redfanatic7/the-wireless-hacking-guide-for-beginners-wep-3eb1c4b019ab?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@redfanatic7/the-wireless-hacking-guide-for-beginners-wep-3eb1c4b019ab?source=rss------infosec-5",
+        "published": "Tue, 24 Sep 2024 06:10:38 GMT"
+    },
+    {
+        "title": "P4 bug\u2019s and their POC steps | Part 4",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@socalledhacker/p4-bugs-and-their-poc-steps-part-4-fd81b91fd368?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*iQoe_SDbXf2CxgUb-3unJA.jpeg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">This is part 4 of P4 bug&#x2019;s if you haven&#x2019;t check previous part then check it out. Click here.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@socalledhacker/p4-bugs-and-their-poc-steps-part-4-fd81b91fd368?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@socalledhacker/p4-bugs-and-their-poc-steps-part-4-fd81b91fd368?source=rss------infosec-5",
+        "published": "Mon, 23 Sep 2024 22:56:22 GMT"
+    },
+    {
+        "title": "Building a Heat Map for IIT Kanpur\u2019s Computer Labs",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@amansg22/building-a-heat-map-for-iit-kanpurs-computer-labs-568bac5acbbd?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1915/1*vr1iN2S7ig8fUqb4DY_9CQ.png\" width=\"1915\" /></a></p><p class=\"medium-feed-snippet\">In this blog, I&#x2019;ll walk through how I created a heat map for the Linux computer labs at IIT Kanpur. This approach can be applied to any&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@amansg22/building-a-heat-map-for-iit-kanpurs-computer-labs-568bac5acbbd?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@amansg22/building-a-heat-map-for-iit-kanpurs-computer-labs-568bac5acbbd?source=rss------infosec-5",
+        "published": "Mon, 23 Sep 2024 22:52:34 GMT"
+    },
+    {
+        "title": "HACK THIS SITE: BASIC",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rizzziom/hack-this-site-basic-63ed7f522827?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*WwZq8UWmHZXWeyRN.png\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">This is a walkthrough of the 11 levels of the Basic challenge present on HackThisSite</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rizzziom/hack-this-site-basic-63ed7f522827?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rizzziom/hack-this-site-basic-63ed7f522827?source=rss------infosec-5",
+        "published": "Mon, 23 Sep 2024 22:31:40 GMT"
+    },
+    {
+        "title": "Cyber colleagues, the \u201cAssets, Threats, and Vulnerabilities\u201d program is the fifth course in the\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Enroll today (teams &amp; execs welcome): imp.i384100.net/rQvRVQ</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@lwilson747/cyber-colleagues-the-assets-threats-and-vulnerabilities-program-is-the-fifth-course-in-the-73fca99f5131?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@lwilson747/cyber-colleagues-the-assets-threats-and-vulnerabilities-program-is-the-fifth-course-in-the-73fca99f5131?source=rss------infosec-5",
+        "published": "Mon, 23 Sep 2024 20:43:25 GMT"
+    },
+    {
+        "title": "Protecting Your Business from Ransomware as a Service (RaaS): Essential Tips for Hybrid Workplaces",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Key strategies to protect your business from the growing threat of ransomware in a hybrid workplace</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@davenport.andrew/protecting-your-business-from-ransomware-as-a-service-raas-essential-tips-for-hybrid-workplaces-847395193de2?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@davenport.andrew/protecting-your-business-from-ransomware-as-a-service-raas-essential-tips-for-hybrid-workplaces-847395193de2?source=rss------infosec-5",
+        "published": "Mon, 23 Sep 2024 19:45:21 GMT"
+    },
+    {
+        "title": "Turning a Closed Bug Report into $650: The Art of Demonstrating Impact!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://hasanka-amarasinghe.medium.com/turning-a-closed-bug-report-into-650-the-art-of-demonstrating-impact-730a3df78df8?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*ovwemiNvSVtqBDYaUeGM5w.png\" width=\"2780\" /></a></p><p class=\"medium-feed-snippet\">Summary</p><p class=\"medium-feed-link\"><a href=\"https://hasanka-amarasinghe.medium.com/turning-a-closed-bug-report-into-650-the-art-of-demonstrating-impact-730a3df78df8?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://hasanka-amarasinghe.medium.com/turning-a-closed-bug-report-into-650-the-art-of-demonstrating-impact-730a3df78df8?source=rss------infosec-5",
+        "published": "Mon, 23 Sep 2024 19:00:31 GMT"
+    },
+    {
+        "title": "750$ in 5 Minutes - XXE to LFI",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://skramthu.medium.com/750-in-5-minutes-xxe-to-lfi-897bca9c304c?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1129/1*qbb7fSiv645bMNUZUwMCRA.png\" width=\"1129\" /></a></p><p class=\"medium-feed-snippet\">Optimized Nuclei Scan for Easy Bountiesss</p><p class=\"medium-feed-link\"><a href=\"https://skramthu.medium.com/750-in-5-minutes-xxe-to-lfi-897bca9c304c?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://skramthu.medium.com/750-in-5-minutes-xxe-to-lfi-897bca9c304c?source=rss------infosec-5",
+        "published": "Mon, 23 Sep 2024 17:44:15 GMT"
+    },
+    {
+        "title": "The Linux Concept Journey\u200a\u2014\u200a/dev/mem",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@boutnaru/the-linux-concept-journey-dev-mem-ee697b16ed3d?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/665/0*1G3ulKtaZitCj43f\" width=\"665\" /></a></p><p class=\"medium-feed-snippet\">In general, &#x201c;/dev/mem&#x201d; is a character device (https://medium.com/@boutnaru/the-linux-concept-journey-character-devices-0c75aa70ceb2) that&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@boutnaru/the-linux-concept-journey-dev-mem-ee697b16ed3d?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@boutnaru/the-linux-concept-journey-dev-mem-ee697b16ed3d?source=rss------infosec-5",
+        "published": "Mon, 23 Sep 2024 17:18:03 GMT"
+    },
+    {
+        "title": "Understanding Command and Control (C2) in Cybersecurity: A Beginner\u2019s Guide",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bharggav.gondakar/understanding-command-and-control-c2-in-cybersecurity-a-beginners-guide-bf1deb3b143c?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*seQltvKvG0hDQE4W_6qn0w.jpeg\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">In the world of cybersecurity, one of the most critical aspects of modern cyberattacks is Command and Control (C2). Often heard in threat&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bharggav.gondakar/understanding-command-and-control-c2-in-cybersecurity-a-beginners-guide-bf1deb3b143c?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bharggav.gondakar/understanding-command-and-control-c2-in-cybersecurity-a-beginners-guide-bf1deb3b143c?source=rss------infosec-5",
+        "published": "Mon, 23 Sep 2024 15:41:44 GMT"
+    },
+    {
+        "title": "IDORS\u200a\u2014\u200aleaking 1.5 crore user details",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@nireshpandian19/idors-leaking-1-5-crore-user-details-5bbc3b9368e2?source=rss------idor-5\"><img src=\"https://cdn-images-1.medium.com/max/1579/1*5IaY3cxfJL_MjHE5Jb4e5w.png\" width=\"1579\" /></a></p><p class=\"medium-feed-snippet\">Hey fellas,\nAfter a lot of people DMs, Methodology requests, and ton of emails, i finally decided to write up the methodologies on my&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@nireshpandian19/idors-leaking-1-5-crore-user-details-5bbc3b9368e2?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@nireshpandian19/idors-leaking-1-5-crore-user-details-5bbc3b9368e2?source=rss------idor-5",
+        "published": "Wed, 25 Sep 2024 07:00:32 GMT"
+    },
+    {
+        "title": "How to Find Video Viral de Marianita Online",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@buttlerisabella/how-to-find-video-viral-de-marianita-online-e7c2aeba7e6e?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/988/1*5Y4cW8WAkTM5LwSG9oBSGg.png\" width=\"988\" /></a></p><p class=\"medium-feed-snippet\">If you&#x2019;ve been scrolling through social media lately, chances are you&#x2019;ve stumbled upon the Video Viral de Marianita. This clip has taken&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@buttlerisabella/how-to-find-video-viral-de-marianita-online-e7c2aeba7e6e?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@buttlerisabella/how-to-find-video-viral-de-marianita-online-e7c2aeba7e6e?source=rss------xss-5",
+        "published": "Tue, 24 Sep 2024 18:12:21 GMT"
+    },
+    {
+        "title": "3 Minute Sophie Rain Spiderman Viral Video Tutorial",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@taylorhazel955/3-minute-sophie-rain-spiderman-viral-video-tutorial-744eea53fe92?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/658/1*I-i0i9nFBf_lAfNVHD2ZxA.png\" width=\"658\" /></a></p><p class=\"medium-feed-snippet\">If you&#x2019;ve been scrolling through social media lately, you might have come across the Sophie Rain Spiderman Viral video. This captivating&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@taylorhazel955/3-minute-sophie-rain-spiderman-viral-video-tutorial-744eea53fe92?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@taylorhazel955/3-minute-sophie-rain-spiderman-viral-video-tutorial-744eea53fe92?source=rss------xss-5",
+        "published": "Tue, 24 Sep 2024 17:17:10 GMT"
+    },
+    {
+        "title": "Ransomware 2.0: Unveiling the Most Dangerous Attack Vectors of 2024",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@akshay1230789/ransomware-2-0-unveiling-the-most-dangerous-attack-vectors-of-2024-1cc32d9416e3?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1312/1*0962eSm7gW26uJwjoK6n2w.jpeg\" width=\"1312\" /></a></p><p class=\"medium-feed-snippet\">As we navigate through 2024, the landscape of cybersecurity continues to evolve at a rapid pace. Among the myriad of threats, ransomware&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@akshay1230789/ransomware-2-0-unveiling-the-most-dangerous-attack-vectors-of-2024-1cc32d9416e3?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@akshay1230789/ransomware-2-0-unveiling-the-most-dangerous-attack-vectors-of-2024-1cc32d9416e3?source=rss------cybersecurity-5",
+        "published": "Wed, 25 Sep 2024 08:09:48 GMT"
+    },
+    {
+        "title": "How Does WAF Prevent XSS Attacks",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@carriesafelinewaf/how-does-waf-prevent-xss-attacks-2d44631db3e2?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/764/1*cSr5mlIXyivY2tc0HxrGcQ.png\" width=\"764\" /></a></p><p class=\"medium-feed-snippet\">Cross-Site Scripting (XSS) attacks are a type of security vulnerability found in web applications that allow attackers to inject malicious&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@carriesafelinewaf/how-does-waf-prevent-xss-attacks-2d44631db3e2?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@carriesafelinewaf/how-does-waf-prevent-xss-attacks-2d44631db3e2?source=rss------cybersecurity-5",
+        "published": "Wed, 25 Sep 2024 08:03:08 GMT"
+    },
+    {
+        "title": "Script Title: God-Tier Central Intelligence Apache Web Server Setup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/aardvark-infinity/script-title-god-tier-central-intelligence-apache-web-server-setup-45a4ddfc74a7?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*1PwSez-rn8NZ5pwY\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Author: Gerard King\nWebsite: www.gerardking.dev\nFile Name: god_tier_central_intelligence_apache_setup.sh</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/aardvark-infinity/script-title-god-tier-central-intelligence-apache-web-server-setup-45a4ddfc74a7?source=rss------cybersecurity-5\">Continue reading on Aardvark Infinity \u00bb</a></p></div>",
+        "link": "https://medium.com/aardvark-infinity/script-title-god-tier-central-intelligence-apache-web-server-setup-45a4ddfc74a7?source=rss------cybersecurity-5",
+        "published": "Wed, 25 Sep 2024 08:01:52 GMT"
+    },
+    {
+        "title": "MYDFIR 30 DAYS SOC CHALLENGE: Day 22",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@yournextCISO/mydfir-30-days-soc-challenge-day-22-490615189778?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1917/1*r2FOWYyfeQF_iCLge9TtYw.png\" width=\"1917\" /></a></p><p class=\"medium-feed-snippet\">Create Alerts and Dashboards in Kibana Part 4</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@yournextCISO/mydfir-30-days-soc-challenge-day-22-490615189778?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@yournextCISO/mydfir-30-days-soc-challenge-day-22-490615189778?source=rss------cybersecurity-5",
+        "published": "Wed, 25 Sep 2024 07:57:52 GMT"
+    },
+    {
+        "title": "Hi guys, welcome to my blog!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wangolobachawa9/hi-guys-welcome-to-my-blog-b67be76f082a?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wangolobachawa9/hi-guys-welcome-to-my-blog-b67be76f082a?source=rss------cybersecurity-5",
+        "published": "Wed, 25 Sep 2024 07:55:14 GMT"
+    },
+    {
+        "title": "Cyber Security Risk Management Strategies for Saudi Arabia",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bluechiptech.saudi/cyber-security-risk-management-strategies-for-saudi-arabia-eae502763537?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*oDc-wgz-RaV4_IJ-qlQbZQ.jpeg\" width=\"3000\" /></a></p><p class=\"medium-feed-snippet\">The importance of robust cyber security measures in an increasingly digital world cannot be emphasized. As the nation embraces&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bluechiptech.saudi/cyber-security-risk-management-strategies-for-saudi-arabia-eae502763537?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bluechiptech.saudi/cyber-security-risk-management-strategies-for-saudi-arabia-eae502763537?source=rss------cybersecurity-5",
+        "published": "Wed, 25 Sep 2024 07:36:04 GMT"
+    },
+    {
+        "title": "Zenmap Installation on Kali Linux: A Quick Overview",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@halildeniz313/zenmap-installation-on-kali-linux-a-quick-overview-291764b52028?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1500/1*r_I_7CGxkSDtDKl4GBW1FQ.jpeg\" width=\"1500\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@halildeniz313/zenmap-installation-on-kali-linux-a-quick-overview-291764b52028?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@halildeniz313/zenmap-installation-on-kali-linux-a-quick-overview-291764b52028?source=rss------cybersecurity-5",
+        "published": "Wed, 25 Sep 2024 07:26:07 GMT"
+    },
+    {
+        "title": "Understanding Cybersecurity Threats: A Simple Guide (with examples!!)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@nesruler/understanding-cybersecurity-threats-a-simple-guide-805032286484?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*N-wxZ6OSC8gGSvJQ\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">TL;DR</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@nesruler/understanding-cybersecurity-threats-a-simple-guide-805032286484?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@nesruler/understanding-cybersecurity-threats-a-simple-guide-805032286484?source=rss------cybersecurity-5",
+        "published": "Wed, 25 Sep 2024 07:23:09 GMT"
+    },
+    {
+        "title": "AWS Alert: Real-Time Alerts for Security Group Changes",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bornsecconsulting/aws-alert-real-time-alerts-for-security-group-changes-8b8c87b37eda?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*1-YMshH5224IobE9PpQJ2A.jpeg\" width=\"5464\" /></a></p><p class=\"medium-feed-snippet\">In the fast-paced world of cloud computing, ensuring the security of your infrastructure is paramount. One critical aspect of cloud&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bornsecconsulting/aws-alert-real-time-alerts-for-security-group-changes-8b8c87b37eda?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bornsecconsulting/aws-alert-real-time-alerts-for-security-group-changes-8b8c87b37eda?source=rss------cybersecurity-5",
+        "published": "Wed, 25 Sep 2024 07:23:04 GMT"
+    },
+    {
+        "title": "Certified Azure Red Team Professional (CARTP) Review",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://ibady01.medium.com/certified-azure-red-team-professional-cartp-review-101412ef9db2?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1650/1*d8As0DcA7ya5p9UAp5Rnxw.jpeg\" width=\"1650\" /></a></p><p class=\"medium-feed-snippet\">I have been working as a Penetration Tester for about two and half a years now, when it came to Infrastructure/AD Penetration Testing, it&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://ibady01.medium.com/certified-azure-red-team-professional-cartp-review-101412ef9db2?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://ibady01.medium.com/certified-azure-red-team-professional-cartp-review-101412ef9db2?source=rss------cybersecurity-5",
+        "published": "Wed, 25 Sep 2024 07:09:46 GMT"
+    },
+    {
+        "title": "\u30a2\u30f3\u30b5\u30f3\u30d6\u30eb\u30fb\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u30fc\u62bd\u51fa",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bob3bob3/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB-%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E6%8A%BD%E5%87%BA-e3798a6a58c6?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1800/1*r7z4gYm1tZ4k5bRV_r1IFg.png\" width=\"1800\" /></a></p><p class=\"medium-feed-snippet\">&#x4eca;&#x56de;&#x306f;&#x30cd;&#x30c3;&#x30c8;&#x30ef;&#x30fc;&#x30af;&#x5206;&#x6790;&#x306b;&#x304a;&#x3051;&#x308b;&#x30b3;&#x30df;&#x30e5;&#x30cb;&#x30c6;&#x30a3;&#x62bd;&#x51fa;&#x624b;&#x6cd5;&#x3068;&#x305d;&#x306e;&#x8ab2;&#x984c;&#x3001;&#x5fdc;&#x7528;&#x306b;&#x3064;&#x3044;&#x3066;&#x306e;&#x8a18;&#x4e8b;&#x3067;&#x3059;&#x3002;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bob3bob3/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB-%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E6%8A%BD%E5%87%BA-e3798a6a58c6?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bob3bob3/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB-%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BC%E6%8A%BD%E5%87%BA-e3798a6a58c6?source=rss------python-5",
+        "published": "Wed, 25 Sep 2024 08:30:23 GMT"
+    },
+    {
+        "title": "Bond Risk Sensitivities with Python (Part 1)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://abhyankar-ameya.medium.com/bond-risk-sensitivities-with-python-part-1-24b164a0ec2e?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*-6zLphJW2hD9TyNzBeS3NQ.jpeg\" width=\"5825\" /></a></p><p class=\"medium-feed-snippet\">Duration is a popular measure of interest rate risk sensitivity for bonds</p><p class=\"medium-feed-link\"><a href=\"https://abhyankar-ameya.medium.com/bond-risk-sensitivities-with-python-part-1-24b164a0ec2e?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://abhyankar-ameya.medium.com/bond-risk-sensitivities-with-python-part-1-24b164a0ec2e?source=rss------python-5",
+        "published": "Wed, 25 Sep 2024 08:28:59 GMT"
+    },
+    {
+        "title": "Eleva tu C\u00f3digo Python con Documentaci\u00f3n Profesional",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@AlanOjeda/eleva-tu-c%C3%B3digo-python-con-documentaci%C3%B3n-profesional-78cdb73f20a0?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*a4FnvSNn2pxUtuqo.jpg\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">Descubre c&#xf3;mo las buenas pr&#xe1;cticas de documentaci&#xf3;n pueden transformar tu desarrollo en Python y facilitar la colaboraci&#xf3;n.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@AlanOjeda/eleva-tu-c%C3%B3digo-python-con-documentaci%C3%B3n-profesional-78cdb73f20a0?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@AlanOjeda/eleva-tu-c%C3%B3digo-python-con-documentaci%C3%B3n-profesional-78cdb73f20a0?source=rss------python-5",
+        "published": "Wed, 25 Sep 2024 08:23:32 GMT"
+    },
+    {
+        "title": "Enhancing Application Functionality with Python\u2019s Sorted Function: A Yellow Pages Case Study",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">In the world of data management and application development, efficient data organization is crucial. This article explores how the Python&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@timothyciesha/enhancing-application-functionality-with-pythons-sorted-function-a-yellow-pages-case-study-589d71ac553b?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@timothyciesha/enhancing-application-functionality-with-pythons-sorted-function-a-yellow-pages-case-study-589d71ac553b?source=rss------python-5",
+        "published": "Wed, 25 Sep 2024 08:19:11 GMT"
+    },
+    {
+        "title": "Python Process and Multiprocessing",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">&#x9032;&#x7a0b;(process)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@RyugeKisaki/python-process-and-multiprocessing-8ce0ae102313?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@RyugeKisaki/python-process-and-multiprocessing-8ce0ae102313?source=rss------python-5",
+        "published": "Wed, 25 Sep 2024 08:13:15 GMT"
+    },
+    {
+        "title": "Exploring Linear Algebra: A Journey from Basics to Mastery",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@BhawaniTechDev/exploring-linear-algebra-a-journey-from-basics-to-mastery-f82176f1989b?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*puZoIwBvyVSUi3nyh5jFpg.png\" width=\"4000\" /></a></p><p class=\"medium-feed-snippet\">Introduction: Linear Algebra is a crucial subject in mathematics that forms the foundation for many advanced topics in science, technology&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@BhawaniTechDev/exploring-linear-algebra-a-journey-from-basics-to-mastery-f82176f1989b?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@BhawaniTechDev/exploring-linear-algebra-a-journey-from-basics-to-mastery-f82176f1989b?source=rss------python-5",
+        "published": "Wed, 25 Sep 2024 08:10:26 GMT"
+    },
+    {
+        "title": "\uc774\uc7ac\uba85 \ub300\ud45c\uc758 \ubd88\uc2ec \uacf5\ub7b5 \uc804\ub7b5 \ub300\uacf5\uac1c!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://frowth.medium.com/%EC%9D%B4%EC%9E%AC%EB%AA%85-%EB%8C%80%ED%91%9C%EC%9D%98-%EB%B6%88%EC%8B%AC-%EA%B3%B5%EB%9E%B5-%EC%A0%84%EB%9E%B5-%EB%8C%80%EA%B3%B5%EA%B0%9C-3199b6d1ddef?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://frowth.medium.com/%EC%9D%B4%EC%9E%AC%EB%AA%85-%EB%8C%80%ED%91%9C%EC%9D%98-%EB%B6%88%EC%8B%AC-%EA%B3%B5%EB%9E%B5-%EC%A0%84%EB%9E%B5-%EB%8C%80%EA%B3%B5%EA%B0%9C-3199b6d1ddef?source=rss------python-5",
+        "published": "Wed, 25 Sep 2024 08:09:38 GMT"
+    },
+    {
+        "title": "[Original questions](https://leetcode.com/discuss/interview-question/2436876/Amazon-or-Onsite-or-Bin",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Question</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@haixuanguo/binary-tree-top-down-view-13ac9331e6cb?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@haixuanguo/binary-tree-top-down-view-13ac9331e6cb?source=rss------python-5",
+        "published": "Wed, 25 Sep 2024 07:59:10 GMT"
+    },
+    {
+        "title": "Must Known Django.Modules Before Diving Into Django Web Development",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@vijaywin124/must-known-django-modules-before-diving-into-django-web-development-13f521f5bf6c?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*tR67lCRRzFznkSOM\" width=\"4032\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@vijaywin124/must-known-django-modules-before-diving-into-django-web-development-13f521f5bf6c?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@vijaywin124/must-known-django-modules-before-diving-into-django-web-development-13f521f5bf6c?source=rss------python-5",
+        "published": "Wed, 25 Sep 2024 07:44:49 GMT"
+    },
+    {
+        "title": "Python: Beware of mutable default arguments",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ankurbansal177/python-beware-of-mutable-default-arguments-4c4d62c34141?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/1*x4YtlrB5-KDiBL8V6SiMSw.jpeg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">While mutable default arguments don&#x2019;t directly cause memory leaks in Python, they can lead to unexpected behaviour. Here&#x2019;s an example that&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ankurbansal177/python-beware-of-mutable-default-arguments-4c4d62c34141?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ankurbansal177/python-beware-of-mutable-default-arguments-4c4d62c34141?source=rss------python-5",
+        "published": "Wed, 25 Sep 2024 07:38:41 GMT"
+    },
+    {
+        "title": "JavaScript Worms: Advanced Analysis for Tier 1 Red Team Operators",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/aardvark-infinity/javascript-worms-advanced-analysis-for-tier-1-red-team-operators-b5c21cdca49f?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*bvwzl4ZdqD6-Sy80\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">### Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/aardvark-infinity/javascript-worms-advanced-analysis-for-tier-1-red-team-operators-b5c21cdca49f?source=rss------infosec-5\">Continue reading on Aardvark Infinity \u00bb</a></p></div>",
+        "link": "https://medium.com/aardvark-infinity/javascript-worms-advanced-analysis-for-tier-1-red-team-operators-b5c21cdca49f?source=rss------infosec-5",
+        "published": "Wed, 25 Sep 2024 00:43:02 GMT"
+    },
+    {
+        "title": "Group Policy Abuse\u200a\u2014\u200aModify Existing GPO",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rushabhbhutak/group-policy-abuse-modify-existing-gpo-066ae2d17fdd?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*Nq1hNfbPExW24hZ9AqmfYw.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Exploring the Risks of Group Policy Misconfigurations</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rushabhbhutak/group-policy-abuse-modify-existing-gpo-066ae2d17fdd?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rushabhbhutak/group-policy-abuse-modify-existing-gpo-066ae2d17fdd?source=rss------infosec-5",
+        "published": "Tue, 24 Sep 2024 23:57:46 GMT"
+    },
+    {
+        "title": "Diving into Rilide",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/walmartglobaltech/diving-into-rilide-02684e540b48?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1621/1*gbyzo53VgHHLtjj7TlaY8w.png\" width=\"1621\" /></a></p><p class=\"medium-feed-snippet\">By: Jason Reaves, Joshua Platt and Jonathan McCay</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/walmartglobaltech/diving-into-rilide-02684e540b48?source=rss------infosec-5\">Continue reading on Walmart Global Tech Blog \u00bb</a></p></div>",
+        "link": "https://medium.com/walmartglobaltech/diving-into-rilide-02684e540b48?source=rss------infosec-5",
+        "published": "Tue, 24 Sep 2024 19:34:13 GMT"
+    },
+    {
+        "title": "Going Crazy with Farming VDPs: Extplorer Admin Panel Bypass & Remote Code Execution (RCE)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/going-crazy-with-farming-vdps-extplorer-admin-panel-bypass-remote-code-execution-rce-ed6ae27bbce9?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/848/1*0B4h0h09qI8__vxg_ImBTg.jpeg\" width=\"848\" /></a></p><p class=\"medium-feed-snippet\">Hi guys, I&#x2019;m YoungVanda and in this write-up, I&#x2019;ll talk about a very simple CVE which led to over +20 high-critical vulnerabilities&#xa0;&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/going-crazy-with-farming-vdps-extplorer-admin-panel-bypass-remote-code-execution-rce-ed6ae27bbce9?source=rss------infosec-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/going-crazy-with-farming-vdps-extplorer-admin-panel-bypass-remote-code-execution-rce-ed6ae27bbce9?source=rss------infosec-5",
+        "published": "Tue, 24 Sep 2024 18:36:00 GMT"
+    },
+    {
+        "title": "Cyber Briefing: 2024.09.24",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://cybermaterial.medium.com/cyber-briefing-2024-09-24-a773aef9b989?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/700/1*TxFKwV_TbN9IuLEc9pUuaw.jpeg\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">&#x1f449; What&#x2019;s the latest in the cyber world today?</p><p class=\"medium-feed-link\"><a href=\"https://cybermaterial.medium.com/cyber-briefing-2024-09-24-a773aef9b989?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://cybermaterial.medium.com/cyber-briefing-2024-09-24-a773aef9b989?source=rss------infosec-5",
+        "published": "Tue, 24 Sep 2024 13:58:53 GMT"
+    },
+    {
+        "title": "Cloud Lab Setup: Flare-VM in AWS",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@10n3W01fc3n7/cloud-lab-setup-flare-vm-in-aws-05839c03336b?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*taGxagoH0bXaonZZBsvGdg.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hello Amigos&#xa0;,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@10n3W01fc3n7/cloud-lab-setup-flare-vm-in-aws-05839c03336b?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@10n3W01fc3n7/cloud-lab-setup-flare-vm-in-aws-05839c03336b?source=rss------infosec-5",
+        "published": "Tue, 24 Sep 2024 11:59:40 GMT"
+    },
+    {
+        "title": "Part 1. Malware Analysis-Remcos RAT",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@nomanslandboy/part-1-malware-analysis-remcos-rat-0fd1ed806b2d?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/754/0*uprC45sGoP76e6Fw.png\" width=\"754\" /></a></p><p class=\"medium-feed-snippet\">Remcos RAT (Remote Control and Surveillance RAT) is a type of remote access Trojan that facilitates unauthorized remote control and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@nomanslandboy/part-1-malware-analysis-remcos-rat-0fd1ed806b2d?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@nomanslandboy/part-1-malware-analysis-remcos-rat-0fd1ed806b2d?source=rss------infosec-5",
+        "published": "Tue, 24 Sep 2024 11:44:59 GMT"
+    },
+    {
+        "title": "H4ck3r N4 W3b - O que estudar para ser um Pentester Web?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hydd3n.sec/h4ck3r-n4-w3b-o-que-estudar-para-ser-um-pentester-web-f8be187d14d9?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*MYviS-qpN6JybVLno9cK1Q.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Ol&#xe1; leitor(a)! Espero que esteja bem!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hydd3n.sec/h4ck3r-n4-w3b-o-que-estudar-para-ser-um-pentester-web-f8be187d14d9?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hydd3n.sec/h4ck3r-n4-w3b-o-que-estudar-para-ser-um-pentester-web-f8be187d14d9?source=rss------infosec-5",
+        "published": "Tue, 24 Sep 2024 05:09:04 GMT"
+    },
+    {
+        "title": "IDOR Leads To Account Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mhdrizkiabrar640/idor-leads-to-account-takeover-6adf73bd268b?source=rss------idor-5\"><img src=\"https://cdn-images-1.medium.com/max/1585/1*l9qYe5VxxN9vCOS9yFPA3A.png\" width=\"1585\" /></a></p><p class=\"medium-feed-snippet\">IDOR adalah salah satu kerentanan yang sering ditemukan dalam aplikasi, dan dapat berakibat pada pelanggaran keamanan yang serius. Pada&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mhdrizkiabrar640/idor-leads-to-account-takeover-6adf73bd268b?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mhdrizkiabrar640/idor-leads-to-account-takeover-6adf73bd268b?source=rss------idor-5",
+        "published": "Wed, 25 Sep 2024 20:42:52 GMT"
+    },
+    {
+        "title": "Earth X",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@santanahelms/earth-x-c0ae8a42761c?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*bl3lZzxpz0p-mrzg.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@santanahelms/earth-x-c0ae8a42761c?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@santanahelms/earth-x-c0ae8a42761c?source=rss------xss-5",
+        "published": "Thu, 26 Sep 2024 07:45:41 GMT"
+    },
+    {
+        "title": "Earth X",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@savanagilman/earth-x-fe8c8dddab14?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*mOA78AwAgBkhj9sv.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@savanagilman/earth-x-fe8c8dddab14?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@savanagilman/earth-x-fe8c8dddab14?source=rss------xss-5",
+        "published": "Thu, 26 Sep 2024 06:53:14 GMT"
+    },
+    {
+        "title": "The Purpose of Propaganda and Why Many Eat it Up on Social Media",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@emailvictoriabarnes/the-purpose-of-propaganda-and-why-many-eat-it-up-on-social-media-e2cd70c23012?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*6llRglJkGIXDebh1Ey9enQ.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">&#x201c;It gets the people going!&#x201d;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@emailvictoriabarnes/the-purpose-of-propaganda-and-why-many-eat-it-up-on-social-media-e2cd70c23012?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@emailvictoriabarnes/the-purpose-of-propaganda-and-why-many-eat-it-up-on-social-media-e2cd70c23012?source=rss------xss-5",
+        "published": "Thu, 26 Sep 2024 06:24:28 GMT"
+    },
+    {
+        "title": "Hashtags and Lip Syncs: The New Political Pundits of 2024",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kkcobo/hashtags-and-lip-syncs-the-new-political-pundits-of-2024-866211fdc6b1?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*qkoxMZFzxbRM9GTtRV1Ebw.gif\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">It&#x2019;s probably safe to say that this current presidential election cycle has been every bit as contentious as it has been nervously&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kkcobo/hashtags-and-lip-syncs-the-new-political-pundits-of-2024-866211fdc6b1?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kkcobo/hashtags-and-lip-syncs-the-new-political-pundits-of-2024-866211fdc6b1?source=rss------xss-5",
+        "published": "Thu, 26 Sep 2024 03:47:24 GMT"
+    },
+    {
+        "title": "Concrete Grunge Texture Overlay Free",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@aquaclementina/concrete-grunge-texture-overlay-free-02a68b399e63?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*riaoV6X_U7OjOKkv.jpg\" width=\"3600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@aquaclementina/concrete-grunge-texture-overlay-free-02a68b399e63?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@aquaclementina/concrete-grunge-texture-overlay-free-02a68b399e63?source=rss------xss-5",
+        "published": "Thu, 26 Sep 2024 01:11:57 GMT"
+    },
+    {
+        "title": "Viper",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/aardvark-infinity/viper-7d49f8d6e5c6?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*vOxkPa38Ape0V-JE\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Description: A sophisticated JavaScript tool designed for in-browser exploitation and session hijacking.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/aardvark-infinity/viper-7d49f8d6e5c6?source=rss------xss-5\">Continue reading on Aardvark Infinity \u00bb</a></p></div>",
+        "link": "https://medium.com/aardvark-infinity/viper-7d49f8d6e5c6?source=rss------xss-5",
+        "published": "Wed, 25 Sep 2024 13:53:23 GMT"
+    },
+    {
+        "title": "Rummy 365 Game customer care helpline number \u260e\ufe0f07898037380/\u2705/7894693712 toll free \u2466\u2467\u2468\u2463\u2465\u2468\u2462\u2466\u2460\u2461\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@tmpootinphocom/rummy-365-game-customer-care-helpline-number-%EF%B8%8F07898037380-7894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-b0cc26c7b582?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*iIC4zP4x9J0YjFyI\" width=\"6000\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@tmpootinphocom/rummy-365-game-customer-care-helpline-number-%EF%B8%8F07898037380-7894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-b0cc26c7b582?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@tmpootinphocom/rummy-365-game-customer-care-helpline-number-%EF%B8%8F07898037380-7894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-b0cc26c7b582?source=rss------cybersecurity-5",
+        "published": "Thu, 26 Sep 2024 08:18:07 GMT"
+    },
+    {
+        "title": "Cyber Protection Techniques: Lessons from Ranveer Allahbadia\u2019s Experience",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://medium.com/@manaswitasachdeva/cyber-protection-techniques-lessons-from-ranveer-allahbadias-experience-3cdb74316b5b?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@manaswitasachdeva/cyber-protection-techniques-lessons-from-ranveer-allahbadias-experience-3cdb74316b5b?source=rss------cybersecurity-5",
+        "published": "Thu, 26 Sep 2024 08:15:21 GMT"
+    },
+    {
+        "title": "SIEM(Security Information and Event Management) && EDR(Endpoint Detection and Response)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">SIEM (Security Information and Event Management) ve EDR (Endpoint Detection and Response) ara&#xe7;lar&#x131;, siber g&#xfc;venlik alan&#x131;nda &#xf6;nemli roller&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@gun.colak/siem-security-information-and-event-management-edr-endpoint-detection-and-response-d7067cff112d?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@gun.colak/siem-security-information-and-event-management-edr-endpoint-detection-and-response-d7067cff112d?source=rss------cybersecurity-5",
+        "published": "Thu, 26 Sep 2024 08:09:46 GMT"
+    },
+    {
+        "title": "Effective vulnerability management - why context is key",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/technology-hits/effective-vulnerability-management-why-context-is-key-7b988128bf0f?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*ACRCqAyYPT_tnOZJRvv-uA.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Time to stop relying on CVSS for vulnerability prioritisation</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/technology-hits/effective-vulnerability-management-why-context-is-key-7b988128bf0f?source=rss------cybersecurity-5\">Continue reading on Technology Hits \u00bb</a></p></div>",
+        "link": "https://medium.com/technology-hits/effective-vulnerability-management-why-context-is-key-7b988128bf0f?source=rss------cybersecurity-5",
+        "published": "Thu, 26 Sep 2024 08:08:00 GMT"
+    },
+    {
+        "title": "Bingo 101 yono Game customer care helpline number \u260e\ufe0f7898037380/\u2705/07894693712 toll free \u2466\u2467\u2468\u2463\u2465\u2468\u2462\u2466\u2460\u2461\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@tmdjblggiodaingancom/bingo-101-yono-game-customer-care-helpline-number-%EF%B8%8F7898037380-07894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-24debc123cea?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*QPiAV1WiQlBZKjAk\" width=\"10339\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@tmdjblggiodaingancom/bingo-101-yono-game-customer-care-helpline-number-%EF%B8%8F7898037380-07894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-24debc123cea?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@tmdjblggiodaingancom/bingo-101-yono-game-customer-care-helpline-number-%EF%B8%8F7898037380-07894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-24debc123cea?source=rss------cybersecurity-5",
+        "published": "Thu, 26 Sep 2024 08:04:14 GMT"
+    },
+    {
+        "title": "How To Create a Hacking Lab",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@minahilamer23/how-to-create-a-hacking-lab-ac325e13bd46?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*tzOCkMrym-bq0z9VPL_-aw.jpeg\" width=\"7071\" /></a></p><p class=\"medium-feed-snippet\">1. Prepare Safe Environment:\n&#xa0;You want to hack real servers in a good protected environment on your laptop or PC safely so that nothing&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@minahilamer23/how-to-create-a-hacking-lab-ac325e13bd46?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@minahilamer23/how-to-create-a-hacking-lab-ac325e13bd46?source=rss------cybersecurity-5",
+        "published": "Thu, 26 Sep 2024 08:03:22 GMT"
+    },
+    {
+        "title": "Sock5 Proxies IP: A Must-Have Tool for Improving Network Security and Efficiency",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@w908683127/sock5-proxies-ip-a-must-have-tool-for-improving-network-security-and-efficiency-31edda46ad82?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/698/0*DNzOVgIAjbyLQowV.png\" width=\"698\" /></a></p><p class=\"medium-feed-snippet\">Sock5 Proxies IP: A Must-Have Tool for Improving Network Security and Efficiency</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@w908683127/sock5-proxies-ip-a-must-have-tool-for-improving-network-security-and-efficiency-31edda46ad82?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@w908683127/sock5-proxies-ip-a-must-have-tool-for-improving-network-security-and-efficiency-31edda46ad82?source=rss------cybersecurity-5",
+        "published": "Thu, 26 Sep 2024 08:02:45 GMT"
+    },
+    {
+        "title": "Bingo 101 yono Game customer care helpline number \u260e\ufe0f7898037380/\u2705/07894693712 toll free \u2466\u2467\u2468\u2463\u2465\u2468\u2462\u2466\u2460\u2461\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@tmdjblggiodaingancom/bingo-101-yono-game-customer-care-helpline-number-%EF%B8%8F7898037380-07894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-1b64adc9d367?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*s6cW2eg_pJqfDweg\" width=\"3648\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@tmdjblggiodaingancom/bingo-101-yono-game-customer-care-helpline-number-%EF%B8%8F7898037380-07894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-1b64adc9d367?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@tmdjblggiodaingancom/bingo-101-yono-game-customer-care-helpline-number-%EF%B8%8F7898037380-07894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-1b64adc9d367?source=rss------cybersecurity-5",
+        "published": "Thu, 26 Sep 2024 07:59:41 GMT"
+    },
+    {
+        "title": "Bingo 101 yono Game customer care helpline number \u260e\ufe0f7898037380/\u2705/07894693712 toll free \u2466\u2467\u2468\u2463\u2465\u2468\u2462\u2466\u2460\u2461\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@tmdjblggiodaingancom/bingo-101-yono-game-customer-care-helpline-number-%EF%B8%8F7898037380-07894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-7da219562456?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*mIDMjcNBB_lwjS9I\" width=\"3240\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@tmdjblggiodaingancom/bingo-101-yono-game-customer-care-helpline-number-%EF%B8%8F7898037380-07894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-7da219562456?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@tmdjblggiodaingancom/bingo-101-yono-game-customer-care-helpline-number-%EF%B8%8F7898037380-07894693712-toll-free-%E2%91%A6%E2%91%A7%E2%91%A8%E2%91%A3%E2%91%A5%E2%91%A8%E2%91%A2%E2%91%A6%E2%91%A0%E2%91%A1-7da219562456?source=rss------cybersecurity-5",
+        "published": "Thu, 26 Sep 2024 07:59:08 GMT"
+    },
+    {
+        "title": "Part 9: AI and Cybersecurity",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bakhatalikhan5000/part-9-ai-and-cybersecurity-6c8ff7c17166?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*MmEopXa--D-RRKnh\" width=\"7360\" /></a></p><p class=\"medium-feed-snippet\">Artificial Intelligence (AI) is playing an increasingly important role in the realm of cybersecurity. It provides new ways to detect&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bakhatalikhan5000/part-9-ai-and-cybersecurity-6c8ff7c17166?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bakhatalikhan5000/part-9-ai-and-cybersecurity-6c8ff7c17166?source=rss------cybersecurity-5",
+        "published": "Thu, 26 Sep 2024 07:54:46 GMT"
+    },
+    {
+        "title": "Nested IF in python week 5",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@erlynmaulidya28/nested-if-in-python-week-5-a60b14af4f17?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/800/0*E76BL_BuHvLe_m1q.jpg\" width=\"800\" /></a></p><p class=\"medium-feed-snippet\">Ada situasi dalam kehidupan nyata ketika kita perlu membuat beberapa keputusan, dan berdasarkan keputusan tersebut, kita memutuskan apa&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@erlynmaulidya28/nested-if-in-python-week-5-a60b14af4f17?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@erlynmaulidya28/nested-if-in-python-week-5-a60b14af4f17?source=rss------python-5",
+        "published": "Thu, 26 Sep 2024 08:22:07 GMT"
+    },
+    {
+        "title": "Text Classification Basics Part 3: Text Classification Basics with SciKit-Learn",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">To begin working with SciKit-Learn, we first need to install the library. You can do this by running the following command in your&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://friedcabbage.medium.com/text-classification-basics-part-3-text-classification-basics-with-scikit-learn-298eba08e5ee?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://friedcabbage.medium.com/text-classification-basics-part-3-text-classification-basics-with-scikit-learn-298eba08e5ee?source=rss------python-5",
+        "published": "Thu, 26 Sep 2024 08:20:35 GMT"
+    },
+    {
+        "title": "\ubbf8\uad6d \uc81c\uc870\uc5c5 \ud2b8\ub7fc\ud504 \uacf5\uc57d\uc73c\ub85c \ub3cc\uc544\uc628\ub2e4!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://frowth.medium.com/%EB%AF%B8%EA%B5%AD-%EC%A0%9C%EC%A1%B0%EC%97%85-%ED%8A%B8%EB%9F%BC%ED%94%84-%EA%B3%B5%EC%95%BD%EC%9C%BC%EB%A1%9C-%EB%8F%8C%EC%95%84%EC%98%A8%EB%8B%A4-9fb8ce6f6145?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://frowth.medium.com/%EB%AF%B8%EA%B5%AD-%EC%A0%9C%EC%A1%B0%EC%97%85-%ED%8A%B8%EB%9F%BC%ED%94%84-%EA%B3%B5%EC%95%BD%EC%9C%BC%EB%A1%9C-%EB%8F%8C%EC%95%84%EC%98%A8%EB%8B%A4-9fb8ce6f6145?source=rss------python-5",
+        "published": "Thu, 26 Sep 2024 08:19:55 GMT"
+    },
+    {
+        "title": "What is JWT? Why Should You Care?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">So, what is this thing called JWT that everyone keeps talking about? If you&#x2019;re here, you&#x2019;ve probably heard the term flying around and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@techwithdunamix/what-is-jwt-why-should-you-care-b5de16508e2a?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@techwithdunamix/what-is-jwt-why-should-you-care-b5de16508e2a?source=rss------python-5",
+        "published": "Thu, 26 Sep 2024 08:14:04 GMT"
+    },
+    {
+        "title": "Unnao kredit Loan customer Care Helpline Number\u2795 \u277c\u277a\u2777\u277b\u24ff\u2777\u277d \u27958084483355\u27958084483355 Call Now.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@fahazfda/unnao-kredit-loan-customer-care-helpline-number-%E2%9D%BC%E2%9D%BA%E2%9D%B7%E2%9D%BB%E2%93%BF%E2%9D%B7%E2%9D%BD-8084483355-8084483355-call-now-a41948c12175?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*N2wJr-F98txA-KFd\" width=\"4240\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@fahazfda/unnao-kredit-loan-customer-care-helpline-number-%E2%9D%BC%E2%9D%BA%E2%9D%B7%E2%9D%BB%E2%93%BF%E2%9D%B7%E2%9D%BD-8084483355-8084483355-call-now-a41948c12175?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@fahazfda/unnao-kredit-loan-customer-care-helpline-number-%E2%9D%BC%E2%9D%BA%E2%9D%B7%E2%9D%BB%E2%93%BF%E2%9D%B7%E2%9D%BD-8084483355-8084483355-call-now-a41948c12175?source=rss------python-5",
+        "published": "Thu, 26 Sep 2024 08:13:14 GMT"
+    },
+    {
+        "title": "Unnao kredit Loan customer Care Helpline Number\u2795 \u277c\u277a\u2777\u277b\u24ff\u2777\u277d \u27958084483355\u27958084483355 Call Now.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@fahazfda/unnao-kredit-loan-customer-care-helpline-number-%E2%9D%BC%E2%9D%BA%E2%9D%B7%E2%9D%BB%E2%93%BF%E2%9D%B7%E2%9D%BD-8084483355-8084483355-call-now-6188144581aa?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*UPbKryjYcAdEGXoo\" width=\"2913\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@fahazfda/unnao-kredit-loan-customer-care-helpline-number-%E2%9D%BC%E2%9D%BA%E2%9D%B7%E2%9D%BB%E2%93%BF%E2%9D%B7%E2%9D%BD-8084483355-8084483355-call-now-6188144581aa?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@fahazfda/unnao-kredit-loan-customer-care-helpline-number-%E2%9D%BC%E2%9D%BA%E2%9D%B7%E2%9D%BB%E2%93%BF%E2%9D%B7%E2%9D%BD-8084483355-8084483355-call-now-6188144581aa?source=rss------python-5",
+        "published": "Thu, 26 Sep 2024 08:07:41 GMT"
+    },
+    {
+        "title": "Understanding and Practicing Embedding in Generative AI: From Basics to Advanced",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://kim-jangwook.medium.com/understanding-and-practicing-embedding-in-generative-ai-from-basics-to-advanced-3ee669bfd7f6?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*L1l1a7mMcSAC45wDyodn0g.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">In this post, we will delve into Embedding, a pivotal component in generative AI, exploring it from foundational concepts to advanced&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://kim-jangwook.medium.com/understanding-and-practicing-embedding-in-generative-ai-from-basics-to-advanced-3ee669bfd7f6?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://kim-jangwook.medium.com/understanding-and-practicing-embedding-in-generative-ai-from-basics-to-advanced-3ee669bfd7f6?source=rss------python-5",
+        "published": "Thu, 26 Sep 2024 08:02:06 GMT"
+    },
+    {
+        "title": "Unveiling the Future: Hyperautomation Trends Transforming Industries",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Argoslabs/unveiling-the-future-hyperautomation-trends-transforming-industries-864104ae7957?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*BQma-SUnaXI8QMm1zgPAUg.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">In the digital era, staying competitive requires more than just keeping up with technological advancements; it demands embracing and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Argoslabs/unveiling-the-future-hyperautomation-trends-transforming-industries-864104ae7957?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Argoslabs/unveiling-the-future-hyperautomation-trends-transforming-industries-864104ae7957?source=rss------python-5",
+        "published": "Thu, 26 Sep 2024 08:00:36 GMT"
+    },
+    {
+        "title": "Inventory Stock Using Python CRUD Operations\u00a0: T&C",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kez14/inventory-stock-using-python-crud-operations-t-c-c09b24fcb6c7?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*Z04A6yE8IINDfLcIpXmm-w.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">The development of data management in today&#x2019;s digital era is progressing increasingly fast and dynamic, requiring us to perform various&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kez14/inventory-stock-using-python-crud-operations-t-c-c09b24fcb6c7?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kez14/inventory-stock-using-python-crud-operations-t-c-c09b24fcb6c7?source=rss------python-5",
+        "published": "Thu, 26 Sep 2024 08:00:19 GMT"
+    },
+    {
+        "title": "Essential Python Built-In Function for Data Science",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@saufarahmi30/essential-python-build-in-function-for-data-science-e758a28eed94?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*EwunulKWzBNd7FzF\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Python is a powerful programming language that has become a cornerstone of data science, thanks to its extensive range of built-in&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@saufarahmi30/essential-python-build-in-function-for-data-science-e758a28eed94?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@saufarahmi30/essential-python-build-in-function-for-data-science-e758a28eed94?source=rss------python-5",
+        "published": "Thu, 26 Sep 2024 07:55:26 GMT"
+    },
+    {
+        "title": "Exploring Graudit: The New Source Code Analyzer in Kali Linux",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://theshaco.com/exploring-graudit-the-new-source-code-analyzer-in-kali-linux-ee2c1236202d?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/2432/1*ScTFKwiQxo9rBz6M8DGz-w.png\" width=\"2432\" /></a></p><p class=\"medium-feed-snippet\">One of the newest tools added to Kali Linux&#x2019;s arsenal is Graudit&#x200a;&#x2014;&#x200a;an efficient, flexible, and portable utility designed to help auditors&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://theshaco.com/exploring-graudit-the-new-source-code-analyzer-in-kali-linux-ee2c1236202d?source=rss------infosec-5\">Continue reading on TheShaco.Com \u00bb</a></p></div>",
+        "link": "https://theshaco.com/exploring-graudit-the-new-source-code-analyzer-in-kali-linux-ee2c1236202d?source=rss------infosec-5",
+        "published": "Thu, 26 Sep 2024 07:38:32 GMT"
+    },
+    {
+        "title": "The Linux Concept Journey\u200a\u2014\u200aCharacter Device File",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://medium.com/@boutnaru/the-linux-concept-journey-character-device-file-d00de939dc52?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@boutnaru/the-linux-concept-journey-character-device-file-d00de939dc52?source=rss------infosec-5",
+        "published": "Thu, 26 Sep 2024 04:19:48 GMT"
+    },
+    {
+        "title": "\u041e\u0431\u0437\u043e\u0440 whitepaper \"Secure by Design at Google\"",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://apolomodov.medium.com/whitepaper-secure-by-design-at-google-de92d6b23390?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1862/1*xrNzZ6Wh5xdsafcF1P84YQ.png\" width=\"1862\" /></a></p><p class=\"medium-feed-snippet\">&#x41d;&#x435;&#x434;&#x430;&#x432;&#x43d;&#x43e; &#x44f; &#x43f;&#x440;&#x43e;&#x447;&#x438;&#x442;&#x430;&#x43b; &#x438;&#x43d;&#x442;&#x435;&#x440;&#x435;&#x441;&#x43d;&#x44b;&#x439; whitepaper &#x43e;&#x442; Chirstoph Kern &#x43d;&#x430; &#x442;&#x435;&#x43c;&#x443; security &#x441; &#x447;&#x435;&#x43b;&#x43e;&#x432;&#x435;&#x447;&#x435;&#x441;&#x43a;&#x438;&#x43c; &#x43b;&#x438;&#x446;&#x43e;&#x43c; &#x43e;&#x442; Google, &#x433;&#x434;&#x435; &#x440;&#x430;&#x441;&#x441;&#x43a;&#x430;&#x437;&#x44b;&#x432;&#x430;&#x43b;&#x43e;&#x441;&#x44c; &#x43e; &#x442;&#x43e;&#x43c;, &#x43a;&#x430;&#x43a;&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://apolomodov.medium.com/whitepaper-secure-by-design-at-google-de92d6b23390?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://apolomodov.medium.com/whitepaper-secure-by-design-at-google-de92d6b23390?source=rss------infosec-5",
+        "published": "Wed, 25 Sep 2024 19:46:07 GMT"
+    },
+    {
+        "title": "Why Information Security is under looked in Bangladesh.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Why Information Security is Often Overlooked in Bangladesh and How to Address It</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mansibnewaz/why-information-security-is-under-looked-in-bangladesh-5350d2ca6025?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mansibnewaz/why-information-security-is-under-looked-in-bangladesh-5350d2ca6025?source=rss------infosec-5",
+        "published": "Wed, 25 Sep 2024 18:05:47 GMT"
+    },
+    {
+        "title": "Cyber Briefing: 2024.09.25",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://cybermaterial.medium.com/cyber-briefing-2024-09-25-b5bec61a50a1?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/700/1*DUnphN1qJllqbf4gJnAQ-g.jpeg\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">&#x1f449; What&#x2019;s trending in cybersecurity today?</p><p class=\"medium-feed-link\"><a href=\"https://cybermaterial.medium.com/cyber-briefing-2024-09-25-b5bec61a50a1?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://cybermaterial.medium.com/cyber-briefing-2024-09-25-b5bec61a50a1?source=rss------infosec-5",
+        "published": "Wed, 25 Sep 2024 14:00:45 GMT"
+    },
+    {
+        "title": "Cheese CTF TryhackMe: From SQL Injection to Root Access",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://matsecurity.medium.com/cheese-ctf-tryhackme-from-sql-injection-to-root-access-67cb224b8c7a?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*kPS0Dx_B_VwxAgOTUGrbtA.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">In this blog, I&#x2019;ll guide you through the Cheese CTF challenge from TryHackMe. This room is packed with learning opportunities, including&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://matsecurity.medium.com/cheese-ctf-tryhackme-from-sql-injection-to-root-access-67cb224b8c7a?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://matsecurity.medium.com/cheese-ctf-tryhackme-from-sql-injection-to-root-access-67cb224b8c7a?source=rss------infosec-5",
+        "published": "Wed, 25 Sep 2024 11:52:43 GMT"
+    },
+    {
+        "title": "Mastering DNS Security: Everything You Need to Know!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://vold3mort.medium.com/mastering-dns-security-everything-you-need-to-know-509bafd00655?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*D8RDHEiSnndytkd8F6SQVA.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">Ah, the Domain Name System (DNS)&#x200a;&#x2014;&#x200a;the unsung hero of the internet. You probably interact with it dozens of times a day without even&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://vold3mort.medium.com/mastering-dns-security-everything-you-need-to-know-509bafd00655?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://vold3mort.medium.com/mastering-dns-security-everything-you-need-to-know-509bafd00655?source=rss------infosec-5",
+        "published": "Wed, 25 Sep 2024 09:14:33 GMT"
+    },
+    {
+        "title": "Analysis of Star Insurance Data Breach Incident\u200a\u2014\u200aA Serious Cybersecurity Breach in September 2024",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@aniruddha1khandwe/analysis-of-star-insurance-data-breach-incident-a-serious-cybersecurity-breach-in-september-2024-d01b4b214980?source=rss------idor-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*7F4C7hkV2bDUooRu.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">On September 20, 2024, the cybercriminal known as &#x201c;xenZen&#x201d; made headlines by selling 7TB of sensitive data obtained from Star Health&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@aniruddha1khandwe/analysis-of-star-insurance-data-breach-incident-a-serious-cybersecurity-breach-in-september-2024-d01b4b214980?source=rss------idor-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@aniruddha1khandwe/analysis-of-star-insurance-data-breach-incident-a-serious-cybersecurity-breach-in-september-2024-d01b4b214980?source=rss------idor-5",
+        "published": "Fri, 27 Sep 2024 06:40:24 GMT"
+    },
+    {
+        "title": "Four x 4 \u2014 Four Series Books 1\u20134: Reverse Harem Romance Box Set",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@nataleeshipley/four-x-4-four-series-books-1-4-reverse-harem-romance-box-set-48a5d645bbb9?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*aPU4lIaoFuMMHeAt.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@nataleeshipley/four-x-4-four-series-books-1-4-reverse-harem-romance-box-set-48a5d645bbb9?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@nataleeshipley/four-x-4-four-series-books-1-4-reverse-harem-romance-box-set-48a5d645bbb9?source=rss------xss-5",
+        "published": "Fri, 27 Sep 2024 05:46:55 GMT"
+    },
+    {
+        "title": "X Releases First Transparency Report Since Musk\u2019s Acquisition\u200a\u2014\u200aOver 224 Million User Reports And\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@parashar__manas/x-releases-first-transparency-report-since-musks-acquisition-over-224-million-user-reports-and-0e8d4af06ea5?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*2oIQayX5Wfe64l1J\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">Microblogging platform X (formerly known as Twitter) has released its first transparency report in nearly two years, marking the first&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@parashar__manas/x-releases-first-transparency-report-since-musks-acquisition-over-224-million-user-reports-and-0e8d4af06ea5?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@parashar__manas/x-releases-first-transparency-report-since-musks-acquisition-over-224-million-user-reports-and-0e8d4af06ea5?source=rss------xss-5",
+        "published": "Fri, 27 Sep 2024 03:29:32 GMT"
+    },
+    {
+        "title": "Game of X v.1: Xbox",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kylanmiller/game-of-x-v-1-xbox-3214b01f34ee?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*8Tn1ubWxRBj-ehAp.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kylanmiller/game-of-x-v-1-xbox-3214b01f34ee?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kylanmiller/game-of-x-v-1-xbox-3214b01f34ee?source=rss------xss-5",
+        "published": "Fri, 27 Sep 2024 00:47:11 GMT"
+    },
+    {
+        "title": "X (Modern Classics)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@stefannoriega/x-modern-classics-403b3d71473c?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*_BShOF6mb1a394Mq.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@stefannoriega/x-modern-classics-403b3d71473c?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@stefannoriega/x-modern-classics-403b3d71473c?source=rss------xss-5",
+        "published": "Thu, 26 Sep 2024 23:36:37 GMT"
+    },
+    {
+        "title": "Spy x Family, Vol. 11",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@andynavarro_21622/spy-x-family-vol-11-f20d035285f0?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*cTrNI5htOdRxvtfu.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@andynavarro_21622/spy-x-family-vol-11-f20d035285f0?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@andynavarro_21622/spy-x-family-vol-11-f20d035285f0?source=rss------xss-5",
+        "published": "Thu, 26 Sep 2024 23:26:02 GMT"
+    },
+    {
+        "title": "A Imprensa e a Censura",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anartivider/a-imprensa-e-a-censura-957562e212f1?source=rss------xss-5\"><img src=\"https://cdn-images-1.medium.com/max/980/0*0U3MqJTxy-dIrPBp.jpg\" width=\"980\" /></a></p><p class=\"medium-feed-snippet\">Porque a imprensa brasileira se tornou t&#xe3;o adepta em defender a censura?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anartivider/a-imprensa-e-a-censura-957562e212f1?source=rss------xss-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anartivider/a-imprensa-e-a-censura-957562e212f1?source=rss------xss-5",
+        "published": "Thu, 26 Sep 2024 15:00:38 GMT"
+    },
+    {
+        "title": "Cyber and Luxury Fashion",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Read all about AFRG&#x200a;&#x2014;&#x200a;www.afsretailguide.com</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@forsyth.alexandra96/cyber-and-luxury-fashion-8e8d4c26f6a6?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@forsyth.alexandra96/cyber-and-luxury-fashion-8e8d4c26f6a6?source=rss------cybersecurity-5",
+        "published": "Fri, 27 Sep 2024 08:15:06 GMT"
+    },
+    {
+        "title": "Ultimate Guide For Cybersecurity laws and legislation To Protect Business.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@alexxanderttr/ultimate-guide-for-cybersecurity-laws-and-legislation-to-protect-business-391ee8d1fac6?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*lxNAVC2XzRfgu8vZ30sSOA.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">What is Cyber Security Law?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@alexxanderttr/ultimate-guide-for-cybersecurity-laws-and-legislation-to-protect-business-391ee8d1fac6?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@alexxanderttr/ultimate-guide-for-cybersecurity-laws-and-legislation-to-protect-business-391ee8d1fac6?source=rss------cybersecurity-5",
+        "published": "Fri, 27 Sep 2024 08:11:59 GMT"
+    },
+    {
+        "title": "Global Security Solutions for AI-Based Cybersecurity Threats",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bornsecconsulting/global-security-solutions-for-ai-based-cybersecurity-threats-396fc632b601?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*ttL2BLcJ2DOehIul8rTvaw.jpeg\" width=\"3500\" /></a></p><p class=\"medium-feed-snippet\">Global Information Security Solutions for Cybersecurity Threats on AI</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bornsecconsulting/global-security-solutions-for-ai-based-cybersecurity-threats-396fc632b601?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bornsecconsulting/global-security-solutions-for-ai-based-cybersecurity-threats-396fc632b601?source=rss------cybersecurity-5",
+        "published": "Fri, 27 Sep 2024 08:05:15 GMT"
+    },
+    {
+        "title": "Best Cyber Security Strategies to Defend Against CyberThreats in 2024",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://afshannoureen.medium.com/best-cyber-security-strategies-to-defend-against-cyberthreats-in-2024-58a9fac664a7?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*d_bevPUqon2SEHwq\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">In the current technological age, businesses of all sizes mostly rely on technology. Innovative technologies and computerized advancement&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://afshannoureen.medium.com/best-cyber-security-strategies-to-defend-against-cyberthreats-in-2024-58a9fac664a7?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://afshannoureen.medium.com/best-cyber-security-strategies-to-defend-against-cyberthreats-in-2024-58a9fac664a7?source=rss------cybersecurity-5",
+        "published": "Fri, 27 Sep 2024 08:00:36 GMT"
+    },
+    {
+        "title": "AutoCanada \u0e40\u0e1c\u0e22\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e1e\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e2d\u0e32\u0e08\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e1c\u0e25\u0e01\u0e23\u0e30\u0e17\u0e1a\u0e08\u0e32\u0e01\u0e01\u0e32\u0e23\u0e42\u0e08\u0e21\u0e15\u0e35\u0e14\u0e49\u0e27\u0e22\u0e41\u0e23\u0e19\u0e0b\u0e31\u0e21\u0e41\u0e27\u0e23\u0e4c",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@National_CERT_NCSA/autocanada-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%88%E0%B8%A1%E0%B8%95%E0%B8%B5%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%A3%E0%B8%99%E0%B8%8B%E0%B8%B1%E0%B8%A1%E0%B9%81%E0%B8%A7%E0%B8%A3%E0%B9%8C-1678a4c3a4d7?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1440/1*wWnp_J6wvSUy5yrd2SKH0w.png\" width=\"1440\" /></a></p><p class=\"medium-feed-snippet\">&#xe1b;&#xe23;&#xe30;&#xe08;&#xe33;&#xe27;&#xe31;&#xe19;&#xe28;&#xe38;&#xe01;&#xe23;&#xe4c;&#xe17;&#xe35;&#xe48; 27 &#xe01;&#xe31;&#xe19;&#xe22;&#xe32;&#xe22;&#xe19; 2567</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@National_CERT_NCSA/autocanada-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%88%E0%B8%A1%E0%B8%95%E0%B8%B5%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%A3%E0%B8%99%E0%B8%8B%E0%B8%B1%E0%B8%A1%E0%B9%81%E0%B8%A7%E0%B8%A3%E0%B9%8C-1678a4c3a4d7?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@National_CERT_NCSA/autocanada-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%9A%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%88%E0%B8%A1%E0%B8%95%E0%B8%B5%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%A3%E0%B8%99%E0%B8%8B%E0%B8%B1%E0%B8%A1%E0%B9%81%E0%B8%A7%E0%B8%A3%E0%B9%8C-1678a4c3a4d7?source=rss------cybersecurity-5",
+        "published": "Fri, 27 Sep 2024 07:49:48 GMT"
+    },
+    {
+        "title": "WordPress.org \u0e1b\u0e0f\u0e34\u0e40\u0e2a\u0e18\u0e01\u0e32\u0e23\u0e43\u0e2b\u0e49\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e01\u0e31\u0e1a WP Engine \u0e0b\u0e36\u0e48\u0e07\u0e2d\u0e32\u0e08\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e27\u0e47\u0e1a\u0e44\u0e0b\u0e15\u0e4c\u0e15\u0e48\u0e32\u0e07 \u0e46 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e07",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@National_CERT_NCSA/wordpress-org-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B9%80%E0%B8%AA%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%9A-wp-engine-%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87-%E0%B9%86-%E0%B8%95%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87-f43ebcd90e84?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1440/1*SHsO_vkqyjmdKABKOFUWuA.png\" width=\"1440\" /></a></p><p class=\"medium-feed-snippet\">&#xe1b;&#xe23;&#xe30;&#xe08;&#xe33;&#xe27;&#xe31;&#xe19;&#xe28;&#xe38;&#xe01;&#xe23;&#xe4c;&#xe17;&#xe35;&#xe48; 27 &#xe01;&#xe31;&#xe19;&#xe22;&#xe32;&#xe22;&#xe19; 2567</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@National_CERT_NCSA/wordpress-org-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B9%80%E0%B8%AA%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%9A-wp-engine-%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87-%E0%B9%86-%E0%B8%95%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87-f43ebcd90e84?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@National_CERT_NCSA/wordpress-org-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B9%80%E0%B8%AA%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%9A-wp-engine-%E0%B8%8B%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B8%97%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87-%E0%B9%86-%E0%B8%95%E0%B8%81%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87-f43ebcd90e84?source=rss------cybersecurity-5",
+        "published": "Fri, 27 Sep 2024 07:49:06 GMT"
+    },
+    {
+        "title": "The Daily Tech Digest: 27 September 2024",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sourenstepanyan/the-daily-tech-digest-27-september-2024-c80a9658b1b6?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*UZ8XnlPcBLqG2p_g4EH44w.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">Welcome to your tech briefing for today. In this digest, we&#x2019;ll dive into five key categories that define the current tech landscape&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sourenstepanyan/the-daily-tech-digest-27-september-2024-c80a9658b1b6?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sourenstepanyan/the-daily-tech-digest-27-september-2024-c80a9658b1b6?source=rss------cybersecurity-5",
+        "published": "Fri, 27 Sep 2024 07:41:30 GMT"
+    },
+    {
+        "title": "The Shifting Landscape of Cyber Threats: Safeguarding Your Digital Space",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@talhaumer76/the-shifting-landscape-of-cyber-threats-safeguarding-your-digital-space-f47e5d767c27?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/1*8OGew6CbO9dHGIhyVRM-eg@2x.jpeg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">CYBERSECURITY THREATS</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@talhaumer76/the-shifting-landscape-of-cyber-threats-safeguarding-your-digital-space-f47e5d767c27?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@talhaumer76/the-shifting-landscape-of-cyber-threats-safeguarding-your-digital-space-f47e5d767c27?source=rss------cybersecurity-5",
+        "published": "Fri, 27 Sep 2024 07:31:22 GMT"
+    },
+    {
+        "title": "\u00bfC\u00f3mo puedo retirar mi dinero de Lendermarket?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">As&#xed; es como Tradereport .org me ayud&#xf3; a retirar mis fondos de Lendermarket con facilidad  </p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sergeimarkus/c%C3%B3mo-puedo-retirar-mi-dinero-de-lendermarket-45b6145c81ec?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sergeimarkus/c%C3%B3mo-puedo-retirar-mi-dinero-de-lendermarket-45b6145c81ec?source=rss------cybersecurity-5",
+        "published": "Fri, 27 Sep 2024 07:25:19 GMT"
+    },
+    {
+        "title": "What is Bug Bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@iabhipathak/what-is-bug-bounty-fc9fe6a73e16?source=rss------cybersecurity-5\"><img src=\"https://cdn-images-1.medium.com/max/626/0*8zu3Icbok1VNEtyP.jpg\" width=\"626\" /></a></p><p class=\"medium-feed-snippet\">What is a bug?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iabhipathak/what-is-bug-bounty-fc9fe6a73e16?source=rss------cybersecurity-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iabhipathak/what-is-bug-bounty-fc9fe6a73e16?source=rss------cybersecurity-5",
+        "published": "Fri, 27 Sep 2024 07:21:41 GMT"
+    },
+    {
+        "title": "Memahami Large Language Models: Sebuah Panduan Teknis",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ronimoe/memahami-large-language-models-sebuah-panduan-teknis-2c493b403dd2?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/800/0*aJ5S7hqzX9Fe2PUq.jpg\" width=\"800\" /></a></p><p class=\"medium-feed-snippet\">Panduan teknis LLM untuk UKM Indonesia: Pelajari arsitektur, implementasi, dan manfaat AI canggih untuk bisnis Anda.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ronimoe/memahami-large-language-models-sebuah-panduan-teknis-2c493b403dd2?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ronimoe/memahami-large-language-models-sebuah-panduan-teknis-2c493b403dd2?source=rss------python-5",
+        "published": "Fri, 27 Sep 2024 08:01:48 GMT"
+    },
+    {
+        "title": "Learned Python as a Entrepreneur",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Hello, I am Win Yadanar Oo Treasure, who is burmese woman entrepreneur and faced some failures and building youth community through our&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@winyadanaroo/learned-python-as-a-entrepreneur-34a2765e1efb?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@winyadanaroo/learned-python-as-a-entrepreneur-34a2765e1efb?source=rss------python-5",
+        "published": "Fri, 27 Sep 2024 07:52:55 GMT"
+    },
+    {
+        "title": "Creating a Differentially Private Reinforcement Learning Agent Using Hyper Dimensional Computing\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://rabmcmenemy.medium.com/creating-a-differentially-private-reinforcement-learning-agent-using-hyper-dimensional-computing-17a401ae9958?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/848/0*qKfdBER58XDM7akC.jpg\" width=\"848\" /></a></p><p class=\"medium-feed-snippet\">An in-depth technical walkthrough.</p><p class=\"medium-feed-link\"><a href=\"https://rabmcmenemy.medium.com/creating-a-differentially-private-reinforcement-learning-agent-using-hyper-dimensional-computing-17a401ae9958?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://rabmcmenemy.medium.com/creating-a-differentially-private-reinforcement-learning-agent-using-hyper-dimensional-computing-17a401ae9958?source=rss------python-5",
+        "published": "Fri, 27 Sep 2024 07:42:08 GMT"
+    },
+    {
+        "title": "Creating ASCII Text with Python\u2019s PyFiglet Library",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">ASCII art is a fun and creative way to represent text using characters.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@adeevmardia/creating-ascii-text-with-pythons-pyfiglet-library-25ce81d5f376?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@adeevmardia/creating-ascii-text-with-pythons-pyfiglet-library-25ce81d5f376?source=rss------python-5",
+        "published": "Fri, 27 Sep 2024 07:41:35 GMT"
+    },
+    {
+        "title": "How to Install Django & Setup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@princehari.selvaraj/how-to-install-django-setup-549f192361f8?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*6AQnkcj3gNRPg7SQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Step 1: Install Pip</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@princehari.selvaraj/how-to-install-django-setup-549f192361f8?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@princehari.selvaraj/how-to-install-django-setup-549f192361f8?source=rss------python-5",
+        "published": "Fri, 27 Sep 2024 07:11:38 GMT"
+    },
+    {
+        "title": "How to Use GitHub Copilot: Use Cases and Best Practices",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@girimanaskumar1998/how-to-use-github-copilot-use-cases-and-best-practices-1b0e5b6a6aa4?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1960/0*4e6AjuNCM4P_RJes.png\" width=\"1960\" /></a></p><p class=\"medium-feed-snippet\">Explore how GitHub Copilot works with Visual Studio Code. Learn about its features, pricing, and practical applications for students and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@girimanaskumar1998/how-to-use-github-copilot-use-cases-and-best-practices-1b0e5b6a6aa4?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@girimanaskumar1998/how-to-use-github-copilot-use-cases-and-best-practices-1b0e5b6a6aa4?source=rss------python-5",
+        "published": "Fri, 27 Sep 2024 07:04:21 GMT"
+    },
+    {
+        "title": "Guide to Python Enums I never had before",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://gaganmanku96.medium.com/guide-to-python-enums-i-never-had-before-b81b8355fdcc?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*7KmEujzx_GJdm-uS\" width=\"6016\" /></a></p><p class=\"medium-feed-snippet\">Hands-on guide on using Python Enums</p><p class=\"medium-feed-link\"><a href=\"https://gaganmanku96.medium.com/guide-to-python-enums-i-never-had-before-b81b8355fdcc?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://gaganmanku96.medium.com/guide-to-python-enums-i-never-had-before-b81b8355fdcc?source=rss------python-5",
+        "published": "Fri, 27 Sep 2024 07:04:12 GMT"
+    },
+    {
+        "title": "How to Automate Excel with Python: A Complete Guide Using OpenPyXL",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kevinmenesesgonzalez/how-to-automate-excel-with-python-a-complete-guide-using-openpyxl-08a3993083e4?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*L-YtMTbG-lFFSe2B35GmzQ.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Imagine automating your daily Excel tasks with just a few lines of code.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kevinmenesesgonzalez/how-to-automate-excel-with-python-a-complete-guide-using-openpyxl-08a3993083e4?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kevinmenesesgonzalez/how-to-automate-excel-with-python-a-complete-guide-using-openpyxl-08a3993083e4?source=rss------python-5",
+        "published": "Fri, 27 Sep 2024 07:01:46 GMT"
+    },
+    {
+        "title": "Cursor AI: A Guide With 10 Practical Examples",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@girimanaskumar1998/cursor-ai-a-guide-with-10-practical-examples-5353f4c47e9a?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/1838/1*SpWwWAGf9IKaluIxpvG-MQ.png\" width=\"1838\" /></a></p><p class=\"medium-feed-snippet\">Learn how to install Cursor AI on Windows, macOS, and Linux, and discover how to use it through 10 different use cases.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@girimanaskumar1998/cursor-ai-a-guide-with-10-practical-examples-5353f4c47e9a?source=rss------python-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@girimanaskumar1998/cursor-ai-a-guide-with-10-practical-examples-5353f4c47e9a?source=rss------python-5",
+        "published": "Fri, 27 Sep 2024 07:01:07 GMT"
+    },
+    {
+        "title": "Introduction to Portfolio Management using Python (5)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/coinmonks/introduction-to-portfolio-management-using-python-5-bc6fc134a73c?source=rss------python-5\"><img src=\"https://cdn-images-1.medium.com/max/2160/1*u7J9kS7DuXkiPrHgF39CGQ.jpeg\" width=\"2160\" /></a></p><p class=\"medium-feed-snippet\">Reduce Portofolio Risk by Diversification</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/coinmonks/introduction-to-portfolio-management-using-python-5-bc6fc134a73c?source=rss------python-5\">Continue reading on Coinmonks \u00bb</a></p></div>",
+        "link": "https://medium.com/coinmonks/introduction-to-portfolio-management-using-python-5-bc6fc134a73c?source=rss------python-5",
+        "published": "Fri, 27 Sep 2024 06:56:37 GMT"
+    },
+    {
+        "title": "Security Patching\u200a\u2014\u200aUbuntu/Linux",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@princehari.selvaraj/security-patching-ubuntu-linux-5aec7cebd68c?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*Mgf83ViXMv9kKaXl.jpg\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">Manual patching</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@princehari.selvaraj/security-patching-ubuntu-linux-5aec7cebd68c?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@princehari.selvaraj/security-patching-ubuntu-linux-5aec7cebd68c?source=rss------infosec-5",
+        "published": "Fri, 27 Sep 2024 07:29:23 GMT"
+    },
+    {
+        "title": "Cyber Briefing: 2024.09.26",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://cybermaterial.medium.com/cyber-briefing-2024-09-26-aca12af8a89c?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/700/1*d3JuvxXMBqddebY06MfPnQ.jpeg\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">&#x1f449; What&#x2019;s going on in the cyber world today?</p><p class=\"medium-feed-link\"><a href=\"https://cybermaterial.medium.com/cyber-briefing-2024-09-26-aca12af8a89c?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://cybermaterial.medium.com/cyber-briefing-2024-09-26-aca12af8a89c?source=rss------infosec-5",
+        "published": "Thu, 26 Sep 2024 13:58:34 GMT"
+    },
+    {
+        "title": "\u04c7A\u0187\u0198\u0196\u019d\u0193 \u01ac\u01a0\u01a0\u053c\u01a7 \u0191\u01a0\u01a6 \u01ac\u0404\u01a6M\u01b2\u04b2",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@takingcharge45/%D3%88a%C6%88%C6%99%C9%A9%C9%B2%C9%A0-%C6%AD%C6%A1%C6%A1%D5%AC%C6%A8-%C6%92%C6%A1%CA%80-%C6%AD%D1%94%CA%80m%CA%8B%D2%B3-54bb9c1e7e0b?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*81jBIDo1ovqz0h_EnASJUw.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Top 5 apps for android hackers</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@takingcharge45/%D3%88a%C6%88%C6%99%C9%A9%C9%B2%C9%A0-%C6%AD%C6%A1%C6%A1%D5%AC%C6%A8-%C6%92%C6%A1%CA%80-%C6%AD%D1%94%CA%80m%CA%8B%D2%B3-54bb9c1e7e0b?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@takingcharge45/%D3%88a%C6%88%C6%99%C9%A9%C9%B2%C9%A0-%C6%AD%C6%A1%C6%A1%D5%AC%C6%A8-%C6%92%C6%A1%CA%80-%C6%AD%D1%94%CA%80m%CA%8B%D2%B3-54bb9c1e7e0b?source=rss------infosec-5",
+        "published": "Thu, 26 Sep 2024 13:34:03 GMT"
     }
 ]
