@@ -8,6 +8,9 @@ import asyncio
 import time
 
 
+
+post_ = 0
+
 with open("DB.json", "r") as file:
     db = json.loads(file.read())
 
@@ -96,6 +99,8 @@ async def main():
             if post_exists_in_db(post=post, db=db):
                 continue
             
+            post_ += 1
+            
             author = entry.author if hasattr(entry, 'author') else "Unknown"
             categories = get_categories(entry)
             
@@ -107,8 +112,7 @@ async def main():
 
 {post['published']}
 -------------------
-bot_tag #{tag}
-medium_tag {categories}
+#{tag} {categories} #medium
             """
             
             img_src = re.search(r'<img src="([^"]+)"', post["summary"])
@@ -123,6 +127,9 @@ medium_tag {categories}
 
             with open("DB.json", "w") as file:
                 json.dump(db, file, indent=4)
+    
+    await send_text_to_tel(f"Find {post_} post", chat_id)            
+    await send_text_to_tel("End the process", chat_id)
 
 # اجرای برنامه
 if __name__ == "__main__":
