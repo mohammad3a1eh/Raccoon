@@ -1354,5 +1354,569 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@takingcharge45/%D3%88a%C6%88%C6%99%C9%A9%C9%B2%C9%A0-%C6%AD%C6%A1%C6%A1%D5%AC%C6%A8-%C6%92%C6%A1%CA%80-%C6%AD%D1%94%CA%80m%CA%8B%D2%B3-54bb9c1e7e0b?source=rss------infosec-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*81jBIDo1ovqz0h_EnASJUw.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Top 5 apps for android hackers</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@takingcharge45/%D3%88a%C6%88%C6%99%C9%A9%C9%B2%C9%A0-%C6%AD%C6%A1%C6%A1%D5%AC%C6%A8-%C6%92%C6%A1%CA%80-%C6%AD%D1%94%CA%80m%CA%8B%D2%B3-54bb9c1e7e0b?source=rss------infosec-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@takingcharge45/%D3%88a%C6%88%C6%99%C9%A9%C9%B2%C9%A0-%C6%AD%C6%A1%C6%A1%D5%AC%C6%A8-%C6%92%C6%A1%CA%80-%C6%AD%D1%94%CA%80m%CA%8B%D2%B3-54bb9c1e7e0b?source=rss------infosec-5",
         "published": "Thu, 26 Sep 2024 13:34:03 GMT"
+    },
+    {
+        "title": "How Bug Bounty Programs can enable widespread fraud",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hacktheplanet/how-bug-bounty-programs-can-enable-widespread-fraud-b027f36a49ef?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/728/0*YDxUDExb-dAnuSqn.jpg\" width=\"728\" /></a></p><p class=\"medium-feed-snippet\">if cost_to_fix_bugs&gt;min_legal_penalty and status == hacked:print(heartfelt_apology,pay_fine)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hacktheplanet/how-bug-bounty-programs-can-enable-widespread-fraud-b027f36a49ef?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hacktheplanet/how-bug-bounty-programs-can-enable-widespread-fraud-b027f36a49ef?source=rss------bug_bounty-5",
+        "published": "Sat, 28 Sep 2024 04:37:49 GMT"
+    },
+    {
+        "title": "Stories of a sporadic bug bounty hunter",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://jayaye15.medium.com/stories-of-a-sporadic-bug-bounty-hunter-a09cd32cf0a2?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/936/1*y_1oRRQSdWWOJuojO5WR-g.png\" width=\"936\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://jayaye15.medium.com/stories-of-a-sporadic-bug-bounty-hunter-a09cd32cf0a2?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://jayaye15.medium.com/stories-of-a-sporadic-bug-bounty-hunter-a09cd32cf0a2?source=rss------bug_bounty-5",
+        "published": "Sat, 28 Sep 2024 01:45:34 GMT"
+    },
+    {
+        "title": "The Art of the Phantom Deposit: a study on vulnerabilities in crypto exchanges",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@silviosaturnowk/the-art-of-the-phantom-deposit-a-study-on-vulnerabilities-in-crypto-exchanges-3a356153bfe2?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*HZ6BZUllGSiaKz2q16yD4g.png\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">This report analyzes a critical vulnerability in cryptocurrency exchanges arising from the mishandling of internal transaction failures&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@silviosaturnowk/the-art-of-the-phantom-deposit-a-study-on-vulnerabilities-in-crypto-exchanges-3a356153bfe2?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@silviosaturnowk/the-art-of-the-phantom-deposit-a-study-on-vulnerabilities-in-crypto-exchanges-3a356153bfe2?source=rss------bug_bounty-5",
+        "published": "Fri, 27 Sep 2024 21:32:45 GMT"
+    },
+    {
+        "title": "It\u2019s not a bug. It really is a feature.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">This is the most important document you will ever read.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@info_11548/its-not-a-bug-it-really-is-a-feature-b758f1454970?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@info_11548/its-not-a-bug-it-really-is-a-feature-b758f1454970?source=rss------bug_bounty-5",
+        "published": "Fri, 27 Sep 2024 18:23:32 GMT"
+    },
+    {
+        "title": "Vulnerability: Multiple Vulnerabilities in Linux CUPS (CVSS 9.9)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/vulnerability-multiple-vulnerabilities-in-linux-cups-cvss-9-9-49dbdcd73cb0?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/946/1*lS2dLgnbH4D1yDvUotdx8A.png\" width=\"946\" /></a></p><p class=\"medium-feed-snippet\">Multiple CUPS Vulnerabilities&#x200a;&#x2014;&#x200a;RCE in Linux CUPS (CVE-2024&#x2013;47076 / CVE-2024&#x2013;47175 / CVE-2024&#x2013;47176 / CVE-2024&#x2013;47177)</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/vulnerability-multiple-vulnerabilities-in-linux-cups-cvss-9-9-49dbdcd73cb0?source=rss------bug_bounty-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/vulnerability-multiple-vulnerabilities-in-linux-cups-cvss-9-9-49dbdcd73cb0?source=rss------bug_bounty-5",
+        "published": "Fri, 27 Sep 2024 17:19:59 GMT"
+    },
+    {
+        "title": "my first easy IDOR in a big company",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@malikirtizameg/my-first-easy-idor-in-a-big-company-104ee6c4a7ff?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/700/1*PLRbgUjgGqay0nbGPEKPpQ.jpeg\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">IDOR is very easiest bug a new hunter can also find it. </p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@malikirtizameg/my-first-easy-idor-in-a-big-company-104ee6c4a7ff?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@malikirtizameg/my-first-easy-idor-in-a-big-company-104ee6c4a7ff?source=rss------bug_bounty-5",
+        "published": "Fri, 27 Sep 2024 16:06:29 GMT"
+    },
+    {
+        "title": "Shodan Revealed: How to Discover Vulnerabilities Across the Web",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@RejuKole.com/shodan-revealed-how-to-discover-vulnerabilities-across-the-web-925a382bb9bd?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1472/1*jspS8NkpvpuoJYN2iDag1w.jpeg\" width=\"1472\" /></a></p><p class=\"medium-feed-snippet\">Hey, I&#x2019;m Reju Kole, a dedicated cybersecurity engineer and researcher with over six years of experience in the field. My passion lies in&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@RejuKole.com/shodan-revealed-how-to-discover-vulnerabilities-across-the-web-925a382bb9bd?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@RejuKole.com/shodan-revealed-how-to-discover-vulnerabilities-across-the-web-925a382bb9bd?source=rss------bug_bounty-5",
+        "published": "Fri, 27 Sep 2024 15:30:39 GMT"
+    },
+    {
+        "title": "Privilege Escalation on Amazon Linux (SageMaker)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rickconsole/privilege-escalation-on-amazon-linux-sagemaker-cf115042ea5f?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1017/1*E1a3dTRQxujiVLrSxpHMCQ.png\" width=\"1017\" /></a></p><p class=\"medium-feed-snippet\">Privilege escalation vulnerability in AWS SageMaker. Learn how a simple misconfiguration and a bit of patience led to full system&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rickconsole/privilege-escalation-on-amazon-linux-sagemaker-cf115042ea5f?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rickconsole/privilege-escalation-on-amazon-linux-sagemaker-cf115042ea5f?source=rss------bug_bounty-5",
+        "published": "Fri, 27 Sep 2024 14:33:05 GMT"
+    },
+    {
+        "title": "Web App Hacking Tips & Trick\u200a\u2014\u200aCelah File Upload\u200a\u2014\u200aBagian 3",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrp.bpp/web-app-hacking-tips-trick-celah-file-upload-bagian-3-8ec192d1633b?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/670/1*Kl8r7CQ_usuPKsXkWr4Sww.png\" width=\"670\" /></a></p><p class=\"medium-feed-snippet\">XXE (XML External Entity)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrp.bpp/web-app-hacking-tips-trick-celah-file-upload-bagian-3-8ec192d1633b?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrp.bpp/web-app-hacking-tips-trick-celah-file-upload-bagian-3-8ec192d1633b?source=rss------bug_bounty-5",
+        "published": "Fri, 27 Sep 2024 14:29:42 GMT"
+    },
+    {
+        "title": "Web Cache Poisoning with Multiple Headers",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rcxsecurity/web-cache-poisoning-with-multiple-headers-d4e27497288e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1456/1*Jk-Y8J-J6b6GVuCQf1hy1Q.png\" width=\"1456\" /></a></p><p class=\"medium-feed-snippet\">Welcome back to another Lab Walkthrough at the Cybersec Cafe, where I spell-out my mindset as I approach hacking a Web Application in a&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rcxsecurity/web-cache-poisoning-with-multiple-headers-d4e27497288e?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rcxsecurity/web-cache-poisoning-with-multiple-headers-d4e27497288e?source=rss------bug_bounty-5",
+        "published": "Fri, 27 Sep 2024 14:24:35 GMT"
+    },
+    {
+        "title": "How Bug Bounty Programs can enable widespread fraud",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hacktheplanet/how-bug-bounty-programs-can-enable-widespread-fraud-b027f36a49ef?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/728/0*YDxUDExb-dAnuSqn.jpg\" width=\"728\" /></a></p><p class=\"medium-feed-snippet\">if cost_to_fix_bugs&gt;min_legal_penalty and status == hacked:print(heartfelt_apology,pay_fine)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hacktheplanet/how-bug-bounty-programs-can-enable-widespread-fraud-b027f36a49ef?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hacktheplanet/how-bug-bounty-programs-can-enable-widespread-fraud-b027f36a49ef?source=rss------hacking-5",
+        "published": "Sat, 28 Sep 2024 04:37:49 GMT"
+    },
+    {
+        "title": "The Tor Network Under Attack? German Law Enforcement\u2019s De-Anonymization Tactics Explained",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@davidsehyeonbaek/the-tor-network-under-attack-german-law-enforcements-de-anonymization-tactics-explained-adbfd13d9fd9?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/739/1*DVPhfnioIneA2TYb9GHRkw@2x.jpeg\" width=\"739\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@davidsehyeonbaek/the-tor-network-under-attack-german-law-enforcements-de-anonymization-tactics-explained-adbfd13d9fd9?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@davidsehyeonbaek/the-tor-network-under-attack-german-law-enforcements-de-anonymization-tactics-explained-adbfd13d9fd9?source=rss------hacking-5",
+        "published": "Sat, 28 Sep 2024 04:25:49 GMT"
+    },
+    {
+        "title": "Understanding Request Smuggling: A Deep Dive into HTTP Exploits",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@crazycoolbrother/understanding-request-smuggling-a-deep-dive-into-http-exploits-06bc28b0358c?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/770/0*m2wBet9-fZfoT_Jq\" width=\"770\" /></a></p><p class=\"medium-feed-snippet\">Get an overview of this attack with real examples and dive deep into understanding every aspect.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@crazycoolbrother/understanding-request-smuggling-a-deep-dive-into-http-exploits-06bc28b0358c?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@crazycoolbrother/understanding-request-smuggling-a-deep-dive-into-http-exploits-06bc28b0358c?source=rss------hacking-5",
+        "published": "Fri, 27 Sep 2024 21:31:57 GMT"
+    },
+    {
+        "title": "WHAT\u2019S YOURS IS MINE! Creating a Custom Remote Desktop Application to PWN Everything!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@0x0vid/whats-yours-is-mine-creating-a-custom-remote-desktop-application-to-pwn-everything-259e11caf663?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1253/1*J89Nd4EErZCk1hICZ4qTUQ.png\" width=\"1253\" /></a></p><p class=\"medium-feed-snippet\">TL;DR: If you can see it, I can see it. If you control it, I control it!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@0x0vid/whats-yours-is-mine-creating-a-custom-remote-desktop-application-to-pwn-everything-259e11caf663?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@0x0vid/whats-yours-is-mine-creating-a-custom-remote-desktop-application-to-pwn-everything-259e11caf663?source=rss------hacking-5",
+        "published": "Fri, 27 Sep 2024 21:11:50 GMT"
+    },
+    {
+        "title": "Network Enumeration\u200a\u2014\u200aExploring the Unexplored",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ggk570577/network-enumeration-exploring-the-unexplored-0dfa4fb58351?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/880/1*wMcO5gCp0XC6sT7LUIM1Qg.png\" width=\"880\" /></a></p><p class=\"medium-feed-snippet\">Hello Readers!!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ggk570577/network-enumeration-exploring-the-unexplored-0dfa4fb58351?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ggk570577/network-enumeration-exploring-the-unexplored-0dfa4fb58351?source=rss------hacking-5",
+        "published": "Fri, 27 Sep 2024 20:26:06 GMT"
+    },
+    {
+        "title": "Is your online content safe? Learn how to protect it.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@riyathena.learning/is-your-online-content-safe-learn-how-to-protect-it-cf5d73512e95?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*dHgGaqMDC_e1ZWjWyCuKAg.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">On Thursday, September 26, 2024, a shocking cyberattack made headlines.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@riyathena.learning/is-your-online-content-safe-learn-how-to-protect-it-cf5d73512e95?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@riyathena.learning/is-your-online-content-safe-learn-how-to-protect-it-cf5d73512e95?source=rss------hacking-5",
+        "published": "Fri, 27 Sep 2024 19:26:31 GMT"
+    },
+    {
+        "title": "Belajar APT (Advanced Persistent Threat) Secara Sederhana Pada Target OS Linux\u200a\u2014\u200aPengantar",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrp.bpp/belajar-apt-advanced-persistent-threat-secara-sederhana-pada-target-os-linux-pengantar-4507fa2884d5?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*qiY0-NcHZDO6et5q\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">APT (Advanced Persistent Threat) adalah salah satu jenis ancaman siber yang sangat kompleks dan terstruktur, biasanya digunakan oleh&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrp.bpp/belajar-apt-advanced-persistent-threat-secara-sederhana-pada-target-os-linux-pengantar-4507fa2884d5?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrp.bpp/belajar-apt-advanced-persistent-threat-secara-sederhana-pada-target-os-linux-pengantar-4507fa2884d5?source=rss------hacking-5",
+        "published": "Fri, 27 Sep 2024 19:26:06 GMT"
+    },
+    {
+        "title": "HackTheBox | BoardLight | by C4t0v3rfl0w",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@c4t0v3rfl0w/hackthebox-boardlight-by-c4t0v3rfl0w-e4bf9d68810c?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/698/1*F51r0Epny11ej8MmdUretQ.png\" width=\"698\" /></a></p><p class=\"medium-feed-snippet\">Hola Mundo!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@c4t0v3rfl0w/hackthebox-boardlight-by-c4t0v3rfl0w-e4bf9d68810c?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@c4t0v3rfl0w/hackthebox-boardlight-by-c4t0v3rfl0w-e4bf9d68810c?source=rss------hacking-5",
+        "published": "Fri, 27 Sep 2024 18:32:28 GMT"
+    },
+    {
+        "title": "How I Took Over a Website Using SQL Injection and SQLMap: A Real-World Vulnerability Story",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@imafdi/how-i-took-over-a-website-using-sql-injection-and-sqlmap-a-real-world-vulnerability-story-f5b3d732ec76?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/0*zr7i6ZD7el1ERVVo.jpg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">In the world of cybersecurity, staying ahead of threats is a constant battle. As a security professional, I recently conducted a&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@imafdi/how-i-took-over-a-website-using-sql-injection-and-sqlmap-a-real-world-vulnerability-story-f5b3d732ec76?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@imafdi/how-i-took-over-a-website-using-sql-injection-and-sqlmap-a-real-world-vulnerability-story-f5b3d732ec76?source=rss------hacking-5",
+        "published": "Fri, 27 Sep 2024 17:42:48 GMT"
+    },
+    {
+        "title": "Email Flooding 2.0 | Insecure Design",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://suneets1ngh.medium.com/email-flooding-2-0-insecure-design-02a89bcf265b?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1441/1*8i2-RrtUywA07OVb6BPevg.png\" width=\"1441\" /></a></p><p class=\"medium-feed-snippet\">Discover how an Insecure design can lead to email flooding, multi-account abuse, and significant business revenue loss.</p><p class=\"medium-feed-link\"><a href=\"https://suneets1ngh.medium.com/email-flooding-2-0-insecure-design-02a89bcf265b?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://suneets1ngh.medium.com/email-flooding-2-0-insecure-design-02a89bcf265b?source=rss------hacking-5",
+        "published": "Fri, 27 Sep 2024 17:08:01 GMT"
+    },
+    {
+        "title": "SQL injection vulnerability allowing login bypass",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-vulnerability-allowing-login-bypass-7f1de7d77a6a?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/868/0*A0ZL94QNuCxfayLp\" width=\"868\" /></a></p><p class=\"medium-feed-snippet\">SQL Injection Vulnerability: Exploiting Login Bypass</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-vulnerability-allowing-login-bypass-7f1de7d77a6a?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/sql-injection-vulnerability-allowing-login-bypass-7f1de7d77a6a?source=rss------bug_bounty_writeup-5",
+        "published": "Fri, 27 Sep 2024 06:00:02 GMT"
+    },
+    {
+        "title": "SQL injection vulnerability in WHERE clause allowing retrieval of hidden data",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-8ea2be5f13df?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*IhKARwoeP5oiVsgR.jpg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">SQL Injection is one of the most prevalent and dangerous vulnerabilities in web applications. It allows an attacker to interfere with the&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-8ea2be5f13df?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-8ea2be5f13df?source=rss------bug_bounty_writeup-5",
+        "published": "Fri, 27 Sep 2024 05:50:26 GMT"
+    },
+    {
+        "title": "Level Up your Bug Bounty Game\u200a\u2014\u200ato P1s and P2s Series\u00a0: PART 1",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@nireshpandian19/level-up-your-bug-bounty-game-to-p1s-and-p2s-series-part-1-edaa702c8499?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*WC_Cd1wST-_bG32Boi0MzQ.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Haven&#x2019;t yall wondered, seeing top tier hackers posting Critical findings, P1s, 5 digit bounty figures, boasting their 6 digit reputations&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@nireshpandian19/level-up-your-bug-bounty-game-to-p1s-and-p2s-series-part-1-edaa702c8499?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@nireshpandian19/level-up-your-bug-bounty-game-to-p1s-and-p2s-series-part-1-edaa702c8499?source=rss------bug_bounty_writeup-5",
+        "published": "Fri, 27 Sep 2024 04:36:04 GMT"
+    },
+    {
+        "title": "Exploiting XSS to perform CSRF",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/exploiting-xss-to-perform-csrf-1aac291690bd?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1058/0*yPVk_x9AIluDxWDT.png\" width=\"1058\" /></a></p><p class=\"medium-feed-snippet\">Cross-Site Scripting (XSS) and Cross-Site Request Forgery (CSRF) are two of the most notorious web vulnerabilities. While both can be&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/exploiting-xss-to-perform-csrf-1aac291690bd?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/exploiting-xss-to-perform-csrf-1aac291690bd?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 26 Sep 2024 16:29:35 GMT"
+    },
+    {
+        "title": "IDOR Leads To Account Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mhdrizkiabrar640/idor-leads-to-account-takeover-6adf73bd268b?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1585/1*l9qYe5VxxN9vCOS9yFPA3A.png\" width=\"1585\" /></a></p><p class=\"medium-feed-snippet\">IDOR adalah salah satu kerentanan yang sering ditemukan dalam aplikasi, dan dapat berakibat pada pelanggaran keamanan yang serius. Pada&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mhdrizkiabrar640/idor-leads-to-account-takeover-6adf73bd268b?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mhdrizkiabrar640/idor-leads-to-account-takeover-6adf73bd268b?source=rss------bug_bounty_writeup-5",
+        "published": "Wed, 25 Sep 2024 20:42:52 GMT"
+    },
+    {
+        "title": "Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-5acbbd9f2631?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2000/0*mD1p8FIFmxASeafc.jpg\" width=\"2000\" /></a></p><p class=\"medium-feed-snippet\">Cross-Site Scripting (XSS) remains a critical security vulnerability in web applications, and attackers often exploit flaws in how user&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-5acbbd9f2631?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-5acbbd9f2631?source=rss------bug_bounty_writeup-5",
+        "published": "Wed, 25 Sep 2024 18:28:43 GMT"
+    },
+    {
+        "title": "How I proved impact with Google Map API Key",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://r0b0ts.medium.com/how-i-proved-impact-with-google-map-api-key-7aa801616abb?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1390/1*E5xp37iCiLr3DGy9ElUkBg.png\" width=\"1390\" /></a></p><p class=\"medium-feed-snippet\">Information Disclosure</p><p class=\"medium-feed-link\"><a href=\"https://r0b0ts.medium.com/how-i-proved-impact-with-google-map-api-key-7aa801616abb?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://r0b0ts.medium.com/how-i-proved-impact-with-google-map-api-key-7aa801616abb?source=rss------bug_bounty_writeup-5",
+        "published": "Wed, 25 Sep 2024 14:49:29 GMT"
+    },
+    {
+        "title": "Exploring the Role of Port Scanning in Bug Bounty Hunting",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://bevijaygupta.medium.com/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-169a1d723bb0?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/978/0*2aEszXvmryHaU3ke.jpg\" width=\"978\" /></a></p><p class=\"medium-feed-snippet\">Bug bounty hunting is an exciting and lucrative field for ethical hackers.</p><p class=\"medium-feed-link\"><a href=\"https://bevijaygupta.medium.com/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-169a1d723bb0?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://bevijaygupta.medium.com/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-169a1d723bb0?source=rss------bug_bounty_writeup-5",
+        "published": "Wed, 25 Sep 2024 06:39:18 GMT"
+    },
+    {
+        "title": "Mendapatkan Akses SMTP Melalui Celah SQL Injection",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://rdnzx.medium.com/mendapatkan-akses-smtp-melalui-celah-sql-injection-f6d593fcad5e?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*9f0zMV1PKnM4cBLDLxiC7A.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Saya menemukan celah keamanan ini pada website kampus saya, yang menggunakan aplikasi pihak ketiga (vendor) untuk sistem e-learning&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://rdnzx.medium.com/mendapatkan-akses-smtp-melalui-celah-sql-injection-f6d593fcad5e?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://rdnzx.medium.com/mendapatkan-akses-smtp-melalui-celah-sql-injection-f6d593fcad5e?source=rss------bug_bounty_writeup-5",
+        "published": "Tue, 24 Sep 2024 20:05:20 GMT"
+    },
+    {
+        "title": "Unlocking Success: My Journey to Bypassing 2FA and Winning My First Bounty $800",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mihad0x1/unlocking-success-my-journey-to-bypassing-2fa-and-winning-my-first-bounty-800-c6e7654feea4?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1408/1*taYefnneU-XFSmsOZGez-A.png\" width=\"1408\" /></a></p><p class=\"medium-feed-snippet\">Hi,\nThis is mihad0x1. This is my first write-up about how I bypassed a 2FA and got my First Bounty. I aimed to make it straightforward. I&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mihad0x1/unlocking-success-my-journey-to-bypassing-2fa-and-winning-my-first-bounty-800-c6e7654feea4?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mihad0x1/unlocking-success-my-journey-to-bypassing-2fa-and-winning-my-first-bounty-800-c6e7654feea4?source=rss------bugbounty_writeup-5",
+        "published": "Fri, 27 Sep 2024 10:57:43 GMT"
+    },
+    {
+        "title": "How I proved impact with Google Map API Key",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://r0b0ts.medium.com/how-i-proved-impact-with-google-map-api-key-7aa801616abb?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1390/1*E5xp37iCiLr3DGy9ElUkBg.png\" width=\"1390\" /></a></p><p class=\"medium-feed-snippet\">Information Disclosure</p><p class=\"medium-feed-link\"><a href=\"https://r0b0ts.medium.com/how-i-proved-impact-with-google-map-api-key-7aa801616abb?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://r0b0ts.medium.com/how-i-proved-impact-with-google-map-api-key-7aa801616abb?source=rss------bugbounty_writeup-5",
+        "published": "Wed, 25 Sep 2024 14:49:29 GMT"
+    },
+    {
+        "title": "website leaking otp in inspect elemet",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/website-leaking-otp-in-inspect-elemet-8da71ae4004d?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*KKsvvewmw8-ZpANlPnfuQQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/website-leaking-otp-in-inspect-elemet-8da71ae4004d?source=rss------bugbounty_writeup-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/website-leaking-otp-in-inspect-elemet-8da71ae4004d?source=rss------bugbounty_writeup-5",
+        "published": "Wed, 25 Sep 2024 14:02:30 GMT"
+    },
+    {
+        "title": "Cracking the Code: How I Took Over Admin Accounts Across Organizations",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ismailsaid1603/cracking-the-code-how-i-took-over-admin-accounts-across-organizations-5d135ba152b4?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*Jdx_6WFRF3TuSy7X1Jp9iQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hi Boyzz, Hope you are doing well.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ismailsaid1603/cracking-the-code-how-i-took-over-admin-accounts-across-organizations-5d135ba152b4?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ismailsaid1603/cracking-the-code-how-i-took-over-admin-accounts-across-organizations-5d135ba152b4?source=rss------bugbounty_writeup-5",
+        "published": "Wed, 25 Sep 2024 11:31:40 GMT"
+    },
+    {
+        "title": "Finding a p4 as per bugcrowd vrt",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@loyalonlytoday/finding-a-p4-as-per-bugcrowd-vrt-9f08278a75ae?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*7h1_LImj2DHZUUb95vmE2Q.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">NOTE: I COMMENTED THIS WHOLE BLOG IN COMMENT FOR NON PAID MEMBERS</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@loyalonlytoday/finding-a-p4-as-per-bugcrowd-vrt-9f08278a75ae?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@loyalonlytoday/finding-a-p4-as-per-bugcrowd-vrt-9f08278a75ae?source=rss------bugbounty_writeup-5",
+        "published": "Wed, 25 Sep 2024 07:10:27 GMT"
+    },
+    {
+        "title": "Turning a Closed Bug Report into $650: The Art of Demonstrating Impact!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://hasanka-amarasinghe.medium.com/turning-a-closed-bug-report-into-650-the-art-of-demonstrating-impact-730a3df78df8?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*ovwemiNvSVtqBDYaUeGM5w.png\" width=\"2780\" /></a></p><p class=\"medium-feed-snippet\">Summary</p><p class=\"medium-feed-link\"><a href=\"https://hasanka-amarasinghe.medium.com/turning-a-closed-bug-report-into-650-the-art-of-demonstrating-impact-730a3df78df8?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://hasanka-amarasinghe.medium.com/turning-a-closed-bug-report-into-650-the-art-of-demonstrating-impact-730a3df78df8?source=rss------bugbounty_writeup-5",
+        "published": "Mon, 23 Sep 2024 19:00:31 GMT"
+    },
+    {
+        "title": "finding a easy p4",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@loyalonlytoday/finding-a-easy-p4-08272e48f778?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*YJy-aTnYiDZro9rCDjM8YA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">NOTE: I COMMENTED THIS WHOLE BLOG IN COMMENT FOR NON PAID MEMBERS</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@loyalonlytoday/finding-a-easy-p4-08272e48f778?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@loyalonlytoday/finding-a-easy-p4-08272e48f778?source=rss------bugbounty_writeup-5",
+        "published": "Mon, 23 Sep 2024 15:32:11 GMT"
+    },
+    {
+        "title": "Unauthenticated API Endpoint to Create Support Ticket Worth $500",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://vijetareigns.medium.com/unauthenticated-api-endpoint-to-create-support-ticket-worth-500-789e91ad9a00?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2240/1*lTY0zPMuzdWLbVtOPAQYBQ.png\" width=\"2240\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://vijetareigns.medium.com/unauthenticated-api-endpoint-to-create-support-ticket-worth-500-789e91ad9a00?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://vijetareigns.medium.com/unauthenticated-api-endpoint-to-create-support-ticket-worth-500-789e91ad9a00?source=rss------bugbounty_writeup-5",
+        "published": "Mon, 23 Sep 2024 09:19:56 GMT"
+    },
+    {
+        "title": "Finding emails for this issue. Finding a easy bug to get a easy $$$",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@loyalonlytoday/finding-emails-for-this-issue-finding-a-easy-bug-to-get-a-easy-5bc4cd00d112?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1768/1*Ub2hTcVumcJihyPPQUB9zg.png\" width=\"1768\" /></a></p><p class=\"medium-feed-snippet\">This is the related blog to this blog https://medium.com/@loyalonlytoday/finding-a-easy-bug-to-get-a-easy-f008b2b25f73 how to find more&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@loyalonlytoday/finding-emails-for-this-issue-finding-a-easy-bug-to-get-a-easy-5bc4cd00d112?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@loyalonlytoday/finding-emails-for-this-issue-finding-a-easy-bug-to-get-a-easy-5bc4cd00d112?source=rss------bugbounty_writeup-5",
+        "published": "Sun, 22 Sep 2024 07:15:29 GMT"
+    },
+    {
+        "title": "HackMyVM\u00a0: JO2024",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrwhitecap/hackmyvm-jo2024-64bd79a134ca?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1917/1*dhKkPM5ffSf-Bj3D1UfV7Q.png\" width=\"1917\" /></a></p><p class=\"medium-feed-snippet\">JO2024</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrwhitecap/hackmyvm-jo2024-64bd79a134ca?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrwhitecap/hackmyvm-jo2024-64bd79a134ca?source=rss------penetration_testing-5",
+        "published": "Fri, 27 Sep 2024 21:52:18 GMT"
+    },
+    {
+        "title": "Network Enumeration\u200a\u2014\u200aExploring the Unexplored",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ggk570577/network-enumeration-exploring-the-unexplored-0dfa4fb58351?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/880/1*wMcO5gCp0XC6sT7LUIM1Qg.png\" width=\"880\" /></a></p><p class=\"medium-feed-snippet\">Hello Readers!!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ggk570577/network-enumeration-exploring-the-unexplored-0dfa4fb58351?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ggk570577/network-enumeration-exploring-the-unexplored-0dfa4fb58351?source=rss------penetration_testing-5",
+        "published": "Fri, 27 Sep 2024 20:26:06 GMT"
+    },
+    {
+        "title": "Cerberus HackTheBox | Detailed Writeup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@0xAn0m4ly/cerberus-hackthebox-detailed-writeup-b0efd8f05ad8?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*RvILZoIYVoRXSM7q.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">This machine a bit less of AD, instead it was around 50% linux exploitation. The machine consists of web exploitation, jail escape, hash&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@0xAn0m4ly/cerberus-hackthebox-detailed-writeup-b0efd8f05ad8?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@0xAn0m4ly/cerberus-hackthebox-detailed-writeup-b0efd8f05ad8?source=rss------penetration_testing-5",
+        "published": "Fri, 27 Sep 2024 20:20:22 GMT"
+    },
+    {
+        "title": "Enola-Finds: An OSINT Information Gathering Tool",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@yashpawar1199/enola-finds-an-osint-information-gathering-tool-f00f7b520232?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/935/1*bCRleoVuRHir4-R2BE5f0Q.png\" width=\"935\" /></a></p><p class=\"medium-feed-snippet\">In the world of cybersecurity, Open Source Intelligence (OSINT) tools play a crucial role in gathering information about targets, domains&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@yashpawar1199/enola-finds-an-osint-information-gathering-tool-f00f7b520232?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@yashpawar1199/enola-finds-an-osint-information-gathering-tool-f00f7b520232?source=rss------penetration_testing-5",
+        "published": "Fri, 27 Sep 2024 19:30:09 GMT"
+    },
+    {
+        "title": "Belajar APT (Advanced Persistent Threat) Secara Sederhana Pada Target OS Linux\u200a\u2014\u200aPengantar",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrp.bpp/belajar-apt-advanced-persistent-threat-secara-sederhana-pada-target-os-linux-pengantar-4507fa2884d5?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*qiY0-NcHZDO6et5q\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">APT (Advanced Persistent Threat) adalah salah satu jenis ancaman siber yang sangat kompleks dan terstruktur, biasanya digunakan oleh&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrp.bpp/belajar-apt-advanced-persistent-threat-secara-sederhana-pada-target-os-linux-pengantar-4507fa2884d5?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrp.bpp/belajar-apt-advanced-persistent-threat-secara-sederhana-pada-target-os-linux-pengantar-4507fa2884d5?source=rss------penetration_testing-5",
+        "published": "Fri, 27 Sep 2024 19:26:06 GMT"
+    },
+    {
+        "title": "Mastering Penetration Testing: Steps for Proactive Cyber Defense",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@axelhoehnke/mastering-penetration-testing-steps-for-proactive-cyber-defense-015185e04973?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*Bh8mq_kue6YNBW1iyYBzog.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">&#x1f513; Break Through Weaknesses Before Attackers Do &#x1f513; Penetration testing exposes hidden vulnerabilities by simulating real-world attacks.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@axelhoehnke/mastering-penetration-testing-steps-for-proactive-cyber-defense-015185e04973?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@axelhoehnke/mastering-penetration-testing-steps-for-proactive-cyber-defense-015185e04973?source=rss------penetration_testing-5",
+        "published": "Fri, 27 Sep 2024 18:35:36 GMT"
+    },
+    {
+        "title": "Understanding the Differences and Relationship Between Penetration Testing and Vulnerability\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@tarikkabak/understanding-the-differences-and-relationship-between-penetration-testing-and-vulnerability-eb24896adf53?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*BVKemoyc2Hh1K5PWsI4KFg.png\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">In this article, we will explore the differences, similarities, and relationships between penetration testing and vulnerability scanning,.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@tarikkabak/understanding-the-differences-and-relationship-between-penetration-testing-and-vulnerability-eb24896adf53?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@tarikkabak/understanding-the-differences-and-relationship-between-penetration-testing-and-vulnerability-eb24896adf53?source=rss------penetration_testing-5",
+        "published": "Fri, 27 Sep 2024 17:37:37 GMT"
+    },
+    {
+        "title": "Email Flooding 2.0 | Insecure Design",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://suneets1ngh.medium.com/email-flooding-2-0-insecure-design-02a89bcf265b?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1441/1*8i2-RrtUywA07OVb6BPevg.png\" width=\"1441\" /></a></p><p class=\"medium-feed-snippet\">Discover how an Insecure design can lead to email flooding, multi-account abuse, and significant business revenue loss.</p><p class=\"medium-feed-link\"><a href=\"https://suneets1ngh.medium.com/email-flooding-2-0-insecure-design-02a89bcf265b?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://suneets1ngh.medium.com/email-flooding-2-0-insecure-design-02a89bcf265b?source=rss------penetration_testing-5",
+        "published": "Fri, 27 Sep 2024 17:08:01 GMT"
+    },
+    {
+        "title": "1. Red Team Reconnaissance Server",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/aardvark-infinity/1-red-team-reconnaissance-server-900b9d17ca66?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*uPe0tRcbq2DGnSnU\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Purpose: A server that simulates various vulnerabilities for red team members to practice and exploit, honing their skills in penetration&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/aardvark-infinity/1-red-team-reconnaissance-server-900b9d17ca66?source=rss------penetration_testing-5\">Continue reading on Aardvark Infinity \u00bb</a></p></div>",
+        "link": "https://medium.com/aardvark-infinity/1-red-team-reconnaissance-server-900b9d17ca66?source=rss------penetration_testing-5",
+        "published": "Fri, 27 Sep 2024 15:02:10 GMT"
+    },
+    {
+        "title": "Privilege Escalation on Amazon Linux (SageMaker)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rickconsole/privilege-escalation-on-amazon-linux-sagemaker-cf115042ea5f?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1017/1*E1a3dTRQxujiVLrSxpHMCQ.png\" width=\"1017\" /></a></p><p class=\"medium-feed-snippet\">Privilege escalation vulnerability in AWS SageMaker. Learn how a simple misconfiguration and a bit of patience led to full system&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rickconsole/privilege-escalation-on-amazon-linux-sagemaker-cf115042ea5f?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rickconsole/privilege-escalation-on-amazon-linux-sagemaker-cf115042ea5f?source=rss------penetration_testing-5",
+        "published": "Fri, 27 Sep 2024 14:33:05 GMT"
+    },
+    {
+        "title": "5 Key Factors to Help You Choose the Best Bug Bounty Program on HackerOne",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@blackarazi/5-key-factors-to-help-you-choose-the-best-bug-bounty-program-on-hackerone-b27bb2159d07?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*6lQ9onuy-sKEaqC9IKrY_g.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Discover the secrets to finding programs that pay well, respond quickly, and value your skills.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@blackarazi/5-key-factors-to-help-you-choose-the-best-bug-bounty-program-on-hackerone-b27bb2159d07?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@blackarazi/5-key-factors-to-help-you-choose-the-best-bug-bounty-program-on-hackerone-b27bb2159d07?source=rss------hackerone-5",
+        "published": "Fri, 27 Sep 2024 08:43:43 GMT"
+    },
+    {
+        "title": "Cracking the Code: How I Took Over Admin Accounts Across Organizations",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ismailsaid1603/cracking-the-code-how-i-took-over-admin-accounts-across-organizations-5d135ba152b4?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*Jdx_6WFRF3TuSy7X1Jp9iQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hi Boyzz, Hope you are doing well.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ismailsaid1603/cracking-the-code-how-i-took-over-admin-accounts-across-organizations-5d135ba152b4?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ismailsaid1603/cracking-the-code-how-i-took-over-admin-accounts-across-organizations-5d135ba152b4?source=rss------hackerone-5",
+        "published": "Wed, 25 Sep 2024 11:31:40 GMT"
+    },
+    {
+        "title": "750$ in 5 Minutes - XXE to LFI",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://skramthu.medium.com/750-in-5-minutes-xxe-to-lfi-897bca9c304c?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/1129/1*qbb7fSiv645bMNUZUwMCRA.png\" width=\"1129\" /></a></p><p class=\"medium-feed-snippet\">Optimized Nuclei Scan for Easy Bountiesss</p><p class=\"medium-feed-link\"><a href=\"https://skramthu.medium.com/750-in-5-minutes-xxe-to-lfi-897bca9c304c?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://skramthu.medium.com/750-in-5-minutes-xxe-to-lfi-897bca9c304c?source=rss------hackerone-5",
+        "published": "Mon, 23 Sep 2024 17:44:15 GMT"
+    },
+    {
+        "title": "How I Can Easily Get Into Your System in 3 Steps (As a Penetration Tester)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@divyesh.jagad/how-i-can-easily-get-into-your-system-in-3-steps-as-a-penetration-tester-3953af74e9a3?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/2560/1*Q9Wr7XbSCS8OdRo8Nm2xYQ.jpeg\" width=\"2560\" /></a></p><p class=\"medium-feed-snippet\">Penetration testing&#x200a;&#x2014;&#x200a;or pen testing&#x200a;&#x2014;&#x200a;is like ethical hacking. The goal isn&#x2019;t to harm, but to find weak spots in your system and help you&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@divyesh.jagad/how-i-can-easily-get-into-your-system-in-3-steps-as-a-penetration-tester-3953af74e9a3?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@divyesh.jagad/how-i-can-easily-get-into-your-system-in-3-steps-as-a-penetration-tester-3953af74e9a3?source=rss------hackerone-5",
+        "published": "Mon, 23 Sep 2024 06:50:11 GMT"
+    },
+    {
+        "title": "Top 3 subdomain takeovers",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/top-3-subdomain-takeovers-ea51ecd911fd?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*Px7QqwdPWhQTQuXt\" width=\"5472\" /></a></p><p class=\"medium-feed-snippet\">Based on upvotes and Reports from Hackerone</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/top-3-subdomain-takeovers-ea51ecd911fd?source=rss------hackerone-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/top-3-subdomain-takeovers-ea51ecd911fd?source=rss------hackerone-5",
+        "published": "Sun, 22 Sep 2024 23:42:24 GMT"
+    },
+    {
+        "title": "HIRE A HACKER",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">I was able to prove my partners infidelity in court. I&#x2019;m so grateful to a friend of mine for referring me to the review about a private&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@solomoneric592/hire-a-hacker-6085fc8dcd6d?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@solomoneric592/hire-a-hacker-6085fc8dcd6d?source=rss------hackerone-5",
+        "published": "Sat, 21 Sep 2024 09:44:27 GMT"
+    },
+    {
+        "title": "how to read whatsapp deleted messages on iphone",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@cyberhacker038/how-to-read-whatsapp-deleted-messages-on-iphone-f97b82417eb3?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/602/1*sOHD82Rq_CgGT2hWdwNrJg.jpeg\" width=\"602\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@cyberhacker038/how-to-read-whatsapp-deleted-messages-on-iphone-f97b82417eb3?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@cyberhacker038/how-to-read-whatsapp-deleted-messages-on-iphone-f97b82417eb3?source=rss------hackerone-5",
+        "published": "Fri, 20 Sep 2024 14:01:55 GMT"
+    },
+    {
+        "title": "How a 403 bypass got me a bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Hi folks,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ehsameer/how-a-403-bypass-got-me-a-bounty-7b2d58c0fd88?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ehsameer/how-a-403-bypass-got-me-a-bounty-7b2d58c0fd88?source=rss------hackerone-5",
+        "published": "Thu, 19 Sep 2024 09:28:44 GMT"
+    },
+    {
+        "title": "We Wear the Mask that Grins and Lies",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@deboramricks/we-wear-the-mask-that-grins-and-lies-d7fc71a55988?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*KiI8tRIgU3TGFXfl\" width=\"2816\" /></a></p><p class=\"medium-feed-snippet\">And gives us the illusion of safety and invincibility, while they slowly strangle us into silence, shame, and suffering.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@deboramricks/we-wear-the-mask-that-grins-and-lies-d7fc71a55988?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@deboramricks/we-wear-the-mask-that-grins-and-lies-d7fc71a55988?source=rss------vulnerability-5",
+        "published": "Sat, 28 Sep 2024 03:31:04 GMT"
+    },
+    {
+        "title": "Critical Flaws in Government Systems Put Legal and Voter Data at Risk",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">A recent wave of cybersecurity disclosures has uncovered alarming vulnerabilities in the platforms that government agencies and courts&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://northantara.medium.com/critical-flaws-in-government-systems-put-legal-and-voter-data-at-risk-9a90457a1c8a?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://northantara.medium.com/critical-flaws-in-government-systems-put-legal-and-voter-data-at-risk-9a90457a1c8a?source=rss------vulnerability-5",
+        "published": "Sat, 28 Sep 2024 02:58:00 GMT"
+    },
+    {
+        "title": "The Possession Paradox: Why We Love Stories About Losing Control",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mckenna.arbuckle/the-possession-paradox-why-we-love-stories-about-losing-control-0c667c06cb20?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*6knrj0lkmFKz4DXPe60Rbg.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">By: MaK Arbuckle</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mckenna.arbuckle/the-possession-paradox-why-we-love-stories-about-losing-control-0c667c06cb20?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mckenna.arbuckle/the-possession-paradox-why-we-love-stories-about-losing-control-0c667c06cb20?source=rss------vulnerability-5",
+        "published": "Fri, 27 Sep 2024 21:56:25 GMT"
+    },
+    {
+        "title": "Fixing Vulnerabilities in JavaScript and React Repositories",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Security is a critical aspect of modern web development, and it&#x2019;s essential to keep your JavaScript and React projects secure from&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ignatovich.dm/fixing-vulnerabilities-in-javascript-and-react-repositories-b0b1c4a61f51?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ignatovich.dm/fixing-vulnerabilities-in-javascript-and-react-repositories-b0b1c4a61f51?source=rss------vulnerability-5",
+        "published": "Fri, 27 Sep 2024 19:48:28 GMT"
+    },
+    {
+        "title": "Resilience and Openness: Redefining Strength in Professional Life",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/a-little-stoic-wisdom/resilience-and-openness-redefining-strength-in-professional-life-9ad0d11fc57a?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*YCbBmYgoU0YCl9slZGvHdw.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">How often do we speak openly about the emotional pain we&#x2019;re experiencing? Everyone faces hardships in one form or another, but we often&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/a-little-stoic-wisdom/resilience-and-openness-redefining-strength-in-professional-life-9ad0d11fc57a?source=rss------vulnerability-5\">Continue reading on Pragmatic Wisdom \u00bb</a></p></div>",
+        "link": "https://medium.com/a-little-stoic-wisdom/resilience-and-openness-redefining-strength-in-professional-life-9ad0d11fc57a?source=rss------vulnerability-5",
+        "published": "Fri, 27 Sep 2024 19:31:29 GMT"
+    },
+    {
+        "title": "Can We Be Honest With Ourselves?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/write-a-catalyst/can-we-be-honest-with-ourselves-363aba23030e?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/1*DLawaW1FBe1yN7tcXX_Itg.jpeg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">10 uncomfortable but important questions to ask yourself.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/write-a-catalyst/can-we-be-honest-with-ourselves-363aba23030e?source=rss------vulnerability-5\">Continue reading on Write A Catalyst \u00bb</a></p></div>",
+        "link": "https://medium.com/write-a-catalyst/can-we-be-honest-with-ourselves-363aba23030e?source=rss------vulnerability-5",
+        "published": "Fri, 27 Sep 2024 17:50:51 GMT"
+    },
+    {
+        "title": "Vulnerability: Multiple Vulnerabilities in Linux CUPS (CVSS 9.9)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/vulnerability-multiple-vulnerabilities-in-linux-cups-cvss-9-9-49dbdcd73cb0?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/946/1*lS2dLgnbH4D1yDvUotdx8A.png\" width=\"946\" /></a></p><p class=\"medium-feed-snippet\">Multiple CUPS Vulnerabilities&#x200a;&#x2014;&#x200a;RCE in Linux CUPS (CVE-2024&#x2013;47076 / CVE-2024&#x2013;47175 / CVE-2024&#x2013;47176 / CVE-2024&#x2013;47177)</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/vulnerability-multiple-vulnerabilities-in-linux-cups-cvss-9-9-49dbdcd73cb0?source=rss------vulnerability-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/vulnerability-multiple-vulnerabilities-in-linux-cups-cvss-9-9-49dbdcd73cb0?source=rss------vulnerability-5",
+        "published": "Fri, 27 Sep 2024 17:19:59 GMT"
+    },
+    {
+        "title": "CUPS Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://grave-rose.medium.com/cups-vulnerability-d889b8b5ce42?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*A4r5JgTGcUqNwrinIYpRWw.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Recently, evilsocket released a document about remotely exploiting the CUPS service with root privileges. I&#x2019;m going to take this&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://grave-rose.medium.com/cups-vulnerability-d889b8b5ce42?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://grave-rose.medium.com/cups-vulnerability-d889b8b5ce42?source=rss------vulnerability-5",
+        "published": "Fri, 27 Sep 2024 16:59:57 GMT"
+    },
+    {
+        "title": "Doomsday for Linux? Critical CUPS Flaw Could Lead to RCE Nightmare!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@paritoshblogs/doomsday-for-linux-critical-cups-flaw-could-lead-to-rce-nightmare-e730db29d2f6?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/860/0*UetjDqFx71TgAY9m\" width=\"860\" /></a></p><p class=\"medium-feed-snippet\">In an unexpected but critical discovery, a severe Remote Code Execution (RCE) vulnerability in the Common Unix Printing System (CUPS) was&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@paritoshblogs/doomsday-for-linux-critical-cups-flaw-could-lead-to-rce-nightmare-e730db29d2f6?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@paritoshblogs/doomsday-for-linux-critical-cups-flaw-could-lead-to-rce-nightmare-e730db29d2f6?source=rss------vulnerability-5",
+        "published": "Fri, 27 Sep 2024 16:00:41 GMT"
+    },
+    {
+        "title": "Multiple High Severity Denial-of-Serive (DoS) vulnerabilities in CISCO IOS and IOS XE.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@patchnow/multiple-high-severity-denial-of-serive-dos-vulnerabilities-in-cisco-ios-and-ios-xe-23b40ea9f87a?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/754/1*8RfQSHPurDJ6m0FSCWObtw.png\" width=\"754\" /></a></p><p class=\"medium-feed-snippet\">CISCO IOS and IOS XE.. PatchNOW!!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@patchnow/multiple-high-severity-denial-of-serive-dos-vulnerabilities-in-cisco-ios-and-ios-xe-23b40ea9f87a?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@patchnow/multiple-high-severity-denial-of-serive-dos-vulnerabilities-in-cisco-ios-and-ios-xe-23b40ea9f87a?source=rss------vulnerability-5",
+        "published": "Fri, 27 Sep 2024 15:12:40 GMT"
+    },
+    {
+        "title": "Cracking the Code: How I Took Over Admin Accounts Across Organizations",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ismailsaid1603/cracking-the-code-how-i-took-over-admin-accounts-across-organizations-5d135ba152b4?source=rss------bugcrowd-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*Jdx_6WFRF3TuSy7X1Jp9iQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hi Boyzz, Hope you are doing well.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ismailsaid1603/cracking-the-code-how-i-took-over-admin-accounts-across-organizations-5d135ba152b4?source=rss------bugcrowd-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ismailsaid1603/cracking-the-code-how-i-took-over-admin-accounts-across-organizations-5d135ba152b4?source=rss------bugcrowd-5",
+        "published": "Wed, 25 Sep 2024 11:31:40 GMT"
+    },
+    {
+        "title": "Unrewarded Vulnerability\u00a0: Android Testing\u200a\u2014\u200aMissing FLAG_SECURE",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://cyberojas.medium.com/unrewarded-vulnerability-android-testing-missing-flag-secure-c4c36ce4ae65?source=rss------bugcrowd-5\"><img src=\"https://cdn-images-1.medium.com/max/1302/1*LPI70DfO7jv1ZFYi7I0eGQ.png\" width=\"1302\" /></a></p><p class=\"medium-feed-snippet\">Hi, I&#x2019;m Ojas, an application penetration tester. While participating in a private bug bounty program on Bugcrowd&#xa0;, I came across a&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://cyberojas.medium.com/unrewarded-vulnerability-android-testing-missing-flag-secure-c4c36ce4ae65?source=rss------bugcrowd-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://cyberojas.medium.com/unrewarded-vulnerability-android-testing-missing-flag-secure-c4c36ce4ae65?source=rss------bugcrowd-5",
+        "published": "Thu, 19 Sep 2024 13:09:22 GMT"
+    },
+    {
+        "title": "[2,500$ Bug Bounty Write-Up] Remote Code Execution (RCE) via unclaimed Node package",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@p0lyxena/2-500-bug-bounty-write-up-remote-code-execution-rce-via-unclaimed-node-package-6b9108d10643?source=rss------bugcrowd-5\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*eyisHahUiduGDPZrZjqqIg.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">What is Dependency Confusion?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@p0lyxena/2-500-bug-bounty-write-up-remote-code-execution-rce-via-unclaimed-node-package-6b9108d10643?source=rss------bugcrowd-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@p0lyxena/2-500-bug-bounty-write-up-remote-code-execution-rce-via-unclaimed-node-package-6b9108d10643?source=rss------bugcrowd-5",
+        "published": "Wed, 18 Sep 2024 00:55:18 GMT"
+    },
+    {
+        "title": "Deleting a folder led to the deactivation of the company\u2019s accounts.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hossam_hamada/deleting-a-folder-led-to-the-deactivation-of-the-companys-accounts-3759b6b92927?source=rss------bugcrowd-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*s_Tn8bU0sOUtiVw1SPrmsg.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">To start, I&#x2019;d like to clarify a few things. The target platform provides a specific service for companies. For instance, if we consider a&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hossam_hamada/deleting-a-folder-led-to-the-deactivation-of-the-companys-accounts-3759b6b92927?source=rss------bugcrowd-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hossam_hamada/deleting-a-folder-led-to-the-deactivation-of-the-companys-accounts-3759b6b92927?source=rss------bugcrowd-5",
+        "published": "Fri, 13 Sep 2024 02:03:32 GMT"
+    },
+    {
+        "title": "Users without roles are able to find out whether the \u201cInvite other people\u201d feature on a Pinterest\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://rhidayah.medium.com/users-without-roles-are-able-to-find-out-whether-the-invite-other-people-feature-on-a-pinterest-b1cf86305337?source=rss------bugcrowd-5\"><img src=\"https://cdn-images-1.medium.com/max/1138/1*y7Cinl6eTy7SI3TeV9Dz4g.png\" width=\"1138\" /></a></p><p class=\"medium-feed-snippet\">This bug allows users without roles to see whether the group board owner has the &#x201c;Invite other people&#x201d; feature enabled on the group board&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://rhidayah.medium.com/users-without-roles-are-able-to-find-out-whether-the-invite-other-people-feature-on-a-pinterest-b1cf86305337?source=rss------bugcrowd-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://rhidayah.medium.com/users-without-roles-are-able-to-find-out-whether-the-invite-other-people-feature-on-a-pinterest-b1cf86305337?source=rss------bugcrowd-5",
+        "published": "Sat, 07 Sep 2024 04:30:11 GMT"
+    },
+    {
+        "title": "Removed employee can see whether the users he invited to the victim\u2019s Pinterest business\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://rhidayah.medium.com/the-removed-employee-can-see-whether-the-users-he-invited-to-the-victims-pinterest-business-085d2ee8e14e?source=rss------bugcrowd-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*X78VS1vuvoj4OrfioUzFtA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">This bug allows removed employees to see whether users invited to the victim&apos;s business accepted/declined the invitation.</p><p class=\"medium-feed-link\"><a href=\"https://rhidayah.medium.com/the-removed-employee-can-see-whether-the-users-he-invited-to-the-victims-pinterest-business-085d2ee8e14e?source=rss------bugcrowd-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://rhidayah.medium.com/the-removed-employee-can-see-whether-the-users-he-invited-to-the-victims-pinterest-business-085d2ee8e14e?source=rss------bugcrowd-5",
+        "published": "Tue, 03 Sep 2024 07:29:47 GMT"
+    },
+    {
+        "title": "HTML Injection in email via fname field",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hossam_hamada/html-injection-in-email-via-fname-field-564c3657e8ad?source=rss------bugcrowd-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*HuOUMx1dDNoaD0nKcSCQGQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone&#xa0;,\nI&#x2019;m Hossam Hamada, Today I would like to share with you one of my discoveries in HackerOne &#x2019;s program</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hossam_hamada/html-injection-in-email-via-fname-field-564c3657e8ad?source=rss------bugcrowd-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hossam_hamada/html-injection-in-email-via-fname-field-564c3657e8ad?source=rss------bugcrowd-5",
+        "published": "Tue, 27 Aug 2024 17:47:42 GMT"
+    },
+    {
+        "title": "Account Take Over | P1\u200a\u2014\u200aCritical",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://irsyadsec.medium.com/account-take-over-p1-critical-5468ce8218b9?source=rss------bugcrowd-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*MBtTm3QCUrJ5aX73r19fKg.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">It started off like any other day until I got an unexpected email&#x200a;&#x2014;&#x200a;an invite to a private bug bounty program. Curious, I jumped in. The&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://irsyadsec.medium.com/account-take-over-p1-critical-5468ce8218b9?source=rss------bugcrowd-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://irsyadsec.medium.com/account-take-over-p1-critical-5468ce8218b9?source=rss------bugcrowd-5",
+        "published": "Mon, 26 Aug 2024 06:06:31 GMT"
+    },
+    {
+        "title": "my first easy IDOR in a big company",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@malikirtizameg/my-first-easy-idor-in-a-big-company-104ee6c4a7ff?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/700/1*PLRbgUjgGqay0nbGPEKPpQ.jpeg\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">IDOR is very easiest bug a new hunter can also find it. </p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@malikirtizameg/my-first-easy-idor-in-a-big-company-104ee6c4a7ff?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@malikirtizameg/my-first-easy-idor-in-a-big-company-104ee6c4a7ff?source=rss------bug_bounty_tips-5",
+        "published": "Fri, 27 Sep 2024 16:06:29 GMT"
+    },
+    {
+        "title": "Shodan Revealed: How to Discover Vulnerabilities Across the Web",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@RejuKole.com/shodan-revealed-how-to-discover-vulnerabilities-across-the-web-925a382bb9bd?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1472/1*jspS8NkpvpuoJYN2iDag1w.jpeg\" width=\"1472\" /></a></p><p class=\"medium-feed-snippet\">Hey, I&#x2019;m Reju Kole, a dedicated cybersecurity engineer and researcher with over six years of experience in the field. My passion lies in&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@RejuKole.com/shodan-revealed-how-to-discover-vulnerabilities-across-the-web-925a382bb9bd?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@RejuKole.com/shodan-revealed-how-to-discover-vulnerabilities-across-the-web-925a382bb9bd?source=rss------bug_bounty_tips-5",
+        "published": "Fri, 27 Sep 2024 15:30:39 GMT"
+    },
+    {
+        "title": "Cheat Sheet Keamanan HTML5: Vektor Serangan XSS dan Teknik Eksfiltrasi Data",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrp.bpp/cheat-sheet-keamanan-html5-vektor-serangan-xss-dan-teknik-eksfiltrasi-data-27b9434428af?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*c8hY1RPt_o6LG6pw\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">HTML5 membawa sejumlah fitur baru yang memperkaya interaktivitas dan pengalaman pengguna di web. Namun, bersamaan dengan fitur-fitur ini&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrp.bpp/cheat-sheet-keamanan-html5-vektor-serangan-xss-dan-teknik-eksfiltrasi-data-27b9434428af?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrp.bpp/cheat-sheet-keamanan-html5-vektor-serangan-xss-dan-teknik-eksfiltrasi-data-27b9434428af?source=rss------bug_bounty_tips-5",
+        "published": "Fri, 27 Sep 2024 14:56:14 GMT"
+    },
+    {
+        "title": "Pengantar Hacking LSASS Pada Sistem Operasi Windows",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrp.bpp/pengantar-hacking-lsass-pada-sistem-operasi-windows-daa56507005c?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*Wf9ofEw7FdUN3I9s\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Local Security Authority Subsystem Service (LSASS) adalah sebuah proses penting di sistem operasi Windows yang bertugas untuk mengelola&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrp.bpp/pengantar-hacking-lsass-pada-sistem-operasi-windows-daa56507005c?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrp.bpp/pengantar-hacking-lsass-pada-sistem-operasi-windows-daa56507005c?source=rss------bug_bounty_tips-5",
+        "published": "Fri, 27 Sep 2024 14:46:47 GMT"
+    },
+    {
+        "title": "Web App Hacking Tips & Trick\u200a\u2014\u200aCelah File Upload\u200a\u2014\u200aBagian 3",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrp.bpp/web-app-hacking-tips-trick-celah-file-upload-bagian-3-8ec192d1633b?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/670/1*Kl8r7CQ_usuPKsXkWr4Sww.png\" width=\"670\" /></a></p><p class=\"medium-feed-snippet\">XXE (XML External Entity)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrp.bpp/web-app-hacking-tips-trick-celah-file-upload-bagian-3-8ec192d1633b?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrp.bpp/web-app-hacking-tips-trick-celah-file-upload-bagian-3-8ec192d1633b?source=rss------bug_bounty_tips-5",
+        "published": "Fri, 27 Sep 2024 14:29:42 GMT"
+    },
+    {
+        "title": "NoSQL Injection Attacks",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@majix_de/nosql-injection-attacks-1397fd366c28?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*hVKgPvZkJqBvGxXb\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">NoSQL databases like MongoDB, Couchbase, and Cassandra have gained immense popularity due to their flexibility, scalability, and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@majix_de/nosql-injection-attacks-1397fd366c28?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@majix_de/nosql-injection-attacks-1397fd366c28?source=rss------bug_bounty_tips-5",
+        "published": "Fri, 27 Sep 2024 10:10:59 GMT"
+    },
+    {
+        "title": "\ufe0f Information Disclosure Vulnerability: Exposing API Keys and Tokens in a Private Program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kumawatabhijeet2002/%EF%B8%8F-information-disclosure-vulnerability-exposing-api-keys-and-tokens-in-a-private-program-e06c4d110552?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*Yh2kVaCIVwGt69VVgWapXQ.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Hello, everyone! &#x1f44b;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kumawatabhijeet2002/%EF%B8%8F-information-disclosure-vulnerability-exposing-api-keys-and-tokens-in-a-private-program-e06c4d110552?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kumawatabhijeet2002/%EF%B8%8F-information-disclosure-vulnerability-exposing-api-keys-and-tokens-in-a-private-program-e06c4d110552?source=rss------bug_bounty_tips-5",
+        "published": "Fri, 27 Sep 2024 09:51:07 GMT"
+    },
+    {
+        "title": "From Enumeration to Takeover: Crack the Code of Subdomain Vulnerabilities!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://enigma96.medium.com/from-enumeration-to-takeover-crack-the-code-of-subdomain-vulnerabilities-4fea92cd0374?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*BsPgMAPtyHBHVkwp.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">In the world of bug bounty hunting, subdomain enumeration is an essential skill for uncovering hidden parts of a target&#x2019;s web&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://enigma96.medium.com/from-enumeration-to-takeover-crack-the-code-of-subdomain-vulnerabilities-4fea92cd0374?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://enigma96.medium.com/from-enumeration-to-takeover-crack-the-code-of-subdomain-vulnerabilities-4fea92cd0374?source=rss------bug_bounty_tips-5",
+        "published": "Fri, 27 Sep 2024 09:46:21 GMT"
+    },
+    {
+        "title": "5 Key Factors to Help You Choose the Best Bug Bounty Program on HackerOne",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@blackarazi/5-key-factors-to-help-you-choose-the-best-bug-bounty-program-on-hackerone-b27bb2159d07?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*6lQ9onuy-sKEaqC9IKrY_g.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Discover the secrets to finding programs that pay well, respond quickly, and value your skills.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@blackarazi/5-key-factors-to-help-you-choose-the-best-bug-bounty-program-on-hackerone-b27bb2159d07?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@blackarazi/5-key-factors-to-help-you-choose-the-best-bug-bounty-program-on-hackerone-b27bb2159d07?source=rss------bug_bounty_tips-5",
+        "published": "Fri, 27 Sep 2024 08:43:43 GMT"
+    },
+    {
+        "title": "I Spent a Month on a Private Program and Earned $$$$$",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://mokhansec.medium.com/i-spent-a-month-on-a-private-program-and-earned-c57b4c3d7dba?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/934/1*6Ho3Zz3yAi1S5yVWPwRawg.png\" width=\"934\" /></a></p><p class=\"medium-feed-snippet\">I hope you all are doing great. I&#x2019;m tweeting about taking on challenge where I will spend an hour on one program and see how it goes.</p><p class=\"medium-feed-link\"><a href=\"https://mokhansec.medium.com/i-spent-a-month-on-a-private-program-and-earned-c57b4c3d7dba?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://mokhansec.medium.com/i-spent-a-month-on-a-private-program-and-earned-c57b4c3d7dba?source=rss------bug_bounty_tips-5",
+        "published": "Fri, 27 Sep 2024 07:58:31 GMT"
+    },
+    {
+        "title": "Web App Hacking Tips & Trick\u200a\u2014\u200aCelah File Upload\u200a\u2014\u200aBagian 3",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrp.bpp/web-app-hacking-tips-trick-celah-file-upload-bagian-3-8ec192d1633b?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/670/1*Kl8r7CQ_usuPKsXkWr4Sww.png\" width=\"670\" /></a></p><p class=\"medium-feed-snippet\">XXE (XML External Entity)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrp.bpp/web-app-hacking-tips-trick-celah-file-upload-bagian-3-8ec192d1633b?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrp.bpp/web-app-hacking-tips-trick-celah-file-upload-bagian-3-8ec192d1633b?source=rss------bug_hunting-5",
+        "published": "Fri, 27 Sep 2024 14:29:42 GMT"
+    },
+    {
+        "title": "Level Up your Bug Bounty Game\u200a\u2014\u200ato P1s and P2s Series\u00a0: PART 1",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@nireshpandian19/level-up-your-bug-bounty-game-to-p1s-and-p2s-series-part-1-edaa702c8499?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*WC_Cd1wST-_bG32Boi0MzQ.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Haven&#x2019;t yall wondered, seeing top tier hackers posting Critical findings, P1s, 5 digit bounty figures, boasting their 6 digit reputations&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@nireshpandian19/level-up-your-bug-bounty-game-to-p1s-and-p2s-series-part-1-edaa702c8499?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@nireshpandian19/level-up-your-bug-bounty-game-to-p1s-and-p2s-series-part-1-edaa702c8499?source=rss------bug_hunting-5",
+        "published": "Fri, 27 Sep 2024 04:36:04 GMT"
+    },
+    {
+        "title": "Sedikit Tips & Trick Saat Testing API\u200a\u2014\u200aBagian 2",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrp.bpp/sedikit-tips-trick-saat-testing-api-bagian-2-a548a85bcea6?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*hR4SxPc4PbKFgUNg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">16. Google Dorks: Mencari Endpoint API dengan Query site:target.tld inurl:api</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrp.bpp/sedikit-tips-trick-saat-testing-api-bagian-2-a548a85bcea6?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrp.bpp/sedikit-tips-trick-saat-testing-api-bagian-2-a548a85bcea6?source=rss------bug_hunting-5",
+        "published": "Fri, 27 Sep 2024 03:28:22 GMT"
+    },
+    {
+        "title": "Sedikit Tips & Trick Saat Testing API\u200a\u2014\u200aBagian 1",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrp.bpp/sedikit-tips-trick-saat-testing-api-bagian-1-3983017fec4d?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*vSOOns-JjdGQATQ2\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">1. Mengubah versi API: api/v3/login &#x2192; api/v1/login</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrp.bpp/sedikit-tips-trick-saat-testing-api-bagian-1-3983017fec4d?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrp.bpp/sedikit-tips-trick-saat-testing-api-bagian-1-3983017fec4d?source=rss------bug_hunting-5",
+        "published": "Fri, 27 Sep 2024 03:18:12 GMT"
+    },
+    {
+        "title": "Reflected XSS in canonical link tag",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/reflected-xss-in-canonical-link-tag-c4902808a6e7?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*aPK04Ggo_EUoKzQG.png\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">Cross-Site Scripting (XSS) vulnerabilities have plagued web applications for decades, and while many developers are now familiar with&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/reflected-xss-in-canonical-link-tag-c4902808a6e7?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/reflected-xss-in-canonical-link-tag-c4902808a6e7?source=rss------bug_hunting-5",
+        "published": "Wed, 25 Sep 2024 16:11:56 GMT"
+    },
+    {
+        "title": "Purchasing Golden Number at a Lower Price: A $800 Bounty Story",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@harrmahar/purchasing-golden-number-at-a-lower-price-a-800-bounty-story-4e9a5a18e477?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/652/1*pfzzCymYNE7kKGiedO-bMQ.png\" width=\"652\" /></a></p><p class=\"medium-feed-snippet\">In this article, I will share a vulnerability that biidznillah I found several months ago in a private bug bounty program where there is a&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@harrmahar/purchasing-golden-number-at-a-lower-price-a-800-bounty-story-4e9a5a18e477?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@harrmahar/purchasing-golden-number-at-a-lower-price-a-800-bounty-story-4e9a5a18e477?source=rss------bug_hunting-5",
+        "published": "Tue, 24 Sep 2024 17:23:29 GMT"
+    },
+    {
+        "title": "Improper Rate Limiting and Mail Service Misconfiguration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@khalidlikhon/improper-rate-limiting-and-mail-service-misconfiguration-risks-07ba62a7dff1?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/2299/1*kGkBHroeF0Eqx_pd1n-v0w.jpeg\" width=\"2299\" /></a></p><p class=\"medium-feed-snippet\">In web application security, rate limiting is a vital mechanism that restricts the number of requests a user can make within a specified&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@khalidlikhon/improper-rate-limiting-and-mail-service-misconfiguration-risks-07ba62a7dff1?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@khalidlikhon/improper-rate-limiting-and-mail-service-misconfiguration-risks-07ba62a7dff1?source=rss------bug_hunting-5",
+        "published": "Sun, 22 Sep 2024 01:41:05 GMT"
+    },
+    {
+        "title": "DOM XSS in jQuery: The Danger of `href` Attribute with `location.search` Source",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/dom-xss-in-jquery-the-danger-of-href-attribute-with-location-search-source-b2d883cbec59?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/0*P-sGIFYyBzesACnv\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">When it comes to web security vulnerabilities, Cross-Site Scripting (XSS) is among the most notorious.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/dom-xss-in-jquery-the-danger-of-href-attribute-with-location-search-source-b2d883cbec59?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/dom-xss-in-jquery-the-danger-of-href-attribute-with-location-search-source-b2d883cbec59?source=rss------bug_hunting-5",
+        "published": "Sat, 21 Sep 2024 16:02:03 GMT"
+    },
+    {
+        "title": "DOM-based XSS: Exploiting `document.write` with `location.search`",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/dom-based-xss-exploiting-document-write-with-location-search-b5276b34b51b?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/1441/1*VO5YEUXhWyQYcVF6hFstrw.jpeg\" width=\"1441\" /></a></p><p class=\"medium-feed-snippet\">Cross-Site Scripting (XSS) vulnerabilities pose significant risks to web applications by allowing attackers to inject malicious scripts&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/dom-based-xss-exploiting-document-write-with-location-search-b5276b34b51b?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/dom-based-xss-exploiting-document-write-with-location-search-b5276b34b51b?source=rss------bug_hunting-5",
+        "published": "Sat, 21 Sep 2024 10:12:57 GMT"
+    },
+    {
+        "title": "10 Essential Browser Extensions for Bug Bounty Hunters",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@firdansp/10-essential-browser-extensions-for-bug-bounty-hunters-f17f8b001bcc?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*_nfXAmVPwsjjrQIB_wstCA.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@firdansp/10-essential-browser-extensions-for-bug-bounty-hunters-f17f8b001bcc?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@firdansp/10-essential-browser-extensions-for-bug-bounty-hunters-f17f8b001bcc?source=rss------bug_hunting-5",
+        "published": "Wed, 18 Sep 2024 04:56:36 GMT"
     }
 ]
