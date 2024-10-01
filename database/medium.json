@@ -2560,5 +2560,281 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://mokhansec.medium.com/bypassing-filters-ssrf-exploitation-via-dns-rebinding-with-just-1-in-30-successful-requests-2fdc3a9cfd7d?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/728/1*BRYKieNTBpGsjV7vajP0Ng.png\" width=\"728\" /></a></p><p class=\"medium-feed-snippet\">Hey everyone, hope you&#x2019;re all doing well! I wanted to share a cool bug story I came across a few months ago. It&#x2019;s about an SSRF&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://mokhansec.medium.com/bypassing-filters-ssrf-exploitation-via-dns-rebinding-with-just-1-in-30-successful-requests-2fdc3a9cfd7d?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://mokhansec.medium.com/bypassing-filters-ssrf-exploitation-via-dns-rebinding-with-just-1-in-30-successful-requests-2fdc3a9cfd7d?source=rss------bug_bounty_tips-5",
         "published": "Sun, 29 Sep 2024 06:23:25 GMT"
+    },
+    {
+        "title": "Mastering XSS (Cross-Site Scripting) Attacks: A Comprehensive Guide to become Professional Bug\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kumawatabhijeet2002/mastering-xss-cross-site-scripting-attacks-a-comprehensive-guide-to-become-professional-bug-6251058c576e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1120/1*nkNQUJ0r2Hm-fSnFe8IS4g.jpeg\" width=\"1120\" /></a></p><p class=\"medium-feed-snippet\">Hello, everyone! &#x1f44b;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kumawatabhijeet2002/mastering-xss-cross-site-scripting-attacks-a-comprehensive-guide-to-become-professional-bug-6251058c576e?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kumawatabhijeet2002/mastering-xss-cross-site-scripting-attacks-a-comprehensive-guide-to-become-professional-bug-6251058c576e?source=rss------bug_bounty-5",
+        "published": "Tue, 01 Oct 2024 03:32:10 GMT"
+    },
+    {
+        "title": "Don\u2019t Miss Out! The Best Platforms to Report Vulnerabilities and Earn Big!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@paritoshblogs/dont-miss-out-the-best-platforms-to-report-vulnerabilities-and-earn-big-787bbb03607a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1167/1*IOGsJzOwB2DZISb7edzhgQ.png\" width=\"1167\" /></a></p><p class=\"medium-feed-snippet\">The responsible disclosure of vulnerabilities has never been more critical. Security researchers and ethical hackers play a vital role in&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@paritoshblogs/dont-miss-out-the-best-platforms-to-report-vulnerabilities-and-earn-big-787bbb03607a?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@paritoshblogs/dont-miss-out-the-best-platforms-to-report-vulnerabilities-and-earn-big-787bbb03607a?source=rss------bug_bounty-5",
+        "published": "Tue, 01 Oct 2024 03:30:29 GMT"
+    },
+    {
+        "title": "Utilizing AI Model for Hacking: Bypassing CAPTCHAs using AI leads to Account Takeover | Bug Bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://ph-hitachi.medium.com/utilizing-ai-model-for-hacking-bypassing-captchas-using-ai-leads-to-account-takeover-bug-bounty-028804b779a0?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/810/1*0j2tL_q300ifq9BqTKXmww.png\" width=\"810\" /></a></p><p class=\"medium-feed-snippet\">Leveraging AI for CAPTCHA bypass opens the door to potential vulnerabilities, revealing critical flaws in web security.</p><p class=\"medium-feed-link\"><a href=\"https://ph-hitachi.medium.com/utilizing-ai-model-for-hacking-bypassing-captchas-using-ai-leads-to-account-takeover-bug-bounty-028804b779a0?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://ph-hitachi.medium.com/utilizing-ai-model-for-hacking-bypassing-captchas-using-ai-leads-to-account-takeover-bug-bounty-028804b779a0?source=rss------bug_bounty-5",
+        "published": "Tue, 01 Oct 2024 03:05:05 GMT"
+    },
+    {
+        "title": "Chaining Application-Level DoS with CSRF: A Sneaky Exploit to Block User Logins",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@dsmodi484/chaining-application-level-dos-with-csrf-a-sneaky-exploit-to-block-user-logins-4caaac781883?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*Yxb0xC7S6aNDdOz4AVnv5A.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Hello Hackers, In this writeup I am going to discuss how I chained application level dos with csrf to restrict users to login to their&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dsmodi484/chaining-application-level-dos-with-csrf-a-sneaky-exploit-to-block-user-logins-4caaac781883?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dsmodi484/chaining-application-level-dos-with-csrf-a-sneaky-exploit-to-block-user-logins-4caaac781883?source=rss------bug_bounty-5",
+        "published": "Tue, 01 Oct 2024 03:01:33 GMT"
+    },
+    {
+        "title": "Top 10 Documentation Every Hacker Should Know",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@RaunakGupta1922/top-10-documentation-every-hacker-should-know-f28e73f7c207?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2048/1*heeWMgbnkbIntfr2R4pvNA.jpeg\" width=\"2048\" /></a></p><p class=\"medium-feed-snippet\">Hello! I&#x2019;m Raunak Gupta, a Security Researcher, Bug Bounty Hunter, and Computer Science student from India.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@RaunakGupta1922/top-10-documentation-every-hacker-should-know-f28e73f7c207?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@RaunakGupta1922/top-10-documentation-every-hacker-should-know-f28e73f7c207?source=rss------bug_bounty-5",
+        "published": "Tue, 01 Oct 2024 02:02:16 GMT"
+    },
+    {
+        "title": "Prototype Pollution: How a JavaScript Quirk Can Lead to Complete Application Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://cyberw1ng.medium.com/prototype-pollution-how-a-javascript-quirk-can-lead-to-complete-application-takeover-9adb5e4f6b6b?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/940/0*G3ouNOJQYDcv7hYr.jpg\" width=\"940\" /></a></p><p class=\"medium-feed-snippet\">Prototype Pollution: How a JavaScript Quirk Can Lead to Complete Application Takeover</p><p class=\"medium-feed-link\"><a href=\"https://cyberw1ng.medium.com/prototype-pollution-how-a-javascript-quirk-can-lead-to-complete-application-takeover-9adb5e4f6b6b?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://cyberw1ng.medium.com/prototype-pollution-how-a-javascript-quirk-can-lead-to-complete-application-takeover-9adb5e4f6b6b?source=rss------bug_bounty-5",
+        "published": "Mon, 30 Sep 2024 18:01:20 GMT"
+    },
+    {
+        "title": "CVE-2024\u201323897\u200a\u2014\u200aJenkins File Read Vulnerability\u200a\u2014\u200aPOC",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@verylazytech/cve-2024-23897-jenkins-file-read-vulnerability-poc-6a1dfdbfd6f2?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/631/1*_bJAsRksTAaxq5AKApPY3Q.png\" width=\"631\" /></a></p><p class=\"medium-feed-snippet\">CVE-2024&#x2013;23897 is a critical vulnerability in Jenkins that allows unauthenticated attackers to read arbitrary files on the Jenkins&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@verylazytech/cve-2024-23897-jenkins-file-read-vulnerability-poc-6a1dfdbfd6f2?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@verylazytech/cve-2024-23897-jenkins-file-read-vulnerability-poc-6a1dfdbfd6f2?source=rss------bug_bounty-5",
+        "published": "Mon, 30 Sep 2024 17:56:04 GMT"
+    },
+    {
+        "title": "XSS + OAuth Misconfigs = Token Theft and ATO",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://7odamoo.medium.com/xss-oauth-misconfigs-token-theft-and-ato-d0837c44cd31?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*VDXMc64SmUwTDEjCeLih2A.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Hi all, In this blog post, I will walk through finding an ATO via OAuth misconfigurations and stealing Auth Tokens through collaborative&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://7odamoo.medium.com/xss-oauth-misconfigs-token-theft-and-ato-d0837c44cd31?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://7odamoo.medium.com/xss-oauth-misconfigs-token-theft-and-ato-d0837c44cd31?source=rss------bug_bounty-5",
+        "published": "Mon, 30 Sep 2024 17:43:59 GMT"
+    },
+    {
+        "title": "How to Use Medusa for Fast, Multi-Protocol Brute-Force Attacks",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@stealthsecurity/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-0627997c5686?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*DIjJFzLRZ88g7KQLA7D96g.jpeg\" width=\"3840\" /></a></p><p class=\"medium-feed-snippet\">Learn what Medusa is and how to use Medusa to perform fast brute-force attacks.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@stealthsecurity/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-0627997c5686?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@stealthsecurity/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-0627997c5686?source=rss------bug_bounty-5",
+        "published": "Mon, 30 Sep 2024 16:33:05 GMT"
+    },
+    {
+        "title": "Easy P2\u200a\u2014\u200aPre account takeover via Facebook OAuth misconfiguration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*LMfgc3ZoHlgf6T1u\" width=\"4529\" /></a></p><p class=\"medium-feed-snippet\">Easy P2&#x200a;&#x2014;&#x200a;Pre account takeover via Facebook OAuth misconfiguration</p><p class=\"medium-feed-link\"><a href=\"https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty-5",
+        "published": "Mon, 30 Sep 2024 12:26:24 GMT"
+    },
+    {
+        "title": "Check your Facebook is Hack or Not!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@TahirAyoub/check-your-facebook-is-hack-or-not-2af827ed26df?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/776/1*7IAg1AWTPaF7KfdRu6kw8Q.png\" width=\"776\" /></a></p><p class=\"medium-feed-snippet\">Follow These Six Steps Right Now.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@TahirAyoub/check-your-facebook-is-hack-or-not-2af827ed26df?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@TahirAyoub/check-your-facebook-is-hack-or-not-2af827ed26df?source=rss------hacking-5",
+        "published": "Tue, 01 Oct 2024 05:01:41 GMT"
+    },
+    {
+        "title": "API Security Tools & Resources",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@iabhipathak/api-security-tools-resources-5890f9ed01c8?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/626/0*kmA-aDO5_n_zuZpm\" width=\"626\" /></a></p><p class=\"medium-feed-snippet\">In the modern software development era, Application Programming Interfaces (APIs) serve as the backbone of digital interactions, enabling&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iabhipathak/api-security-tools-resources-5890f9ed01c8?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iabhipathak/api-security-tools-resources-5890f9ed01c8?source=rss------hacking-5",
+        "published": "Tue, 01 Oct 2024 04:42:04 GMT"
+    },
+    {
+        "title": "Subfinder",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Medo_CTF_Player/subfinder-20646e498c1c?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*8hekHXbL0B4aSijtk0U2kg.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">This is More Tips for Use Subfinder</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Medo_CTF_Player/subfinder-20646e498c1c?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Medo_CTF_Player/subfinder-20646e498c1c?source=rss------hacking-5",
+        "published": "Tue, 01 Oct 2024 04:10:16 GMT"
+    },
+    {
+        "title": "Don\u2019t Miss Out! The Best Platforms to Report Vulnerabilities and Earn Big!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@paritoshblogs/dont-miss-out-the-best-platforms-to-report-vulnerabilities-and-earn-big-787bbb03607a?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1167/1*IOGsJzOwB2DZISb7edzhgQ.png\" width=\"1167\" /></a></p><p class=\"medium-feed-snippet\">The responsible disclosure of vulnerabilities has never been more critical. Security researchers and ethical hackers play a vital role in&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@paritoshblogs/dont-miss-out-the-best-platforms-to-report-vulnerabilities-and-earn-big-787bbb03607a?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@paritoshblogs/dont-miss-out-the-best-platforms-to-report-vulnerabilities-and-earn-big-787bbb03607a?source=rss------hacking-5",
+        "published": "Tue, 01 Oct 2024 03:30:29 GMT"
+    },
+    {
+        "title": "How the CISSP Security Domains Can Save Your Organization\u2019s Ass!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://araiz-naqvi.medium.com/how-the-cissp-security-domains-can-save-your-organizations-ass-7d8fd37b8530?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*3WwZcwa2_L0snMmN\" width=\"5018\" /></a></p><p class=\"medium-feed-snippet\">The Certified Information Systems Security Professional (CISSP) certification lays out eight security domains that help organizations&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://araiz-naqvi.medium.com/how-the-cissp-security-domains-can-save-your-organizations-ass-7d8fd37b8530?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://araiz-naqvi.medium.com/how-the-cissp-security-domains-can-save-your-organizations-ass-7d8fd37b8530?source=rss------hacking-5",
+        "published": "Mon, 30 Sep 2024 20:59:47 GMT"
+    },
+    {
+        "title": "Hacker Nedir? T\u00fcrleri Nelerdir?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@weaponizedpawn/hacker-nedir-t%C3%BCrleri-nelerdir-367ce1b6a4b3?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*ykwPM4O4vjgcS4K5oB_FfA.jpeg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Hacker Nedir?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@weaponizedpawn/hacker-nedir-t%C3%BCrleri-nelerdir-367ce1b6a4b3?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@weaponizedpawn/hacker-nedir-t%C3%BCrleri-nelerdir-367ce1b6a4b3?source=rss------hacking-5",
+        "published": "Mon, 30 Sep 2024 20:52:06 GMT"
+    },
+    {
+        "title": "The Art of Google Hacking",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@akashfalaskar/the-art-of-google-hacking-a90b132f607e?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*TGBxzqv-TEeMa3Aa\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">Find Vulnerable Services &amp; Hidden Info Using Google Dorks</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@akashfalaskar/the-art-of-google-hacking-a90b132f607e?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@akashfalaskar/the-art-of-google-hacking-a90b132f607e?source=rss------hacking-5",
+        "published": "Mon, 30 Sep 2024 20:49:41 GMT"
+    },
+    {
+        "title": "Test d\u2019intrusion et conformit\u00e9 RGPD\u00a0: pourquoi est-ce crucial\u00a0?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://trackflaw.medium.com/test-dintrusion-et-conformit%C3%A9-rgpd-pourquoi-est-ce-crucial-478f21ed562a?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/960/0*blHohVmvrHrMVLAZ.png\" width=\"960\" /></a></p><p class=\"medium-feed-snippet\">La conformit&#xe9; RGPD est un enjeu majeur pour les entreprises, notamment en mati&#xe8;re de protection des donn&#xe9;es personnelles. Depuis 2018, le&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://trackflaw.medium.com/test-dintrusion-et-conformit%C3%A9-rgpd-pourquoi-est-ce-crucial-478f21ed562a?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://trackflaw.medium.com/test-dintrusion-et-conformit%C3%A9-rgpd-pourquoi-est-ce-crucial-478f21ed562a?source=rss------hacking-5",
+        "published": "Mon, 30 Sep 2024 18:49:00 GMT"
+    },
+    {
+        "title": "\ufe0f \ufe0fQuels outils utiliser pour un test d\u2019intrusion (pentest)\u00a0?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://trackflaw.medium.com/%EF%B8%8F-%EF%B8%8Fquels-outils-utiliser-pour-un-test-dintrusion-pentest-34e2bbc79bc0?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*Oo6GH0ASzr-l-usI.png\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">Enjeux des tests d&#x2019;intrusion (Pentest)</p><p class=\"medium-feed-link\"><a href=\"https://trackflaw.medium.com/%EF%B8%8F-%EF%B8%8Fquels-outils-utiliser-pour-un-test-dintrusion-pentest-34e2bbc79bc0?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://trackflaw.medium.com/%EF%B8%8F-%EF%B8%8Fquels-outils-utiliser-pour-un-test-dintrusion-pentest-34e2bbc79bc0?source=rss------hacking-5",
+        "published": "Mon, 30 Sep 2024 18:45:23 GMT"
+    },
+    {
+        "title": "Easy P2\u200a\u2014\u200aPre account takeover via Facebook OAuth misconfiguration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*LMfgc3ZoHlgf6T1u\" width=\"4529\" /></a></p><p class=\"medium-feed-snippet\">Easy P2&#x200a;&#x2014;&#x200a;Pre account takeover via Facebook OAuth misconfiguration</p><p class=\"medium-feed-link\"><a href=\"https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty_writeup-5",
+        "published": "Mon, 30 Sep 2024 12:26:24 GMT"
+    },
+    {
+        "title": "Android Application Penetration Testing Part 1 \u200d | Introduction",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://dkcyberz.medium.com/android-application-penetration-testing-part-1-introduction-738351fe8806?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2048/1*-IsLpC8C9ZciX_Fsge0Cpw.jpeg\" width=\"2048\" /></a></p><p class=\"medium-feed-snippet\">Welcome to the world of Android Application penetration testing!</p><p class=\"medium-feed-link\"><a href=\"https://dkcyberz.medium.com/android-application-penetration-testing-part-1-introduction-738351fe8806?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://dkcyberz.medium.com/android-application-penetration-testing-part-1-introduction-738351fe8806?source=rss------bugbounty_writeup-5",
+        "published": "Mon, 30 Sep 2024 05:21:10 GMT"
+    },
+    {
+        "title": "Subfinder",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Medo_CTF_Player/subfinder-20646e498c1c?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*8hekHXbL0B4aSijtk0U2kg.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">This is More Tips for Use Subfinder</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Medo_CTF_Player/subfinder-20646e498c1c?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Medo_CTF_Player/subfinder-20646e498c1c?source=rss------penetration_testing-5",
+        "published": "Tue, 01 Oct 2024 04:10:16 GMT"
+    },
+    {
+        "title": "Unlocking Security: The Importance of Penetration Testing",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@axayyk./unlocking-security-the-importance-of-penetration-testing-58cabc155d53?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1500/1*iJzrzV68PzIO5TMcjbfoyQ.jpeg\" width=\"1500\" /></a></p><p class=\"medium-feed-snippet\">From data breaches to ransomware attacks, the need for robust security measures is more critical than ever. One of the most effective ways&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@axayyk./unlocking-security-the-importance-of-penetration-testing-58cabc155d53?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@axayyk./unlocking-security-the-importance-of-penetration-testing-58cabc155d53?source=rss------penetration_testing-5",
+        "published": "Mon, 30 Sep 2024 20:09:03 GMT"
+    },
+    {
+        "title": "XSS + OAuth Misconfigs = Token Theft and ATO",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://7odamoo.medium.com/xss-oauth-misconfigs-token-theft-and-ato-d0837c44cd31?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*VDXMc64SmUwTDEjCeLih2A.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Hi all, In this blog post, I will walk through finding an ATO via OAuth misconfigurations and stealing Auth Tokens through collaborative&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://7odamoo.medium.com/xss-oauth-misconfigs-token-theft-and-ato-d0837c44cd31?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://7odamoo.medium.com/xss-oauth-misconfigs-token-theft-and-ato-d0837c44cd31?source=rss------penetration_testing-5",
+        "published": "Mon, 30 Sep 2024 17:43:59 GMT"
+    },
+    {
+        "title": "\u0e21\u0e32\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e01\u0e31\u0e1a \u0e0a\u0e48\u0e2d\u0e07\u0e42\u0e2b\u0e27\u0e48 Path traversal \u0e01\u0e32\u0e23\u0e02\u0e49\u0e32\u0e21\u0e1e\u0e23\u0e21\u0e41\u0e14\u0e19\u0e17\u0e35\u0e48\u0e0b\u0e48\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48 \u0e40\u0e2b\u0e49\u0e22\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e08\u0e31\u0e14",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@09ohs/path-traversal-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88-%E0%B9%80%E0%B8%AB%E0%B9%89%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%94-b415a22342af?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/703/1*1SLQF1lfsgLB4qB_6BPpcg.png\" width=\"703\" /></a></p><p class=\"medium-feed-snippet\">https://images.ctfassets.net/4un77bcsnjzw/7570kY08nQytjgBqSCj9fC/1174c83636ccd4686e92a82a9ef1558f/Directory_traversal_Attack.svg</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@09ohs/path-traversal-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88-%E0%B9%80%E0%B8%AB%E0%B9%89%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%94-b415a22342af?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@09ohs/path-traversal-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88-%E0%B9%80%E0%B8%AB%E0%B9%89%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%94-b415a22342af?source=rss------penetration_testing-5",
+        "published": "Mon, 30 Sep 2024 17:21:39 GMT"
+    },
+    {
+        "title": "How to Use Medusa for Fast, Multi-Protocol Brute-Force Attacks",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@stealthsecurity/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-0627997c5686?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*DIjJFzLRZ88g7KQLA7D96g.jpeg\" width=\"3840\" /></a></p><p class=\"medium-feed-snippet\">Learn what Medusa is and how to use Medusa to perform fast brute-force attacks.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@stealthsecurity/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-0627997c5686?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@stealthsecurity/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-0627997c5686?source=rss------penetration_testing-5",
+        "published": "Mon, 30 Sep 2024 16:33:05 GMT"
+    },
+    {
+        "title": "PenTesting Labs\u200a\u2014\u200aHetemit",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://m3lon.medium.com/pentesting-labs-hetemit-0a330cb04613?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1148/1*GMafzDGztz5WjK7wBpJhHQ.png\" width=\"1148\" /></a></p><p class=\"medium-feed-snippet\">Technical Walk-Through</p><p class=\"medium-feed-link\"><a href=\"https://m3lon.medium.com/pentesting-labs-hetemit-0a330cb04613?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://m3lon.medium.com/pentesting-labs-hetemit-0a330cb04613?source=rss------penetration_testing-5",
+        "published": "Mon, 30 Sep 2024 14:25:45 GMT"
+    },
+    {
+        "title": "The Penetration Testing Execution Standard ( PTES ).",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@lukwagoasuman236/the-penetration-testing-execution-standard-ptes-4b6333b2d660?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1915/1*H8K_jLdTuXOEOcQbtKn4xg.png\" width=\"1915\" /></a></p><p class=\"medium-feed-snippet\">Exercised by various leading members of the security community.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@lukwagoasuman236/the-penetration-testing-execution-standard-ptes-4b6333b2d660?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@lukwagoasuman236/the-penetration-testing-execution-standard-ptes-4b6333b2d660?source=rss------penetration_testing-5",
+        "published": "Mon, 30 Sep 2024 13:38:57 GMT"
+    },
+    {
+        "title": "#1. ATT&CK Techniques: Chat Messages",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/technology-hits/att-ck-techniques-chat-messages-ef4296bccaf2?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*4qK6Uf6BZVsqjgaB\" width=\"4500\" /></a></p><p class=\"medium-feed-snippet\">A series of non-technical breakdowns of attack techniques used by hackers</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/technology-hits/att-ck-techniques-chat-messages-ef4296bccaf2?source=rss------penetration_testing-5\">Continue reading on Technology Hits \u00bb</a></p></div>",
+        "link": "https://medium.com/technology-hits/att-ck-techniques-chat-messages-ef4296bccaf2?source=rss------penetration_testing-5",
+        "published": "Mon, 30 Sep 2024 13:22:54 GMT"
+    },
+    {
+        "title": "Easy P2\u200a\u2014\u200aPre account takeover via Facebook OAuth misconfiguration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*LMfgc3ZoHlgf6T1u\" width=\"4529\" /></a></p><p class=\"medium-feed-snippet\">Easy P2&#x200a;&#x2014;&#x200a;Pre account takeover via Facebook OAuth misconfiguration</p><p class=\"medium-feed-link\"><a href=\"https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------penetration_testing-5",
+        "published": "Mon, 30 Sep 2024 12:26:24 GMT"
+    },
+    {
+        "title": "SQL Injection Vulnerability on Login Page Allows Unauthorized Database Dump",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@harshitha431/sql-injection-sqli-9675e21cc54a?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/800/1*Kzu-w34qRlTrfyp3I4q16A.jpeg\" width=\"800\" /></a></p><p class=\"medium-feed-snippet\">Hi&#x1f64b;&#x200d;&#x2640;&#xfe0f;, I&#x2019;m Harshitha, a passionate cybersecurity researcher dedicated to uncovering the latest in digital security. I focus on&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@harshitha431/sql-injection-sqli-9675e21cc54a?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@harshitha431/sql-injection-sqli-9675e21cc54a?source=rss------penetration_testing-5",
+        "published": "Mon, 30 Sep 2024 12:08:40 GMT"
+    },
+    {
+        "title": "Chaining Application-Level DoS with CSRF: A Sneaky Exploit to Block User Logins",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@dsmodi484/chaining-application-level-dos-with-csrf-a-sneaky-exploit-to-block-user-logins-4caaac781883?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*Yxb0xC7S6aNDdOz4AVnv5A.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Hello Hackers, In this writeup I am going to discuss how I chained application level dos with csrf to restrict users to login to their&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dsmodi484/chaining-application-level-dos-with-csrf-a-sneaky-exploit-to-block-user-logins-4caaac781883?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dsmodi484/chaining-application-level-dos-with-csrf-a-sneaky-exploit-to-block-user-logins-4caaac781883?source=rss------hackerone-5",
+        "published": "Tue, 01 Oct 2024 03:01:33 GMT"
+    },
+    {
+        "title": "How i got 3 XSS in one page",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@midoeljoker30/how-i-got-3-xss-in-one-page-2f0bd2c23162?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*jeDviu88Y5mX4MBx3FJ1wQ.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">&#x2764;&#xfe0f;&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64a; &#x645;&#x646; &#x625;&#x62a;&#x628;&#x639; &#x627;&#x644;&#x647;&#x62f;&#x649; &#x648;&#x623;&#x634;&#x647;&#x62f; &#x627;&#x646; &#x644;&#x627; &#x625;&#x644;&#x647; &#x625;&#x644;&#x627; &#x627;&#x644;&#x644;&#x647; &#x648; &#x623;&#x646; &#x645;&#x62d;&#x645;&#x62f; &#x639;&#x628;&#x62f;&#x647; &#x648; &#x631;&#x633;&#x648;&#x644;&#x647; &#x635;&#x644;&#x648;&#x627;&#x62a; &#x631;&#x628;&#x64a; &#x648; &#x633;&#x644;&#x627;&#x645;&#x647; &#x639;&#x644;&#x64a;&#x647;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@midoeljoker30/how-i-got-3-xss-in-one-page-2f0bd2c23162?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@midoeljoker30/how-i-got-3-xss-in-one-page-2f0bd2c23162?source=rss------hackerone-5",
+        "published": "Mon, 30 Sep 2024 23:33:04 GMT"
+    },
+    {
+        "title": "Can We Be Happy Even When Things Aren\u2019t Great?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/a-day-of-growth-and-gratitude/can-we-be-happy-even-when-things-arent-great-30c04e70fd33?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/853/1*frcOgOvyjSmXh1xU_Yvk0A.jpeg\" width=\"853\" /></a></p><p class=\"medium-feed-snippet\">Toughen up</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/a-day-of-growth-and-gratitude/can-we-be-happy-even-when-things-arent-great-30c04e70fd33?source=rss------vulnerability-5\">Continue reading on A Day of Growth and Gratitude \u00bb</a></p></div>",
+        "link": "https://medium.com/a-day-of-growth-and-gratitude/can-we-be-happy-even-when-things-arent-great-30c04e70fd33?source=rss------vulnerability-5",
+        "published": "Tue, 01 Oct 2024 05:09:26 GMT"
+    },
+    {
+        "title": "Courage is Fear that has Said its Prayers",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/know-thyself-heal-thyself/courage-is-fear-that-has-said-its-prayers-320f84481718?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*96e5O3EzpC6CnkjK\" width=\"2848\" /></a></p><p class=\"medium-feed-snippet\">Finding Strength Within</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/know-thyself-heal-thyself/courage-is-fear-that-has-said-its-prayers-320f84481718?source=rss------vulnerability-5\">Continue reading on Know Thyself, Heal Thyself \u00bb</a></p></div>",
+        "link": "https://medium.com/know-thyself-heal-thyself/courage-is-fear-that-has-said-its-prayers-320f84481718?source=rss------vulnerability-5",
+        "published": "Tue, 01 Oct 2024 05:05:41 GMT"
+    },
+    {
+        "title": "CVE-2024-0132\u00a0:: Critical NVIDIA AI related Time-of-Check Time-of-use RACE condition vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@patchnow/cve-2024-0132-critical-nvidia-ai-related-time-of-check-time-of-use-race-condition-vulnerability-564bc7b78a9a?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/754/1*7zoQBZccXMynC5vO94Zgyw.png\" width=\"754\" /></a></p><p class=\"medium-feed-snippet\">More than 35% of cloud customers are affected!!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@patchnow/cve-2024-0132-critical-nvidia-ai-related-time-of-check-time-of-use-race-condition-vulnerability-564bc7b78a9a?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@patchnow/cve-2024-0132-critical-nvidia-ai-related-time-of-check-time-of-use-race-condition-vulnerability-564bc7b78a9a?source=rss------vulnerability-5",
+        "published": "Tue, 01 Oct 2024 04:21:57 GMT"
+    },
+    {
+        "title": "How Can I Secure My PHP Application From Common Vulnerabilities?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mayurkoshti12/how-can-i-secure-my-php-application-from-common-vulnerabilities-156eb5eccd07?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1472/1*yTzlVyXkl9i4u8pAvcZq6Q.jpeg\" width=\"1472\" /></a></p><p class=\"medium-feed-snippet\">Securing your PHP application is crucial to protect it from common vulnerabilities and attacks that can compromise data, functionality etc.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mayurkoshti12/how-can-i-secure-my-php-application-from-common-vulnerabilities-156eb5eccd07?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mayurkoshti12/how-can-i-secure-my-php-application-from-common-vulnerabilities-156eb5eccd07?source=rss------vulnerability-5",
+        "published": "Tue, 01 Oct 2024 04:05:03 GMT"
+    },
+    {
+        "title": "Don\u2019t Miss Out! The Best Platforms to Report Vulnerabilities and Earn Big!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@paritoshblogs/dont-miss-out-the-best-platforms-to-report-vulnerabilities-and-earn-big-787bbb03607a?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1167/1*IOGsJzOwB2DZISb7edzhgQ.png\" width=\"1167\" /></a></p><p class=\"medium-feed-snippet\">The responsible disclosure of vulnerabilities has never been more critical. Security researchers and ethical hackers play a vital role in&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@paritoshblogs/dont-miss-out-the-best-platforms-to-report-vulnerabilities-and-earn-big-787bbb03607a?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@paritoshblogs/dont-miss-out-the-best-platforms-to-report-vulnerabilities-and-earn-big-787bbb03607a?source=rss------vulnerability-5",
+        "published": "Tue, 01 Oct 2024 03:30:29 GMT"
+    },
+    {
+        "title": "Utilizing AI Model for Hacking: Bypassing CAPTCHAs using AI leads to Account Takeover | Bug Bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://ph-hitachi.medium.com/utilizing-ai-model-for-hacking-bypassing-captchas-using-ai-leads-to-account-takeover-bug-bounty-028804b779a0?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/810/1*0j2tL_q300ifq9BqTKXmww.png\" width=\"810\" /></a></p><p class=\"medium-feed-snippet\">Leveraging AI for CAPTCHA bypass opens the door to potential vulnerabilities, revealing critical flaws in web security.</p><p class=\"medium-feed-link\"><a href=\"https://ph-hitachi.medium.com/utilizing-ai-model-for-hacking-bypassing-captchas-using-ai-leads-to-account-takeover-bug-bounty-028804b779a0?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://ph-hitachi.medium.com/utilizing-ai-model-for-hacking-bypassing-captchas-using-ai-leads-to-account-takeover-bug-bounty-028804b779a0?source=rss------vulnerability-5",
+        "published": "Tue, 01 Oct 2024 03:05:05 GMT"
+    },
+    {
+        "title": "Chaining Application-Level DoS with CSRF: A Sneaky Exploit to Block User Logins",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@dsmodi484/chaining-application-level-dos-with-csrf-a-sneaky-exploit-to-block-user-logins-4caaac781883?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*Yxb0xC7S6aNDdOz4AVnv5A.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Hello Hackers, In this writeup I am going to discuss how I chained application level dos with csrf to restrict users to login to their&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dsmodi484/chaining-application-level-dos-with-csrf-a-sneaky-exploit-to-block-user-logins-4caaac781883?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dsmodi484/chaining-application-level-dos-with-csrf-a-sneaky-exploit-to-block-user-logins-4caaac781883?source=rss------vulnerability-5",
+        "published": "Tue, 01 Oct 2024 03:01:33 GMT"
+    },
+    {
+        "title": "The Strength in Vulnerability: Embracing Imperfection in a Perfection-Driven World",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/modern-women/the-strength-in-vulnerability-embracing-imperfection-in-a-perfection-driven-world-4b6f2aba5c6f?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*M6zpm2I1p74Vr_mLm6-oDA.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">How Letting Go of Perfectionism Unleashes Authenticity and True Strength</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/modern-women/the-strength-in-vulnerability-embracing-imperfection-in-a-perfection-driven-world-4b6f2aba5c6f?source=rss------vulnerability-5\">Continue reading on Modern Women \u00bb</a></p></div>",
+        "link": "https://medium.com/modern-women/the-strength-in-vulnerability-embracing-imperfection-in-a-perfection-driven-world-4b6f2aba5c6f?source=rss------vulnerability-5",
+        "published": "Mon, 30 Sep 2024 21:41:27 GMT"
+    },
+    {
+        "title": "Alumni Stories: \u201cWhere Are They Now?\u201d",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://afhboston.medium.com/alumni-stories-where-are-they-now-71a9ff494f5a?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*IxCAixvAISFaLcLOT9nD5A.jpeg\" width=\"4344\" /></a></p><p class=\"medium-feed-snippet\">Edition 49&#x2014;Ananda Toulon</p><p class=\"medium-feed-link\"><a href=\"https://afhboston.medium.com/alumni-stories-where-are-they-now-71a9ff494f5a?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://afhboston.medium.com/alumni-stories-where-are-they-now-71a9ff494f5a?source=rss------vulnerability-5",
+        "published": "Mon, 30 Sep 2024 20:36:50 GMT"
+    },
+    {
+        "title": "Mastering XSS (Cross-Site Scripting) Attacks: A Comprehensive Guide to become Professional Bug\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kumawatabhijeet2002/mastering-xss-cross-site-scripting-attacks-a-comprehensive-guide-to-become-professional-bug-6251058c576e?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1120/1*nkNQUJ0r2Hm-fSnFe8IS4g.jpeg\" width=\"1120\" /></a></p><p class=\"medium-feed-snippet\">Hello, everyone! &#x1f44b;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kumawatabhijeet2002/mastering-xss-cross-site-scripting-attacks-a-comprehensive-guide-to-become-professional-bug-6251058c576e?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kumawatabhijeet2002/mastering-xss-cross-site-scripting-attacks-a-comprehensive-guide-to-become-professional-bug-6251058c576e?source=rss------bug_bounty_tips-5",
+        "published": "Tue, 01 Oct 2024 03:32:10 GMT"
+    },
+    {
+        "title": "Easy P2\u200a\u2014\u200aPre account takeover via Facebook OAuth misconfiguration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*LMfgc3ZoHlgf6T1u\" width=\"4529\" /></a></p><p class=\"medium-feed-snippet\">Easy P2&#x200a;&#x2014;&#x200a;Pre account takeover via Facebook OAuth misconfiguration</p><p class=\"medium-feed-link\"><a href=\"https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty_tips-5",
+        "published": "Mon, 30 Sep 2024 12:26:24 GMT"
+    },
+    {
+        "title": "Uncovering Hidden Subdomains with Favicons: Advanced Enumeration Techniques",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/uncovering-hidden-subdomains-with-favicons-advanced-enumeration-techniques-e92cb30cbcc3?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/773/1*-SYCxrBISz1wo82v7D26Og.jpeg\" width=\"773\" /></a></p><p class=\"medium-feed-snippet\">Effortlessly Discover Subdomains with Favicon Hashing and Advanced Recon Techniques</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/uncovering-hidden-subdomains-with-favicons-advanced-enumeration-techniques-e92cb30cbcc3?source=rss------bug_bounty_tips-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/uncovering-hidden-subdomains-with-favicons-advanced-enumeration-techniques-e92cb30cbcc3?source=rss------bug_bounty_tips-5",
+        "published": "Mon, 30 Sep 2024 06:27:48 GMT"
+    },
+    {
+        "title": "(Microsoft Forms) Bisa \u201cnyontek\u201d soal lebih awal sebelum kuis dimulai, bukan issue security kah?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ronafebriana/microsoft-forms-bisa-nyontek-soal-lebih-awal-sebelum-kuis-dimulai-bukan-issue-security-kah-d18621d0f984?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*tajB0ssgxR944FOiBXO6vw.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Bypass secret questions, bypass countdown timer, siap siap nilai ujian 100!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ronafebriana/microsoft-forms-bisa-nyontek-soal-lebih-awal-sebelum-kuis-dimulai-bukan-issue-security-kah-d18621d0f984?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ronafebriana/microsoft-forms-bisa-nyontek-soal-lebih-awal-sebelum-kuis-dimulai-bukan-issue-security-kah-d18621d0f984?source=rss------bug_hunting-5",
+        "published": "Mon, 30 Sep 2024 15:57:29 GMT"
     }
 ]
