@@ -3154,5 +3154,317 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Find Open Redirection Vulnerability in Login Page</p><p class=\"medium-feed-link\"><a href=\"https://wedohack.medium.com/open-redirect-bug-wedohacks-26012e51d50c?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://wedohack.medium.com/open-redirect-bug-wedohacks-26012e51d50c?source=rss------bug_hunting-5",
         "published": "Tue, 01 Oct 2024 17:41:32 GMT"
+    },
+    {
+        "title": "Some XSS Situation",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@haticezkmnl/some-xss-situation-31fa64e113fe?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1738/1*91HgvcgirLAv-4yAGv9OSw.png\" width=\"1738\" /></a></p><p class=\"medium-feed-snippet\">Steps to create a website with simple php codes + What is XSS + XSS injection attempts</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@haticezkmnl/some-xss-situation-31fa64e113fe?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@haticezkmnl/some-xss-situation-31fa64e113fe?source=rss------bug_bounty-5",
+        "published": "Thu, 03 Oct 2024 01:04:09 GMT"
+    },
+    {
+        "title": "Reverse Shells: A Practical Guide",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@learntheshell/reverse-shells-a-practical-guide-af1815bc3127?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*hS4JhoyYZKYwJwQefBUujA.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">In the world of penetration testing, a reverse shell is a crucial concept. It allows an attacker to connect back to their own machine.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@learntheshell/reverse-shells-a-practical-guide-af1815bc3127?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@learntheshell/reverse-shells-a-practical-guide-af1815bc3127?source=rss------bug_bounty-5",
+        "published": "Wed, 02 Oct 2024 20:58:10 GMT"
+    },
+    {
+        "title": "Secrets Manager exposed (HasiCorp Vault)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@manumanram2/secrets-manager-exposed-hasicorp-vault-7075539a9e1e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1439/1*DlzsjN6IGRD7ijkwpjdFbQ.png\" width=\"1439\" /></a></p><p class=\"medium-feed-snippet\">Hi guys, my name is Manuel and this is my first article in medium.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@manumanram2/secrets-manager-exposed-hasicorp-vault-7075539a9e1e?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@manumanram2/secrets-manager-exposed-hasicorp-vault-7075539a9e1e?source=rss------bug_bounty-5",
+        "published": "Wed, 02 Oct 2024 20:36:07 GMT"
+    },
+    {
+        "title": "Bug Bounty Proqramlar\u0131na Giri\u015f: Z\u0259iflikl\u0259rin A\u015fkar Edilm\u0259si v\u0259 Etik Hakerlik (B\u00f6l\u00fcm 1)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Kibert&#x259;hl&#xfc;k&#x259;sizlik g&#xfc;n&#xfc;m&#xfc;zd&#x259; getdikc&#x259; daha da &#x259;h&#x259;miyy&#x259;tli hala g&#x259;lir v&#x259; bu s&#x259;b&#x259;bd&#x259;n &#x15f;irk&#x259;tl&#x259;r v&#x259; d&#xf6;vl&#x259;t qurumlar&#x131; &#xf6;z sisteml&#x259;rind&#x259;ki&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://zeynalxan.medium.com/bug-bounty-proqramlar%C4%B1na-giri%C5%9F-z%C9%99iflikl%C9%99rin-a%C5%9Fkar-edilm%C9%99si-v%C9%99-etik-hakerlik-b%C3%B6l%C3%BCm-1-8caa7eb90dd8?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://zeynalxan.medium.com/bug-bounty-proqramlar%C4%B1na-giri%C5%9F-z%C9%99iflikl%C9%99rin-a%C5%9Fkar-edilm%C9%99si-v%C9%99-etik-hakerlik-b%C3%B6l%C3%BCm-1-8caa7eb90dd8?source=rss------bug_bounty-5",
+        "published": "Wed, 02 Oct 2024 17:07:52 GMT"
+    },
+    {
+        "title": "A Comprehensive Bug Bounty Checklist for Beginners.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anandrishav2228/a-comprehensive-bug-bounty-checklist-for-beginners-f96ba591cf3d?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1080/1*OEcfZUz6WHpmF6Er273jFQ.jpeg\" width=\"1080\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anandrishav2228/a-comprehensive-bug-bounty-checklist-for-beginners-f96ba591cf3d?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anandrishav2228/a-comprehensive-bug-bounty-checklist-for-beginners-f96ba591cf3d?source=rss------bug_bounty-5",
+        "published": "Wed, 02 Oct 2024 16:22:09 GMT"
+    },
+    {
+        "title": "Cross-Origin Resource Sharing (CORS) Misconfiguration: How Attackers Exploit Weak Policies to Steal\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://cyberw1ng.medium.com/cross-origin-resource-sharing-cors-misconfiguration-how-attackers-exploit-weak-policies-to-steal-5902af92d71f?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*uaZ6zZ1D5SHbgV85xcUmUw.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Leveraging Poor CORS Implementations to Bypass Security and Access Sensitive Information</p><p class=\"medium-feed-link\"><a href=\"https://cyberw1ng.medium.com/cross-origin-resource-sharing-cors-misconfiguration-how-attackers-exploit-weak-policies-to-steal-5902af92d71f?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://cyberw1ng.medium.com/cross-origin-resource-sharing-cors-misconfiguration-how-attackers-exploit-weak-policies-to-steal-5902af92d71f?source=rss------bug_bounty-5",
+        "published": "Wed, 02 Oct 2024 15:44:28 GMT"
+    },
+    {
+        "title": "SQL injection UNION attack, finding a column containing text",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-finding-a-column-containing-text-09d913162e0f?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/0*nKXmcffF1pjyE883.jpg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">SQL Injection: UNION Attacks to Find Columns Containing Text</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-finding-a-column-containing-text-09d913162e0f?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/sql-injection-union-attack-finding-a-column-containing-text-09d913162e0f?source=rss------bug_bounty-5",
+        "published": "Wed, 02 Oct 2024 15:16:31 GMT"
+    },
+    {
+        "title": "SQL injection UNION attack, determining the number of columns returned by the query",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-f04154bd5b3c?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1460/0*jwT0a6hq4KXIi2o1.jpg\" width=\"1460\" /></a></p><p class=\"medium-feed-snippet\">SQL Injection: UNION Attack and Determining Columns</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-f04154bd5b3c?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-f04154bd5b3c?source=rss------bug_bounty-5",
+        "published": "Wed, 02 Oct 2024 14:58:19 GMT"
+    },
+    {
+        "title": "Exfiltration of Data from a Standalone PC",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">### Exfiltration of Data from a Standalone PC</p><p class=\"medium-feed-link\"><a href=\"https://roadtooscp.medium.com/exfiltration-of-data-from-a-standalone-pc-00a538f0f773?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://roadtooscp.medium.com/exfiltration-of-data-from-a-standalone-pc-00a538f0f773?source=rss------bug_bounty-5",
+        "published": "Wed, 02 Oct 2024 14:31:37 GMT"
+    },
+    {
+        "title": "D\u00e9couverte d\u2019une vuln\u00e9rabilit\u00e9 XSS avec contournement de la CSP via unpkg.com",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Itachi0xf/d%C3%A9couverte-dune-vuln%C3%A9rabilit%C3%A9-xss-avec-contournement-de-la-csp-via-unpkg-com-02437e0eac34?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*kK45x4sgOT4H653cg153Fw.jpeg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Bonjour &#xe0; tous, aujourd&#x2019;hui je vais vous parler d&#x2019;une vuln&#xe9;rabilit&#xe9; que j&#x2019;ai d&#xe9;couverte sur un sous-domaine d&#x2019;un grand site de vente&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Itachi0xf/d%C3%A9couverte-dune-vuln%C3%A9rabilit%C3%A9-xss-avec-contournement-de-la-csp-via-unpkg-com-02437e0eac34?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Itachi0xf/d%C3%A9couverte-dune-vuln%C3%A9rabilit%C3%A9-xss-avec-contournement-de-la-csp-via-unpkg-com-02437e0eac34?source=rss------bug_bounty-5",
+        "published": "Wed, 02 Oct 2024 14:25:38 GMT"
+    },
+    {
+        "title": "Simplifying Pentest Lab Environments with Kasm & Docker-in-Docker",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://kasm.medium.com/simplifying-pentest-lab-environments-with-kasm-docker-in-docker-8ab039ab66f0?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/0*y5bQ40ODAd84Jv58\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Docker is a great tool for creating hacking and penetration testing labs where intentionally vulnerable applications and environments&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://kasm.medium.com/simplifying-pentest-lab-environments-with-kasm-docker-in-docker-8ab039ab66f0?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://kasm.medium.com/simplifying-pentest-lab-environments-with-kasm-docker-in-docker-8ab039ab66f0?source=rss------hacking-5",
+        "published": "Thu, 03 Oct 2024 03:55:32 GMT"
+    },
+    {
+        "title": "Understanding the OSI Model and TCP/IP Protocol Suite: A Beginner-Friendly Guide",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@akatrigger53/understanding-the-osi-model-and-tcp-ip-protocol-suite-a-beginner-friendly-guide-ccdde137c734?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/2406/1*utSBDFRnAp-fU1dgReOPDg.png\" width=\"2406\" /></a></p><p class=\"medium-feed-snippet\">Hey there, tech enthusiasts! &#x1f44b; Whether you&#x2019;re new to networking or just brushing up, you&#x2019;ve probably come across the terms OSI model and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@akatrigger53/understanding-the-osi-model-and-tcp-ip-protocol-suite-a-beginner-friendly-guide-ccdde137c734?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@akatrigger53/understanding-the-osi-model-and-tcp-ip-protocol-suite-a-beginner-friendly-guide-ccdde137c734?source=rss------hacking-5",
+        "published": "Thu, 03 Oct 2024 03:31:38 GMT"
+    },
+    {
+        "title": "Pyrat (tryhackme) writeup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@madfoxsec/pyrat-tryhackme-writeup-a51b8bb54823?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*eG-WVDTu4CI2x8z7FkkCtw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">This room definetly included more coding than most other rooms. So time to write some python.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@madfoxsec/pyrat-tryhackme-writeup-a51b8bb54823?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@madfoxsec/pyrat-tryhackme-writeup-a51b8bb54823?source=rss------hacking-5",
+        "published": "Wed, 02 Oct 2024 22:08:11 GMT"
+    },
+    {
+        "title": "Beginner\u2019s Guide to Windows Kernel Mode for Malware Developers Part 3",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@s12deff/beginners-guide-to-windows-kernel-mode-for-malware-developers-part-3-207d0f012025?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1103/0*vj3wgSkxTo_boy4R.png\" width=\"1103\" /></a></p><p class=\"medium-feed-snippet\">Windows Kernel Drivers Overview</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@s12deff/beginners-guide-to-windows-kernel-mode-for-malware-developers-part-3-207d0f012025?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@s12deff/beginners-guide-to-windows-kernel-mode-for-malware-developers-part-3-207d0f012025?source=rss------hacking-5",
+        "published": "Wed, 02 Oct 2024 21:35:32 GMT"
+    },
+    {
+        "title": "Secrets Manager exposed (HasiCorp Vault)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@manumanram2/secrets-manager-exposed-hasicorp-vault-7075539a9e1e?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1439/1*DlzsjN6IGRD7ijkwpjdFbQ.png\" width=\"1439\" /></a></p><p class=\"medium-feed-snippet\">Hi guys, my name is Manuel and this is my first article in medium.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@manumanram2/secrets-manager-exposed-hasicorp-vault-7075539a9e1e?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@manumanram2/secrets-manager-exposed-hasicorp-vault-7075539a9e1e?source=rss------hacking-5",
+        "published": "Wed, 02 Oct 2024 20:36:07 GMT"
+    },
+    {
+        "title": "how to buy stolen credit card info from tor russian hackers site who publish a new site evry day",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">hi in the last two months i was around dark web so i reserch that side and i fund a darkmarket from rusia and i get inside of it and for&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@1daytosee/how-to-buy-stolen-credit-card-info-from-tor-russian-hackers-site-who-publish-a-new-site-evry-day-6f2e5bebb1ec?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@1daytosee/how-to-buy-stolen-credit-card-info-from-tor-russian-hackers-site-who-publish-a-new-site-evry-day-6f2e5bebb1ec?source=rss------hacking-5",
+        "published": "Wed, 02 Oct 2024 19:46:01 GMT"
+    },
+    {
+        "title": "Best Cyber Security Certifications in 2024 | How and Where to Start in Cyber Security?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://motasemhamdan.medium.com/best-cyber-security-certifications-in-2024-how-and-where-to-start-in-cyber-security-c8df4d0b0920?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*LMQK6z0KmcNOeDbxrvsjiQ.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://motasemhamdan.medium.com/best-cyber-security-certifications-in-2024-how-and-where-to-start-in-cyber-security-c8df4d0b0920?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://motasemhamdan.medium.com/best-cyber-security-certifications-in-2024-how-and-where-to-start-in-cyber-security-c8df4d0b0920?source=rss------hacking-5",
+        "published": "Wed, 02 Oct 2024 18:55:15 GMT"
+    },
+    {
+        "title": "Self-Study SOC Analyst Curriculum",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/self-study-soc-analyst-curriculum-71bf66a3088c?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*nOkdG18PBRUt8QdkQLjAaQ.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">This is a very old roadmap i used to follow but the suggested content was bit old of time it was made, so just updated the whole roadmap&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/self-study-soc-analyst-curriculum-71bf66a3088c?source=rss------hacking-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/self-study-soc-analyst-curriculum-71bf66a3088c?source=rss------hacking-5",
+        "published": "Wed, 02 Oct 2024 18:39:57 GMT"
+    },
+    {
+        "title": "BoardLight (hackthebox) writeup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@madfoxsec/boardlight-hackthebox-writeup-dfaa6bf6cbe6?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/654/1*_5g9TzV19ySrf1SP3YVM3A.png\" width=\"654\" /></a></p><p class=\"medium-feed-snippet\">Starting off with nmap as ususal:</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@madfoxsec/boardlight-hackthebox-writeup-dfaa6bf6cbe6?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@madfoxsec/boardlight-hackthebox-writeup-dfaa6bf6cbe6?source=rss------hacking-5",
+        "published": "Wed, 02 Oct 2024 17:51:44 GMT"
+    },
+    {
+        "title": "How to Crack Passwords on Linux (Beginner Level)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/hackademia/how-to-crack-passwords-on-linux-beginner-level-da374b9946be?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1502/1*fCh1IE2UnMzU3dhXniVb9g.png\" width=\"1502\" /></a></p><p class=\"medium-feed-snippet\">Beginner&#x2019;s guide on hacking passwords in Linux</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/hackademia/how-to-crack-passwords-on-linux-beginner-level-da374b9946be?source=rss------hacking-5\">Continue reading on The Hackademy \u00bb</a></p></div>",
+        "link": "https://medium.com/hackademia/how-to-crack-passwords-on-linux-beginner-level-da374b9946be?source=rss------hacking-5",
+        "published": "Wed, 02 Oct 2024 17:22:00 GMT"
+    },
+    {
+        "title": "SQL injection attack, listing the database contents on Oracle",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/0*BMdG1vGrXCCTQGE9.jpg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">SQL Injection: Listing Database Contents on Oracle</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32?source=rss------bug_bounty_writeup-5",
+        "published": "Wed, 02 Oct 2024 13:49:25 GMT"
+    },
+    {
+        "title": "How to Easily Get the Hall of Fame on NASA\u2019s Vulnerability Disclosure Program - II",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rajkumarshanmugam/how-to-easily-get-the-hall-of-fame-on-nasas-vulnerability-disclosure-program-ii-4cc5c2a65f3b?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/700/0*QEQ6tsC70bFEcnUa.png\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">In this blog, I share my experience of finding vulnerabilities (bugs) in NASA | Part 2</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rajkumarshanmugam/how-to-easily-get-the-hall-of-fame-on-nasas-vulnerability-disclosure-program-ii-4cc5c2a65f3b?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rajkumarshanmugam/how-to-easily-get-the-hall-of-fame-on-nasas-vulnerability-disclosure-program-ii-4cc5c2a65f3b?source=rss------bug_bounty_writeup-5",
+        "published": "Wed, 02 Oct 2024 11:05:24 GMT"
+    },
+    {
+        "title": "$175 Prototype Pollution Vulnerability\u200a\u2014\u200aMy first bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://1-day.medium.com/175-prototype-pollution-vulnerability-my-first-bounty-197738a32330?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*OZXHO6vqMULEXeqcSZbDBw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">INTRODUCTION</p><p class=\"medium-feed-link\"><a href=\"https://1-day.medium.com/175-prototype-pollution-vulnerability-my-first-bounty-197738a32330?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://1-day.medium.com/175-prototype-pollution-vulnerability-my-first-bounty-197738a32330?source=rss------bug_bounty_writeup-5",
+        "published": "Wed, 02 Oct 2024 07:55:55 GMT"
+    },
+    {
+        "title": "INE eWPTXv2 Exam Review",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bella.bc/ine-ewptxv2-exam-review-b55c19b8e95d?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*_YHMokgMMt2FkyZTPA1h-g.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">What is the eWPTXv2?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bella.bc/ine-ewptxv2-exam-review-b55c19b8e95d?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bella.bc/ine-ewptxv2-exam-review-b55c19b8e95d?source=rss------penetration_testing-5",
+        "published": "Thu, 03 Oct 2024 02:58:26 GMT"
+    },
+    {
+        "title": "Nmap byte size series: Host discovery and service/OS detection",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://davidlares.medium.com/nmap-byte-size-summary-host-discovery-and-service-os-detection-f3848ceb5df8?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/1*C8Cv1AqXxLljD15MxlPvWg.jpeg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">For effective scans, you&#x2019;ll need to create some filtering to avoid doing some extra work and being the most effective possible.</p><p class=\"medium-feed-link\"><a href=\"https://davidlares.medium.com/nmap-byte-size-summary-host-discovery-and-service-os-detection-f3848ceb5df8?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://davidlares.medium.com/nmap-byte-size-summary-host-discovery-and-service-os-detection-f3848ceb5df8?source=rss------penetration_testing-5",
+        "published": "Wed, 02 Oct 2024 22:50:16 GMT"
+    },
+    {
+        "title": "External Penetration Testing 101: Targeting Login Portals (Part-2)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://n1chr0x.medium.com/external-penetration-testing-101-targeting-login-portals-part-2-d26c2ea9603a?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/620/1*BjyRjOFoQoMOuQ0sXyqs6Q.jpeg\" width=\"620\" /></a></p><p class=\"medium-feed-snippet\">Greetings Readers&#xa0;!</p><p class=\"medium-feed-link\"><a href=\"https://n1chr0x.medium.com/external-penetration-testing-101-targeting-login-portals-part-2-d26c2ea9603a?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://n1chr0x.medium.com/external-penetration-testing-101-targeting-login-portals-part-2-d26c2ea9603a?source=rss------penetration_testing-5",
+        "published": "Wed, 02 Oct 2024 18:48:11 GMT"
+    },
+    {
+        "title": "HackTheBox | Conceal (Walkthrough)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://d4t4s3c.medium.com/hackthebox-conceal-walkthrough-0ff0ee05a84f?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/700/1*wKOxzJfT13wqyCtUd7wRtQ.png\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">Conceal es una m&#xe1;quina retirada Windows de dificultad dif&#xed;cil de la plataforma HackTheBox y fue creada por el usuario bashlogic.</p><p class=\"medium-feed-link\"><a href=\"https://d4t4s3c.medium.com/hackthebox-conceal-walkthrough-0ff0ee05a84f?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://d4t4s3c.medium.com/hackthebox-conceal-walkthrough-0ff0ee05a84f?source=rss------penetration_testing-5",
+        "published": "Wed, 02 Oct 2024 18:41:58 GMT"
+    },
+    {
+        "title": "Springboard Capstone: Security Assessment Findings Report",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Introduction: A Theoretical Penetration Test During My Cybersecurity Bootcamp</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@evantwright/springboard-capstone-security-assessment-findings-report-fd31c3c85284?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@evantwright/springboard-capstone-security-assessment-findings-report-fd31c3c85284?source=rss------penetration_testing-5",
+        "published": "Wed, 02 Oct 2024 15:05:18 GMT"
+    },
+    {
+        "title": "Google Hacking: Buscando Arquivos Espec\u00edficos:\u00a0.php,\u00a0.pdf,\u00a0.xml",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@felipecs20221/google-hacking-buscando-arquivos-espec%C3%ADficos-php-pdf-xml-94ba0764575c?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*RKLanqU6BtgVaC61.jpg\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">Introdu&#xe7;&#xe3;o</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@felipecs20221/google-hacking-buscando-arquivos-espec%C3%ADficos-php-pdf-xml-94ba0764575c?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@felipecs20221/google-hacking-buscando-arquivos-espec%C3%ADficos-php-pdf-xml-94ba0764575c?source=rss------penetration_testing-5",
+        "published": "Wed, 02 Oct 2024 15:01:25 GMT"
+    },
+    {
+        "title": "Exploiting Blind XSS to Access Admin Dashboard for Bounty Rewards",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@arrheniuspaelongan09/exploiting-blind-xss-to-access-admin-dashboard-for-bounty-rewards-fcdd54ddea7c?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1350/1*pdgrofUxE_Uf1hO1U8R85w.png\" width=\"1350\" /></a></p><p class=\"medium-feed-snippet\">Hello Friends,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@arrheniuspaelongan09/exploiting-blind-xss-to-access-admin-dashboard-for-bounty-rewards-fcdd54ddea7c?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@arrheniuspaelongan09/exploiting-blind-xss-to-access-admin-dashboard-for-bounty-rewards-fcdd54ddea7c?source=rss------penetration_testing-5",
+        "published": "Wed, 02 Oct 2024 13:35:10 GMT"
+    },
+    {
+        "title": "Slip in unnoticed and hijack the flow with HTTP Request Smuggling",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/slip-in-unnoticed-and-hijack-the-flow-with-http-request-smuggling-8be4e3421472?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*Z80IpMEAQ2gTiSZ9\" width=\"5076\" /></a></p><p class=\"medium-feed-snippet\">HTTP request smuggling is a sneaky attack where a hacker manipulates how a website handles incoming requests. By carefully crafting their&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/slip-in-unnoticed-and-hijack-the-flow-with-http-request-smuggling-8be4e3421472?source=rss------penetration_testing-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/slip-in-unnoticed-and-hijack-the-flow-with-http-request-smuggling-8be4e3421472?source=rss------penetration_testing-5",
+        "published": "Wed, 02 Oct 2024 11:19:39 GMT"
+    },
+    {
+        "title": "Solving The Planets: Earth VM From Vulnhub\u200a\u2014\u200aWalkthrough/writeup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@galihabraa/solving-the-planets-earth-vm-from-vulnhub-walkthrough-writeup-29f356d489fb?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1021/1*MEK7cAVxX4ewhSszMeJBtw.png\" width=\"1021\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@galihabraa/solving-the-planets-earth-vm-from-vulnhub-walkthrough-writeup-29f356d489fb?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@galihabraa/solving-the-planets-earth-vm-from-vulnhub-walkthrough-writeup-29f356d489fb?source=rss------penetration_testing-5",
+        "published": "Wed, 02 Oct 2024 10:23:00 GMT"
+    },
+    {
+        "title": "CVE-2024-20432\u00a0:: CVSS Score 9.9 Patch your Cisco Nexus Dashboard Fabric Controller(NDFC) NOW!!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@patchnow/cve-2024-20432-cvss-score-9-9-patch-your-cisco-nexus-dashboard-fabric-controller-ndfc-now-d297b9fb0e41?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/755/1*jj5ZansUXSoJthaXWBQ0Dw.png\" width=\"755\" /></a></p><p class=\"medium-feed-snippet\">Advisory:\nhttps://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ndfc-cmdinj-UvYZrKfr</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@patchnow/cve-2024-20432-cvss-score-9-9-patch-your-cisco-nexus-dashboard-fabric-controller-ndfc-now-d297b9fb0e41?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@patchnow/cve-2024-20432-cvss-score-9-9-patch-your-cisco-nexus-dashboard-fabric-controller-ndfc-now-d297b9fb0e41?source=rss------vulnerability-5",
+        "published": "Thu, 03 Oct 2024 05:14:30 GMT"
+    },
+    {
+        "title": "Decrypting: Crypto Wallets Targetted Using Malicious PyPI Packages",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kr1pt7c/decrypting-crypto-wallets-targetted-using-malicious-pypi-packages-928bf4c0e32d?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*2-OuDm6lt_SPeHg7G9U-qQ.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">PyPI has long been a target for malicious actors distributing harmful code disguised as legitimate utilities. Recently, Yehuda Gelb&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kr1pt7c/decrypting-crypto-wallets-targetted-using-malicious-pypi-packages-928bf4c0e32d?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kr1pt7c/decrypting-crypto-wallets-targetted-using-malicious-pypi-packages-928bf4c0e32d?source=rss------vulnerability-5",
+        "published": "Thu, 03 Oct 2024 04:33:19 GMT"
+    },
+    {
+        "title": "Where Do You Draw the Line? The Hidden Cost of Always Being \u2018Relatable\u2019 in Personal Branding",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@jennette_cajucom/where-do-you-draw-the-line-the-hidden-cost-of-always-being-relatable-in-personal-branding-ecc012e4df23?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*uo2xB3Ma8OstGa5K9sujlw.jpeg\" width=\"6720\" /></a></p><p class=\"medium-feed-snippet\">These days, being &#x201c;relatable&#x201d; has become a core part of personal branding.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@jennette_cajucom/where-do-you-draw-the-line-the-hidden-cost-of-always-being-relatable-in-personal-branding-ecc012e4df23?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@jennette_cajucom/where-do-you-draw-the-line-the-hidden-cost-of-always-being-relatable-in-personal-branding-ecc012e4df23?source=rss------vulnerability-5",
+        "published": "Thu, 03 Oct 2024 02:41:20 GMT"
+    },
+    {
+        "title": "the eternal consequence of a moment",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rain.rainynights/the-eternal-consequence-of-a-moment-c78c7bd9bc34?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1080/1*kQyfQJUi1xsOJMQD6V7lkQ.png\" width=\"1080\" /></a></p><p class=\"medium-feed-snippet\">&#x201c;at least i&#x2019;m trying&#x201d;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rain.rainynights/the-eternal-consequence-of-a-moment-c78c7bd9bc34?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rain.rainynights/the-eternal-consequence-of-a-moment-c78c7bd9bc34?source=rss------vulnerability-5",
+        "published": "Wed, 02 Oct 2024 23:31:59 GMT"
+    },
+    {
+        "title": "\u201cThe Hidden Battle Inside: How I Mastered the Art of Disappearing Without Anyone Noticing\u201d",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@loveforankit/the-hidden-battle-inside-how-i-mastered-the-art-of-disappearing-without-anyone-noticing-da3a2c945cad?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*lnINiaJy15OMlfcm1P0PKQ.jpeg\" width=\"3785\" /></a></p><p class=\"medium-feed-snippet\">There&#x2019;s a part of me that no one ever sees. It&#x2019;s the part that disappears quietly when the noise of life gets too loud&#x200a;&#x2014;&#x200a;when expectations&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@loveforankit/the-hidden-battle-inside-how-i-mastered-the-art-of-disappearing-without-anyone-noticing-da3a2c945cad?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@loveforankit/the-hidden-battle-inside-how-i-mastered-the-art-of-disappearing-without-anyone-noticing-da3a2c945cad?source=rss------vulnerability-5",
+        "published": "Wed, 02 Oct 2024 21:31:32 GMT"
+    },
+    {
+        "title": "Embracing Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/the-shortform/embracing-vulnerability-8bdaa953a632?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*P8m3MnqBttgglMMP\" width=\"5472\" /></a></p><p class=\"medium-feed-snippet\">People often tell me I&#x2019;m strong&#x200a;&#x2014;&#x200a;but I&#x2019;m not.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/the-shortform/embracing-vulnerability-8bdaa953a632?source=rss------vulnerability-5\">Continue reading on The Shortform \u00bb</a></p></div>",
+        "link": "https://medium.com/the-shortform/embracing-vulnerability-8bdaa953a632?source=rss------vulnerability-5",
+        "published": "Wed, 02 Oct 2024 20:24:21 GMT"
+    },
+    {
+        "title": "I Figured Out Why REAL Men Don\u2019t Cry",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/mrcollins-life-hub/i-figured-out-why-real-men-dont-cry-e5a57067c274?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*n6P0t8Gsvmq9WAjK\" width=\"2823\" /></a></p><p class=\"medium-feed-snippet\">Why real men don&#x2019;t cry</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/mrcollins-life-hub/i-figured-out-why-real-men-dont-cry-e5a57067c274?source=rss------vulnerability-5\">Continue reading on Mrcollins life hub \u00bb</a></p></div>",
+        "link": "https://medium.com/mrcollins-life-hub/i-figured-out-why-real-men-dont-cry-e5a57067c274?source=rss------vulnerability-5",
+        "published": "Wed, 02 Oct 2024 18:22:15 GMT"
+    },
+    {
+        "title": "The OWASP Top Ten is a list of the most critical security risks to web applications, created by the\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bbowd002/the-owasp-top-ten-is-a-list-of-the-most-critical-security-risks-to-web-applications-created-by-the-89cda7ccfa52?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/791/1*DDaRxVZ-jYKiqw4RbvE9Hw.jpeg\" width=\"791\" /></a></p><p class=\"medium-feed-snippet\">Broken Access Control\nImproper enforcement of access restrictions, allowing attackers to access data or systems they shouldn&#x2019;t.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bbowd002/the-owasp-top-ten-is-a-list-of-the-most-critical-security-risks-to-web-applications-created-by-the-89cda7ccfa52?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bbowd002/the-owasp-top-ten-is-a-list-of-the-most-critical-security-risks-to-web-applications-created-by-the-89cda7ccfa52?source=rss------vulnerability-5",
+        "published": "Wed, 02 Oct 2024 17:57:45 GMT"
+    },
+    {
+        "title": "Understanding Vulnerability Management: A Key Component of Cybersecurity",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Organizations face an ever-increasing number of cyber threats, making vulnerability management a critical component of their cybersecurity&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@safeaeon-inc/understanding-vulnerability-management-a-key-component-of-cybersecurity-ded652c2c61c?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@safeaeon-inc/understanding-vulnerability-management-a-key-component-of-cybersecurity-ded652c2c61c?source=rss------vulnerability-5",
+        "published": "Wed, 02 Oct 2024 17:44:06 GMT"
+    },
+    {
+        "title": "The Last Train Home",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">A quiet late-night train traveling through a seemingly endless landscape, illuminated only by the soft flicker of fluorescent lights and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ahmedsohail3/the-last-train-home-d8147b9c3e75?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ahmedsohail3/the-last-train-home-d8147b9c3e75?source=rss------vulnerability-5",
+        "published": "Wed, 02 Oct 2024 15:45:05 GMT"
+    },
+    {
+        "title": "Reverse Shells: A Practical Guide",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@learntheshell/reverse-shells-a-practical-guide-af1815bc3127?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*hS4JhoyYZKYwJwQefBUujA.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">In the world of penetration testing, a reverse shell is a crucial concept. It allows an attacker to connect back to their own machine.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@learntheshell/reverse-shells-a-practical-guide-af1815bc3127?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@learntheshell/reverse-shells-a-practical-guide-af1815bc3127?source=rss------bug_bounty_tips-5",
+        "published": "Wed, 02 Oct 2024 20:58:10 GMT"
+    },
+    {
+        "title": "SQL injection UNION attack, finding a column containing text",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-finding-a-column-containing-text-09d913162e0f?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/0*nKXmcffF1pjyE883.jpg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">SQL Injection: UNION Attacks to Find Columns Containing Text</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-finding-a-column-containing-text-09d913162e0f?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/sql-injection-union-attack-finding-a-column-containing-text-09d913162e0f?source=rss------bug_bounty_tips-5",
+        "published": "Wed, 02 Oct 2024 15:16:31 GMT"
+    },
+    {
+        "title": "SQL injection UNION attack, determining the number of columns returned by the query",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-f04154bd5b3c?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1460/0*jwT0a6hq4KXIi2o1.jpg\" width=\"1460\" /></a></p><p class=\"medium-feed-snippet\">SQL Injection: UNION Attack and Determining Columns</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-f04154bd5b3c?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-f04154bd5b3c?source=rss------bug_bounty_tips-5",
+        "published": "Wed, 02 Oct 2024 14:58:19 GMT"
+    },
+    {
+        "title": "\u201cA Vulnerability, A Treasure: Go on a Fun Treasure Hunt with OWASP Top 10!\u201d",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rootspaghetti/a-vulnerability-a-treasure-go-on-a-fun-treasure-hunt-with-owasp-top-10-d9fe21911856?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*4HJsyEPEy-6OgQiek4WJog.gif\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">&#x1f3af; How to Find and Exploit OWASP Top 10 Vulnerabilities (with Tools!)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rootspaghetti/a-vulnerability-a-treasure-go-on-a-fun-treasure-hunt-with-owasp-top-10-d9fe21911856?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rootspaghetti/a-vulnerability-a-treasure-go-on-a-fun-treasure-hunt-with-owasp-top-10-d9fe21911856?source=rss------bug_bounty_tips-5",
+        "published": "Wed, 02 Oct 2024 14:06:46 GMT"
+    },
+    {
+        "title": "SQL injection attack, listing the database contents on Oracle",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/0*BMdG1vGrXCCTQGE9.jpg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">SQL Injection: Listing Database Contents on Oracle</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32?source=rss------bug_bounty_tips-5",
+        "published": "Wed, 02 Oct 2024 13:49:25 GMT"
+    },
+    {
+        "title": "How to Easily Get the Hall of Fame on NASA\u2019s Vulnerability Disclosure Program - II",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rajkumarshanmugam/how-to-easily-get-the-hall-of-fame-on-nasas-vulnerability-disclosure-program-ii-4cc5c2a65f3b?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/700/0*QEQ6tsC70bFEcnUa.png\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">In this blog, I share my experience of finding vulnerabilities (bugs) in NASA | Part 2</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rajkumarshanmugam/how-to-easily-get-the-hall-of-fame-on-nasas-vulnerability-disclosure-program-ii-4cc5c2a65f3b?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rajkumarshanmugam/how-to-easily-get-the-hall-of-fame-on-nasas-vulnerability-disclosure-program-ii-4cc5c2a65f3b?source=rss------bug_bounty_tips-5",
+        "published": "Wed, 02 Oct 2024 11:05:24 GMT"
+    },
+    {
+        "title": "How to Find Bugs and Vulnerabilities Using ChatGPT: Guaranteed Results",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://bevijaygupta.medium.com/how-to-find-bugs-and-vulnerabilities-using-chatgpt-guaranteed-results-288ff81dfe40?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/686/0*qJ0c5jFlaqUzP2S_\" width=\"686\" /></a></p><p class=\"medium-feed-snippet\">As the digital world expands, so does the number of security vulnerabilities, bugs, and issues that affect software systems.</p><p class=\"medium-feed-link\"><a href=\"https://bevijaygupta.medium.com/how-to-find-bugs-and-vulnerabilities-using-chatgpt-guaranteed-results-288ff81dfe40?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://bevijaygupta.medium.com/how-to-find-bugs-and-vulnerabilities-using-chatgpt-guaranteed-results-288ff81dfe40?source=rss------bug_bounty_tips-5",
+        "published": "Wed, 02 Oct 2024 09:49:28 GMT"
+    },
+    {
+        "title": "SQL injection attack, listing the database contents on non-Oracle databases",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-718de8ba755a?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*4Z1GweVNYQVbsLKH\" width=\"5400\" /></a></p><p class=\"medium-feed-snippet\">SQL Injection Listing Database Contents on Non-Oracle Databases</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-718de8ba755a?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-718de8ba755a?source=rss------bug_bounty_tips-5",
+        "published": "Wed, 02 Oct 2024 09:03:14 GMT"
+    },
+    {
+        "title": "How I Earned $4000+ from a Simple Information Disclosure Bug",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rajauzairabdullah/how-i-earned-4000-from-a-simple-information-disclosure-bug-d644c47803c1?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1182/1*L9DZE6TUfQKxjmJbGy20Eg.png\" width=\"1182\" /></a></p><p class=\"medium-feed-snippet\">I recently had the pleasure of uncovering a vulnerability that netted me over $4000 in bounties, all thanks to a simple information&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rajauzairabdullah/how-i-earned-4000-from-a-simple-information-disclosure-bug-d644c47803c1?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rajauzairabdullah/how-i-earned-4000-from-a-simple-information-disclosure-bug-d644c47803c1?source=rss------bug_bounty_tips-5",
+        "published": "Wed, 02 Oct 2024 06:52:53 GMT"
+    },
+    {
+        "title": "Open Redirect Bug | wedohacks",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Find Open Redirection Vulnerability in Login Page</p><p class=\"medium-feed-link\"><a href=\"https://wedohacks.medium.com/open-redirect-bug-wedohacks-26012e51d50c?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://wedohacks.medium.com/open-redirect-bug-wedohacks-26012e51d50c?source=rss------bug_hunting-5",
+        "published": "Tue, 01 Oct 2024 17:41:32 GMT"
     }
 ]
