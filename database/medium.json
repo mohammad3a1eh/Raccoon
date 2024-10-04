@@ -3466,5 +3466,311 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Find Open Redirection Vulnerability in Login Page</p><p class=\"medium-feed-link\"><a href=\"https://wedohacks.medium.com/open-redirect-bug-wedohacks-26012e51d50c?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://wedohacks.medium.com/open-redirect-bug-wedohacks-26012e51d50c?source=rss------bug_hunting-5",
         "published": "Tue, 01 Oct 2024 17:41:32 GMT"
+    },
+    {
+        "title": "Well, now that you\u2019ve put your mind in the right direction and started testing a website, the first\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@shaikhminhaz1975/well-now-that-youve-put-your-mind-in-the-right-direction-and-started-testing-a-website-the-first-c900776d6f89?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/768/1*Yii16zV1_Iloaxg5FfSCBg.png\" width=\"768\" /></a></p><p class=\"medium-feed-snippet\">Well, that&#x2019;s where this article comes in. Now, you need to find some directories or files that can open up the scope and give you a better&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@shaikhminhaz1975/well-now-that-youve-put-your-mind-in-the-right-direction-and-started-testing-a-website-the-first-c900776d6f89?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@shaikhminhaz1975/well-now-that-youve-put-your-mind-in-the-right-direction-and-started-testing-a-website-the-first-c900776d6f89?source=rss------bug_bounty-5",
+        "published": "Fri, 04 Oct 2024 04:33:34 GMT"
+    },
+    {
+        "title": "Critical Information Disclosure Vulnerability via CNAME (AUTOMATED SCAN)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://offsec01.medium.com/critical-information-disclosure-vulnerability-via-cname-automated-scan-be0f6597ac5e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1640/1*s_-5AypVaoW9ihfa0_v_fQ.png\" width=\"1640\" /></a></p><p class=\"medium-feed-snippet\">Hi there,</p><p class=\"medium-feed-link\"><a href=\"https://offsec01.medium.com/critical-information-disclosure-vulnerability-via-cname-automated-scan-be0f6597ac5e?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://offsec01.medium.com/critical-information-disclosure-vulnerability-via-cname-automated-scan-be0f6597ac5e?source=rss------bug_bounty-5",
+        "published": "Thu, 03 Oct 2024 23:05:57 GMT"
+    },
+    {
+        "title": "Pre-Account Takeover via Facebook OAuth Misconfiguration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://nyein-chan-aung.medium.com/pre-account-takeover-via-facebook-oauth-misconfiguration-e16b984b7953?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/720/1*bHAT6RKv0pnsevxUee1Zdg.jpeg\" width=\"720\" /></a></p><p class=\"medium-feed-snippet\">.Before we start,I would like to tell you to read writeups,tips,and other senior&apos;s knowledge sharings.I</p><p class=\"medium-feed-link\"><a href=\"https://nyein-chan-aung.medium.com/pre-account-takeover-via-facebook-oauth-misconfiguration-e16b984b7953?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://nyein-chan-aung.medium.com/pre-account-takeover-via-facebook-oauth-misconfiguration-e16b984b7953?source=rss------bug_bounty-5",
+        "published": "Thu, 03 Oct 2024 17:56:31 GMT"
+    },
+    {
+        "title": "XML External Entity (XXE) Injection: How Malicious XML Payloads Can Breach Your Application",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/xml-external-entity-xxe-injection-how-malicious-xml-payloads-can-breach-your-application-4837f732781e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/639/0*MYZZOOC588yF7vMZ.jpg\" width=\"639\" /></a></p><p class=\"medium-feed-snippet\">Exploiting Weak XML Parsers to Exfiltrate Data and Execute Attacks</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/xml-external-entity-xxe-injection-how-malicious-xml-payloads-can-breach-your-application-4837f732781e?source=rss------bug_bounty-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/xml-external-entity-xxe-injection-how-malicious-xml-payloads-can-breach-your-application-4837f732781e?source=rss------bug_bounty-5",
+        "published": "Thu, 03 Oct 2024 17:48:25 GMT"
+    },
+    {
+        "title": "How ChatGPT Made Me a Hacker.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wajeehakhan9797/how-chatgpt-made-me-a-hacker-b89b1cce992b?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*-LATYK1TIm408OMVCr80EA.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">How Chatgpt Made me a Hacker.Have you ever watched a movie where hackers sneak into the most secure systems with a few keystrokes and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wajeehakhan9797/how-chatgpt-made-me-a-hacker-b89b1cce992b?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wajeehakhan9797/how-chatgpt-made-me-a-hacker-b89b1cce992b?source=rss------bug_bounty-5",
+        "published": "Thu, 03 Oct 2024 17:27:40 GMT"
+    },
+    {
+        "title": "Critical Vulnerabilities in DrayTek Vigor Routers: Over 700,000 Devices Exposed to Remote Exploits\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/critical-vulnerabilities-in-draytek-vigor-routers-over-700-000-devices-exposed-to-remote-exploits-2f3f731b50d9?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/948/1*B8Jr4EeR-58XFkoKb067PQ.png\" width=\"948\" /></a></p><p class=\"medium-feed-snippet\">A series of critical vulnerabilities have been discovered in DrayTek Vigor routers, potentially affecting over 700,000 devices globally&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/critical-vulnerabilities-in-draytek-vigor-routers-over-700-000-devices-exposed-to-remote-exploits-2f3f731b50d9?source=rss------bug_bounty-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/critical-vulnerabilities-in-draytek-vigor-routers-over-700-000-devices-exposed-to-remote-exploits-2f3f731b50d9?source=rss------bug_bounty-5",
+        "published": "Thu, 03 Oct 2024 17:13:33 GMT"
+    },
+    {
+        "title": "How I hacked RD Sharma\u2019s Publisher Website?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://abhayvis.medium.com/how-i-hacked-rd-sharmas-publisher-website-7a76b3cb12ae?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/878/1*xfgkzX6e6L2zwo61fUCggQ.jpeg\" width=\"878\" /></a></p><p class=\"medium-feed-snippet\">This is the story when I was in my 11th class, one day I was just searching to buy maths book on the internet and RD Sharma was one of the&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://abhayvis.medium.com/how-i-hacked-rd-sharmas-publisher-website-7a76b3cb12ae?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://abhayvis.medium.com/how-i-hacked-rd-sharmas-publisher-website-7a76b3cb12ae?source=rss------bug_bounty-5",
+        "published": "Thu, 03 Oct 2024 16:56:50 GMT"
+    },
+    {
+        "title": "Blind SQL injection with out-of-band data exfiltration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/blind-sql-injection-with-out-of-band-data-exfiltration-0a08129bfad5?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/0*DMEoh9jvuicvHCiH.jpg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">The Ultimate Guide to Blind SQL Injection with Out-of-Band Data Exfiltration</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/blind-sql-injection-with-out-of-band-data-exfiltration-0a08129bfad5?source=rss------bug_bounty-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/blind-sql-injection-with-out-of-band-data-exfiltration-0a08129bfad5?source=rss------bug_bounty-5",
+        "published": "Thu, 03 Oct 2024 15:50:58 GMT"
+    },
+    {
+        "title": "Blind SQL injection with out-of-band interaction",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-out-of-band-interaction-e44f6f75bc47?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*nEIuNM9KBy3hg6ti.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Unveiling Blind SQL Injection with Out-of-Band Interaction: A Silent Yet Lethal Attack</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-out-of-band-interaction-e44f6f75bc47?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/blind-sql-injection-with-out-of-band-interaction-e44f6f75bc47?source=rss------bug_bounty-5",
+        "published": "Thu, 03 Oct 2024 15:40:53 GMT"
+    },
+    {
+        "title": "Blind SQL injection with time delays and information retrieval",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-time-delays-and-information-retrieval-fa38f3618a99?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1260/0*W-pRW_LeuMumG-UI\" width=\"1260\" /></a></p><p class=\"medium-feed-snippet\">Mastering Blind SQL Injection with Time Delays: The Art of Information Extraction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-time-delays-and-information-retrieval-fa38f3618a99?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/blind-sql-injection-with-time-delays-and-information-retrieval-fa38f3618a99?source=rss------bug_bounty-5",
+        "published": "Thu, 03 Oct 2024 15:31:26 GMT"
+    },
+    {
+        "title": "Instalar Kali Linux en Windows 10 con WSL",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://jeach03.medium.com/instalar-kali-linux-en-windows-10-con-wsl-7f8d3e24b229?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*7CRwWWJbr67B9zYGNezIIg.png\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://jeach03.medium.com/instalar-kali-linux-en-windows-10-con-wsl-7f8d3e24b229?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://jeach03.medium.com/instalar-kali-linux-en-windows-10-con-wsl-7f8d3e24b229?source=rss------hacking-5",
+        "published": "Fri, 04 Oct 2024 04:53:08 GMT"
+    },
+    {
+        "title": "The main objectives of ethical hacking are centered around enhancing the security posture of\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Hacking</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@tahiraliktg12/the-main-objectives-of-ethical-hacking-are-centered-around-enhancing-the-security-posture-of-1b92ebe114c6?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@tahiraliktg12/the-main-objectives-of-ethical-hacking-are-centered-around-enhancing-the-security-posture-of-1b92ebe114c6?source=rss------hacking-5",
+        "published": "Fri, 04 Oct 2024 04:01:42 GMT"
+    },
+    {
+        "title": "Ethical Hacking: A Comprehensive Overview",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Hacking</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@tahiraliktg12/ethical-hacking-a-comprehensive-overview-786441fc768c?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@tahiraliktg12/ethical-hacking-a-comprehensive-overview-786441fc768c?source=rss------hacking-5",
+        "published": "Fri, 04 Oct 2024 03:56:49 GMT"
+    },
+    {
+        "title": "HTB\u2019s Certified Penetration Testing Specialist (CPTS) Review",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kelvin.w/htbs-certified-penetration-testing-specialist-cpts-review-b75a7b13bf61?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1330/1*TqvWY79bFZyLGJ-DkI2WnQ.png\" width=\"1330\" /></a></p><p class=\"medium-feed-snippet\">I think I need a breather&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kelvin.w/htbs-certified-penetration-testing-specialist-cpts-review-b75a7b13bf61?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kelvin.w/htbs-certified-penetration-testing-specialist-cpts-review-b75a7b13bf61?source=rss------hacking-5",
+        "published": "Fri, 04 Oct 2024 03:24:57 GMT"
+    },
+    {
+        "title": "How to retrieve stolen usdt by hackers?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">With the rise of cryptocurrencies, the number of tricks focusing on clueless financial specialists has moreover expanded. One common sort&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dawwri/how-to-retrieve-stolen-usdt-by-hackers-cd90b680eeac?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dawwri/how-to-retrieve-stolen-usdt-by-hackers-cd90b680eeac?source=rss------hacking-5",
+        "published": "Thu, 03 Oct 2024 23:20:08 GMT"
+    },
+    {
+        "title": "Critical Information Disclosure Vulnerability via CNAME (AUTOMATED SCAN)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://offsec01.medium.com/critical-information-disclosure-vulnerability-via-cname-automated-scan-be0f6597ac5e?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1640/1*s_-5AypVaoW9ihfa0_v_fQ.png\" width=\"1640\" /></a></p><p class=\"medium-feed-snippet\">Hi there,</p><p class=\"medium-feed-link\"><a href=\"https://offsec01.medium.com/critical-information-disclosure-vulnerability-via-cname-automated-scan-be0f6597ac5e?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://offsec01.medium.com/critical-information-disclosure-vulnerability-via-cname-automated-scan-be0f6597ac5e?source=rss------hacking-5",
+        "published": "Thu, 03 Oct 2024 23:05:57 GMT"
+    },
+    {
+        "title": "PenTesting Labs\u200a\u2014\u200aISPConfig",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://m3lon.medium.com/pentesting-labs-ispconfig-31055b444d0e?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*sYI-NFwpIKJFKHfhSb6vOw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Technical Walk-Through</p><p class=\"medium-feed-link\"><a href=\"https://m3lon.medium.com/pentesting-labs-ispconfig-31055b444d0e?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://m3lon.medium.com/pentesting-labs-ispconfig-31055b444d0e?source=rss------hacking-5",
+        "published": "Thu, 03 Oct 2024 21:50:24 GMT"
+    },
+    {
+        "title": "The Power of Wordlists: Why Every Hacker Needs One",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://levelup.gitconnected.com/the-power-of-wordlists-why-every-hacker-needs-one-bf34749d2602?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1747/1*sfHA9cLMEgKhrUhDk9Qosg.png\" width=\"1747\" /></a></p><p class=\"medium-feed-snippet\">Wordlists are a core component of brute-force attacks. Let&#x2019;s learn what they are and how to use them.</p><p class=\"medium-feed-link\"><a href=\"https://levelup.gitconnected.com/the-power-of-wordlists-why-every-hacker-needs-one-bf34749d2602?source=rss------hacking-5\">Continue reading on Level Up Coding \u00bb</a></p></div>",
+        "link": "https://levelup.gitconnected.com/the-power-of-wordlists-why-every-hacker-needs-one-bf34749d2602?source=rss------hacking-5",
+        "published": "Thu, 03 Oct 2024 20:27:58 GMT"
+    },
+    {
+        "title": "The Dark Side of Public Wi-Fi: How Much Information Are You Giving Away Without Knowing It?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@and.conte95/the-dark-side-of-public-wi-fi-how-much-information-are-you-giving-away-without-knowing-it-4529c2288c36?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*7GuTN5mo4IhhPHLx\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">Imagine this: you&#x2019;re at a crowded caf&#xe9;, you order your coffee, and while you wait, you connect to the public Wi-Fi. In just a few seconds&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@and.conte95/the-dark-side-of-public-wi-fi-how-much-information-are-you-giving-away-without-knowing-it-4529c2288c36?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@and.conte95/the-dark-side-of-public-wi-fi-how-much-information-are-you-giving-away-without-knowing-it-4529c2288c36?source=rss------hacking-5",
+        "published": "Thu, 03 Oct 2024 20:02:12 GMT"
+    },
+    {
+        "title": "VDP: Broken Session Management Allows Unlimited Free Scans on Pentesting Website",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*qlhQnlFdw-bDmqJKRsJ9EA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Can we do it for free?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 03 Oct 2024 13:31:19 GMT"
+    },
+    {
+        "title": "Insufficient Session Expiration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mostafaaboelnour19/insufficient-session-expiration-ba66e90f424b?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1380/1*s-hYKC5J0XDGeDhM9VihKQ.png\" width=\"1380\" /></a></p><p class=\"medium-feed-snippet\">Hola Hackers&#xa0;:)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mostafaaboelnour19/insufficient-session-expiration-ba66e90f424b?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mostafaaboelnour19/insufficient-session-expiration-ba66e90f424b?source=rss------bugbounty_writeup-5",
+        "published": "Thu, 03 Oct 2024 11:06:04 GMT"
+    },
+    {
+        "title": "Well, now that you\u2019ve put your mind in the right direction and started testing a website, the first\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@shaikhminhaz1975/well-now-that-youve-put-your-mind-in-the-right-direction-and-started-testing-a-website-the-first-c900776d6f89?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/768/1*Yii16zV1_Iloaxg5FfSCBg.png\" width=\"768\" /></a></p><p class=\"medium-feed-snippet\">Well, that&#x2019;s where this article comes in. Now, you need to find some directories or files that can open up the scope and give you a better&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@shaikhminhaz1975/well-now-that-youve-put-your-mind-in-the-right-direction-and-started-testing-a-website-the-first-c900776d6f89?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@shaikhminhaz1975/well-now-that-youve-put-your-mind-in-the-right-direction-and-started-testing-a-website-the-first-c900776d6f89?source=rss------penetration_testing-5",
+        "published": "Fri, 04 Oct 2024 04:33:34 GMT"
+    },
+    {
+        "title": "HTB\u2019s Certified Penetration Testing Specialist (CPTS) Review",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kelvin.w/htbs-certified-penetration-testing-specialist-cpts-review-b75a7b13bf61?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1330/1*TqvWY79bFZyLGJ-DkI2WnQ.png\" width=\"1330\" /></a></p><p class=\"medium-feed-snippet\">I think I need a breather&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kelvin.w/htbs-certified-penetration-testing-specialist-cpts-review-b75a7b13bf61?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kelvin.w/htbs-certified-penetration-testing-specialist-cpts-review-b75a7b13bf61?source=rss------penetration_testing-5",
+        "published": "Fri, 04 Oct 2024 03:24:57 GMT"
+    },
+    {
+        "title": "Critical Information Disclosure Vulnerability via CNAME (AUTOMATED SCAN)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://offsec01.medium.com/critical-information-disclosure-vulnerability-via-cname-automated-scan-be0f6597ac5e?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1640/1*s_-5AypVaoW9ihfa0_v_fQ.png\" width=\"1640\" /></a></p><p class=\"medium-feed-snippet\">Hi there,</p><p class=\"medium-feed-link\"><a href=\"https://offsec01.medium.com/critical-information-disclosure-vulnerability-via-cname-automated-scan-be0f6597ac5e?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://offsec01.medium.com/critical-information-disclosure-vulnerability-via-cname-automated-scan-be0f6597ac5e?source=rss------penetration_testing-5",
+        "published": "Thu, 03 Oct 2024 23:05:57 GMT"
+    },
+    {
+        "title": "PenTesting Labs\u200a\u2014\u200aISPConfig",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://m3lon.medium.com/pentesting-labs-ispconfig-31055b444d0e?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*sYI-NFwpIKJFKHfhSb6vOw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Technical Walk-Through</p><p class=\"medium-feed-link\"><a href=\"https://m3lon.medium.com/pentesting-labs-ispconfig-31055b444d0e?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://m3lon.medium.com/pentesting-labs-ispconfig-31055b444d0e?source=rss------penetration_testing-5",
+        "published": "Thu, 03 Oct 2024 21:50:24 GMT"
+    },
+    {
+        "title": "The Power of Wordlists: Why Every Hacker Needs One",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://levelup.gitconnected.com/the-power-of-wordlists-why-every-hacker-needs-one-bf34749d2602?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1747/1*sfHA9cLMEgKhrUhDk9Qosg.png\" width=\"1747\" /></a></p><p class=\"medium-feed-snippet\">Wordlists are a core component of brute-force attacks. Let&#x2019;s learn what they are and how to use them.</p><p class=\"medium-feed-link\"><a href=\"https://levelup.gitconnected.com/the-power-of-wordlists-why-every-hacker-needs-one-bf34749d2602?source=rss------penetration_testing-5\">Continue reading on Level Up Coding \u00bb</a></p></div>",
+        "link": "https://levelup.gitconnected.com/the-power-of-wordlists-why-every-hacker-needs-one-bf34749d2602?source=rss------penetration_testing-5",
+        "published": "Thu, 03 Oct 2024 20:27:58 GMT"
+    },
+    {
+        "title": "Critical Vulnerabilities in DrayTek Vigor Routers: Over 700,000 Devices Exposed to Remote Exploits\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/critical-vulnerabilities-in-draytek-vigor-routers-over-700-000-devices-exposed-to-remote-exploits-2f3f731b50d9?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/948/1*B8Jr4EeR-58XFkoKb067PQ.png\" width=\"948\" /></a></p><p class=\"medium-feed-snippet\">A series of critical vulnerabilities have been discovered in DrayTek Vigor routers, potentially affecting over 700,000 devices globally&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/critical-vulnerabilities-in-draytek-vigor-routers-over-700-000-devices-exposed-to-remote-exploits-2f3f731b50d9?source=rss------penetration_testing-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/critical-vulnerabilities-in-draytek-vigor-routers-over-700-000-devices-exposed-to-remote-exploits-2f3f731b50d9?source=rss------penetration_testing-5",
+        "published": "Thu, 03 Oct 2024 17:13:33 GMT"
+    },
+    {
+        "title": "HackTheBox | Blue (Walkthrough)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://d4t4s3c.medium.com/hackthebox-blue-walkthrough-24c99c866d5f?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/700/1*ZYwtIF_gCMElIBQc4s0MPQ.png\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">Blue es una m&#xe1;quina retirada Windows de dificultad f&#xe1;cil de la plataforma HackTheBox y fue creada por el usuario ch4p.</p><p class=\"medium-feed-link\"><a href=\"https://d4t4s3c.medium.com/hackthebox-blue-walkthrough-24c99c866d5f?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://d4t4s3c.medium.com/hackthebox-blue-walkthrough-24c99c866d5f?source=rss------penetration_testing-5",
+        "published": "Thu, 03 Oct 2024 16:37:31 GMT"
+    },
+    {
+        "title": "VDP: Broken Session Management Allows Unlimited Free Scans on Pentesting Website",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*qlhQnlFdw-bDmqJKRsJ9EA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Can we do it for free?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c?source=rss------penetration_testing-5",
+        "published": "Thu, 03 Oct 2024 13:31:19 GMT"
+    },
+    {
+        "title": "AS-REP Roasting in Active Directory",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@persecure/as-rep-roasting-in-active-directory-b8e8b373b9fe?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1640/1*YmCojWcImLiEF6vTCjOBjg.png\" width=\"1640\" /></a></p><p class=\"medium-feed-snippet\">AS-REP roasting is a technique used in Active Directory (AD) environments that attackers leverage to extract and crack user passwords&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@persecure/as-rep-roasting-in-active-directory-b8e8b373b9fe?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@persecure/as-rep-roasting-in-active-directory-b8e8b373b9fe?source=rss------penetration_testing-5",
+        "published": "Thu, 03 Oct 2024 12:38:11 GMT"
+    },
+    {
+        "title": "Insufficient Session Expiration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mostafaaboelnour19/insufficient-session-expiration-ba66e90f424b?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1380/1*s-hYKC5J0XDGeDhM9VihKQ.png\" width=\"1380\" /></a></p><p class=\"medium-feed-snippet\">Hola Hackers&#xa0;:)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mostafaaboelnour19/insufficient-session-expiration-ba66e90f424b?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mostafaaboelnour19/insufficient-session-expiration-ba66e90f424b?source=rss------penetration_testing-5",
+        "published": "Thu, 03 Oct 2024 11:06:04 GMT"
+    },
+    {
+        "title": "CVE-2024-47807 and CVE-2024-47806\u00a0:: Patch your Jenkins OpenID Connect Authentication Plugin to\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@patchnow/cve-2024-47807-and-cve-2024-47806-patch-your-jenkins-openid-connect-authentication-plugin-to-9c5c338b0e6c?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/755/1*_20p6-AMXvM8BEoO6BwJRw.png\" width=\"755\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@patchnow/cve-2024-47807-and-cve-2024-47806-patch-your-jenkins-openid-connect-authentication-plugin-to-9c5c338b0e6c?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@patchnow/cve-2024-47807-and-cve-2024-47806-patch-your-jenkins-openid-connect-authentication-plugin-to-9c5c338b0e6c?source=rss------vulnerability-5",
+        "published": "Fri, 04 Oct 2024 04:11:52 GMT"
+    },
+    {
+        "title": "Facing Insecurities Before Intimacy",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/write-a-catalyst/facing-insecurities-before-intimacy-89b92284bfa9?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1080/1*BBFh7wKuOLYpZAekYPHSIg.jpeg\" width=\"1080\" /></a></p><p class=\"medium-feed-snippet\">How do you reveal your deepest fears to someone you care about?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/write-a-catalyst/facing-insecurities-before-intimacy-89b92284bfa9?source=rss------vulnerability-5\">Continue reading on Write A Catalyst \u00bb</a></p></div>",
+        "link": "https://medium.com/write-a-catalyst/facing-insecurities-before-intimacy-89b92284bfa9?source=rss------vulnerability-5",
+        "published": "Fri, 04 Oct 2024 03:33:56 GMT"
+    },
+    {
+        "title": "Laravel timing attack vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mosabomaer/laravel-timing-attack-vulnerability-c356043f6d14?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*F2mQnG1XZC2hAdKPqb_JWw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">If your backend is built with Laravel there is chance that it could be vulnerable to user enumeration via timeless timing attacks. This&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mosabomaer/laravel-timing-attack-vulnerability-c356043f6d14?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mosabomaer/laravel-timing-attack-vulnerability-c356043f6d14?source=rss------vulnerability-5",
+        "published": "Fri, 04 Oct 2024 00:39:32 GMT"
+    },
+    {
+        "title": "The Dark Side of Public Wi-Fi: How Much Information Are You Giving Away Without Knowing It?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@and.conte95/the-dark-side-of-public-wi-fi-how-much-information-are-you-giving-away-without-knowing-it-4529c2288c36?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*7GuTN5mo4IhhPHLx\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">Imagine this: you&#x2019;re at a crowded caf&#xe9;, you order your coffee, and while you wait, you connect to the public Wi-Fi. In just a few seconds&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@and.conte95/the-dark-side-of-public-wi-fi-how-much-information-are-you-giving-away-without-knowing-it-4529c2288c36?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@and.conte95/the-dark-side-of-public-wi-fi-how-much-information-are-you-giving-away-without-knowing-it-4529c2288c36?source=rss------vulnerability-5",
+        "published": "Thu, 03 Oct 2024 20:02:12 GMT"
+    },
+    {
+        "title": "The Courage to Lead Authentically: Why Leaders Shouldn\u2019t Fear Authenticity",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/howes-that-stories-that-shape-leaders/the-courage-to-lead-authentically-why-leaders-shouldnt-fear-authenticity-75aff7b8b0f4?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*i3LZw9NvQohJOK8lY_K3-A.png\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/howes-that-stories-that-shape-leaders/the-courage-to-lead-authentically-why-leaders-shouldnt-fear-authenticity-75aff7b8b0f4?source=rss------vulnerability-5\">Continue reading on Inspire. Influence. Lead. \u00bb</a></p></div>",
+        "link": "https://medium.com/howes-that-stories-that-shape-leaders/the-courage-to-lead-authentically-why-leaders-shouldnt-fear-authenticity-75aff7b8b0f4?source=rss------vulnerability-5",
+        "published": "Thu, 03 Oct 2024 18:38:31 GMT"
+    },
+    {
+        "title": "How to Stop Cyber Attacks: Essential Strategies for Protection",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">In today&#x2019;s digital landscape, cyber attacks are an ever-present threat that can disrupt businesses and compromise sensitive information&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@safeaeon-inc/how-to-stop-cyber-attacks-essential-strategies-for-protection-723c0cb1c14a?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@safeaeon-inc/how-to-stop-cyber-attacks-essential-strategies-for-protection-723c0cb1c14a?source=rss------vulnerability-5",
+        "published": "Thu, 03 Oct 2024 16:03:07 GMT"
+    },
+    {
+        "title": "The Real Secret to Confidence? 6 Harsh Truths You Must Accept",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@infoameliadougherty/the-real-secret-to-confidence-6-harsh-truths-you-must-accept-5a685b64407e?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1080/1*QZWLID4YoC2XD_Rbnda4wA@2x.jpeg\" width=\"1080\" /></a></p><p class=\"medium-feed-snippet\">Perfection is an illusion: confidence comes from embracing your flaws.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@infoameliadougherty/the-real-secret-to-confidence-6-harsh-truths-you-must-accept-5a685b64407e?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@infoameliadougherty/the-real-secret-to-confidence-6-harsh-truths-you-must-accept-5a685b64407e?source=rss------vulnerability-5",
+        "published": "Thu, 03 Oct 2024 15:38:59 GMT"
+    },
+    {
+        "title": "Loneliness After the Words Die",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@jeejaa855/loneliness-after-the-words-die-c54c753f1216?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1080/1*7GvxGyWM1HauT5toqaV53Q.jpeg\" width=\"1080\" /></a></p><p class=\"medium-feed-snippet\">When you have stories, but no one to share them with.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@jeejaa855/loneliness-after-the-words-die-c54c753f1216?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@jeejaa855/loneliness-after-the-words-die-c54c753f1216?source=rss------vulnerability-5",
+        "published": "Thu, 03 Oct 2024 15:17:40 GMT"
+    },
+    {
+        "title": "A Person Who\u2019s Real Is Not Afraid to Admit When They\u2019re Lonely",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@torresjonathan1992/a-person-whos-real-is-not-afraid-to-admit-when-they-re-lonely-765b5cb47125?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*1ZDKdoOKZ--o5TUt\" width=\"4000\" /></a></p><p class=\"medium-feed-snippet\">Photo by Doyle Shin on Unsplash</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@torresjonathan1992/a-person-whos-real-is-not-afraid-to-admit-when-they-re-lonely-765b5cb47125?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@torresjonathan1992/a-person-whos-real-is-not-afraid-to-admit-when-they-re-lonely-765b5cb47125?source=rss------vulnerability-5",
+        "published": "Thu, 03 Oct 2024 15:17:28 GMT"
+    },
+    {
+        "title": "Impacto de la Generaci\u00f3n Distribuida en las Cooperativas El\u00e9ctricas.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@gcuattrini/impacto-de-la-generaci%C3%B3n-distribuida-en-las-cooperativas-el%C3%A9ctricas-f57d06164af6?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*fMYFV0BRnugPN9DdbP_pHA.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Introducci&#xf3;n</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@gcuattrini/impacto-de-la-generaci%C3%B3n-distribuida-en-las-cooperativas-el%C3%A9ctricas-f57d06164af6?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@gcuattrini/impacto-de-la-generaci%C3%B3n-distribuida-en-las-cooperativas-el%C3%A9ctricas-f57d06164af6?source=rss------vulnerability-5",
+        "published": "Thu, 03 Oct 2024 15:01:45 GMT"
+    },
+    {
+        "title": "Pre-Account Takeover via Facebook OAuth Misconfiguration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://nyein-chan-aung.medium.com/pre-account-takeover-via-facebook-oauth-misconfiguration-e16b984b7953?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/720/1*bHAT6RKv0pnsevxUee1Zdg.jpeg\" width=\"720\" /></a></p><p class=\"medium-feed-snippet\">.Before we start,I would like to tell you to read writeups,tips,and other senior&apos;s knowledge sharings.I</p><p class=\"medium-feed-link\"><a href=\"https://nyein-chan-aung.medium.com/pre-account-takeover-via-facebook-oauth-misconfiguration-e16b984b7953?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://nyein-chan-aung.medium.com/pre-account-takeover-via-facebook-oauth-misconfiguration-e16b984b7953?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 03 Oct 2024 17:56:31 GMT"
+    },
+    {
+        "title": "Blind SQL injection with out-of-band data exfiltration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/blind-sql-injection-with-out-of-band-data-exfiltration-0a08129bfad5?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/0*DMEoh9jvuicvHCiH.jpg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">The Ultimate Guide to Blind SQL Injection with Out-of-Band Data Exfiltration</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/blind-sql-injection-with-out-of-band-data-exfiltration-0a08129bfad5?source=rss------bug_bounty_tips-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/blind-sql-injection-with-out-of-band-data-exfiltration-0a08129bfad5?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 03 Oct 2024 15:50:58 GMT"
+    },
+    {
+        "title": "Blind SQL injection with out-of-band interaction",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-out-of-band-interaction-e44f6f75bc47?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*nEIuNM9KBy3hg6ti.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Unveiling Blind SQL Injection with Out-of-Band Interaction: A Silent Yet Lethal Attack</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-out-of-band-interaction-e44f6f75bc47?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/blind-sql-injection-with-out-of-band-interaction-e44f6f75bc47?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 03 Oct 2024 15:40:53 GMT"
+    },
+    {
+        "title": "Blind SQL injection with time delays and information retrieval",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-time-delays-and-information-retrieval-fa38f3618a99?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1260/0*W-pRW_LeuMumG-UI\" width=\"1260\" /></a></p><p class=\"medium-feed-snippet\">Mastering Blind SQL Injection with Time Delays: The Art of Information Extraction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-time-delays-and-information-retrieval-fa38f3618a99?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/blind-sql-injection-with-time-delays-and-information-retrieval-fa38f3618a99?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 03 Oct 2024 15:31:26 GMT"
+    },
+    {
+        "title": "Blind SQL injection with time delays",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-time-delays-94cc5d962902?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*Sa4VcmsKEWMNddlk.png\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">Blind SQL Injection with Time Delays: A Stealthy Attack Unveiled</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-time-delays-94cc5d962902?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/blind-sql-injection-with-time-delays-94cc5d962902?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 03 Oct 2024 15:19:18 GMT"
+    },
+    {
+        "title": "Visible error-based SQL injection",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/visible-error-based-sql-injection-46b8bafe9059?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/633/0*uVom2b4UV7cxnwei.png\" width=\"633\" /></a></p><p class=\"medium-feed-snippet\">Cracking the Code: Understanding Visible Error-Based SQL Injection</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/visible-error-based-sql-injection-46b8bafe9059?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/visible-error-based-sql-injection-46b8bafe9059?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 03 Oct 2024 15:10:34 GMT"
+    },
+    {
+        "title": "Blind SQL injection with conditional errors",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-conditional-errors-f7c05ef531ad?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*J50JgTsLdSbtLDIE.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Blind SQL Injection: Exploiting Conditional Errors for Data Extraction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-conditional-errors-f7c05ef531ad?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/blind-sql-injection-with-conditional-errors-f7c05ef531ad?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 03 Oct 2024 15:01:15 GMT"
+    },
+    {
+        "title": "Blind SQL injection with conditional responses",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-conditional-responses-7ffa3a1ac84d?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/698/0*3Hs37siQ6ye28ID6\" width=\"698\" /></a></p><p class=\"medium-feed-snippet\">Blind SQL Injection: Exploiting Conditional Responses for Data Extraction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/blind-sql-injection-with-conditional-responses-7ffa3a1ac84d?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/blind-sql-injection-with-conditional-responses-7ffa3a1ac84d?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 03 Oct 2024 14:36:19 GMT"
+    },
+    {
+        "title": "SQL injection UNION attack, retrieving multiple values in a single column",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-ed5ce734abf2?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/626/0*JFNM3Npmp4BMcL07.jpg\" width=\"626\" /></a></p><p class=\"medium-feed-snippet\">SQL Injection: Retrieving Multiple Values in a Single Column</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-ed5ce734abf2?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-ed5ce734abf2?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 03 Oct 2024 14:16:09 GMT"
+    },
+    {
+        "title": "SQL injection UNION attack, retrieving data from other tables",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-retrieving-data-from-other-tables-11cc211f5ad3?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/720/0*ebtWqz2f_wmtgJe-\" width=\"720\" /></a></p><p class=\"medium-feed-snippet\">SQL Injection: Retrieving Data from Other Tables</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@codingbolt.in/sql-injection-union-attack-retrieving-data-from-other-tables-11cc211f5ad3?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@codingbolt.in/sql-injection-union-attack-retrieving-data-from-other-tables-11cc211f5ad3?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 03 Oct 2024 14:05:54 GMT"
     }
 ]
