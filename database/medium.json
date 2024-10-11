@@ -5446,5 +5446,275 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://bevijaygupta.medium.com/port-scanning-demystified-for-bug-bounty-success-a820c2c632cd?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*YboImvrCfRllz-R-.jpg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">In the world of bug bounty hunting, port scanning is one of the most critical techniques for identifying potential vulnerabilities in a&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://bevijaygupta.medium.com/port-scanning-demystified-for-bug-bounty-success-a820c2c632cd?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://bevijaygupta.medium.com/port-scanning-demystified-for-bug-bounty-success-a820c2c632cd?source=rss------bug_bounty_tips-5",
         "published": "Wed, 09 Oct 2024 06:29:33 GMT"
+    },
+    {
+        "title": "How i found my first open redirect",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@yagomartins30/how-i-found-my-first-open-redirect-cd9ca60d307d?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*AM-5Rj8fEKdKvJH-\" width=\"3840\" /></a></p><p class=\"medium-feed-snippet\">Yago Martins.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@yagomartins30/how-i-found-my-first-open-redirect-cd9ca60d307d?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@yagomartins30/how-i-found-my-first-open-redirect-cd9ca60d307d?source=rss------bug_bounty-5",
+        "published": "Thu, 10 Oct 2024 17:14:18 GMT"
+    },
+    {
+        "title": "Bypassing Multiple Checks on Android Applications: A Security Researcher\u2019s Experience",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sc128496/bypassing-multiple-checks-on-android-applications-a-security-researchers-experience-2ec1a3005b60?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*KzJGM6cSht208VBT0t9xGQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone! My name is Sahil Choudhary, and I&#x2019;m a security researcher. Today, I want to share my experience on how I successfully&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sc128496/bypassing-multiple-checks-on-android-applications-a-security-researchers-experience-2ec1a3005b60?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sc128496/bypassing-multiple-checks-on-android-applications-a-security-researchers-experience-2ec1a3005b60?source=rss------bug_bounty-5",
+        "published": "Thu, 10 Oct 2024 15:49:46 GMT"
+    },
+    {
+        "title": "Understanding Software and Data Integrity Failures: A Critical Vulnerability in Web Security",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrutunjayasenapati0/understanding-software-and-data-integrity-failures-a-critical-vulnerability-in-web-security-9d3f96f20bb9?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/640/1*nKi8Jv08JKdwSUHfwXTR6w.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">In the ever-evolving landscape of cybersecurity, ensuring the integrity of software and data is paramount. Software and Data Integrity&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrutunjayasenapati0/understanding-software-and-data-integrity-failures-a-critical-vulnerability-in-web-security-9d3f96f20bb9?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrutunjayasenapati0/understanding-software-and-data-integrity-failures-a-critical-vulnerability-in-web-security-9d3f96f20bb9?source=rss------bug_bounty-5",
+        "published": "Thu, 10 Oct 2024 13:31:50 GMT"
+    },
+    {
+        "title": "Forced OAuth Profile Linking Lead to Account Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@0xtal3at/forced-oauth-profile-linking-lead-to-account-takeover-954114158818?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*DDOQkN585MAvdWoBnafEYw.gif\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">&#x628;&#x650;&#x633;&#x652;&#x645;&#x650; &#x627;&#x644;&#x644;&#x651;&#x64e;&#x640;&#x647;&#x650; &#x627;&#x644;&#x631;&#x651;&#x64e;&#x62d;&#x652;&#x645;&#x64e;&#x640;&#x670;&#x646;&#x650; &#x627;&#x644;&#x631;&#x651;&#x64e;&#x62d;&#x650;&#x64a;&#x645;&#x650;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@0xtal3at/forced-oauth-profile-linking-lead-to-account-takeover-954114158818?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@0xtal3at/forced-oauth-profile-linking-lead-to-account-takeover-954114158818?source=rss------bug_bounty-5",
+        "published": "Thu, 10 Oct 2024 12:57:44 GMT"
+    },
+    {
+        "title": "Critical IDOR Vulnerability leads to PII leakage",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://snc0pe.medium.com/critical-idor-vulnerability-leads-to-pii-leakage-684795ede850?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/800/1*4V7-e3IXZOeScU_rcox3VA.jpeg\" width=\"800\" /></a></p><p class=\"medium-feed-snippet\">Disclaimer&#xa0;: I came across this bug report on HackerOne (not my own) and I wanted to clarify and showcase it for educational reasons.</p><p class=\"medium-feed-link\"><a href=\"https://snc0pe.medium.com/critical-idor-vulnerability-leads-to-pii-leakage-684795ede850?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://snc0pe.medium.com/critical-idor-vulnerability-leads-to-pii-leakage-684795ede850?source=rss------bug_bounty-5",
+        "published": "Thu, 10 Oct 2024 10:57:32 GMT"
+    },
+    {
+        "title": "How to Use ChatGPT Effectively for Bug Bounty Hunting",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anandrishav2228/how-to-use-chatgpt-effectively-for-bug-bounty-hunting-47ff0762139e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*V-kHukX-4dVD4ymeZtCqmA.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Bug bounty hunting has become a popular way for security enthusiasts and professionals to hone their skills and earn rewards by&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anandrishav2228/how-to-use-chatgpt-effectively-for-bug-bounty-hunting-47ff0762139e?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anandrishav2228/how-to-use-chatgpt-effectively-for-bug-bounty-hunting-47ff0762139e?source=rss------bug_bounty-5",
+        "published": "Thu, 10 Oct 2024 10:53:45 GMT"
+    },
+    {
+        "title": "The Truth About Bug Bounty Hunting.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@thebughunttribe/the-truth-about-bug-bounty-hunting-597e54acd2a0?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*wnHDVwonrQ5Woc1CUQav5Q.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">The Truth About Bug Bounty Hunting: It&#x2019;s Not All Private Jets and Gucci Slippers</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@thebughunttribe/the-truth-about-bug-bounty-hunting-597e54acd2a0?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@thebughunttribe/the-truth-about-bug-bounty-hunting-597e54acd2a0?source=rss------bug_bounty-5",
+        "published": "Thu, 10 Oct 2024 10:00:40 GMT"
+    },
+    {
+        "title": "Unlocking the Potential of OSINT: Shaping the Future of Intelligence in Our Data-Driven World",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@narayanadasbalaji2004/unlocking-the-potential-of-osint-shaping-the-future-of-intelligence-in-our-data-driven-world-b0cda62d6bb5?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1065/0*tkIiVlPMMAUPvrLM\" width=\"1065\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@narayanadasbalaji2004/unlocking-the-potential-of-osint-shaping-the-future-of-intelligence-in-our-data-driven-world-b0cda62d6bb5?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@narayanadasbalaji2004/unlocking-the-potential-of-osint-shaping-the-future-of-intelligence-in-our-data-driven-world-b0cda62d6bb5?source=rss------bug_bounty-5",
+        "published": "Thu, 10 Oct 2024 08:18:36 GMT"
+    },
+    {
+        "title": "Streamlining Your Bug Bounty Projects: Adding and Managing Programs via SubScope",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hunthubspace/streamlining-your-bug-bounty-projects-adding-and-managing-programs-via-subscope-e394acfdf711?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*McC91hOC9nRDfUDLqO_06g.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">A tool for managing your assets in bug bounty</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hunthubspace/streamlining-your-bug-bounty-projects-adding-and-managing-programs-via-subscope-e394acfdf711?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hunthubspace/streamlining-your-bug-bounty-projects-adding-and-managing-programs-via-subscope-e394acfdf711?source=rss------bug_bounty-5",
+        "published": "Thu, 10 Oct 2024 07:58:00 GMT"
+    },
+    {
+        "title": "How to Become an Ethical Hacker: A Step-by-Step Guide to a Successful Cybersecurity Career",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://aditya-sunjava.medium.com/how-to-become-an-ethical-hacker-a-step-by-step-guide-to-a-successful-cybersecurity-career-e468ed3d2674?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/612/0*Kcysmawdyztrp7Ip\" width=\"612\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://aditya-sunjava.medium.com/how-to-become-an-ethical-hacker-a-step-by-step-guide-to-a-successful-cybersecurity-career-e468ed3d2674?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://aditya-sunjava.medium.com/how-to-become-an-ethical-hacker-a-step-by-step-guide-to-a-successful-cybersecurity-career-e468ed3d2674?source=rss------hacking-5",
+        "published": "Fri, 11 Oct 2024 03:19:54 GMT"
+    },
+    {
+        "title": "Scam Email 101: My Experience and Practical Guide to Avoiding Email Scams",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rajesh.p3807/phishing-email-101-my-experience-and-practical-guide-to-avoiding-email-scams-2fbcb30038c0?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/608/1*UNGrLOXkZVCuOG5t1iu4yA.jpeg\" width=\"608\" /></a></p><p class=\"medium-feed-snippet\">Not too long ago, I had a close call with an email scam that could&#x2019;ve easily fooled someone less cautious.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rajesh.p3807/phishing-email-101-my-experience-and-practical-guide-to-avoiding-email-scams-2fbcb30038c0?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rajesh.p3807/phishing-email-101-my-experience-and-practical-guide-to-avoiding-email-scams-2fbcb30038c0?source=rss------hacking-5",
+        "published": "Fri, 11 Oct 2024 02:54:57 GMT"
+    },
+    {
+        "title": "Link-Base: La Cara Oscura de los Foros de Hacking y Seguridad Cibern\u00e9tica",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ingema/link-base-la-cara-oscura-de-los-foros-de-hacking-y-seguridad-cibern%C3%A9tica-445c110431ed?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1897/1*NkUqEcrk3NYzN323nqK_jA.png\" width=\"1897\" /></a></p><p class=\"medium-feed-snippet\">Introducci&#xf3;n</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ingema/link-base-la-cara-oscura-de-los-foros-de-hacking-y-seguridad-cibern%C3%A9tica-445c110431ed?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ingema/link-base-la-cara-oscura-de-los-foros-de-hacking-y-seguridad-cibern%C3%A9tica-445c110431ed?source=rss------hacking-5",
+        "published": "Fri, 11 Oct 2024 00:56:39 GMT"
+    },
+    {
+        "title": "The Internet Archive Data Breach: What You Need to Know",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@beatmekanik/the-internet-archive-data-breach-what-you-need-to-know-326526256bd3?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1366/1*evW7w5pQkzXqy7knW8I-aw.jpeg\" width=\"1366\" /></a></p><p class=\"medium-feed-snippet\">In a shocking turn of events, the Internet Archive, a beloved resource for the preservation of digital content, recently suffered a&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@beatmekanik/the-internet-archive-data-breach-what-you-need-to-know-326526256bd3?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@beatmekanik/the-internet-archive-data-breach-what-you-need-to-know-326526256bd3?source=rss------hacking-5",
+        "published": "Thu, 10 Oct 2024 22:43:13 GMT"
+    },
+    {
+        "title": "How to Hide Processes with Kernel Driver",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@s12deff/how-to-hide-processes-with-kernel-driver-212be057aac2?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/949/1*GQY2_rE1-E0wEK1k2yY82A.png\" width=\"949\" /></a></p><p class=\"medium-feed-snippet\">Welcome to my new Medium article! Today, I&#x2019;ll show you how to use a kernel driver to hide processes from all users on a system. What&#x2019;s&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@s12deff/how-to-hide-processes-with-kernel-driver-212be057aac2?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@s12deff/how-to-hide-processes-with-kernel-driver-212be057aac2?source=rss------hacking-5",
+        "published": "Thu, 10 Oct 2024 22:04:04 GMT"
+    },
+    {
+        "title": "StarHealth Data Breach: Insider threat or smoke and mirrors\u00a0?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@adityamanuja72/starhealth-data-breach-insider-threat-or-smoke-and-mirrors-f2bfad7461af?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1482/1*csoGn2lzUVL1FhnyNpAl5g.png\" width=\"1482\" /></a></p><p class=\"medium-feed-snippet\">(Compiled version of my tweets on this topic and a bit more research)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@adityamanuja72/starhealth-data-breach-insider-threat-or-smoke-and-mirrors-f2bfad7461af?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@adityamanuja72/starhealth-data-breach-insider-threat-or-smoke-and-mirrors-f2bfad7461af?source=rss------hacking-5",
+        "published": "Thu, 10 Oct 2024 22:01:51 GMT"
+    },
+    {
+        "title": "My Journey in Cybersecurity and FPV Drones",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">My Journey in Cybersecurity and FPV Drones</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@fernandinhogames65/my-journey-in-cybersecurity-and-fpv-drones-9188469100e2?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@fernandinhogames65/my-journey-in-cybersecurity-and-fpv-drones-9188469100e2?source=rss------hacking-5",
+        "published": "Thu, 10 Oct 2024 21:40:21 GMT"
+    },
+    {
+        "title": "Cybersecurity 101: Specializations & Job roles\u200a\u2014\u200aPart I",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@misterxcrypt/cybersecurity-101-specializations-job-roles-part-i-285f9bc1caca?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/800/0*BOPQwqwT4_aljvHw\" width=\"800\" /></a></p><p class=\"medium-feed-snippet\">I wanted to share stuffs which would have been useful to me when I first started out cybersecurity. Helpful to beginners.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@misterxcrypt/cybersecurity-101-specializations-job-roles-part-i-285f9bc1caca?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@misterxcrypt/cybersecurity-101-specializations-job-roles-part-i-285f9bc1caca?source=rss------hacking-5",
+        "published": "Thu, 10 Oct 2024 20:36:17 GMT"
+    },
+    {
+        "title": "Understanding Phishing Links and Emails",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Butcher_hell/understanding-phishing-links-and-emails-2a6bc73f808a?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/736/1*Xt36Ia3hQy-ehkEOabbFeA.jpeg\" width=\"736\" /></a></p><p class=\"medium-feed-snippet\">Stay safe &amp; protect yourself </p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Butcher_hell/understanding-phishing-links-and-emails-2a6bc73f808a?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Butcher_hell/understanding-phishing-links-and-emails-2a6bc73f808a?source=rss------hacking-5",
+        "published": "Thu, 10 Oct 2024 17:49:20 GMT"
+    },
+    {
+        "title": "How i found my first open redirect",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@yagomartins30/how-i-found-my-first-open-redirect-cd9ca60d307d?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*AM-5Rj8fEKdKvJH-\" width=\"3840\" /></a></p><p class=\"medium-feed-snippet\">Yago Martins.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@yagomartins30/how-i-found-my-first-open-redirect-cd9ca60d307d?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@yagomartins30/how-i-found-my-first-open-redirect-cd9ca60d307d?source=rss------hacking-5",
+        "published": "Thu, 10 Oct 2024 17:14:18 GMT"
+    },
+    {
+        "title": "Forced OAuth Profile Linking Lead to Account Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@0xtal3at/forced-oauth-profile-linking-lead-to-account-takeover-954114158818?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*DDOQkN585MAvdWoBnafEYw.gif\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">&#x628;&#x650;&#x633;&#x652;&#x645;&#x650; &#x627;&#x644;&#x644;&#x651;&#x64e;&#x640;&#x647;&#x650; &#x627;&#x644;&#x631;&#x651;&#x64e;&#x62d;&#x652;&#x645;&#x64e;&#x640;&#x670;&#x646;&#x650; &#x627;&#x644;&#x631;&#x651;&#x64e;&#x62d;&#x650;&#x64a;&#x645;&#x650;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@0xtal3at/forced-oauth-profile-linking-lead-to-account-takeover-954114158818?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@0xtal3at/forced-oauth-profile-linking-lead-to-account-takeover-954114158818?source=rss------bugbounty_writeup-5",
+        "published": "Thu, 10 Oct 2024 12:57:44 GMT"
+    },
+    {
+        "title": "The Truth About Bug Bounty Hunting.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@thebughunttribe/the-truth-about-bug-bounty-hunting-597e54acd2a0?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*wnHDVwonrQ5Woc1CUQav5Q.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">The Truth About Bug Bounty Hunting: It&#x2019;s Not All Private Jets and Gucci Slippers</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@thebughunttribe/the-truth-about-bug-bounty-hunting-597e54acd2a0?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@thebughunttribe/the-truth-about-bug-bounty-hunting-597e54acd2a0?source=rss------bugbounty_writeup-5",
+        "published": "Thu, 10 Oct 2024 10:00:40 GMT"
+    },
+    {
+        "title": "How I Earned $250 for Reporting a simple Bug To CodaPayments",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">### How I Earned $250 for Reporting a Bug in CodaPayments</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@aligoodluck427/how-i-earned-250-for-reporting-a-simple-bug-to-codapayments-b8f1be275138?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@aligoodluck427/how-i-earned-250-for-reporting-a-simple-bug-to-codapayments-b8f1be275138?source=rss------bugbounty_writeup-5",
+        "published": "Thu, 10 Oct 2024 07:29:50 GMT"
+    },
+    {
+        "title": "The Role of Penetration Testing in Cybersecurity",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">In an age where cyber threats are growing more sophisticated and frequent, businesses and organizations must stay ahead by fortifying&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@safeaeon-inc/the-role-of-penetration-testing-in-cybersecurity-6d4229c35b2b?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@safeaeon-inc/the-role-of-penetration-testing-in-cybersecurity-6d4229c35b2b?source=rss------penetration_testing-5",
+        "published": "Thu, 10 Oct 2024 21:18:54 GMT"
+    },
+    {
+        "title": "6 vs 1 Battle: My OSCP Strategy",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/6-vs-1-battle-my-oscp-strategy-dd23cc0e912b?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*pC7urClgwu8UoYf4SsMNRQ.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Ever since I started prepping for the OSCP exam, I read countless OSCP journey blogs and learnt different techniques from each one. I&#x2019;ve&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/6-vs-1-battle-my-oscp-strategy-dd23cc0e912b?source=rss------penetration_testing-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/6-vs-1-battle-my-oscp-strategy-dd23cc0e912b?source=rss------penetration_testing-5",
+        "published": "Thu, 10 Oct 2024 19:45:09 GMT"
+    },
+    {
+        "title": "VulNyx | Spooisong (Walkthrough)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://d4t4s3c.medium.com/vulnyx-spooisong-walkthrough-e48581d66289?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*KRw8tAPv2UlVh06pZF3BaQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Spooisong es una m&#xe1;quina Linux de dificultad media de la plataforma VulNyx, creada por d4t4s3c y funciona correctamente en VirtualBox.</p><p class=\"medium-feed-link\"><a href=\"https://d4t4s3c.medium.com/vulnyx-spooisong-walkthrough-e48581d66289?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://d4t4s3c.medium.com/vulnyx-spooisong-walkthrough-e48581d66289?source=rss------penetration_testing-5",
+        "published": "Thu, 10 Oct 2024 19:18:43 GMT"
+    },
+    {
+        "title": "Dive into File Upload Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Jaseelptl/dive-into-file-upload-vulnerability-37f7b7884331?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*Wpi9uKF8jMMzoCHE.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">What is a File Upload Vulnerability?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Jaseelptl/dive-into-file-upload-vulnerability-37f7b7884331?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Jaseelptl/dive-into-file-upload-vulnerability-37f7b7884331?source=rss------penetration_testing-5",
+        "published": "Thu, 10 Oct 2024 18:38:04 GMT"
+    },
+    {
+        "title": "Monteverde HTB Writeup as OSCP preparation",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@qinncade/monteverde-htb-writeup-as-oscp-preparation-808ffe5cdded?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1399/1*dzz60-R2cVNievp8FOS-cw.png\" width=\"1399\" /></a></p><p class=\"medium-feed-snippet\">Monteverde is a medium-rated Windows machine featuring anonymous access to RPC, weak credentials and a file containing cleartext passwords&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@qinncade/monteverde-htb-writeup-as-oscp-preparation-808ffe5cdded?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@qinncade/monteverde-htb-writeup-as-oscp-preparation-808ffe5cdded?source=rss------penetration_testing-5",
+        "published": "Thu, 10 Oct 2024 18:25:52 GMT"
+    },
+    {
+        "title": "ADCS Exploitation Series\u200a\u2014\u200aPart 2: Certificate Mapping + ESC15",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@offsecdeer/adcs-exploitation-series-part-2-certificate-mapping-esc15-6e19a6037760?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/978/1*Qv2vFUvGbwaqoCEbFZWgbA.png\" width=\"978\" /></a></p><p class=\"medium-feed-snippet\">Certificate mapping is the process at the heart of multiple ADCS vulnerabilities, so I thought it would be appropriate to dedicate it its&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@offsecdeer/adcs-exploitation-series-part-2-certificate-mapping-esc15-6e19a6037760?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@offsecdeer/adcs-exploitation-series-part-2-certificate-mapping-esc15-6e19a6037760?source=rss------penetration_testing-5",
+        "published": "Thu, 10 Oct 2024 15:31:22 GMT"
+    },
+    {
+        "title": "The CIA Triad: The Holy Trinity of Security",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://araiz-naqvi.medium.com/the-cia-triad-the-holy-trinity-of-security-742b0fbee66f?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*ffcVkhh0vsE9RdTE\" width=\"4810\" /></a></p><p class=\"medium-feed-snippet\">When it comes to securing data, resources, and assets, everyone talks about the &#x201c;how.&#x201d; Well, let me introduce you to the CIA Triad, which&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://araiz-naqvi.medium.com/the-cia-triad-the-holy-trinity-of-security-742b0fbee66f?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://araiz-naqvi.medium.com/the-cia-triad-the-holy-trinity-of-security-742b0fbee66f?source=rss------penetration_testing-5",
+        "published": "Thu, 10 Oct 2024 14:30:03 GMT"
+    },
+    {
+        "title": "Quick and Easy Pentesting with Kali Linux in Docker: With GUI Access for Remote Desktop",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hashim-razak/quick-and-easy-pentesting-with-kali-linux-in-docker-with-gui-access-for-remote-desktop-553a522fb3aa?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*89PbpcTV7W9HB8FLWIDoOg.png\" width=\"6912\" /></a></p><p class=\"medium-feed-snippet\">A Beginner-Friendly Guide to Setting Up Kali Linux in Docker for Seamless Security Assessments</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hashim-razak/quick-and-easy-pentesting-with-kali-linux-in-docker-with-gui-access-for-remote-desktop-553a522fb3aa?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hashim-razak/quick-and-easy-pentesting-with-kali-linux-in-docker-with-gui-access-for-remote-desktop-553a522fb3aa?source=rss------penetration_testing-5",
+        "published": "Thu, 10 Oct 2024 12:10:29 GMT"
+    },
+    {
+        "title": "S\u0131zma Testi ve Zafiyet Taramas\u0131: Organizasyonel G\u00fcvenli\u011fin Temelleri",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://tugbahatice.medium.com/s%C4%B1zma-testi-ve-zafiyet-taramas%C4%B1-organizasyonel-g%C3%BCvenli%C4%9Fin-temelleri-4068f263b185?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/2000/1*K3qyXALLm8tWLaligfWehA.png\" width=\"2000\" /></a></p><p class=\"medium-feed-snippet\">S&#x131;zma testi (Penetration Testing)</p><p class=\"medium-feed-link\"><a href=\"https://tugbahatice.medium.com/s%C4%B1zma-testi-ve-zafiyet-taramas%C4%B1-organizasyonel-g%C3%BCvenli%C4%9Fin-temelleri-4068f263b185?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://tugbahatice.medium.com/s%C4%B1zma-testi-ve-zafiyet-taramas%C4%B1-organizasyonel-g%C3%BCvenli%C4%9Fin-temelleri-4068f263b185?source=rss------penetration_testing-5",
+        "published": "Thu, 10 Oct 2024 11:59:35 GMT"
+    },
+    {
+        "title": "Penetration Testing: A Must-Have Defense Against Cyber Threats",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@cipherlegiontech/penetration-testing-a-must-have-defense-against-cyber-threats-44f8c2762b98?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*StJls4fgkLA6iY3bty_yGQ.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">In today&#x2019;s digital world, cyberattacks are more common than ever. Hackers constantly look for weaknesses in company systems to steal data&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@cipherlegiontech/penetration-testing-a-must-have-defense-against-cyber-threats-44f8c2762b98?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@cipherlegiontech/penetration-testing-a-must-have-defense-against-cyber-threats-44f8c2762b98?source=rss------penetration_testing-5",
+        "published": "Thu, 10 Oct 2024 11:19:43 GMT"
+    },
+    {
+        "title": "First Bug, Big Win: How a $100 IDOR Bug Kicked-off My Bug Bounty Journey",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://dukrov.medium.com/first-bug-big-win-how-a-100-idor-bug-kicked-off-my-bug-bounty-journey-69e2e7179477?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*Kin7MKZHjt8uLdyUtXd5ag.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">T2 Social, an upcoming social media platform that could be accessed via https://t2.social is where i got my first bug from.</p><p class=\"medium-feed-link\"><a href=\"https://dukrov.medium.com/first-bug-big-win-how-a-100-idor-bug-kicked-off-my-bug-bounty-journey-69e2e7179477?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://dukrov.medium.com/first-bug-big-win-how-a-100-idor-bug-kicked-off-my-bug-bounty-journey-69e2e7179477?source=rss------hackerone-5",
+        "published": "Thu, 10 Oct 2024 06:45:32 GMT"
+    },
+    {
+        "title": "Echoes of Exposed",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://zaramacias.medium.com/echoes-of-exposed-398e34b0508c?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*lRQbMkoQuDIm7R8cyCnMrQ@2x.jpeg\" width=\"3024\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://zaramacias.medium.com/echoes-of-exposed-398e34b0508c?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://zaramacias.medium.com/echoes-of-exposed-398e34b0508c?source=rss------vulnerability-5",
+        "published": "Fri, 11 Oct 2024 01:03:19 GMT"
+    },
+    {
+        "title": "Unmasking LDAP Vulnerabilities at Internet Scale: The Findings of LanDscAPe",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@samuel.kelly.brew/unmasking-ldap-vulnerabilities-at-internet-scale-the-findings-of-landscape-dc1e0a707950?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*3vfSjhfJHqp_gc8yqOl_Qw.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">Global LDAP scan reveals thousands of misconfigured servers leaking credentials and sensitive data, highlighting major security risks.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@samuel.kelly.brew/unmasking-ldap-vulnerabilities-at-internet-scale-the-findings-of-landscape-dc1e0a707950?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@samuel.kelly.brew/unmasking-ldap-vulnerabilities-at-internet-scale-the-findings-of-landscape-dc1e0a707950?source=rss------vulnerability-5",
+        "published": "Fri, 11 Oct 2024 00:01:57 GMT"
+    },
+    {
+        "title": "What is that you truly want, Jamar.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@blackcoffeep13/what-is-that-you-truly-want-jamar-01178ed8baa9?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/736/1*vMvVgoRnnAVr_rHVdJi5nw@2x.jpeg\" width=\"736\" /></a></p><p class=\"medium-feed-snippet\">What do you need. </p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@blackcoffeep13/what-is-that-you-truly-want-jamar-01178ed8baa9?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@blackcoffeep13/what-is-that-you-truly-want-jamar-01178ed8baa9?source=rss------vulnerability-5",
+        "published": "Thu, 10 Oct 2024 22:52:55 GMT"
+    },
+    {
+        "title": "Grace in Action: Amplifying Voices of Resilience and Hope",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@revbrownsky/grace-in-action-amplifying-voices-of-resilience-and-hope-dff6431da06f?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*HIwV-wB6d4bo_vZg\" width=\"3052\" /></a></p><p class=\"medium-feed-snippet\">In a city as diverse as Houston, the power of connection can be transformative. For example, the city-wide response to Hurricane Harvey&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@revbrownsky/grace-in-action-amplifying-voices-of-resilience-and-hope-dff6431da06f?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@revbrownsky/grace-in-action-amplifying-voices-of-resilience-and-hope-dff6431da06f?source=rss------vulnerability-5",
+        "published": "Thu, 10 Oct 2024 21:04:39 GMT"
+    },
+    {
+        "title": "Healing the Hidden Wounds: Men, Mental Health, and Pornography Shame",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@peteshuffle/healing-the-hidden-wounds-men-mental-health-and-pornography-shame-d630b7f9bdbc?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2240/1*vxnbsedA-WC5Ql1bJQBYfA.png\" width=\"2240\" /></a></p><p class=\"medium-feed-snippet\">Growing up, I was taught that being a man meant having it all together to the point we could run a family. We were supposed to be the&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@peteshuffle/healing-the-hidden-wounds-men-mental-health-and-pornography-shame-d630b7f9bdbc?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@peteshuffle/healing-the-hidden-wounds-men-mental-health-and-pornography-shame-d630b7f9bdbc?source=rss------vulnerability-5",
+        "published": "Thu, 10 Oct 2024 20:21:16 GMT"
+    },
+    {
+        "title": "Dreaming- Walkthrough",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@pvnkumar1180/dreaming-walkthrough-96877ce6c4d4?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/822/1*-MlE9OZJvSWjOROLJceKSA.png\" width=\"822\" /></a></p><p class=\"medium-feed-snippet\">Hai everyone,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@pvnkumar1180/dreaming-walkthrough-96877ce6c4d4?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@pvnkumar1180/dreaming-walkthrough-96877ce6c4d4?source=rss------vulnerability-5",
+        "published": "Thu, 10 Oct 2024 20:16:43 GMT"
+    },
+    {
+        "title": "Healing Out Loud: How Embracing Vulnerability Saved My Life",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@growithgabby333/healing-out-loud-how-embracing-vulnerability-saved-my-life-2fd510cc0631?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*7P8co_-2m1H_IVmWzLiQWg.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">There was a time when I stayed silent, thinking it was the only way to survive. I carried everything alone, believing that my strength was&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@growithgabby333/healing-out-loud-how-embracing-vulnerability-saved-my-life-2fd510cc0631?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@growithgabby333/healing-out-loud-how-embracing-vulnerability-saved-my-life-2fd510cc0631?source=rss------vulnerability-5",
+        "published": "Thu, 10 Oct 2024 18:34:21 GMT"
+    },
+    {
+        "title": "Summary of \u201cThe Woman in Me\u201d by Britney Spears",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@termaamine26/summary-of-the-woman-in-me-by-britney-spears-7f6b312b5053?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*rgDpU3Sbdk5M712Exiie_Q.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Unveiling the Essence: A Summary of &#x201c;The Woman in Me&#x201d; by Britney Spears</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@termaamine26/summary-of-the-woman-in-me-by-britney-spears-7f6b312b5053?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@termaamine26/summary-of-the-woman-in-me-by-britney-spears-7f6b312b5053?source=rss------vulnerability-5",
+        "published": "Thu, 10 Oct 2024 13:35:24 GMT"
+    },
+    {
+        "title": "Understanding Software and Data Integrity Failures: A Critical Vulnerability in Web Security",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrutunjayasenapati0/understanding-software-and-data-integrity-failures-a-critical-vulnerability-in-web-security-9d3f96f20bb9?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/640/1*nKi8Jv08JKdwSUHfwXTR6w.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">In the ever-evolving landscape of cybersecurity, ensuring the integrity of software and data is paramount. Software and Data Integrity&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrutunjayasenapati0/understanding-software-and-data-integrity-failures-a-critical-vulnerability-in-web-security-9d3f96f20bb9?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrutunjayasenapati0/understanding-software-and-data-integrity-failures-a-critical-vulnerability-in-web-security-9d3f96f20bb9?source=rss------vulnerability-5",
+        "published": "Thu, 10 Oct 2024 13:31:50 GMT"
+    },
+    {
+        "title": "Fortinet Under Siege: Critical Vulnerabilities Leave Networks Exposed",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/cybersecurity-and-iot/fortinet-under-siege-critical-vulnerabilities-leave-networks-exposed-a95d3509984e?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2440/1*God2iZPL7mEnVUCzFb1LGA.png\" width=\"2440\" /></a></p><p class=\"medium-feed-snippet\">Fortinet, a leading provider of cybersecurity solutions, has found itself in the spotlight for all the wrong reasons. Recent disclosures&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/cybersecurity-and-iot/fortinet-under-siege-critical-vulnerabilities-leave-networks-exposed-a95d3509984e?source=rss------vulnerability-5\">Continue reading on Cybersecurity and IOT \u00bb</a></p></div>",
+        "link": "https://medium.com/cybersecurity-and-iot/fortinet-under-siege-critical-vulnerabilities-leave-networks-exposed-a95d3509984e?source=rss------vulnerability-5",
+        "published": "Thu, 10 Oct 2024 12:50:36 GMT"
+    },
+    {
+        "title": "Streamlining Your Bug Bounty Projects: Adding and Managing Programs via SubScope",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hunthubspace/streamlining-your-bug-bounty-projects-adding-and-managing-programs-via-subscope-e394acfdf711?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*McC91hOC9nRDfUDLqO_06g.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">A tool for managing your assets in bug bounty</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hunthubspace/streamlining-your-bug-bounty-projects-adding-and-managing-programs-via-subscope-e394acfdf711?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hunthubspace/streamlining-your-bug-bounty-projects-adding-and-managing-programs-via-subscope-e394acfdf711?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 10 Oct 2024 07:58:00 GMT"
+    },
+    {
+        "title": "How i got my first Letter of Appreciation + Hall of Fame",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://rivudon.medium.com/how-i-got-my-first-letter-of-appreciation-hall-of-fame-a3c0079e60ef?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/937/1*FKlgFq9_aVUFYX1hdVDl-A.png\" width=\"937\" /></a></p><p class=\"medium-feed-snippet\">How you can get yours too.</p><p class=\"medium-feed-link\"><a href=\"https://rivudon.medium.com/how-i-got-my-first-letter-of-appreciation-hall-of-fame-a3c0079e60ef?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://rivudon.medium.com/how-i-got-my-first-letter-of-appreciation-hall-of-fame-a3c0079e60ef?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 10 Oct 2024 06:32:17 GMT"
     }
 ]
