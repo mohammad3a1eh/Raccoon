@@ -6016,5 +6016,269 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@justacademy45/crash-reporting-tools-966b93d7e719?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*jJ6cnF4oCroxQTrH4uXCSA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">crash reporting tools</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@justacademy45/crash-reporting-tools-966b93d7e719?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@justacademy45/crash-reporting-tools-966b93d7e719?source=rss------bug_hunting-5",
         "published": "Fri, 11 Oct 2024 13:08:50 GMT"
+    },
+    {
+        "title": "From NA to P1, How i was able to get access to a Bank Admin Panel",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@yousefmoh15/from-na-to-p1-how-i-was-able-to-get-access-to-a-bank-admin-panel-52e5f9ef7ef5?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*h2COeJBJ6QSfFOdEKxCqSw.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone, Today, I&#x2019;m excited to share a story about how I gained access to a bank&#x2019;s admin panel while working on a bug bounty&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@yousefmoh15/from-na-to-p1-how-i-was-able-to-get-access-to-a-bank-admin-panel-52e5f9ef7ef5?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@yousefmoh15/from-na-to-p1-how-i-was-able-to-get-access-to-a-bank-admin-panel-52e5f9ef7ef5?source=rss------bug_bounty-5",
+        "published": "Sat, 12 Oct 2024 21:50:16 GMT"
+    },
+    {
+        "title": "Uncovering Path Traversal Through Host Monitoring",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://mchklt.medium.com/uncovering-path-traversal-vulnerabilities-through-host-monitoring-c8abb65f48f5?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/704/1*At-RJ2pm9NJOTKjyyuAGCA@2x.jpeg\" width=\"704\" /></a></p><p class=\"medium-feed-snippet\">Automating Host Monitoring for More Targets</p><p class=\"medium-feed-link\"><a href=\"https://mchklt.medium.com/uncovering-path-traversal-vulnerabilities-through-host-monitoring-c8abb65f48f5?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://mchklt.medium.com/uncovering-path-traversal-vulnerabilities-through-host-monitoring-c8abb65f48f5?source=rss------bug_bounty-5",
+        "published": "Sat, 12 Oct 2024 20:47:44 GMT"
+    },
+    {
+        "title": "Cybersecurity Breach Forces Calgary Public Library to Shut Down All Locations \ufe0f",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/cybersecurity-breach-forces-calgary-public-library-to-shut-down-all-locations-%EF%B8%8F-f1c0921f40e8?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*sp782gqrU5_Z6BAwgM16gw.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">In a dramatic turn of events, all branches of the Calgary Public Library were closed due to a significant cybersecurity breach that&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/cybersecurity-breach-forces-calgary-public-library-to-shut-down-all-locations-%EF%B8%8F-f1c0921f40e8?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/cybersecurity-breach-forces-calgary-public-library-to-shut-down-all-locations-%EF%B8%8F-f1c0921f40e8?source=rss------bug_bounty-5",
+        "published": "Sat, 12 Oct 2024 17:43:24 GMT"
+    },
+    {
+        "title": "Unlocking Some Effective Information Gathering Methodologies",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@prasanna.acharya/unlocking-some-effective-information-gathering-methodologies-1f67787019d1?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/0*4ayMnKcWd6YWiihQ.jpg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">Information gathering is a crucial step for undergoing penetration testing process.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@prasanna.acharya/unlocking-some-effective-information-gathering-methodologies-1f67787019d1?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@prasanna.acharya/unlocking-some-effective-information-gathering-methodologies-1f67787019d1?source=rss------bug_bounty-5",
+        "published": "Sat, 12 Oct 2024 17:14:46 GMT"
+    },
+    {
+        "title": "Understanding Server-Side Request Forgery (SSRF): A Critical Web Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrutunjayasenapati0/understanding-server-side-request-forgery-ssrf-a-critical-web-vulnerability-11a7ee2d87f7?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/640/1*jvNUo1n6XultCRgNcDZ-ow.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">In the realm of web security, understanding vulnerabilities is crucial for protecting applications and sensitive data. Server-Side Request&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrutunjayasenapati0/understanding-server-side-request-forgery-ssrf-a-critical-web-vulnerability-11a7ee2d87f7?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrutunjayasenapati0/understanding-server-side-request-forgery-ssrf-a-critical-web-vulnerability-11a7ee2d87f7?source=rss------bug_bounty-5",
+        "published": "Sat, 12 Oct 2024 13:41:54 GMT"
+    },
+    {
+        "title": "How I Discovered Account Takeover (ATO) via Cross-Site Scripting (XSS)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1035/1*RoZet6wDPJj_WVBnv9x3iQ.png\" width=\"1035\" /></a></p><p class=\"medium-feed-snippet\">Free Article</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty-5",
+        "published": "Sat, 12 Oct 2024 10:04:44 GMT"
+    },
+    {
+        "title": "Clickjacking Is Worth Reporting Nowadays? | Removing all confusion on Clickjacking bugs.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/927/1*JpRTuA3Bl8vbnLeqSip_nw.png\" width=\"927\" /></a></p><p class=\"medium-feed-snippet\">Hi Internet Rebels,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------bug_bounty-5",
+        "published": "Sat, 12 Oct 2024 06:44:33 GMT"
+    },
+    {
+        "title": "Port Scanning Essentials for Bug Bounty Researchers",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://bevijaygupta.medium.com/port-scanning-essentials-for-bug-bounty-researchers-de52c6aa7b8a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*oI9l7HCjGYAavp48.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">In the world of bug bounties, port scanning is a fundamental technique for uncovering potential vulnerabilities within a target system. By&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://bevijaygupta.medium.com/port-scanning-essentials-for-bug-bounty-researchers-de52c6aa7b8a?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://bevijaygupta.medium.com/port-scanning-essentials-for-bug-bounty-researchers-de52c6aa7b8a?source=rss------bug_bounty-5",
+        "published": "Sat, 12 Oct 2024 06:23:20 GMT"
+    },
+    {
+        "title": "Writing your own ransomware for windows in Python",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@demonia/writing-your-own-ransomware-for-windows-in-python-2377c2d3ce1a?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/686/1*bQFpCXH4ehrpCE5zSnyG5w.jpeg\" width=\"686\" /></a></p><p class=\"medium-feed-snippet\">Did you ever wonder how ransomwares work in general? Such programs being able to cause so much damage shouldn&#x2019;t be this complicated in my&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@demonia/writing-your-own-ransomware-for-windows-in-python-2377c2d3ce1a?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@demonia/writing-your-own-ransomware-for-windows-in-python-2377c2d3ce1a?source=rss------hacking-5",
+        "published": "Sun, 13 Oct 2024 04:40:38 GMT"
+    },
+    {
+        "title": "Setting Up Mobile Pentesting Environment",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@raoopf/setting-up-mobile-pentesting-environment-6ba2109ed46f?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1717/1*QOfECMivcIaHZFXwKhcvqA.png\" width=\"1717\" /></a></p><p class=\"medium-feed-snippet\">Setting Up Your Android Penetration Testing Environment with Memu, Frida, and More</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@raoopf/setting-up-mobile-pentesting-environment-6ba2109ed46f?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@raoopf/setting-up-mobile-pentesting-environment-6ba2109ed46f?source=rss------hacking-5",
+        "published": "Sun, 13 Oct 2024 04:33:42 GMT"
+    },
+    {
+        "title": "Vulnhub\u00a0: MyExpense",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Mrx0/vulnhub-myexpense-12b0b3b74a32?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*QlKJBB1NDaBkTzfFzS23Zg.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Dificultad: F&#xe1;cil.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Mrx0/vulnhub-myexpense-12b0b3b74a32?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Mrx0/vulnhub-myexpense-12b0b3b74a32?source=rss------hacking-5",
+        "published": "Sun, 13 Oct 2024 03:16:57 GMT"
+    },
+    {
+        "title": "Importance of Hacking, Virtual Machines, Linux, and Networking in Cybersecurity",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@aswathibiju8118/importance-of-hacking-virtual-machines-linux-and-networking-in-cybersecurity-90cd9b783559?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/736/1*S8PotdhEW7PZepO5QwQdhg.jpeg\" width=\"736\" /></a></p><p class=\"medium-feed-snippet\">The world of cybersecurity is a complex landscape where various technologies and skills converge. Among these, hacking, virtual machines&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@aswathibiju8118/importance-of-hacking-virtual-machines-linux-and-networking-in-cybersecurity-90cd9b783559?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@aswathibiju8118/importance-of-hacking-virtual-machines-linux-and-networking-in-cybersecurity-90cd9b783559?source=rss------hacking-5",
+        "published": "Sun, 13 Oct 2024 01:45:03 GMT"
+    },
+    {
+        "title": "Why FortLock Will Make You Rethink Everything You Know About Password Security",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ms.padma/why-fortlock-will-make-you-rethink-everything-you-know-about-password-security-530346d73a1a?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*kDhB-hwlHv8BkdNsNqoDWw.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">The world of online security has always been a game of cat and mouse. Just when you think you&#x2019;ve found the perfect system to protect your&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ms.padma/why-fortlock-will-make-you-rethink-everything-you-know-about-password-security-530346d73a1a?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ms.padma/why-fortlock-will-make-you-rethink-everything-you-know-about-password-security-530346d73a1a?source=rss------hacking-5",
+        "published": "Sun, 13 Oct 2024 00:12:54 GMT"
+    },
+    {
+        "title": "VulnHub: Hacking Kioptrix Level 2 Write-up",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/vulnhub-hacking-kioptrix-level-2-write-up-31317df931f9?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*NgseFfEHFyn4PZU_xZoznA.jpeg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/vulnhub-hacking-kioptrix-level-2-write-up-31317df931f9?source=rss------hacking-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/vulnhub-hacking-kioptrix-level-2-write-up-31317df931f9?source=rss------hacking-5",
+        "published": "Sat, 12 Oct 2024 23:54:40 GMT"
+    },
+    {
+        "title": "TryHackMe Walkthrough Include | Sodatex",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sodahack/tryhackme-walkthrough-include-sodatex-219f1c7fc38a?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*KGZqcfbr0djD5cgWV4fOtg.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">The VM Include is about first enumerating a web page, brute-forcing login credentials, abusing a vulnerability in a text-field, retrieving&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sodahack/tryhackme-walkthrough-include-sodatex-219f1c7fc38a?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sodahack/tryhackme-walkthrough-include-sodatex-219f1c7fc38a?source=rss------hacking-5",
+        "published": "Sat, 12 Oct 2024 23:46:53 GMT"
+    },
+    {
+        "title": "TryHackMe Walkthrough Cyberlens | Sodatex",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sodahack/tryhackme-walkthrough-cyberlens-sodatex-f9b696637f05?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1774/1*M3_wc6SPx6H-Z-5IRG0FFA.png\" width=\"1774\" /></a></p><p class=\"medium-feed-snippet\">The VM Cyberlens is about first enumerating a web page, finding an exploit to the Tika-Version, abusing that vulnerability to gain user&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sodahack/tryhackme-walkthrough-cyberlens-sodatex-f9b696637f05?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sodahack/tryhackme-walkthrough-cyberlens-sodatex-f9b696637f05?source=rss------hacking-5",
+        "published": "Sat, 12 Oct 2024 23:10:07 GMT"
+    },
+    {
+        "title": "How can recovery of lost usdt be done to my wallet?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Introduction:</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dawwri/how-can-recovery-of-lost-usdt-be-done-to-my-wallet-e25fe9301dba?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dawwri/how-can-recovery-of-lost-usdt-be-done-to-my-wallet-e25fe9301dba?source=rss------hacking-5",
+        "published": "Sat, 12 Oct 2024 22:45:57 GMT"
+    },
+    {
+        "title": "From NA to P1, How i was able to get access to a Bank Admin Panel",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@yousefmoh15/from-na-to-p1-how-i-was-able-to-get-access-to-a-bank-admin-panel-52e5f9ef7ef5?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*h2COeJBJ6QSfFOdEKxCqSw.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone, Today, I&#x2019;m excited to share a story about how I gained access to a bank&#x2019;s admin panel while working on a bug bounty&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@yousefmoh15/from-na-to-p1-how-i-was-able-to-get-access-to-a-bank-admin-panel-52e5f9ef7ef5?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@yousefmoh15/from-na-to-p1-how-i-was-able-to-get-access-to-a-bank-admin-panel-52e5f9ef7ef5?source=rss------hacking-5",
+        "published": "Sat, 12 Oct 2024 21:50:16 GMT"
+    },
+    {
+        "title": "How I Discovered Account Takeover (ATO) via Cross-Site Scripting (XSS)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1035/1*RoZet6wDPJj_WVBnv9x3iQ.png\" width=\"1035\" /></a></p><p class=\"medium-feed-snippet\">Free Article</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_writeup-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_writeup-5",
+        "published": "Sat, 12 Oct 2024 10:04:44 GMT"
+    },
+    {
+        "title": "Broken Access Control Vulnerability in an Order Management System",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@omdubey170/broken-access-control-vulnerability-in-an-order-management-system-8a1097b03926?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1816/1*XaDZSIp26wmb6114XHUM2g.jpeg\" width=\"1816\" /></a></p><p class=\"medium-feed-snippet\">Vulnerability Overview\nI found a BrokenAccess Control vulnerability in the API handling basket operations. The issue is that these API&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@omdubey170/broken-access-control-vulnerability-in-an-order-management-system-8a1097b03926?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@omdubey170/broken-access-control-vulnerability-in-an-order-management-system-8a1097b03926?source=rss------bug_bounty_writeup-5",
+        "published": "Fri, 11 Oct 2024 16:55:42 GMT"
+    },
+    {
+        "title": "Clickjacking Is Worth Reporting Nowadays? | Removing all confusion on Clickjacking bugs.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/927/1*JpRTuA3Bl8vbnLeqSip_nw.png\" width=\"927\" /></a></p><p class=\"medium-feed-snippet\">Hi Internet Rebels,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------bugbounty_writeup-5",
+        "published": "Sat, 12 Oct 2024 06:44:33 GMT"
+    },
+    {
+        "title": "Obfuscating a Mimikatz Downloader to Evade Defender (2024)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@luisgerardomoret_69654/obfuscating-a-mimikatz-downloader-to-evade-defender-2024-b3a9098f0ae7?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1203/1*Uae6vjQB3CIk4VIrTXKmJA.png\" width=\"1203\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone, today I will show how to obfuscate a Mimikatz downloader to bypass Defender detection.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@luisgerardomoret_69654/obfuscating-a-mimikatz-downloader-to-evade-defender-2024-b3a9098f0ae7?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@luisgerardomoret_69654/obfuscating-a-mimikatz-downloader-to-evade-defender-2024-b3a9098f0ae7?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 04:50:41 GMT"
+    },
+    {
+        "title": "THM\u2014 Brains walkthrough (easy)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@deo.gracias.cyber/thm-brains-walkthrough-easy-5bb93c1b1c1d?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1065/1*L89gRT7r3JZeK98qXopRlg.png\" width=\"1065\" /></a></p><p class=\"medium-feed-snippet\">Walkthrough of room Brains from TryHackMe</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@deo.gracias.cyber/thm-brains-walkthrough-easy-5bb93c1b1c1d?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@deo.gracias.cyber/thm-brains-walkthrough-easy-5bb93c1b1c1d?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 04:36:31 GMT"
+    },
+    {
+        "title": "Learning Python for Cybersecurity on Kali Linux 2024 Without Using an IDE",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@akjalbani_15286/learning-python-for-cybersecurity-on-kali-linux-2024-without-using-an-ide-c74f4cebb5b8?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1285/1*FSBeuL5t9vklZSuzyopNMQ.png\" width=\"1285\" /></a></p><p class=\"medium-feed-snippet\">Kali Linux is a preferred operating system for cybersecurity professionals because of its built-in tools and utilities tailored for&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@akjalbani_15286/learning-python-for-cybersecurity-on-kali-linux-2024-without-using-an-ide-c74f4cebb5b8?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@akjalbani_15286/learning-python-for-cybersecurity-on-kali-linux-2024-without-using-an-ide-c74f4cebb5b8?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 04:29:11 GMT"
+    },
+    {
+        "title": "VulnHub: Hacking Kioptrix Level 2 Write-up",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/vulnhub-hacking-kioptrix-level-2-write-up-31317df931f9?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*NgseFfEHFyn4PZU_xZoznA.jpeg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/vulnhub-hacking-kioptrix-level-2-write-up-31317df931f9?source=rss------penetration_testing-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/vulnhub-hacking-kioptrix-level-2-write-up-31317df931f9?source=rss------penetration_testing-5",
+        "published": "Sat, 12 Oct 2024 23:54:40 GMT"
+    },
+    {
+        "title": "Uncovering Path Traversal Through Host Monitoring",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://mchklt.medium.com/uncovering-path-traversal-vulnerabilities-through-host-monitoring-c8abb65f48f5?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/704/1*At-RJ2pm9NJOTKjyyuAGCA@2x.jpeg\" width=\"704\" /></a></p><p class=\"medium-feed-snippet\">Automating Host Monitoring for More Targets</p><p class=\"medium-feed-link\"><a href=\"https://mchklt.medium.com/uncovering-path-traversal-vulnerabilities-through-host-monitoring-c8abb65f48f5?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://mchklt.medium.com/uncovering-path-traversal-vulnerabilities-through-host-monitoring-c8abb65f48f5?source=rss------penetration_testing-5",
+        "published": "Sat, 12 Oct 2024 20:47:44 GMT"
+    },
+    {
+        "title": "HackTheBox-Blurry(WriteUp)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@aniketdas07770/hackthebox-blurry-writeup-c37ef4ee28cb?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*L2j7mnUvk334PbK0WAzPJw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hey People! Back with another one after so long. Another one from HackTheBox.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@aniketdas07770/hackthebox-blurry-writeup-c37ef4ee28cb?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@aniketdas07770/hackthebox-blurry-writeup-c37ef4ee28cb?source=rss------penetration_testing-5",
+        "published": "Sat, 12 Oct 2024 16:09:58 GMT"
+    },
+    {
+        "title": "SQL Injection: What It Is, How It Works, and How You Can Prevent It",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Imagine you&#x2019;re running a shop, and someone walks in asking for some information about your products. But instead of asking nicely, they&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://ws0x.medium.com/sql-injection-what-it-is-how-it-works-and-how-you-can-prevent-it-764fb8375b19?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://ws0x.medium.com/sql-injection-what-it-is-how-it-works-and-how-you-can-prevent-it-764fb8375b19?source=rss------penetration_testing-5",
+        "published": "Sat, 12 Oct 2024 15:06:08 GMT"
+    },
+    {
+        "title": "Master Wi-Fi Cracking with Aircrack-ng",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/master-wi-fi-cracking-with-aircrack-ng-dbe6b738710d?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/2048/1*1edQABiwfoea4Z81iAFoUw.jpeg\" width=\"2048\" /></a></p><p class=\"medium-feed-snippet\">Hi folks, I hope you&#x2019;re doing great! Today, I will explain something to you that you will be excited about, It&#x2019;s was the first thing I&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/master-wi-fi-cracking-with-aircrack-ng-dbe6b738710d?source=rss------penetration_testing-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/master-wi-fi-cracking-with-aircrack-ng-dbe6b738710d?source=rss------penetration_testing-5",
+        "published": "Sat, 12 Oct 2024 14:16:24 GMT"
+    },
+    {
+        "title": "A Beginner\u2019s Guide to Passive and Active Reconnaissance in Cybersecurity\u200a\u2014\u200aNetwork Security",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@maharkk01/a-beginners-guide-to-passive-and-active-reconnaissance-in-cybersecurity-network-security-d16c2b670d31?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*bI9kmghxNopVTmk5.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Reconnaissance is the first step in the hacking process, but it&#x2019;s not just for attackers. Ethical hackers and penetration testers also&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@maharkk01/a-beginners-guide-to-passive-and-active-reconnaissance-in-cybersecurity-network-security-d16c2b670d31?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@maharkk01/a-beginners-guide-to-passive-and-active-reconnaissance-in-cybersecurity-network-security-d16c2b670d31?source=rss------penetration_testing-5",
+        "published": "Sat, 12 Oct 2024 12:46:40 GMT"
+    },
+    {
+        "title": "Search Engines for Penetration Testers",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://lakin-mohapatra.medium.com/search-engines-for-penetration-testers-3779c1bf31e4?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*CUB5LC0ep5LRL_epUag-Xg.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">When you&#x2019;re performing penetration testing, reconnaissance is one of the key phases that can make or break your approach. This process of&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://lakin-mohapatra.medium.com/search-engines-for-penetration-testers-3779c1bf31e4?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://lakin-mohapatra.medium.com/search-engines-for-penetration-testers-3779c1bf31e4?source=rss------penetration_testing-5",
+        "published": "Sat, 12 Oct 2024 07:43:37 GMT"
+    },
+    {
+        "title": "Indirectly Causing a Buffer Overflow",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@dyang./indirectly-causing-a-buffer-overflow-cc643d443be0?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1886/1*eQQuu4U9_zUxQ3IzI0R22A.png\" width=\"1886\" /></a></p><p class=\"medium-feed-snippet\">using pointer manipulation</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dyang./indirectly-causing-a-buffer-overflow-cc643d443be0?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dyang./indirectly-causing-a-buffer-overflow-cc643d443be0?source=rss------vulnerability-5",
+        "published": "Sat, 12 Oct 2024 18:23:54 GMT"
+    },
+    {
+        "title": "Though fragile, is resilient",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">The Beauty in Denial</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@FADL/though-fragile-is-resilient-eb11b4b18f54?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@FADL/though-fragile-is-resilient-eb11b4b18f54?source=rss------vulnerability-5",
+        "published": "Sat, 12 Oct 2024 13:42:15 GMT"
+    },
+    {
+        "title": "Stepping into the arena",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Originally published May 2, 2017</p><p class=\"medium-feed-link\"><a href=\"https://sandrapossing.medium.com/stepping-into-the-arena-7ef63fa96754?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://sandrapossing.medium.com/stepping-into-the-arena-7ef63fa96754?source=rss------vulnerability-5",
+        "published": "Sat, 12 Oct 2024 13:41:55 GMT"
+    },
+    {
+        "title": "Understanding Server-Side Request Forgery (SSRF): A Critical Web Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mrutunjayasenapati0/understanding-server-side-request-forgery-ssrf-a-critical-web-vulnerability-11a7ee2d87f7?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/640/1*jvNUo1n6XultCRgNcDZ-ow.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">In the realm of web security, understanding vulnerabilities is crucial for protecting applications and sensitive data. Server-Side Request&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrutunjayasenapati0/understanding-server-side-request-forgery-ssrf-a-critical-web-vulnerability-11a7ee2d87f7?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mrutunjayasenapati0/understanding-server-side-request-forgery-ssrf-a-critical-web-vulnerability-11a7ee2d87f7?source=rss------vulnerability-5",
+        "published": "Sat, 12 Oct 2024 13:41:54 GMT"
+    },
+    {
+        "title": "Heart",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">It stirs</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ayushmel26/heart-7a015e95a63b?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ayushmel26/heart-7a015e95a63b?source=rss------vulnerability-5",
+        "published": "Sat, 12 Oct 2024 09:11:32 GMT"
+    },
+    {
+        "title": "V vs V",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@imjohnny252/v-vs-v-c56942c196de?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*_a2QHxyKZ22pOpKdt1ynJA@2x.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">A short piece about vulnerability </p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@imjohnny252/v-vs-v-c56942c196de?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@imjohnny252/v-vs-v-c56942c196de?source=rss------vulnerability-5",
+        "published": "Sat, 12 Oct 2024 08:10:48 GMT"
+    },
+    {
+        "title": "Clickjacking Is Worth Reporting Nowadays? | Removing all confusion on Clickjacking bugs.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/927/1*JpRTuA3Bl8vbnLeqSip_nw.png\" width=\"927\" /></a></p><p class=\"medium-feed-snippet\">Hi Internet Rebels,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------vulnerability-5",
+        "published": "Sat, 12 Oct 2024 06:44:33 GMT"
+    },
+    {
+        "title": "Proof of Concept (PoC)\u00a0: CVE-2023\u201345802",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">CVE-2023&#x2013;45802 is a vulnerability found in Apache HTTP Server version 2.4.54. This vulnerability can lead to a Denial of Service (DoS)&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@raihanammarsaputra/proof-of-concept-poc-cve-2023-45802-e993c775a381?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@raihanammarsaputra/proof-of-concept-poc-cve-2023-45802-e993c775a381?source=rss------vulnerability-5",
+        "published": "Sat, 12 Oct 2024 05:31:06 GMT"
+    },
+    {
+        "title": "From NA to P1, How i was able to get access to a Bank Admin Panel",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@yousefmoh15/from-na-to-p1-how-i-was-able-to-get-access-to-a-bank-admin-panel-52e5f9ef7ef5?source=rss------bugcrowd-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*h2COeJBJ6QSfFOdEKxCqSw.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone, Today, I&#x2019;m excited to share a story about how I gained access to a bank&#x2019;s admin panel while working on a bug bounty&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@yousefmoh15/from-na-to-p1-how-i-was-able-to-get-access-to-a-bank-admin-panel-52e5f9ef7ef5?source=rss------bugcrowd-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@yousefmoh15/from-na-to-p1-how-i-was-able-to-get-access-to-a-bank-admin-panel-52e5f9ef7ef5?source=rss------bugcrowd-5",
+        "published": "Sat, 12 Oct 2024 21:50:16 GMT"
+    },
+    {
+        "title": "Unlocking Some Effective Information Gathering Methodologies",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@prasanna.acharya/unlocking-some-effective-information-gathering-methodologies-1f67787019d1?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/0*4ayMnKcWd6YWiihQ.jpg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">Information gathering is a crucial step for undergoing penetration testing process.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@prasanna.acharya/unlocking-some-effective-information-gathering-methodologies-1f67787019d1?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@prasanna.acharya/unlocking-some-effective-information-gathering-methodologies-1f67787019d1?source=rss------bug_bounty_tips-5",
+        "published": "Sat, 12 Oct 2024 17:14:46 GMT"
+    },
+    {
+        "title": "How I Discovered Account Takeover (ATO) via Cross-Site Scripting (XSS)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1035/1*RoZet6wDPJj_WVBnv9x3iQ.png\" width=\"1035\" /></a></p><p class=\"medium-feed-snippet\">Free Article</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_tips-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_tips-5",
+        "published": "Sat, 12 Oct 2024 10:04:44 GMT"
+    },
+    {
+        "title": "Clickjacking Is Worth Reporting Nowadays? | Removing all confusion on Clickjacking bugs.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/927/1*JpRTuA3Bl8vbnLeqSip_nw.png\" width=\"927\" /></a></p><p class=\"medium-feed-snippet\">Hi Internet Rebels,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@the.air.cyborg/clickjacking-is-worth-reporting-nowadays-removing-all-confusion-on-clickjacking-bugs-a1c77fc4e5b8?source=rss------bug_bounty_tips-5",
+        "published": "Sat, 12 Oct 2024 06:44:33 GMT"
+    },
+    {
+        "title": "Port Scanning Essentials for Bug Bounty Researchers",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://bevijaygupta.medium.com/port-scanning-essentials-for-bug-bounty-researchers-de52c6aa7b8a?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*oI9l7HCjGYAavp48.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">In the world of bug bounties, port scanning is a fundamental technique for uncovering potential vulnerabilities within a target system. By&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://bevijaygupta.medium.com/port-scanning-essentials-for-bug-bounty-researchers-de52c6aa7b8a?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://bevijaygupta.medium.com/port-scanning-essentials-for-bug-bounty-researchers-de52c6aa7b8a?source=rss------bug_bounty_tips-5",
+        "published": "Sat, 12 Oct 2024 06:23:20 GMT"
     }
 ]
