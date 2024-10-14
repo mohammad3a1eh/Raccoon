@@ -6280,5 +6280,299 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://bevijaygupta.medium.com/port-scanning-essentials-for-bug-bounty-researchers-de52c6aa7b8a?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*oI9l7HCjGYAavp48.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">In the world of bug bounties, port scanning is a fundamental technique for uncovering potential vulnerabilities within a target system. By&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://bevijaygupta.medium.com/port-scanning-essentials-for-bug-bounty-researchers-de52c6aa7b8a?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://bevijaygupta.medium.com/port-scanning-essentials-for-bug-bounty-researchers-de52c6aa7b8a?source=rss------bug_bounty_tips-5",
         "published": "Sat, 12 Oct 2024 06:23:20 GMT"
+    },
+    {
+        "title": "Passively Found Secrets in Javascript File on a Private Bug Bounty Program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/685/1*J0W-3xsWXgHUyvIIPGL0Lg.png\" width=\"685\" /></a></p><p class=\"medium-feed-snippet\">Hello Friends,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 04:52:47 GMT"
+    },
+    {
+        "title": "Bug bounty programs pada aplikasi Laravel memungkinkan penemuan celah keamanan (vulnerabilities)\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@_azwar/bug-bounty-programs-pada-aplikasi-laravel-memungkinkan-penemuan-celah-keamanan-vulnerabilities-7db40b405794?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*Cd5AQOF7poc-Es7Q.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">1. Siapkan Aplikasi Laravel</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@_azwar/bug-bounty-programs-pada-aplikasi-laravel-memungkinkan-penemuan-celah-keamanan-vulnerabilities-7db40b405794?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@_azwar/bug-bounty-programs-pada-aplikasi-laravel-memungkinkan-penemuan-celah-keamanan-vulnerabilities-7db40b405794?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 03:36:02 GMT"
+    },
+    {
+        "title": "OAuth: A Backdoor in Disguise\u200a\u2014\u200aa $7500 Study Case",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://xdead4f.medium.com/oauth-a-backdoor-in-disguise-a-7500-study-case-3383a4012295?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*uMiUt9Z1BLuFWB78Rz6-Cg.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://xdead4f.medium.com/oauth-a-backdoor-in-disguise-a-7500-study-case-3383a4012295?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://xdead4f.medium.com/oauth-a-backdoor-in-disguise-a-7500-study-case-3383a4012295?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 02:30:07 GMT"
+    },
+    {
+        "title": "Web3 BBP journal:",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">I am officially starting web3 bug bounty part-time. This will be my journal, recording my thoughts, findings and such.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@harryfyx/web3-bbp-journal-777d830f35d0?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@harryfyx/web3-bbp-journal-777d830f35d0?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 02:10:28 GMT"
+    },
+    {
+        "title": "OAuth Misconfiguration: How I Hijacked Accounts with 0 Clicks and Got Paid!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/oauth-misconfiguration-how-i-hijacked-accounts-with-0-clicks-and-got-paid-df8f7a20b438?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*9lrV7INSIaajBpvQyeOsmg.gif\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Free Article Link: Here!!!!</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/oauth-misconfiguration-how-i-hijacked-accounts-with-0-clicks-and-got-paid-df8f7a20b438?source=rss------bug_bounty-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/oauth-misconfiguration-how-i-hijacked-accounts-with-0-clicks-and-got-paid-df8f7a20b438?source=rss------bug_bounty-5",
+        "published": "Sun, 13 Oct 2024 22:17:44 GMT"
+    },
+    {
+        "title": "Open Redirect to XSS to Account Takeover to $$$$",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Free Article Link: Here!!!</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/open-redirect-to-xss-to-account-takeover-to-de8739f9a4f0?source=rss------bug_bounty-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/open-redirect-to-xss-to-account-takeover-to-de8739f9a4f0?source=rss------bug_bounty-5",
+        "published": "Sun, 13 Oct 2024 22:17:38 GMT"
+    },
+    {
+        "title": "Cache Deception | 450$",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@0x_karim/cache-deception-450-a02cd655b33f?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1350/1*tB8iuvJqEsZn0CYxTIWlbg.png\" width=\"1350\" /></a></p><p class=\"medium-feed-snippet\">Hi hackers</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@0x_karim/cache-deception-450-a02cd655b33f?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@0x_karim/cache-deception-450-a02cd655b33f?source=rss------bug_bounty-5",
+        "published": "Sun, 13 Oct 2024 20:51:24 GMT"
+    },
+    {
+        "title": "How to create a custom daemon using shell scripts",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mysticraganork66/how-to-create-a-custom-daemon-using-shell-scripts-ce27c13657d1?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*ov4Q8X6FfjUYjiSe\" width=\"5441\" /></a></p><p class=\"medium-feed-snippet\">simple example daemon creation</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mysticraganork66/how-to-create-a-custom-daemon-using-shell-scripts-ce27c13657d1?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mysticraganork66/how-to-create-a-custom-daemon-using-shell-scripts-ce27c13657d1?source=rss------bug_bounty-5",
+        "published": "Sun, 13 Oct 2024 17:47:32 GMT"
+    },
+    {
+        "title": "Unleashing the Power of Kali Linux Daemons",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/unleashing-the-power-of-kali-linux-daemons-c19133db43ec?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*OV8dSDTG2gHUPQUr\" width=\"5283\" /></a></p><p class=\"medium-feed-snippet\">Unlock the secrets of Kali Linux daemons and take your cybersecurity skills to new heights.</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/unleashing-the-power-of-kali-linux-daemons-c19133db43ec?source=rss------bug_bounty-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/unleashing-the-power-of-kali-linux-daemons-c19133db43ec?source=rss------bug_bounty-5",
+        "published": "Sun, 13 Oct 2024 17:34:36 GMT"
+    },
+    {
+        "title": "Creating a Honeypot: A Practical Guide to Understanding Cybersecurity Threats",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@paritoshblogs/creating-a-honeypot-a-practical-guide-to-understanding-cybersecurity-threats-9d2e63e90892?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*qW94xzNTdIKIPGlC.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Setting up a honeypot can be an excellent hands-on project for anyone looking to boost their cybersecurity skills. This guide will provide&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@paritoshblogs/creating-a-honeypot-a-practical-guide-to-understanding-cybersecurity-threats-9d2e63e90892?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@paritoshblogs/creating-a-honeypot-a-practical-guide-to-understanding-cybersecurity-threats-9d2e63e90892?source=rss------bug_bounty-5",
+        "published": "Sun, 13 Oct 2024 17:06:07 GMT"
+    },
+    {
+        "title": "Jonathan James (c0mrade), a Black-hat Hacker Who Committed Suicide",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@davidsehyeonbaek/jonathan-james-c0mrade-a-black-hat-hacker-who-committed-suicide-5fdc8531750d?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*V4RUm0qhWohiqHqc3_Gbmg@2x.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Jonathan James, better known by his online pseudonym &#x201c;c0mrade,&#x201d; was an American hacker who gained notoriety for infiltrating high-profile&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@davidsehyeonbaek/jonathan-james-c0mrade-a-black-hat-hacker-who-committed-suicide-5fdc8531750d?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@davidsehyeonbaek/jonathan-james-c0mrade-a-black-hat-hacker-who-committed-suicide-5fdc8531750d?source=rss------hacking-5",
+        "published": "Mon, 14 Oct 2024 04:19:38 GMT"
+    },
+    {
+        "title": "HackTheBox | TwoMillion| by C4t0v3rfl0w",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@c4t0v3rfl0w/hackthebox-twomillion-by-c4t0v3rfl0w-7166d47fde1f?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/691/1*90gGZubHQrkQUQbZg6pyaw.png\" width=\"691\" /></a></p><p class=\"medium-feed-snippet\">Resoluci&#xf3;n de TwoMillion (Hack The Box)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@c4t0v3rfl0w/hackthebox-twomillion-by-c4t0v3rfl0w-7166d47fde1f?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@c4t0v3rfl0w/hackthebox-twomillion-by-c4t0v3rfl0w-7166d47fde1f?source=rss------hacking-5",
+        "published": "Mon, 14 Oct 2024 02:56:06 GMT"
+    },
+    {
+        "title": "Starting Out and Starting Up: How to Make it in the Tech World",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">What is a startup company? What makes it successful? How can I create my own startup and make it a success? Paul Graham&#x2019;s three articles&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@snelso24/starting-up-and-starting-out-how-to-make-it-in-the-tech-world-363bacd37f7b?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@snelso24/starting-up-and-starting-out-how-to-make-it-in-the-tech-world-363bacd37f7b?source=rss------hacking-5",
+        "published": "Mon, 14 Oct 2024 02:51:00 GMT"
+    },
+    {
+        "title": "Dreaming (TryHackMe) Room",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@youssef.work.11/dreaming-tryhackme-room-50cb7a42477d?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1402/1*g1Z-U0Wx17RAzDZR7psAmw.png\" width=\"1402\" /></a></p><p class=\"medium-feed-snippet\">Hello my name is youssef maged jr.pentester and let&#x2019;s GOOOOO!!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@youssef.work.11/dreaming-tryhackme-room-50cb7a42477d?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@youssef.work.11/dreaming-tryhackme-room-50cb7a42477d?source=rss------hacking-5",
+        "published": "Mon, 14 Oct 2024 01:32:37 GMT"
+    },
+    {
+        "title": "How to recover stolen crypto from my wallet?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">If you discover that your digital assets are lost due to these or other scenarios, take a proactive stance to minimize your risk. Stop&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dawwri/how-to-recover-stolen-crypto-from-my-wallet-2dda7a539005?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dawwri/how-to-recover-stolen-crypto-from-my-wallet-2dda7a539005?source=rss------hacking-5",
+        "published": "Mon, 14 Oct 2024 00:21:43 GMT"
+    },
+    {
+        "title": "Hackeando empresas via TINDER",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@n3k00n3/hackeando-empresas-via-tinder-863bb41d8289?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*OabWRll137LppEbZ.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Obtendo o primeiro acesso &#xe0; empresa via TINDER</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@n3k00n3/hackeando-empresas-via-tinder-863bb41d8289?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@n3k00n3/hackeando-empresas-via-tinder-863bb41d8289?source=rss------hacking-5",
+        "published": "Sun, 13 Oct 2024 23:42:29 GMT"
+    },
+    {
+        "title": "Cache Deception | 450$",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@0x_karim/cache-deception-450-a02cd655b33f?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1350/1*tB8iuvJqEsZn0CYxTIWlbg.png\" width=\"1350\" /></a></p><p class=\"medium-feed-snippet\">Hi hackers</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@0x_karim/cache-deception-450-a02cd655b33f?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@0x_karim/cache-deception-450-a02cd655b33f?source=rss------hacking-5",
+        "published": "Sun, 13 Oct 2024 20:51:24 GMT"
+    },
+    {
+        "title": "OSCP Tip: Reverse Shell with BusyBox!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@jocamp3/oscp-tip-reverse-shell-with-busybox-359d755a6383?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/885/1*_q4QNzpuGwS4dL4VNGSzHA.png\" width=\"885\" /></a></p><p class=\"medium-feed-snippet\">As an OSCP aspirant, we&#x2019;re always on the lookout for quick and efficient ways to obtain a reverse shell during penetration tests. One&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@jocamp3/oscp-tip-reverse-shell-with-busybox-359d755a6383?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@jocamp3/oscp-tip-reverse-shell-with-busybox-359d755a6383?source=rss------hacking-5",
+        "published": "Sun, 13 Oct 2024 18:45:02 GMT"
+    },
+    {
+        "title": "How to create a custom daemon using shell scripts",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mysticraganork66/how-to-create-a-custom-daemon-using-shell-scripts-ce27c13657d1?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*ov4Q8X6FfjUYjiSe\" width=\"5441\" /></a></p><p class=\"medium-feed-snippet\">simple example daemon creation</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mysticraganork66/how-to-create-a-custom-daemon-using-shell-scripts-ce27c13657d1?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mysticraganork66/how-to-create-a-custom-daemon-using-shell-scripts-ce27c13657d1?source=rss------hacking-5",
+        "published": "Sun, 13 Oct 2024 17:47:32 GMT"
+    },
+    {
+        "title": "Offensive Security Proving Grounds OnSystemShellDredd Writeup | OSCP Writeup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://motasemhamdan.medium.com/offensive-security-proving-grounds-onsystemshelldredd-writeup-oscp-writeup-317cca1c91fe?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*kzlGAep_ff5x3y_cAU-htA.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">The article details a penetration testing walkthrough for the Offensive Security Proving Grounds (OSPG) machine named ShellDredd, useful&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://motasemhamdan.medium.com/offensive-security-proving-grounds-onsystemshelldredd-writeup-oscp-writeup-317cca1c91fe?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://motasemhamdan.medium.com/offensive-security-proving-grounds-onsystemshelldredd-writeup-oscp-writeup-317cca1c91fe?source=rss------hacking-5",
+        "published": "Sun, 13 Oct 2024 17:42:17 GMT"
+    },
+    {
+        "title": "Passively Found Secrets in Javascript File on a Private Bug Bounty Program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/685/1*J0W-3xsWXgHUyvIIPGL0Lg.png\" width=\"685\" /></a></p><p class=\"medium-feed-snippet\">Hello Friends,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty_writeup-5",
+        "published": "Mon, 14 Oct 2024 04:52:47 GMT"
+    },
+    {
+        "title": "Breaking the Game: Score Manipulation and Leaderboard Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://aminudin.medium.com/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*nx02Z64jF4w0UfsFCjUOKQ.png\" width=\"2828\" /></a></p><p class=\"medium-feed-snippet\">Sama seperti sebelumnya disini saya mau membagikan gimana cara saya memecahkan top leaderboard agar menjadi yang pertama di sebuah web3&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://aminudin.medium.com/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://aminudin.medium.com/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060?source=rss------bug_bounty_writeup-5",
+        "published": "Sun, 13 Oct 2024 14:31:46 GMT"
+    },
+    {
+        "title": "Dreaming (TryHackMe) Room",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@youssef.work.11/dreaming-tryhackme-room-50cb7a42477d?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1402/1*g1Z-U0Wx17RAzDZR7psAmw.png\" width=\"1402\" /></a></p><p class=\"medium-feed-snippet\">Hello my name is youssef maged jr.pentester and let&#x2019;s GOOOOO!!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@youssef.work.11/dreaming-tryhackme-room-50cb7a42477d?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@youssef.work.11/dreaming-tryhackme-room-50cb7a42477d?source=rss------penetration_testing-5",
+        "published": "Mon, 14 Oct 2024 01:32:37 GMT"
+    },
+    {
+        "title": "How to Setup OpenWrt Router as a Wireless Pentesting Lab: DIY Setup vs. WiFi Pineapple",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@atiqur.rahman.nullone/how-to-setup-openwrt-router-as-a-wireless-pentesting-lab-diy-setup-vs-wifi-pineapple-f46fd69321a3?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/756/1*_19zG0d1o56KVKj2X25TcQ.png\" width=\"756\" /></a></p><p class=\"medium-feed-snippet\">Looking to create your own wireless penetration testing lab without the cost of a WiFi Pineapple? If you have an old OpenWrt-supported&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@atiqur.rahman.nullone/how-to-setup-openwrt-router-as-a-wireless-pentesting-lab-diy-setup-vs-wifi-pineapple-f46fd69321a3?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@atiqur.rahman.nullone/how-to-setup-openwrt-router-as-a-wireless-pentesting-lab-diy-setup-vs-wifi-pineapple-f46fd69321a3?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 18:30:09 GMT"
+    },
+    {
+        "title": "Introduction to Powershell",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@nosystemissafe419/introduction-to-powershell-47a05b313ab8?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1273/1*2IbkH87PsINCUV19-msz1w.png\" width=\"1273\" /></a></p><p class=\"medium-feed-snippet\">PowerShell is a powerful command-line shell and scripting language developed by Microsoft. It was first released in 2006 and has since&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@nosystemissafe419/introduction-to-powershell-47a05b313ab8?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@nosystemissafe419/introduction-to-powershell-47a05b313ab8?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 17:39:31 GMT"
+    },
+    {
+        "title": "Unleashing the Power of Kali Linux Daemons",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/unleashing-the-power-of-kali-linux-daemons-c19133db43ec?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*OV8dSDTG2gHUPQUr\" width=\"5283\" /></a></p><p class=\"medium-feed-snippet\">Unlock the secrets of Kali Linux daemons and take your cybersecurity skills to new heights.</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/unleashing-the-power-of-kali-linux-daemons-c19133db43ec?source=rss------penetration_testing-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/unleashing-the-power-of-kali-linux-daemons-c19133db43ec?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 17:34:36 GMT"
+    },
+    {
+        "title": "TR\u200a\u2014\u200a Cicada | HackTheBox",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://ysemrekaya.medium.com/tr-cicada-hackthebox-2b604fbac66f?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/1*ADOHn8x_VC2A0r8Z99ETEA.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">If you have questions or need help with the machine, feel free to reach out to me, and I can also assist you in English.</p><p class=\"medium-feed-link\"><a href=\"https://ysemrekaya.medium.com/tr-cicada-hackthebox-2b604fbac66f?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://ysemrekaya.medium.com/tr-cicada-hackthebox-2b604fbac66f?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 16:43:22 GMT"
+    },
+    {
+        "title": "TLS might be a new threat Soon..",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sujanthebhujel/tls-might-be-a-new-threat-soon-50c666ee9903?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*ry6N332UvuhHspxRg8vJbA.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Transport Layer Security (TLS) is a cryptographic protocol designed to provide security and privacy for communications over the Internet.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sujanthebhujel/tls-might-be-a-new-threat-soon-50c666ee9903?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sujanthebhujel/tls-might-be-a-new-threat-soon-50c666ee9903?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 16:20:58 GMT"
+    },
+    {
+        "title": "HackTheBox | Mirai (Walkthrough)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://d4t4s3c.medium.com/hackthebox-mirai-walkthrough-6aa13d395d5e?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/700/1*qk-yafTf91c2N1eoMrS3uA.png\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">Mirai es una m&#xe1;quina retirada Linux de dificultad f&#xe1;cil de la plataforma HackTheBox y fue creada por el usuario Arrexel.</p><p class=\"medium-feed-link\"><a href=\"https://d4t4s3c.medium.com/hackthebox-mirai-walkthrough-6aa13d395d5e?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://d4t4s3c.medium.com/hackthebox-mirai-walkthrough-6aa13d395d5e?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 15:45:34 GMT"
+    },
+    {
+        "title": "\u201c100 Perintah Linux Wajib untuk Pentester: Panduan Lengkap Menguasai Keamanan Jaringan\u201d",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@iwan.n.basha/100-perintah-linux-wajib-untuk-pentester-panduan-lengkap-menguasai-keamanan-jaringan-eff4c518e530?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*USrMINefJWOWbWH4XekZ6g.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Dalam dunia cybersecurity, keahlian mengoperasikan sistem berbasis Linux menjadi salah satu keterampilan yang wajib dikuasai oleh para&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@iwan.n.basha/100-perintah-linux-wajib-untuk-pentester-panduan-lengkap-menguasai-keamanan-jaringan-eff4c518e530?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@iwan.n.basha/100-perintah-linux-wajib-untuk-pentester-panduan-lengkap-menguasai-keamanan-jaringan-eff4c518e530?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 14:23:27 GMT"
+    },
+    {
+        "title": "A Deep Dive into Subdomain Management Using SubScope",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hunthubspace/a-deep-dive-into-subdomain-management-using-subscope-43f8653b4593?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/713/1*-tPhRulKqv4xNBLLVN9i7Q.png\" width=\"713\" /></a></p><p class=\"medium-feed-snippet\">A tool for management your assets in bug bounty</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hunthubspace/a-deep-dive-into-subdomain-management-using-subscope-43f8653b4593?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hunthubspace/a-deep-dive-into-subdomain-management-using-subscope-43f8653b4593?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 13:52:34 GMT"
+    },
+    {
+        "title": "Windows Privilege Escalation: A Comprehensive Guide",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@maharkk01/windows-privilege-escalation-a-comprehensive-guide-b02ca4523c7d?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*QRahWeEFOXh2MvMs.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@maharkk01/windows-privilege-escalation-a-comprehensive-guide-b02ca4523c7d?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@maharkk01/windows-privilege-escalation-a-comprehensive-guide-b02ca4523c7d?source=rss------penetration_testing-5",
+        "published": "Sun, 13 Oct 2024 12:37:53 GMT"
+    },
+    {
+        "title": "The Great Photo Heist: IDOR Vulnerability Strikes Again",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://rofes1337.medium.com/the-great-photo-heist-idor-vulnerability-strikes-again-6ed9a47c8c74?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*XxEBzUSSdjBDKFvVxW6pcg.jpeg\" width=\"3137\" /></a></p><p class=\"medium-feed-snippet\">&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62d;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62d;&#x64a;&#x645;</p><p class=\"medium-feed-link\"><a href=\"https://rofes1337.medium.com/the-great-photo-heist-idor-vulnerability-strikes-again-6ed9a47c8c74?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://rofes1337.medium.com/the-great-photo-heist-idor-vulnerability-strikes-again-6ed9a47c8c74?source=rss------hackerone-5",
+        "published": "Sun, 13 Oct 2024 13:41:05 GMT"
+    },
+    {
+        "title": "Bug bounty programs pada aplikasi Laravel memungkinkan penemuan celah keamanan (vulnerabilities)\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@_azwar/bug-bounty-programs-pada-aplikasi-laravel-memungkinkan-penemuan-celah-keamanan-vulnerabilities-7db40b405794?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*Cd5AQOF7poc-Es7Q.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">1. Siapkan Aplikasi Laravel</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@_azwar/bug-bounty-programs-pada-aplikasi-laravel-memungkinkan-penemuan-celah-keamanan-vulnerabilities-7db40b405794?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@_azwar/bug-bounty-programs-pada-aplikasi-laravel-memungkinkan-penemuan-celah-keamanan-vulnerabilities-7db40b405794?source=rss------vulnerability-5",
+        "published": "Mon, 14 Oct 2024 03:36:02 GMT"
+    },
+    {
+        "title": "we\u2019re like glass,",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@yunamint924/were-like-glass-c95685177374?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/720/1*BlGYq6MJb126ZgzQ0vB5iQ.jpeg\" width=\"720\" /></a></p><p class=\"medium-feed-snippet\">we do break sometimes.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@yunamint924/were-like-glass-c95685177374?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@yunamint924/were-like-glass-c95685177374?source=rss------vulnerability-5",
+        "published": "Sun, 13 Oct 2024 16:36:38 GMT"
+    },
+    {
+        "title": "A Train Ride to Understanding",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://sameergudhate.medium.com/a-train-ride-to-understanding-7e1b5e735e07?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*B7x0mpllQSKjkUgh.jpg\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">The Mumbai local was a cacophony of laughter and chatter, the women nestled together in the ladies&#x2019; compartment like old friends, sharing&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://sameergudhate.medium.com/a-train-ride-to-understanding-7e1b5e735e07?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://sameergudhate.medium.com/a-train-ride-to-understanding-7e1b5e735e07?source=rss------vulnerability-5",
+        "published": "Sun, 13 Oct 2024 15:04:33 GMT"
+    },
+    {
+        "title": "after the rain, there\u2019s always a rainbow",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@itssofiarivera/after-the-rain-theres-always-a-rainbow-bf9284a6d2a4?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*Ax0zftCZEiIYDKDDRl6_zw.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">I was sitting in my room, tears streaming down my face, staring at the message on my phone: &#x201c;It&#x2019;s over, Sofia.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@itssofiarivera/after-the-rain-theres-always-a-rainbow-bf9284a6d2a4?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@itssofiarivera/after-the-rain-theres-always-a-rainbow-bf9284a6d2a4?source=rss------vulnerability-5",
+        "published": "Sun, 13 Oct 2024 12:42:01 GMT"
+    },
+    {
+        "title": "A Holy Place",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/know-thyself-heal-thyself/a-holy-place-af2a3f599edb?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*xq0DTXbF6drU-LFMQHWwRQ@2x.jpeg\" width=\"3571\" /></a></p><p class=\"medium-feed-snippet\">To listen to vulnerabilities of others</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/know-thyself-heal-thyself/a-holy-place-af2a3f599edb?source=rss------vulnerability-5\">Continue reading on Know Thyself, Heal Thyself \u00bb</a></p></div>",
+        "link": "https://medium.com/know-thyself-heal-thyself/a-holy-place-af2a3f599edb?source=rss------vulnerability-5",
+        "published": "Sun, 13 Oct 2024 12:14:02 GMT"
+    },
+    {
+        "title": "IDOR\u00a0: Step by Step guide to Account Takeover of Any User",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@360Security/idor-step-by-step-guide-to-account-takeover-of-any-user-cb90bbcfd0fc?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*UfccMRna5tflCzWPKpHRgQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">A step-by-step look at how i leverage IDOR in profile updates to hijack user accounts</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@360Security/idor-step-by-step-guide-to-account-takeover-of-any-user-cb90bbcfd0fc?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@360Security/idor-step-by-step-guide-to-account-takeover-of-any-user-cb90bbcfd0fc?source=rss------vulnerability-5",
+        "published": "Sun, 13 Oct 2024 09:39:06 GMT"
+    },
+    {
+        "title": "To be the woman I am or the woman I\u2019m expected to be?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">To be strong isn&#x2019;t just to be brave&#x200a;&#x2014;&#x200a;it is being brave enough to break.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ianaczares/to-be-the-woman-i-am-or-the-woman-im-expected-to-be-0318d0f935fb?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ianaczares/to-be-the-woman-i-am-or-the-woman-im-expected-to-be-0318d0f935fb?source=rss------vulnerability-5",
+        "published": "Sun, 13 Oct 2024 08:45:38 GMT"
+    },
+    {
+        "title": "I could go anywhere I want, anywhere I want, just not home.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@grisbrave/i-could-go-anywhere-i-want-anywhere-i-want-just-not-home-6b232b873231?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/736/1*6EgpPATE6nnEsq0rupvsXg.jpeg\" width=\"736\" /></a></p><p class=\"medium-feed-snippet\">It&#x2019;s strange, isn&#x2019;t it? The one place that&#x2019;s supposed to feel safe is the place that I avoid it like it&#x2019;s poison.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@grisbrave/i-could-go-anywhere-i-want-anywhere-i-want-just-not-home-6b232b873231?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@grisbrave/i-could-go-anywhere-i-want-anywhere-i-want-just-not-home-6b232b873231?source=rss------vulnerability-5",
+        "published": "Sun, 13 Oct 2024 08:22:03 GMT"
+    },
+    {
+        "title": "On Self-compassion",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Self-compassion is the tenderness we show to our own soul. Those who bruise themselves with harsh words, who lash out with criticism and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@senaidemirci/on-self-compassion-acbb2f472dd2?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@senaidemirci/on-self-compassion-acbb2f472dd2?source=rss------vulnerability-5",
+        "published": "Sun, 13 Oct 2024 06:01:34 GMT"
+    },
+    {
+        "title": "Passively Found Secrets in Javascript File on a Private Bug Bounty Program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/685/1*J0W-3xsWXgHUyvIIPGL0Lg.png\" width=\"685\" /></a></p><p class=\"medium-feed-snippet\">Hello Friends,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty_tips-5",
+        "published": "Mon, 14 Oct 2024 04:52:47 GMT"
+    },
+    {
+        "title": "Cache Deception | 450$",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@0x_karim/cache-deception-450-a02cd655b33f?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1350/1*tB8iuvJqEsZn0CYxTIWlbg.png\" width=\"1350\" /></a></p><p class=\"medium-feed-snippet\">Hi hackers</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@0x_karim/cache-deception-450-a02cd655b33f?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@0x_karim/cache-deception-450-a02cd655b33f?source=rss------bug_bounty_tips-5",
+        "published": "Sun, 13 Oct 2024 20:51:24 GMT"
+    },
+    {
+        "title": "Cracking WordPress Security with WPScan: A Bug Bounty Hunter\u2019s Journey \ufe0f\ufe0f\u200d\u2642\ufe0f",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">As a cybersecurity enthusiast and bug bounty hunter, one of my favorite tools in my toolkit is WPScan&#x200a;&#x2014;&#x200a;a powerful, open-source&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@gouravrathod8788/cracking-wordpress-security-with-wpscan-a-bug-bounty-hunters-journey-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F-c9389c94cc6b?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@gouravrathod8788/cracking-wordpress-security-with-wpscan-a-bug-bounty-hunters-journey-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F-c9389c94cc6b?source=rss------bug_bounty_tips-5",
+        "published": "Sun, 13 Oct 2024 16:25:37 GMT"
+    },
+    {
+        "title": "Breaking the Game: Score Manipulation and Leaderboard Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://aminudin.medium.com/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*nx02Z64jF4w0UfsFCjUOKQ.png\" width=\"2828\" /></a></p><p class=\"medium-feed-snippet\">Sama seperti sebelumnya disini saya mau membagikan gimana cara saya memecahkan top leaderboard agar menjadi yang pertama di sebuah web3&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://aminudin.medium.com/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://aminudin.medium.com/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060?source=rss------bug_bounty_tips-5",
+        "published": "Sun, 13 Oct 2024 14:31:46 GMT"
+    },
+    {
+        "title": "A Deep Dive into Subdomain Management Using SubScope",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hunthubspace/a-deep-dive-into-subdomain-management-using-subscope-43f8653b4593?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/713/1*-tPhRulKqv4xNBLLVN9i7Q.png\" width=\"713\" /></a></p><p class=\"medium-feed-snippet\">A tool for management your assets in bug bounty</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hunthubspace/a-deep-dive-into-subdomain-management-using-subscope-43f8653b4593?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hunthubspace/a-deep-dive-into-subdomain-management-using-subscope-43f8653b4593?source=rss------bug_bounty_tips-5",
+        "published": "Sun, 13 Oct 2024 13:52:34 GMT"
+    },
+    {
+        "title": "Recon N\u0259dir v\u0259 Niy\u0259 \u018fh\u0259miyy\u0259tlidir?\u00a0: Z\u0259iflikl\u0259rin A\u015fkar Edilm\u0259si v\u0259 Etik Hakerlik (B\u00f6l\u00fcm 2)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://zeynalxan.medium.com/recon-n%C9%99dir-v%C9%99-niy%C9%99-%C9%99h%C9%99miyy%C9%99tlidir-z%C9%99iflikl%C9%99rin-a%C5%9Fkar-edilm%C9%99si-v%C9%99-etik-hakerlik-b%C3%B6l%C3%BCm-2-c4b554db0c8e?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/728/0*_naVdK1dhUwadedA.jpg\" width=\"728\" /></a></p><p class=\"medium-feed-snippet\">Recon N&#x259;dir v&#x259; Niy&#x259; &#x18f;h&#x259;miyy&#x259;tlidir?</p><p class=\"medium-feed-link\"><a href=\"https://zeynalxan.medium.com/recon-n%C9%99dir-v%C9%99-niy%C9%99-%C9%99h%C9%99miyy%C9%99tlidir-z%C9%99iflikl%C9%99rin-a%C5%9Fkar-edilm%C9%99si-v%C9%99-etik-hakerlik-b%C3%B6l%C3%BCm-2-c4b554db0c8e?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://zeynalxan.medium.com/recon-n%C9%99dir-v%C9%99-niy%C9%99-%C9%99h%C9%99miyy%C9%99tlidir-z%C9%99iflikl%C9%99rin-a%C5%9Fkar-edilm%C9%99si-v%C9%99-etik-hakerlik-b%C3%B6l%C3%BCm-2-c4b554db0c8e?source=rss------bug_bounty_tips-5",
+        "published": "Sun, 13 Oct 2024 12:41:15 GMT"
+    },
+    {
+        "title": "IDOR chained with JWT token cracking leads to edit, view and deletion of 160000 user accounts.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://aswinthambipanik07.medium.com/idor-chained-with-jwt-token-cracking-leads-to-edit-view-and-deletion-of-160000-user-accounts-65e65e6dc1f1?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*_q8uDJwRs6tsRxrNB2H1rQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Two critical vulnerabilities were identified in a public bug bounty program application&#x2019;s API that compromise user data and account&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://aswinthambipanik07.medium.com/idor-chained-with-jwt-token-cracking-leads-to-edit-view-and-deletion-of-160000-user-accounts-65e65e6dc1f1?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://aswinthambipanik07.medium.com/idor-chained-with-jwt-token-cracking-leads-to-edit-view-and-deletion-of-160000-user-accounts-65e65e6dc1f1?source=rss------bug_bounty_tips-5",
+        "published": "Sun, 13 Oct 2024 05:49:15 GMT"
     }
 ]
