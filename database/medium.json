@@ -6574,5 +6574,293 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://aswinthambipanik07.medium.com/idor-chained-with-jwt-token-cracking-leads-to-edit-view-and-deletion-of-160000-user-accounts-65e65e6dc1f1?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*_q8uDJwRs6tsRxrNB2H1rQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Two critical vulnerabilities were identified in a public bug bounty program application&#x2019;s API that compromise user data and account&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://aswinthambipanik07.medium.com/idor-chained-with-jwt-token-cracking-leads-to-edit-view-and-deletion-of-160000-user-accounts-65e65e6dc1f1?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://aswinthambipanik07.medium.com/idor-chained-with-jwt-token-cracking-leads-to-edit-view-and-deletion-of-160000-user-accounts-65e65e6dc1f1?source=rss------bug_bounty_tips-5",
         "published": "Sun, 13 Oct 2024 05:49:15 GMT"
+    },
+    {
+        "title": "How Google Dorking Helps me to Earn more than $2,000 in Bug Bounty.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anandrishav2228/how-google-dorking-helps-me-to-earn-more-than-2-000-in-bug-bounty-b2ac959b3905?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*esig7Wt0UJFOxlCDrUDWDA.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">In the digital age, information is power. And while most people use search engines like Google for finding restaurants, checking weather&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anandrishav2228/how-google-dorking-helps-me-to-earn-more-than-2-000-in-bug-bounty-b2ac959b3905?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anandrishav2228/how-google-dorking-helps-me-to-earn-more-than-2-000-in-bug-bounty-b2ac959b3905?source=rss------bug_bounty-5",
+        "published": "Tue, 15 Oct 2024 04:53:47 GMT"
+    },
+    {
+        "title": "5 Cybersecurity Projects You Can Build This Weekend (with Python)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Cybersecurity is a critical field in today&#x2019;s tech-driven world, and Python is one of the most popular languages for building security&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@paritoshblogs/5-cybersecurity-projects-you-can-build-this-weekend-with-python-74bf03c3ba5d?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@paritoshblogs/5-cybersecurity-projects-you-can-build-this-weekend-with-python-74bf03c3ba5d?source=rss------bug_bounty-5",
+        "published": "Tue, 15 Oct 2024 03:58:28 GMT"
+    },
+    {
+        "title": "0dSSRF | Automate Finding SSRF & External Service Interactions & Open Redirects",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://kariiem.medium.com/0dssrf-automate-finding-ssrf-external-service-interactions-open-redirects-944be6770a02?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*TmKXGgC-H1CITAihhoh3Qw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Welcome to this write-up, where I&#x2019;ll walk you through how I reported multiple SSRF (Server-Side Request Forgery) vulnerabilities, external&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://kariiem.medium.com/0dssrf-automate-finding-ssrf-external-service-interactions-open-redirects-944be6770a02?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://kariiem.medium.com/0dssrf-automate-finding-ssrf-external-service-interactions-open-redirects-944be6770a02?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 23:48:55 GMT"
+    },
+    {
+        "title": "P4 bug\u2019s and their POC steps | Part 6",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@socalledhacker/p4-bugs-and-their-poc-steps-part-6-8e3aa981673a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*wS4GDAEDrSR2wDr-iAuwzg.jpeg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">This is part 6 of P4 bug&#x2019;s if you haven&#x2019;t check previous part then check it out. Click Here&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@socalledhacker/p4-bugs-and-their-poc-steps-part-6-8e3aa981673a?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@socalledhacker/p4-bugs-and-their-poc-steps-part-6-8e3aa981673a?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 23:48:07 GMT"
+    },
+    {
+        "title": "Blind SSRF Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@guravtushar231/blind-ssrf-vulnerability-97d2f1decfe6?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*K6oOVx6uQFlwMSOzm5dXrQ.jpeg\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">Hello,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@guravtushar231/blind-ssrf-vulnerability-97d2f1decfe6?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@guravtushar231/blind-ssrf-vulnerability-97d2f1decfe6?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 20:40:42 GMT"
+    },
+    {
+        "title": "Pok\u00e9mon Developer Game Freak Hacked: 2,600 Employees\u2019 Data Leaked!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/pok%C3%A9mon-developer-game-freak-hacked-2-600-employees-data-leaked-9e00ad9b3b0e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*zunY0o0-MnjLmCu0WXjX9g.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">In an unfortunate turn of events, Game Freak, the Japanese developer behind the wildly popular Pok&#xe9;mon series, confirmed a cyberattack&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/pok%C3%A9mon-developer-game-freak-hacked-2-600-employees-data-leaked-9e00ad9b3b0e?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/pok%C3%A9mon-developer-game-freak-hacked-2-600-employees-data-leaked-9e00ad9b3b0e?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 19:27:18 GMT"
+    },
+    {
+        "title": "Social media account hijacking\u200a\u2014\u200aVDP",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/601/1*yJpIwZWecaoHWPjpuKwvdA.png\" width=\"601\" /></a></p><p class=\"medium-feed-snippet\">Link hijacking vulnerability. External link hijacking.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 18:42:05 GMT"
+    },
+    {
+        "title": "Exposing 100,000 User Data\u00a0: Massive API Bug Exposing",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@360Security/exposing-100-000-user-data-massive-api-bug-exposing-037b56cfe98d?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*Gy93On2ie_4HXq5v69wfSw.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">API Security Gone Wrong: Exposing 100,000 Users with One Crafted Request</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@360Security/exposing-100-000-user-data-massive-api-bug-exposing-037b56cfe98d?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@360Security/exposing-100-000-user-data-massive-api-bug-exposing-037b56cfe98d?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 17:07:15 GMT"
+    },
+    {
+        "title": "JWT Authentication Bypass leads to Admin Control Panel",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/912/1*2Pmmi5UmzjSmqlEo3uTgvA.png\" width=\"912\" /></a></p><p class=\"medium-feed-snippet\">&#x1f36a;From a simple cookie it became a benchmark and then an Accont takeover &#x1f608;</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 15:19:44 GMT"
+    },
+    {
+        "title": "\u2764Bug Bounty tool List\u2764",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">dnscan https://github.com/rbsec/dnscan</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@shardulsawant67/bug-bounty-tool-list-fee6620c0048?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@shardulsawant67/bug-bounty-tool-list-fee6620c0048?source=rss------bug_bounty-5",
+        "published": "Mon, 14 Oct 2024 15:12:26 GMT"
+    },
+    {
+        "title": "Hacked Robot Vacuums Yell Profanities at Owners",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kr1pt7c/hacked-robot-vacuums-yell-profanities-at-owners-ee3a48506894?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*FeC-F1tsfaNOQLKdICgepg.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Ecovacs Deebot X2 robot vacuums are in the spotlight after hackers took control of the devices, allowing them to yell profanities at&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kr1pt7c/hacked-robot-vacuums-yell-profanities-at-owners-ee3a48506894?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kr1pt7c/hacked-robot-vacuums-yell-profanities-at-owners-ee3a48506894?source=rss------hacking-5",
+        "published": "Tue, 15 Oct 2024 04:54:12 GMT"
+    },
+    {
+        "title": "5 Cybersecurity Projects You Can Build This Weekend (with Python)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Cybersecurity is a critical field in today&#x2019;s tech-driven world, and Python is one of the most popular languages for building security&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@paritoshblogs/5-cybersecurity-projects-you-can-build-this-weekend-with-python-74bf03c3ba5d?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@paritoshblogs/5-cybersecurity-projects-you-can-build-this-weekend-with-python-74bf03c3ba5d?source=rss------hacking-5",
+        "published": "Tue, 15 Oct 2024 03:58:28 GMT"
+    },
+    {
+        "title": "The Dark Side of the Digital World: 10 Factors Motivating Hackers",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@thecybernews/the-dark-side-of-the-digital-world-10-factors-motivating-hackers-d25342d2eb9a?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1600/0*uB822VVcq-19JXzm\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">The world of cybercrime is complex and multifaceted, driven by a variety of motivations. Here are 10 factors that can drive individuals to&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@thecybernews/the-dark-side-of-the-digital-world-10-factors-motivating-hackers-d25342d2eb9a?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@thecybernews/the-dark-side-of-the-digital-world-10-factors-motivating-hackers-d25342d2eb9a?source=rss------hacking-5",
+        "published": "Tue, 15 Oct 2024 03:25:44 GMT"
+    },
+    {
+        "title": "Tony Capo: How Hackers Crack Android and iPhone Using Metasploit #hireahacker",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@thecybernews/tnoy-capo-how-hackers-crack-android-and-iphone-using-metasploit-hireahacker-009b671328e4?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*gjvLNfCSQfr2FOqLl-NvMg.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">How Hackers Crack Android and iPhone Using Metasploit</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@thecybernews/tnoy-capo-how-hackers-crack-android-and-iphone-using-metasploit-hireahacker-009b671328e4?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@thecybernews/tnoy-capo-how-hackers-crack-android-and-iphone-using-metasploit-hireahacker-009b671328e4?source=rss------hacking-5",
+        "published": "Tue, 15 Oct 2024 00:11:04 GMT"
+    },
+    {
+        "title": "Blind SSRF Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@guravtushar231/blind-ssrf-vulnerability-97d2f1decfe6?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*K6oOVx6uQFlwMSOzm5dXrQ.jpeg\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">Hello,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@guravtushar231/blind-ssrf-vulnerability-97d2f1decfe6?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@guravtushar231/blind-ssrf-vulnerability-97d2f1decfe6?source=rss------hacking-5",
+        "published": "Mon, 14 Oct 2024 20:40:42 GMT"
+    },
+    {
+        "title": "Cyber Colleagues, in the \u201cEthical Hacking From Scratch\u201d program you will become an ethical hacker\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Enroll today (teams &amp; execs welcome): https://tinyurl.com/2h4es3z5</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@lwilson747/cyber-colleagues-in-the-ethical-hacking-from-scratch-program-you-will-become-an-ethical-hacker-b5b8d683857f?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@lwilson747/cyber-colleagues-in-the-ethical-hacking-from-scratch-program-you-will-become-an-ethical-hacker-b5b8d683857f?source=rss------hacking-5",
+        "published": "Mon, 14 Oct 2024 20:30:37 GMT"
+    },
+    {
+        "title": "Te van a hackear si o s\u00ed. 5 tips para evitarlo",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@yaninasanabria/te-van-a-hackear-si-o-s%C3%AD-5-tips-para-evitarlo-5d6e53d719e6?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*JMF_u3ICE5Cxzs7Hg8_GWg.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Todos hemos sido o vamos a ser hackeados alguna vez en nuestras vidas, gran parte de los hackeos no son por vulnerabilidades en los&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@yaninasanabria/te-van-a-hackear-si-o-s%C3%AD-5-tips-para-evitarlo-5d6e53d719e6?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@yaninasanabria/te-van-a-hackear-si-o-s%C3%AD-5-tips-para-evitarlo-5d6e53d719e6?source=rss------hacking-5",
+        "published": "Mon, 14 Oct 2024 19:42:17 GMT"
+    },
+    {
+        "title": "Pok\u00e9mon Developer Game Freak Hacked: 2,600 Employees\u2019 Data Leaked!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/pok%C3%A9mon-developer-game-freak-hacked-2-600-employees-data-leaked-9e00ad9b3b0e?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*zunY0o0-MnjLmCu0WXjX9g.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">In an unfortunate turn of events, Game Freak, the Japanese developer behind the wildly popular Pok&#xe9;mon series, confirmed a cyberattack&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/pok%C3%A9mon-developer-game-freak-hacked-2-600-employees-data-leaked-9e00ad9b3b0e?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/pok%C3%A9mon-developer-game-freak-hacked-2-600-employees-data-leaked-9e00ad9b3b0e?source=rss------hacking-5",
+        "published": "Mon, 14 Oct 2024 19:27:18 GMT"
+    },
+    {
+        "title": "Basics of PowerShell 2024\u20132025: My Take on Learning It the Fun Way",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/basics-of-powershell-2024-2025-my-take-on-learning-it-the-fun-way-6566c908a8fb?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*HIX4wZFShxceBPCPUMXPuQ.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Do you know why apples turn red?</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/basics-of-powershell-2024-2025-my-take-on-learning-it-the-fun-way-6566c908a8fb?source=rss------hacking-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/basics-of-powershell-2024-2025-my-take-on-learning-it-the-fun-way-6566c908a8fb?source=rss------hacking-5",
+        "published": "Mon, 14 Oct 2024 18:46:39 GMT"
+    },
+    {
+        "title": "Social media account hijacking\u200a\u2014\u200aVDP",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44?source=rss------hacking-5\"><img src=\"https://cdn-images-1.medium.com/max/601/1*yJpIwZWecaoHWPjpuKwvdA.png\" width=\"601\" /></a></p><p class=\"medium-feed-snippet\">Link hijacking vulnerability. External link hijacking.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44?source=rss------hacking-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44?source=rss------hacking-5",
+        "published": "Mon, 14 Oct 2024 18:42:05 GMT"
+    },
+    {
+        "title": "Phone Number Takeover via OTP Bypass in inDrive",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*8C8iqcWfIdxruNdxAvy_uA.jpeg\" width=\"2700\" /></a></p><p class=\"medium-feed-snippet\">Overview</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047?source=rss------bug_bounty_writeup-5",
+        "published": "Mon, 14 Oct 2024 19:32:07 GMT"
+    },
+    {
+        "title": "My First Cybersec Internship",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Hello everyone, I am Krishna Tiwari, currently a B.Com second-year student. I recently completed a 2-month internship at CRAC Learning&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@krishnast545/my-first-cybersec-internship-04b0651bbb63?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@krishnast545/my-first-cybersec-internship-04b0651bbb63?source=rss------bug_bounty_writeup-5",
+        "published": "Mon, 14 Oct 2024 16:48:27 GMT"
+    },
+    {
+        "title": "JWT Authentication Bypass leads to Admin Control Panel",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/912/1*2Pmmi5UmzjSmqlEo3uTgvA.png\" width=\"912\" /></a></p><p class=\"medium-feed-snippet\">&#x1f36a;From a simple cookie it became a benchmark and then an Accont takeover &#x1f608;</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty_writeup-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty_writeup-5",
+        "published": "Mon, 14 Oct 2024 15:19:44 GMT"
+    },
+    {
+        "title": "Understanding Session Management Vulnerabilities: The Case of Password Resets",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">In today&#x2019;s digital landscape, secure user authentication and session management are paramount to safeguarding user accounts and sensitive&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ad.abhi0013/understanding-session-management-vulnerabilities-the-case-of-password-resets-0f5bb123f598?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ad.abhi0013/understanding-session-management-vulnerabilities-the-case-of-password-resets-0f5bb123f598?source=rss------bug_bounty_writeup-5",
+        "published": "Mon, 14 Oct 2024 11:31:50 GMT"
+    },
+    {
+        "title": "Hack The Box \u2192 Dancing",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@paramveerteji12/hack-the-box-dancing-e39900dfdf6e?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1278/0*skRih2FfL4IHXwyn\" width=\"1278\" /></a></p><p class=\"medium-feed-snippet\">For the information gathering part, use the NMAP command with the ip address to get the list of the open ports. Command: nmap &lt;ip address&gt;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@paramveerteji12/hack-the-box-dancing-e39900dfdf6e?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@paramveerteji12/hack-the-box-dancing-e39900dfdf6e?source=rss------penetration_testing-5",
+        "published": "Tue, 15 Oct 2024 00:14:32 GMT"
+    },
+    {
+        "title": "Mastering sqlmap: A Step-by-Step Guide to Penetration Testing",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Here&#x2019;s a step-by-step guide on how to use sqlmap, an open-source penetration testing tool for identifying and exploiting SQL injection&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@baslaazhar512/mastering-sqlmap-a-step-by-step-guide-to-penetration-testing-ef9bc2b742c9?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@baslaazhar512/mastering-sqlmap-a-step-by-step-guide-to-penetration-testing-ef9bc2b742c9?source=rss------penetration_testing-5",
+        "published": "Mon, 14 Oct 2024 21:14:10 GMT"
+    },
+    {
+        "title": "OSCP EXAM TEST NOTES",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">THIS IS A TEST</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@s201803760/oscp-exam-test-notes-686e64a168c3?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@s201803760/oscp-exam-test-notes-686e64a168c3?source=rss------penetration_testing-5",
+        "published": "Mon, 14 Oct 2024 17:42:35 GMT"
+    },
+    {
+        "title": "Exposing 100,000 User Data\u00a0: Massive API Bug Exposing",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@360Security/exposing-100-000-user-data-massive-api-bug-exposing-037b56cfe98d?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*Gy93On2ie_4HXq5v69wfSw.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">API Security Gone Wrong: Exposing 100,000 Users with One Crafted Request</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@360Security/exposing-100-000-user-data-massive-api-bug-exposing-037b56cfe98d?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@360Security/exposing-100-000-user-data-massive-api-bug-exposing-037b56cfe98d?source=rss------penetration_testing-5",
+        "published": "Mon, 14 Oct 2024 17:07:15 GMT"
+    },
+    {
+        "title": "Vulnhub: Mr-Robot",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rg7.https/vulnhub-mr-robot-fc465c47007c?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*SuiAfp6kQQkJBZOg.jpg\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">&#x201c;Hey hackers, just conquered the mr-robot! Feeling pumped and ready to share the intel. Buckle up, as we dissect the steps and techniques&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rg7.https/vulnhub-mr-robot-fc465c47007c?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rg7.https/vulnhub-mr-robot-fc465c47007c?source=rss------penetration_testing-5",
+        "published": "Mon, 14 Oct 2024 13:11:30 GMT"
+    },
+    {
+        "title": "GraphQL Hacking 101: Finding and Exploiting APIs for Fun and Profit",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@v1xtron/graphql-hacking-101-finding-and-exploiting-apis-for-fun-and-profit-af34b5ea15f3?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@v1xtron/graphql-hacking-101-finding-and-exploiting-apis-for-fun-and-profit-af34b5ea15f3?source=rss------penetration_testing-5",
+        "published": "Mon, 14 Oct 2024 12:12:09 GMT"
+    },
+    {
+        "title": "TERGET WEBSITE RECON PROCESS",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@MdAktarujaman.ehp/terget-website-recon-process-d8e38649782e?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/819/1*8cc7v4Jrx-jOlfgdtUTdiQ.png\" width=\"819\" /></a></p><p class=\"medium-feed-snippet\">Website reconnaissance is a critical phase in penetration testing where you gather information about the target website.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@MdAktarujaman.ehp/terget-website-recon-process-d8e38649782e?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@MdAktarujaman.ehp/terget-website-recon-process-d8e38649782e?source=rss------penetration_testing-5",
+        "published": "Mon, 14 Oct 2024 10:39:10 GMT"
+    },
+    {
+        "title": "Exploiting NoSQL Operator Injection to Extract Unknown Fields\u200a\u2014\u200aPortSwigger Lab Writeup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ahmedmazhar666/exploiting-nosql-operator-injection-to-extract-unknown-fields-portswigger-lab-writeup-0fd86ba49df0?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/901/1*7DV_DOvnaji3vUi-ipKh_w.png\" width=\"901\" /></a></p><p class=\"medium-feed-snippet\">In this writeup, I&#x2019;ll walk you through how I exploited a NoSQL injection vulnerability to extract unknown fields in a MongoDB-based&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ahmedmazhar666/exploiting-nosql-operator-injection-to-extract-unknown-fields-portswigger-lab-writeup-0fd86ba49df0?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ahmedmazhar666/exploiting-nosql-operator-injection-to-extract-unknown-fields-portswigger-lab-writeup-0fd86ba49df0?source=rss------penetration_testing-5",
+        "published": "Mon, 14 Oct 2024 10:32:25 GMT"
+    },
+    {
+        "title": "100+ Ultimate Penetration Testing Command Cheat Sheet",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@dionjp50/100-ultimate-penetration-testing-command-cheat-sheet-b490c4a7dde0?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*uZzcb01bZ0aP-_6GOZsSOQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">For penetration testing, the exact command depends on what aspect you are testing (e.g., network scanning, web vulnerability scanning&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dionjp50/100-ultimate-penetration-testing-command-cheat-sheet-b490c4a7dde0?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dionjp50/100-ultimate-penetration-testing-command-cheat-sheet-b490c4a7dde0?source=rss------penetration_testing-5",
+        "published": "Mon, 14 Oct 2024 10:23:37 GMT"
+    },
+    {
+        "title": "CyberSecurity via White Hat Hacking Services",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sam700007/cybersecurity-via-white-hat-hacking-services-64399151b9a6?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/1754/1*wUcwhKrZ8ApdNREskqmvDA.png\" width=\"1754\" /></a></p><p class=\"medium-feed-snippet\">What is Cybersecurity?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sam700007/cybersecurity-via-white-hat-hacking-services-64399151b9a6?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sam700007/cybersecurity-via-white-hat-hacking-services-64399151b9a6?source=rss------hackerone-5",
+        "published": "Mon, 14 Oct 2024 06:51:08 GMT"
+    },
+    {
+        "title": "Proof of Concept (PoC)\u00a0: CVE-2023\u201331122",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@raihanammarsaputra/proof-of-concept-poc-cve-2023-31122-56d20d114f98?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*oul1jVzi7f7vFd48Z7AB6g.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Cybersecurity continues to be a critical concern in today&#x2019;s increasingly digital landscape. One of the most dangerous vulnerabilities&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@raihanammarsaputra/proof-of-concept-poc-cve-2023-31122-56d20d114f98?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@raihanammarsaputra/proof-of-concept-poc-cve-2023-31122-56d20d114f98?source=rss------vulnerability-5",
+        "published": "Tue, 15 Oct 2024 02:04:38 GMT"
+    },
+    {
+        "title": "Balancing the Art of Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Alright let&apos;s do a take 2. Since the last iteration of this article was such a sap ball and totally fell right in the face of the topic&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://zartaj.medium.com/balancing-the-art-of-vulnerability-a410bebd428f?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://zartaj.medium.com/balancing-the-art-of-vulnerability-a410bebd428f?source=rss------vulnerability-5",
+        "published": "Mon, 14 Oct 2024 22:25:21 GMT"
+    },
+    {
+        "title": "Vulnerability Scan with Nmap",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rachaelkamau/vulnerability-scan-with-nmap-ab50f343c271?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/940/1*17FPb7ATp03Y8XI5mt2X_g.png\" width=\"940\" /></a></p><p class=\"medium-feed-snippet\">The objective of this task is to conduct a basic vulnerability scan of the local network using Nmap, a powerful network scanning tool&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rachaelkamau/vulnerability-scan-with-nmap-ab50f343c271?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rachaelkamau/vulnerability-scan-with-nmap-ab50f343c271?source=rss------vulnerability-5",
+        "published": "Mon, 14 Oct 2024 20:48:20 GMT"
+    },
+    {
+        "title": "Social media account hijacking\u200a\u2014\u200aVDP",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/601/1*yJpIwZWecaoHWPjpuKwvdA.png\" width=\"601\" /></a></p><p class=\"medium-feed-snippet\">Link hijacking vulnerability. External link hijacking.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@embossdotar/social-media-account-hijacking-vdp-fa674b25af44?source=rss------vulnerability-5",
+        "published": "Mon, 14 Oct 2024 18:42:05 GMT"
+    },
+    {
+        "title": "Greenbone OpenVAS\u200a\u2014\u200aAny, Any",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://locohostcyber.medium.com/greenbone-openvas-any-any-c18df107cc0e?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*R_DKFSKrJucx7jiPxCY1rw.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">My continued use of OpenVAS has been few and far between. However, every time I open it, I learn something new.</p><p class=\"medium-feed-link\"><a href=\"https://locohostcyber.medium.com/greenbone-openvas-any-any-c18df107cc0e?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://locohostcyber.medium.com/greenbone-openvas-any-any-c18df107cc0e?source=rss------vulnerability-5",
+        "published": "Mon, 14 Oct 2024 17:57:11 GMT"
+    },
+    {
+        "title": "Fuzz Testing: Random Inputs, Reliable Security",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Imagine you&apos;re tasked with securing a castle. You carefully check the walls, gates, and towers, ensuring every potential entry point is&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@VElanaS/fuzz-testing-random-inputs-reliable-security-a332e9ac5f1e?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@VElanaS/fuzz-testing-random-inputs-reliable-security-a332e9ac5f1e?source=rss------vulnerability-5",
+        "published": "Mon, 14 Oct 2024 14:43:44 GMT"
+    },
+    {
+        "title": "Don\u2019t show weakness: The value of vulnerability in personal growth",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Let&#x2019;s be honest&#x200a;&#x2014;&#x200a;how many times have we been told not to show weakness? Whether it&#x2019;s at school, work, or even in relationships, society&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@prottashakarim.official/dont-show-weakness-the-value-of-vulnerability-in-personal-growth-81938c823f2c?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@prottashakarim.official/dont-show-weakness-the-value-of-vulnerability-in-personal-growth-81938c823f2c?source=rss------vulnerability-5",
+        "published": "Mon, 14 Oct 2024 14:05:40 GMT"
+    },
+    {
+        "title": "I Am Someone\u2019s One Call Away\u200a\u2014\u200aBut I Don\u2019t Have One",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">You know what&#x2019;s strange? I&#x2019;m always the one people call. Late at night, mid-crisis, or on the edge of a breakdown&#x200a;&#x2014;&#x200a;my phone buzzes, and I&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://penelopebridgerton.medium.com/i-am-someones-one-call-away-but-i-don-t-have-one-a79bba49ea10?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://penelopebridgerton.medium.com/i-am-someones-one-call-away-but-i-don-t-have-one-a79bba49ea10?source=rss------vulnerability-5",
+        "published": "Mon, 14 Oct 2024 13:42:33 GMT"
+    },
+    {
+        "title": "Emergency Update for Tor Browser: Version 13.5.7 Fixes Critical Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Zeroidr7/emergency-update-for-tor-browser-version-13-5-7-fixes-critical-vulnerability-c9c92717fd19?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/1*zNZfO59SKtyqQtDtsrMi_Q.png\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">Tor Browser is one of the most trusted tools for online privacy, allowing users to browse the web anonymously and securely. However, even&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Zeroidr7/emergency-update-for-tor-browser-version-13-5-7-fixes-critical-vulnerability-c9c92717fd19?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Zeroidr7/emergency-update-for-tor-browser-version-13-5-7-fixes-critical-vulnerability-c9c92717fd19?source=rss------vulnerability-5",
+        "published": "Mon, 14 Oct 2024 11:53:20 GMT"
+    },
+    {
+        "title": "CyberSecurity via White Hat Hacking Services",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sam700007/cybersecurity-via-white-hat-hacking-services-64399151b9a6?source=rss------bugcrowd-5\"><img src=\"https://cdn-images-1.medium.com/max/1754/1*wUcwhKrZ8ApdNREskqmvDA.png\" width=\"1754\" /></a></p><p class=\"medium-feed-snippet\">What is Cybersecurity?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sam700007/cybersecurity-via-white-hat-hacking-services-64399151b9a6?source=rss------bugcrowd-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sam700007/cybersecurity-via-white-hat-hacking-services-64399151b9a6?source=rss------bugcrowd-5",
+        "published": "Mon, 14 Oct 2024 06:51:08 GMT"
+    },
+    {
+        "title": "0dSSRF | Automate Finding SSRF & External Service Interactions & Open Redirects",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://kariiem.medium.com/0dssrf-automate-finding-ssrf-external-service-interactions-open-redirects-944be6770a02?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*TmKXGgC-H1CITAihhoh3Qw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Welcome to this write-up, where I&#x2019;ll walk you through how I reported multiple SSRF (Server-Side Request Forgery) vulnerabilities, external&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://kariiem.medium.com/0dssrf-automate-finding-ssrf-external-service-interactions-open-redirects-944be6770a02?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://kariiem.medium.com/0dssrf-automate-finding-ssrf-external-service-interactions-open-redirects-944be6770a02?source=rss------bug_bounty_tips-5",
+        "published": "Mon, 14 Oct 2024 23:48:55 GMT"
+    },
+    {
+        "title": "Phone Number Takeover via OTP Bypass in inDrive",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*8C8iqcWfIdxruNdxAvy_uA.jpeg\" width=\"2700\" /></a></p><p class=\"medium-feed-snippet\">Overview</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047?source=rss------bug_bounty_tips-5",
+        "published": "Mon, 14 Oct 2024 19:32:07 GMT"
+    },
+    {
+        "title": "\u2764Bug Bounty tool List\u2764",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">dnscan https://github.com/rbsec/dnscan</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@shardulsawant67/bug-bounty-tool-list-fee6620c0048?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@shardulsawant67/bug-bounty-tool-list-fee6620c0048?source=rss------bug_bounty_tips-5",
+        "published": "Mon, 14 Oct 2024 15:12:26 GMT"
+    },
+    {
+        "title": "GraphQL Hacking 101: Finding and Exploiting APIs for Fun and Profit",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@v1xtron/graphql-hacking-101-finding-and-exploiting-apis-for-fun-and-profit-af34b5ea15f3?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@v1xtron/graphql-hacking-101-finding-and-exploiting-apis-for-fun-and-profit-af34b5ea15f3?source=rss------bug_bounty_tips-5",
+        "published": "Mon, 14 Oct 2024 12:12:09 GMT"
     }
 ]
