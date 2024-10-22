@@ -8506,5 +8506,275 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@prajwalpatil453/how-i-found-my-first-p1-bug-705b6ba5e3e2?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/640/0*Q7ba3W8R3JegtIL6\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone, this is the first bug I have found.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@prajwalpatil453/how-i-found-my-first-p1-bug-705b6ba5e3e2?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@prajwalpatil453/how-i-found-my-first-p1-bug-705b6ba5e3e2?source=rss------bug_bounty_tips-5",
         "published": "Sun, 20 Oct 2024 06:34:58 GMT"
+    },
+    {
+        "title": "Oracle SQL Injection | Database Recon",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/oracle-sql-injection-database-recon-0c384d4a085a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/625/1*_EjheXn2A0Ou6W3ExOWzfg.png\" width=\"625\" /></a></p><p class=\"medium-feed-snippet\">This article will elaborate how I observe specific keywords and endpoints that helps in guessing the database type without any automated&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/oracle-sql-injection-database-recon-0c384d4a085a?source=rss------bug_bounty-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/oracle-sql-injection-database-recon-0c384d4a085a?source=rss------bug_bounty-5",
+        "published": "Tue, 22 Oct 2024 04:57:30 GMT"
+    },
+    {
+        "title": "Forget password OTP flaw lead to Account Takeover.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*nQ_xFnu3k6itY3kWWjmJnw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hope you all are doing great!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b?source=rss------bug_bounty-5",
+        "published": "Tue, 22 Oct 2024 03:31:01 GMT"
+    },
+    {
+        "title": "How I Hacked Over 150k PII on a Program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rootplinix/how-i-hacked-over-150k-pii-on-a-program-f58b8b141d4a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/880/1*P6yC9b_qeKOAJqv4qnmO1g.png\" width=\"880\" /></a></p><p class=\"medium-feed-snippet\">So, well, well, well&#x2026; I&#x2019;m Abu Hurayra aka rootplinix maybe listened my name somewhere, I&#x2019;m proudly a day-time hacker who hunts bugs to&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rootplinix/how-i-hacked-over-150k-pii-on-a-program-f58b8b141d4a?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rootplinix/how-i-hacked-over-150k-pii-on-a-program-f58b8b141d4a?source=rss------bug_bounty-5",
+        "published": "Tue, 22 Oct 2024 03:18:59 GMT"
+    },
+    {
+        "title": "Requisi\u00e7\u00f5es Web \u200a\u2014\u200a Tudo que voc\u00ea deve saber para come\u00e7ar em cyberseguran\u00e7a",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@malwarilia/requisi%C3%A7%C3%B5es-web-tudo-que-voc%C3%AA-deve-saber-para-come%C3%A7ar-em-cyberseguran%C3%A7a-ef01a89b250c?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*md6Ze_VssnyNVVNu.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">Atualmente, a maioria das aplica&#xe7;&#xf5;es que utilizamos, seja em dispositivos m&#xf3;veis ou na web, se conecta continuamente &#xe0; internet para&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@malwarilia/requisi%C3%A7%C3%B5es-web-tudo-que-voc%C3%AA-deve-saber-para-come%C3%A7ar-em-cyberseguran%C3%A7a-ef01a89b250c?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@malwarilia/requisi%C3%A7%C3%B5es-web-tudo-que-voc%C3%AA-deve-saber-para-come%C3%A7ar-em-cyberseguran%C3%A7a-ef01a89b250c?source=rss------bug_bounty-5",
+        "published": "Tue, 22 Oct 2024 02:48:36 GMT"
+    },
+    {
+        "title": "Bug Bounty Methodology for SQL Injection with Waybash URLs",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*EWg6dUzasuW6V-MeeDnX5Q.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">This article discusses a methodological approach in a bug bounty program, focusing on SQL Injection exploitation by leveraging URL&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty-5",
+        "published": "Tue, 22 Oct 2024 02:33:14 GMT"
+    },
+    {
+        "title": "Microsoft Blocks Windows 11 24H2 on Select ASUS Models: A Cautionary Tale for Users",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/microsoft-blocks-windows-11-24h2-on-select-asus-models-a-cautionary-tale-for-users-5fc3314e0cfa?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*_tnrSfSnRQ9j6sygwFRb8A.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/microsoft-blocks-windows-11-24h2-on-select-asus-models-a-cautionary-tale-for-users-5fc3314e0cfa?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/microsoft-blocks-windows-11-24h2-on-select-asus-models-a-cautionary-tale-for-users-5fc3314e0cfa?source=rss------bug_bounty-5",
+        "published": "Mon, 21 Oct 2024 22:13:42 GMT"
+    },
+    {
+        "title": "Cisco Takes DevHub Portal Offline Following Hacker Leak of Sensitive Data",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/cisco-takes-devhub-portal-offline-following-hacker-leak-of-sensitive-data-b6ca5cffe3c3?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*8Oum7mlkDQyhqqrD9E8F9w.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/cisco-takes-devhub-portal-offline-following-hacker-leak-of-sensitive-data-b6ca5cffe3c3?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/cisco-takes-devhub-portal-offline-following-hacker-leak-of-sensitive-data-b6ca5cffe3c3?source=rss------bug_bounty-5",
+        "published": "Mon, 21 Oct 2024 22:04:06 GMT"
+    },
+    {
+        "title": "Massive WordPress Breach: Over 6,000 Sites Hacked by Infostealing Malware Plugins! \ufe0f",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/massive-wordpress-breach-over-6-000-sites-hacked-by-infostealing-malware-plugins-%EF%B8%8F-2a4cb7e80d0c?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*D825aM2gPK3uS7AkrE13ig.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/massive-wordpress-breach-over-6-000-sites-hacked-by-infostealing-malware-plugins-%EF%B8%8F-2a4cb7e80d0c?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/massive-wordpress-breach-over-6-000-sites-hacked-by-infostealing-malware-plugins-%EF%B8%8F-2a4cb7e80d0c?source=rss------bug_bounty-5",
+        "published": "Mon, 21 Oct 2024 21:55:40 GMT"
+    },
+    {
+        "title": "North Korean Hackers Exploit Microsoft Zero-Day: APT37\u2019s \u201cCode-on-Toast\u201d Attack Uncovered",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/north-korean-hackers-exploit-microsoft-zero-day-apt37s-code-on-toast-attack-uncovered-c10af50cf040?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*nNAtVsygij_zD4WP75GYjA.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/north-korean-hackers-exploit-microsoft-zero-day-apt37s-code-on-toast-attack-uncovered-c10af50cf040?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/north-korean-hackers-exploit-microsoft-zero-day-apt37s-code-on-toast-attack-uncovered-c10af50cf040?source=rss------bug_bounty-5",
+        "published": "Mon, 21 Oct 2024 21:47:50 GMT"
+    },
+    {
+        "title": "How i found 22 LFI in the same program using automation tricks",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*EESSsnHseipA-roHytqUCg.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64a;&#x643;&#x645;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty-5",
+        "published": "Mon, 21 Oct 2024 18:49:15 GMT"
+    },
+    {
+        "title": "Forget password OTP flaw lead to Account Takeover.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*nQ_xFnu3k6itY3kWWjmJnw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hope you all are doing great!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b?source=rss------bug_bounty_writeup-5",
+        "published": "Tue, 22 Oct 2024 03:31:01 GMT"
+    },
+    {
+        "title": "Bug Bounty Methodology for SQL Injection with Waybash URLs",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*EWg6dUzasuW6V-MeeDnX5Q.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">This article discusses a methodological approach in a bug bounty program, focusing on SQL Injection exploitation by leveraging URL&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_writeup-5",
+        "published": "Tue, 22 Oct 2024 02:33:14 GMT"
+    },
+    {
+        "title": "How i found 22 LFI in the same program using automation tricks",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*EESSsnHseipA-roHytqUCg.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64a;&#x643;&#x645;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty_writeup-5",
+        "published": "Mon, 21 Oct 2024 18:49:15 GMT"
+    },
+    {
+        "title": "Understanding Server-Side Template Injection (SSTI) with Local File Inclusion (LFI)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ashfquejahan5/understanding-server-side-template-injection-ssti-with-local-file-inclusion-lfi-9f2e79d609c8?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*QEqiFVlBJ4SQKmfW\" width=\"4896\" /></a></p><p class=\"medium-feed-snippet\">In the world of web security, there are all kinds of vulnerabilities out there, and they can cause some serious problems if we don&#x2019;t catch&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ashfquejahan5/understanding-server-side-template-injection-ssti-with-local-file-inclusion-lfi-9f2e79d609c8?source=rss------bugbounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ashfquejahan5/understanding-server-side-template-injection-ssti-with-local-file-inclusion-lfi-9f2e79d609c8?source=rss------bugbounty_writeup-5",
+        "published": "Mon, 21 Oct 2024 12:18:34 GMT"
+    },
+    {
+        "title": "DC: 1 Vulnhub\u200a\u2014\u200aWalkthrough",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@galihabraa/dc-1-vulnhub-walkthrough-b458abca2947?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/912/1*ReLi-pvkfZ2H_Xvx5mDyTA.png\" width=\"912\" /></a></p><p class=\"medium-feed-snippet\">DC: 1 is the first virtual machine in the DC series available on Vulnhub. The goal: The primary goal is to gain root access and retrieve&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@galihabraa/dc-1-vulnhub-walkthrough-b458abca2947?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@galihabraa/dc-1-vulnhub-walkthrough-b458abca2947?source=rss------penetration_testing-5",
+        "published": "Tue, 22 Oct 2024 04:30:08 GMT"
+    },
+    {
+        "title": "Threat Model First for a More Efficient Pentest",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@tommyfields34/threat-model-first-for-a-more-efficient-pentest-e18a57adf12d?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*M-RM9HvIFezlMdPsgdakbg.jpeg\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">If your web application needs a pentest, I encourage you to threat model beforehand. By threat modeling first, you will enable pentesters&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@tommyfields34/threat-model-first-for-a-more-efficient-pentest-e18a57adf12d?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@tommyfields34/threat-model-first-for-a-more-efficient-pentest-e18a57adf12d?source=rss------penetration_testing-5",
+        "published": "Mon, 21 Oct 2024 20:41:47 GMT"
+    },
+    {
+        "title": "Hack The Box\u200a\u2014\u200aDevel Machine Walkthrough",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@jbtechmaven/hack-the-box-devel-machine-walkthrough-89a1241b96d7?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/706/1*Tre4geqedaQ0zNTwFbumnA.png\" width=\"706\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@jbtechmaven/hack-the-box-devel-machine-walkthrough-89a1241b96d7?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@jbtechmaven/hack-the-box-devel-machine-walkthrough-89a1241b96d7?source=rss------penetration_testing-5",
+        "published": "Mon, 21 Oct 2024 19:52:21 GMT"
+    },
+    {
+        "title": "My First $100 Bounty: Exploiting IDOR Vulnerability in Account Section",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">This bug has never been discovered by anyone before.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@tinu7494/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-fc81d28dbed9?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@tinu7494/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-fc81d28dbed9?source=rss------penetration_testing-5",
+        "published": "Mon, 21 Oct 2024 18:14:31 GMT"
+    },
+    {
+        "title": "Infrastructure Penetration Testing Services\u200a\u2014\u200aBlackLock",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Secure your network with our infrastructure penetration testing. Our expert team assesses your network, servers, and devices for&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@blacklocknewzealand/infrastructure-penetration-testing-services-blacklock-142dc2a25ff6?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@blacklocknewzealand/infrastructure-penetration-testing-services-blacklock-142dc2a25ff6?source=rss------penetration_testing-5",
+        "published": "Mon, 21 Oct 2024 17:43:25 GMT"
+    },
+    {
+        "title": "White Hat Hackers Get Legal Status in Russia: Is This a Good Thing?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@b0889320/white-hat-hackers-get-legal-status-in-russia-is-this-a-good-thing-2bbc2f241796?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/0*lXaN-1rk0DLeta_E.jpg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Russia Takes a New Approach to Cybersecurity: Legitimizing Ethical Hackers</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@b0889320/white-hat-hackers-get-legal-status-in-russia-is-this-a-good-thing-2bbc2f241796?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@b0889320/white-hat-hackers-get-legal-status-in-russia-is-this-a-good-thing-2bbc2f241796?source=rss------penetration_testing-5",
+        "published": "Mon, 21 Oct 2024 17:27:19 GMT"
+    },
+    {
+        "title": "Linux Privilege Escalation",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@NadirSensoy/linux-privilege-escalation-ea6f9b354cfd?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/768/1*vjRN7eF6ksxgHy6Lky8IYA.png\" width=\"768\" /></a></p><p class=\"medium-feed-snippet\">Privilege Escalation Nedir&#xa0;?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@NadirSensoy/linux-privilege-escalation-ea6f9b354cfd?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@NadirSensoy/linux-privilege-escalation-ea6f9b354cfd?source=rss------penetration_testing-5",
+        "published": "Mon, 21 Oct 2024 17:18:42 GMT"
+    },
+    {
+        "title": "\u201cLazyadmin\u201d penetration testing report by I.D",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Elchhapo23/lazyadmin-penetration-testing-report-by-i-d-648905c3ddbd?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*ItHjivs3HNJPIevScYR6Dw.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Penetration Test Report</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Elchhapo23/lazyadmin-penetration-testing-report-by-i-d-648905c3ddbd?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Elchhapo23/lazyadmin-penetration-testing-report-by-i-d-648905c3ddbd?source=rss------penetration_testing-5",
+        "published": "Mon, 21 Oct 2024 16:24:23 GMT"
+    },
+    {
+        "title": "Penetration Testing Methodologies.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Penetration Testing in other words is Ethical Hacking. It is the practical process of finding or exploring the vulnerabilities within a&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@pachhasak18/penetration-testing-methodologies-0be56a8b7a5d?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@pachhasak18/penetration-testing-methodologies-0be56a8b7a5d?source=rss------penetration_testing-5",
+        "published": "Mon, 21 Oct 2024 15:28:32 GMT"
+    },
+    {
+        "title": "How No rate limiting got me 150$ in 5 minutes.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@noureldin1042/how-no-rate-limiting-got-me-150-in-5-minutes-e0abbec48f35?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*fjIJVa6zr3f_t5jp_77nig.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hi There&#xa0;, thats my first write-up&#xa0;, So sorry for my bad English._.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@noureldin1042/how-no-rate-limiting-got-me-150-in-5-minutes-e0abbec48f35?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@noureldin1042/how-no-rate-limiting-got-me-150-in-5-minutes-e0abbec48f35?source=rss------penetration_testing-5",
+        "published": "Mon, 21 Oct 2024 15:17:58 GMT"
+    },
+    {
+        "title": "How I Hacked Over 150k PII on a Program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rootplinix/how-i-hacked-over-150k-pii-on-a-program-f58b8b141d4a?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/880/1*P6yC9b_qeKOAJqv4qnmO1g.png\" width=\"880\" /></a></p><p class=\"medium-feed-snippet\">So, well, well, well&#x2026; I&#x2019;m Abu Hurayra aka rootplinix maybe listened my name somewhere, I&#x2019;m proudly a day-time hacker who hunts bugs to&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rootplinix/how-i-hacked-over-150k-pii-on-a-program-f58b8b141d4a?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rootplinix/how-i-hacked-over-150k-pii-on-a-program-f58b8b141d4a?source=rss------hackerone-5",
+        "published": "Tue, 22 Oct 2024 03:18:59 GMT"
+    },
+    {
+        "title": "How to Start Cyber Security Zero to Hero Roadmap in 2024",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/were-writers/how-to-start-cyber-security-zero-to-hero-roadmap-in-2024-88f5affe5a02?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*XGnLBCPRMztf3Wjn\" width=\"5184\" /></a></p><p class=\"medium-feed-snippet\">Photo by HackerNoon on Unsplash</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/were-writers/how-to-start-cyber-security-zero-to-hero-roadmap-in-2024-88f5affe5a02?source=rss------hackerone-5\">Continue reading on We\u2019re Writers \u00bb</a></p></div>",
+        "link": "https://medium.com/were-writers/how-to-start-cyber-security-zero-to-hero-roadmap-in-2024-88f5affe5a02?source=rss------hackerone-5",
+        "published": "Mon, 21 Oct 2024 17:03:36 GMT"
+    },
+    {
+        "title": "Penetration Testing Methodologies.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Penetration Testing in other words is Ethical Hacking. It is the practical process of finding or exploring the vulnerabilities within a&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@pachhasak18/penetration-testing-methodologies-0be56a8b7a5d?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@pachhasak18/penetration-testing-methodologies-0be56a8b7a5d?source=rss------hackerone-5",
+        "published": "Mon, 21 Oct 2024 15:28:32 GMT"
+    },
+    {
+        "title": "A Guide to Directory Traversal Vulnerability in 2024",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@certcube1/a-guide-to-directory-traversal-vulnerability-in-2024-50c5fafd0796?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*GBEzN1E0TbR385pi.gif\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">A path traversal attack, also called directory traversal, is an attempt to access files and directories that are stored outside the&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@certcube1/a-guide-to-directory-traversal-vulnerability-in-2024-50c5fafd0796?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@certcube1/a-guide-to-directory-traversal-vulnerability-in-2024-50c5fafd0796?source=rss------vulnerability-5",
+        "published": "Tue, 22 Oct 2024 04:49:21 GMT"
+    },
+    {
+        "title": "Perfectionism",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@emely9671/perfectionism-67c7f6350a63?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*vczWEUa-9vg8vHnl2t1UQA.jpeg\" width=\"4896\" /></a></p><p class=\"medium-feed-snippet\">How it feels to finally let go</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@emely9671/perfectionism-67c7f6350a63?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@emely9671/perfectionism-67c7f6350a63?source=rss------vulnerability-5",
+        "published": "Tue, 22 Oct 2024 03:06:17 GMT"
+    },
+    {
+        "title": "Our vicarious lives.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-link\"><a href=\"https://medium.com/@noredlaclisa/our-vicarious-lives-c48f3f187699?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@noredlaclisa/our-vicarious-lives-c48f3f187699?source=rss------vulnerability-5",
+        "published": "Tue, 22 Oct 2024 02:09:20 GMT"
+    },
+    {
+        "title": "Authentic Vulnerability vs. Fake Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://regia-marinho.medium.com/authentic-vulnerability-vs-fake-vulnerability-2588f3f18529?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*bdKm_YeA-KgGGvfX\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">The consequences can come in many sizes</p><p class=\"medium-feed-link\"><a href=\"https://regia-marinho.medium.com/authentic-vulnerability-vs-fake-vulnerability-2588f3f18529?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://regia-marinho.medium.com/authentic-vulnerability-vs-fake-vulnerability-2588f3f18529?source=rss------vulnerability-5",
+        "published": "Mon, 21 Oct 2024 20:52:54 GMT"
+    },
+    {
+        "title": "Potholes",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Undilutedbitsofmyjournal/potholes-7414cd7775ee?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*x0hWOogeVq9FNFjps04ZXg.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">A Piece Of Me</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Undilutedbitsofmyjournal/potholes-7414cd7775ee?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Undilutedbitsofmyjournal/potholes-7414cd7775ee?source=rss------vulnerability-5",
+        "published": "Mon, 21 Oct 2024 20:46:58 GMT"
+    },
+    {
+        "title": "When Work Hurts",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@felippedepin/when-work-hurts-44ad7de6d78e?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*U_ynrvHHIAj0xlWA\" width=\"4288\" /></a></p><p class=\"medium-feed-snippet\">Today, I&#x2019;m sharing my vulnerabilities and experiences in the IT industry over the past few years.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@felippedepin/when-work-hurts-44ad7de6d78e?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@felippedepin/when-work-hurts-44ad7de6d78e?source=rss------vulnerability-5",
+        "published": "Mon, 21 Oct 2024 19:03:08 GMT"
+    },
+    {
+        "title": "How to Grow a Pair and Be Vulnerable",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/the-lunatic-the-lover-and-the-poet/how-to-grow-a-pair-and-be-vulnerable-b0d2a0953405?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*mXy3wNiJKNlgjV29\" width=\"4027\" /></a></p><p class=\"medium-feed-snippet\">How vulnerable should you be? Fully and Completely.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/the-lunatic-the-lover-and-the-poet/how-to-grow-a-pair-and-be-vulnerable-b0d2a0953405?source=rss------vulnerability-5\">Continue reading on The Lunatic, The Lover and The Poet \u00bb</a></p></div>",
+        "link": "https://medium.com/the-lunatic-the-lover-and-the-poet/how-to-grow-a-pair-and-be-vulnerable-b0d2a0953405?source=rss------vulnerability-5",
+        "published": "Mon, 21 Oct 2024 18:44:23 GMT"
+    },
+    {
+        "title": "Oh Dear I\u2019m a Rose",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/the-crooked-circle/oh-dear-im-a-rose-23ca408293c2?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*rQcMtMvSAfAfJ4vBZt5Cew.png\" width=\"3000\" /></a></p><p class=\"medium-feed-snippet\">A budding poem&#x200a;&#x2014;&#x200a;Buddy, wilt thou read it?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/the-crooked-circle/oh-dear-im-a-rose-23ca408293c2?source=rss------vulnerability-5\">Continue reading on The Crooked Circle \u00bb</a></p></div>",
+        "link": "https://medium.com/the-crooked-circle/oh-dear-im-a-rose-23ca408293c2?source=rss------vulnerability-5",
+        "published": "Mon, 21 Oct 2024 17:07:18 GMT"
+    },
+    {
+        "title": "Critical: CVE-2024\u201321216\u00a0:: CVSS 9.8 Update your Oracle WebLogic Server NOW!!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@patchnow/critical-cve-2024-21216-cvss-9-8-update-your-oracle-weblogic-server-now-f2320bf1cc0a?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/754/1*SkMnA6pMuz6VqALkb7y-hQ.png\" width=\"754\" /></a></p><p class=\"medium-feed-snippet\">Successful exploitation of this vulnerability can result in complete system takeover!!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@patchnow/critical-cve-2024-21216-cvss-9-8-update-your-oracle-weblogic-server-now-f2320bf1cc0a?source=rss------vulnerability-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@patchnow/critical-cve-2024-21216-cvss-9-8-update-your-oracle-weblogic-server-now-f2320bf1cc0a?source=rss------vulnerability-5",
+        "published": "Mon, 21 Oct 2024 14:01:40 GMT"
+    },
+    {
+        "title": "317 \u2014 How to Be Unconquerable: Stoic Principles for Living Your Best Life (Part 2)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/stoiccoffee/317-how-to-be-unconquerable-stoic-principles-for-living-your-best-life-part-2-160d8c2c3dcf?source=rss------vulnerability-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*XaeXcAgb58Ouli-U.jpg\" width=\"1200\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/stoiccoffee/317-how-to-be-unconquerable-stoic-principles-for-living-your-best-life-part-2-160d8c2c3dcf?source=rss------vulnerability-5\">Continue reading on Stoic Coffee \u00bb</a></p></div>",
+        "link": "https://medium.com/stoiccoffee/317-how-to-be-unconquerable-stoic-principles-for-living-your-best-life-part-2-160d8c2c3dcf?source=rss------vulnerability-5",
+        "published": "Mon, 21 Oct 2024 12:03:05 GMT"
+    },
+    {
+        "title": "Oracle SQL Injection | Database Recon",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/oracle-sql-injection-database-recon-0c384d4a085a?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/625/1*_EjheXn2A0Ou6W3ExOWzfg.png\" width=\"625\" /></a></p><p class=\"medium-feed-snippet\">This article will elaborate how I observe specific keywords and endpoints that helps in guessing the database type without any automated&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/oracle-sql-injection-database-recon-0c384d4a085a?source=rss------bug_bounty_tips-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/oracle-sql-injection-database-recon-0c384d4a085a?source=rss------bug_bounty_tips-5",
+        "published": "Tue, 22 Oct 2024 04:57:30 GMT"
+    },
+    {
+        "title": "How I Hacked Over 150k PII on a Program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@rootplinix/how-i-hacked-over-150k-pii-on-a-program-f58b8b141d4a?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/880/1*P6yC9b_qeKOAJqv4qnmO1g.png\" width=\"880\" /></a></p><p class=\"medium-feed-snippet\">So, well, well, well&#x2026; I&#x2019;m Abu Hurayra aka rootplinix maybe listened my name somewhere, I&#x2019;m proudly a day-time hacker who hunts bugs to&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rootplinix/how-i-hacked-over-150k-pii-on-a-program-f58b8b141d4a?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rootplinix/how-i-hacked-over-150k-pii-on-a-program-f58b8b141d4a?source=rss------bug_bounty_tips-5",
+        "published": "Tue, 22 Oct 2024 03:18:59 GMT"
+    },
+    {
+        "title": "Requisi\u00e7\u00f5es Web \u200a\u2014\u200a Tudo que voc\u00ea deve saber para come\u00e7ar em cyberseguran\u00e7a",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@malwarilia/requisi%C3%A7%C3%B5es-web-tudo-que-voc%C3%AA-deve-saber-para-come%C3%A7ar-em-cyberseguran%C3%A7a-ef01a89b250c?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*md6Ze_VssnyNVVNu.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">Atualmente, a maioria das aplica&#xe7;&#xf5;es que utilizamos, seja em dispositivos m&#xf3;veis ou na web, se conecta continuamente &#xe0; internet para&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@malwarilia/requisi%C3%A7%C3%B5es-web-tudo-que-voc%C3%AA-deve-saber-para-come%C3%A7ar-em-cyberseguran%C3%A7a-ef01a89b250c?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@malwarilia/requisi%C3%A7%C3%B5es-web-tudo-que-voc%C3%AA-deve-saber-para-come%C3%A7ar-em-cyberseguran%C3%A7a-ef01a89b250c?source=rss------bug_bounty_tips-5",
+        "published": "Tue, 22 Oct 2024 02:48:36 GMT"
+    },
+    {
+        "title": "Bug Bounty Methodology for SQL Injection with Waybash URLs",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*EWg6dUzasuW6V-MeeDnX5Q.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">This article discusses a methodological approach in a bug bounty program, focusing on SQL Injection exploitation by leveraging URL&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_tips-5",
+        "published": "Tue, 22 Oct 2024 02:33:14 GMT"
+    },
+    {
+        "title": "How i found 22 LFI in the same program using automation tricks",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*EESSsnHseipA-roHytqUCg.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64a;&#x643;&#x645;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty_tips-5",
+        "published": "Mon, 21 Oct 2024 18:49:15 GMT"
+    },
+    {
+        "title": "My First $100 Bounty: Exploiting IDOR Vulnerability in Account Section",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">This bug has never been discovered by anyone before.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@tinu7494/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-fc81d28dbed9?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@tinu7494/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-fc81d28dbed9?source=rss------bug_bounty_tips-5",
+        "published": "Mon, 21 Oct 2024 18:14:31 GMT"
+    },
+    {
+        "title": "Another Dark Reality of Bug Hunting",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://bevijaygupta.medium.com/another-dark-reality-of-bug-hunting-0c8fa62e9867?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/1000/0*be1sC77LOQkkNNv5.jpg\" width=\"1000\" /></a></p><p class=\"medium-feed-snippet\">Bug hunting is one of the most rewarding careers in cybersecurity.</p><p class=\"medium-feed-link\"><a href=\"https://bevijaygupta.medium.com/another-dark-reality-of-bug-hunting-0c8fa62e9867?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://bevijaygupta.medium.com/another-dark-reality-of-bug-hunting-0c8fa62e9867?source=rss------bug_bounty_tips-5",
+        "published": "Mon, 21 Oct 2024 07:13:37 GMT"
+    },
+    {
+        "title": "How No rate limiting got me 150$ in 5 minutes.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@noureldin1042/how-no-rate-limiting-got-me-150-in-5-minutes-e0abbec48f35?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*fjIJVa6zr3f_t5jp_77nig.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hi There&#xa0;, thats my first write-up&#xa0;, So sorry for my bad English._.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@noureldin1042/how-no-rate-limiting-got-me-150-in-5-minutes-e0abbec48f35?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@noureldin1042/how-no-rate-limiting-got-me-150-in-5-minutes-e0abbec48f35?source=rss------bug_hunting-5",
+        "published": "Mon, 21 Oct 2024 15:17:58 GMT"
     }
 ]
