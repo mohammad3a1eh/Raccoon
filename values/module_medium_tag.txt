@@ -1,8 +1,2 @@
 bug-bounty
 bug-bounty-writeup
-bugbounty-writeup
-penetration-testing
-hackerone
-bugcrowd
-bug-bounty-tips
-bug-hunting
