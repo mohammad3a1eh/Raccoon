@@ -9160,5 +9160,191 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Sorry for killing your time! You are not gonna getting any valuable insights here!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mrro0o0tt/stored-xss-critical-or-not-da9eb9b19029?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@mrro0o0tt/stored-xss-critical-or-not-da9eb9b19029?source=rss------bug_bounty_tips-5",
         "published": "Wed, 23 Oct 2024 17:59:00 GMT"
+    },
+    {
+        "title": "Red Hat SSO 7.6 Host Header Injection Vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mark.roy.1337/exploiting-and-securing-red-hat-sso-7-6-host-header-injection-vulnerability-654424f6889a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1267/1*uxSH1DrnCHQvAT9mRtWkDw.png\" width=\"1267\" /></a></p><p class=\"medium-feed-snippet\">Disclaimer</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mark.roy.1337/exploiting-and-securing-red-hat-sso-7-6-host-header-injection-vulnerability-654424f6889a?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mark.roy.1337/exploiting-and-securing-red-hat-sso-7-6-host-header-injection-vulnerability-654424f6889a?source=rss------bug_bounty-5",
+        "published": "Fri, 25 Oct 2024 02:16:04 GMT"
+    },
+    {
+        "title": "Das CRUD-Prinzip",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">## Einleitung</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@rainer_zufall111/das-crud-prinzip-786530d1a302?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@rainer_zufall111/das-crud-prinzip-786530d1a302?source=rss------bug_bounty-5",
+        "published": "Thu, 24 Oct 2024 23:35:27 GMT"
+    },
+    {
+        "title": "How i found exposed db creds on\u00a0.gov site",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@jenroots/how-i-found-exposed-db-creds-on-gov-site-24588d9eb9c8?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/800/1*5IeGkGst8w7XSPKbXb-VOw.jpeg\" width=\"800\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@jenroots/how-i-found-exposed-db-creds-on-gov-site-24588d9eb9c8?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@jenroots/how-i-found-exposed-db-creds-on-gov-site-24588d9eb9c8?source=rss------bug_bounty-5",
+        "published": "Thu, 24 Oct 2024 23:27:17 GMT"
+    },
+    {
+        "title": "Cheat Sheet\u00a0: Utilisation de Nuclei pour les Tests de S\u00e9curit\u00e9 et b",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Itachi0xf/cheat-sheet-utilisation-de-nuclei-pour-les-tests-de-s%C3%A9curit%C3%A9-et-b-e4d9d57aff32?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*3RQszVVHLahT73TkCOVeUA.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Nuclei est un outil puissant con&#xe7;u pour l&#x2019;automatisation des tests de s&#xe9;curit&#xe9;. Il s&#x2019;appuie sur des templates personnalisables pour&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Itachi0xf/cheat-sheet-utilisation-de-nuclei-pour-les-tests-de-s%C3%A9curit%C3%A9-et-b-e4d9d57aff32?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Itachi0xf/cheat-sheet-utilisation-de-nuclei-pour-les-tests-de-s%C3%A9curit%C3%A9-et-b-e4d9d57aff32?source=rss------bug_bounty-5",
+        "published": "Thu, 24 Oct 2024 20:32:41 GMT"
+    },
+    {
+        "title": "Second Strike: Uncovering a GraphQL IDOR That Let Me Delete Anyones Post",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://dukrov.medium.com/second-strike-uncovering-a-graphql-idor-that-let-me-delete-anyones-post-7c6fefd71db7?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1585/1*F86aLqZiquPYQt_OLR5IiA.png\" width=\"1585\" /></a></p><p class=\"medium-feed-snippet\">T2 Again?</p><p class=\"medium-feed-link\"><a href=\"https://dukrov.medium.com/second-strike-uncovering-a-graphql-idor-that-let-me-delete-anyones-post-7c6fefd71db7?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://dukrov.medium.com/second-strike-uncovering-a-graphql-idor-that-let-me-delete-anyones-post-7c6fefd71db7?source=rss------bug_bounty-5",
+        "published": "Thu, 24 Oct 2024 18:37:19 GMT"
+    },
+    {
+        "title": "Penalized for Responsible Disclosure",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://geochen.medium.com/penalized-for-responsible-disclosure-e36b3f57dc8a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1105/1*2NuZhPgnOHjPrPpyvN-jqQ.jpeg\" width=\"1105\" /></a></p><p class=\"medium-feed-snippet\">While researching a new attack vector (presented in BSides SG 2022), my associate and I discovered a misconfiguration in one of the Big&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://geochen.medium.com/penalized-for-responsible-disclosure-e36b3f57dc8a?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://geochen.medium.com/penalized-for-responsible-disclosure-e36b3f57dc8a?source=rss------bug_bounty-5",
+        "published": "Thu, 24 Oct 2024 16:01:31 GMT"
+    },
+    {
+        "title": "Bug Bounty with AI: Enhancing Cybersecurity Through Artificial Intelligence",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://prakash888kpk.medium.com/bug-bounty-with-ai-enhancing-cybersecurity-through-artificial-intelligence-fc679204b800?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*uVNetoh6mDIzpZH3\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">In the world of cybersecurity, staying ahead of threats is a constant battle.</p><p class=\"medium-feed-link\"><a href=\"https://prakash888kpk.medium.com/bug-bounty-with-ai-enhancing-cybersecurity-through-artificial-intelligence-fc679204b800?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://prakash888kpk.medium.com/bug-bounty-with-ai-enhancing-cybersecurity-through-artificial-intelligence-fc679204b800?source=rss------bug_bounty-5",
+        "published": "Thu, 24 Oct 2024 15:23:31 GMT"
+    },
+    {
+        "title": "Unreleased function leads to 150$ bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*kxSw2O591Ue54j62BZ6p0A.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Story:</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty-5",
+        "published": "Thu, 24 Oct 2024 15:02:40 GMT"
+    },
+    {
+        "title": "How I Accessed Microsoft\u2019s ServiceNow\u200a\u2014\u200aExposing ALL Microsoft Employee emails, Chat Support\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@moblig/how-i-accessed-microsofts-servicenow-exposing-all-microsoft-employee-emails-chat-support-5f8d535eb63b?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1766/1*BfnvJPY-PyTwsdZa7rDqGw.png\" width=\"1766\" /></a></p><p class=\"medium-feed-snippet\">Attackers don&#x2019;t hack in: They log in with your credentials</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@moblig/how-i-accessed-microsofts-servicenow-exposing-all-microsoft-employee-emails-chat-support-5f8d535eb63b?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@moblig/how-i-accessed-microsofts-servicenow-exposing-all-microsoft-employee-emails-chat-support-5f8d535eb63b?source=rss------bug_bounty-5",
+        "published": "Thu, 24 Oct 2024 15:02:07 GMT"
+    },
+    {
+        "title": "Unreleased function leads to 150$ bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*kxSw2O591Ue54j62BZ6p0A.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Story:</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 24 Oct 2024 15:02:40 GMT"
+    },
+    {
+        "title": "Bugcrowd Triage is Terrible",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">I had heard many horror stories about Bugcrowd triage but didn&#x2019;t really believe it.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@cybersecnoneed/bugcrowd-triage-is-terrible-97065059aaff?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@cybersecnoneed/bugcrowd-triage-is-terrible-97065059aaff?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 24 Oct 2024 07:36:40 GMT"
+    },
+    {
+        "title": "Seprate Active and Dead Subdomains part 4",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/seprate-active-and-dead-subdomains-part-4-18f092dc8423?source=rss------bugbounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*KtfgXxaLPcGdYY8AZhGEXw.png\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Read, practice, and apply in your Bug Hunting.</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/seprate-active-and-dead-subdomains-part-4-18f092dc8423?source=rss------bugbounty_writeup-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/seprate-active-and-dead-subdomains-part-4-18f092dc8423?source=rss------bugbounty_writeup-5",
+        "published": "Thu, 24 Oct 2024 13:38:17 GMT"
+    },
+    {
+        "title": "Learn Cloud Pentesting (Roadmap) and earn in $100,000\u2014$150,000",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anandrishav2228/learn-cloud-pentesting-roadmap-and-earn-in-100-000-150-000-bf76340ccb68?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*wWyStRvPb-o6Sjt-7mVw-g.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Cloud Penetration Testing (or Cloud Pentesting) involves testing the security of cloud environments, infrastructure, applications, and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anandrishav2228/learn-cloud-pentesting-roadmap-and-earn-in-100-000-150-000-bf76340ccb68?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anandrishav2228/learn-cloud-pentesting-roadmap-and-earn-in-100-000-150-000-bf76340ccb68?source=rss------penetration_testing-5",
+        "published": "Fri, 25 Oct 2024 03:23:20 GMT"
+    },
+    {
+        "title": "How i found exposed db creds on\u00a0.gov site",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@jenroots/how-i-found-exposed-db-creds-on-gov-site-24588d9eb9c8?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/800/1*5IeGkGst8w7XSPKbXb-VOw.jpeg\" width=\"800\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@jenroots/how-i-found-exposed-db-creds-on-gov-site-24588d9eb9c8?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@jenroots/how-i-found-exposed-db-creds-on-gov-site-24588d9eb9c8?source=rss------penetration_testing-5",
+        "published": "Thu, 24 Oct 2024 23:27:17 GMT"
+    },
+    {
+        "title": "Tunneling using SSH and PowerShell",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@7c_hydra/tunneling-using-ssh-and-powershell-e23a8dee7be3?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/903/1*OTqOv1ftAgRW1SRFbTayNw.jpeg\" width=\"903\" /></a></p><p class=\"medium-feed-snippet\">This is how you can tunnel using PowerShell through a box to a particular target server&#x2019;s service (port).</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@7c_hydra/tunneling-using-ssh-and-powershell-e23a8dee7be3?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@7c_hydra/tunneling-using-ssh-and-powershell-e23a8dee7be3?source=rss------penetration_testing-5",
+        "published": "Thu, 24 Oct 2024 15:33:25 GMT"
+    },
+    {
+        "title": "Footprinting (FTP) |Walkthrough Hack The Box(HTB)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://babatundeojo.medium.com/footprinting-ftp-walkthrough-hack-the-box-htb-20a7a1d11543?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/975/1*vy0IAvtEHWkMLTqDq26aXA.png\" width=\"975\" /></a></p><p class=\"medium-feed-snippet\">DISCLAIMER!!!\nThis write-up is intended purely for educational purposes and to share the methodologies and techniques I&#x2019;ve learned while&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://babatundeojo.medium.com/footprinting-ftp-walkthrough-hack-the-box-htb-20a7a1d11543?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://babatundeojo.medium.com/footprinting-ftp-walkthrough-hack-the-box-htb-20a7a1d11543?source=rss------penetration_testing-5",
+        "published": "Thu, 24 Oct 2024 15:20:49 GMT"
+    },
+    {
+        "title": "Enterprise Walkthrough\u200a\u2014\u200aTryHackMe Room",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/enterprise-walkthrough-tryhackme-room-dbee75f23da2?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*0foEOEvs80U2RXIO\" width=\"6720\" /></a></p><p class=\"medium-feed-snippet\">Enterprise is an internal network which simulates an AD environment which contains a bit of everything&#x200a;&#x2014;&#x200a;from OSINT to privilege&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/enterprise-walkthrough-tryhackme-room-dbee75f23da2?source=rss------penetration_testing-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/enterprise-walkthrough-tryhackme-room-dbee75f23da2?source=rss------penetration_testing-5",
+        "published": "Thu, 24 Oct 2024 14:30:23 GMT"
+    },
+    {
+        "title": "My OSCP Journey: Failing the First Attempt, Passing the Second",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@amroesseroukh012/my-oscp-journey-failing-the-first-attempt-passing-the-second-f878aa82b7c1?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*GvVhaxsi5bbkHFkpV1lXSg.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hello, folks!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@amroesseroukh012/my-oscp-journey-failing-the-first-attempt-passing-the-second-f878aa82b7c1?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@amroesseroukh012/my-oscp-journey-failing-the-first-attempt-passing-the-second-f878aa82b7c1?source=rss------penetration_testing-5",
+        "published": "Thu, 24 Oct 2024 12:23:02 GMT"
+    },
+    {
+        "title": "Cracking Web Interfaces with Burp Suite: A Comprehensive Tutorial",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@1200km/cracking-web-interfaces-with-burp-suite-a-comprehensive-tutorial-33087bb286b0?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1201/0*bA9-nZNsHxH1RJI1\" width=\"1201\" /></a></p><p class=\"medium-feed-snippet\">About Me</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@1200km/cracking-web-interfaces-with-burp-suite-a-comprehensive-tutorial-33087bb286b0?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@1200km/cracking-web-interfaces-with-burp-suite-a-comprehensive-tutorial-33087bb286b0?source=rss------penetration_testing-5",
+        "published": "Thu, 24 Oct 2024 07:30:28 GMT"
+    },
+    {
+        "title": "How to Build Your Private Hacking Lab with VirtualBox",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@stealthsecurity/how-to-build-your-private-hacking-lab-with-virtualbox-6eb56e6a6a01?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1140/1*FFGFrzBxX6HrLhZsAGBpgA.jpeg\" width=\"1140\" /></a></p><p class=\"medium-feed-snippet\">Setting up a virtual lab for hacking is a great way to sharpen your skills in a safe environment. This guide will tell you how.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@stealthsecurity/how-to-build-your-private-hacking-lab-with-virtualbox-6eb56e6a6a01?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@stealthsecurity/how-to-build-your-private-hacking-lab-with-virtualbox-6eb56e6a6a01?source=rss------penetration_testing-5",
+        "published": "Thu, 24 Oct 2024 06:37:24 GMT"
+    },
+    {
+        "title": "AutoCrypt My First BurpSuite Extension",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@vaishalinagori112/autocrypt-my-first-burpsuite-extension-6cd97a70f419?source=rss------penetration_testing-5\"><img src=\"https://cdn-images-1.medium.com/max/1152/1*VwNB0YZx0oQ6Nk1jx2norg.gif\" width=\"1152\" /></a></p><p class=\"medium-feed-snippet\">AutoCryptExtension</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@vaishalinagori112/autocrypt-my-first-burpsuite-extension-6cd97a70f419?source=rss------penetration_testing-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@vaishalinagori112/autocrypt-my-first-burpsuite-extension-6cd97a70f419?source=rss------penetration_testing-5",
+        "published": "Thu, 24 Oct 2024 05:04:59 GMT"
+    },
+    {
+        "title": "Second Strike: Uncovering a GraphQL IDOR That Let Me Delete Anyones Post",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://dukrov.medium.com/second-strike-uncovering-a-graphql-idor-that-let-me-delete-anyones-post-7c6fefd71db7?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/1585/1*F86aLqZiquPYQt_OLR5IiA.png\" width=\"1585\" /></a></p><p class=\"medium-feed-snippet\">T2 Again?</p><p class=\"medium-feed-link\"><a href=\"https://dukrov.medium.com/second-strike-uncovering-a-graphql-idor-that-let-me-delete-anyones-post-7c6fefd71db7?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://dukrov.medium.com/second-strike-uncovering-a-graphql-idor-that-let-me-delete-anyones-post-7c6fefd71db7?source=rss------hackerone-5",
+        "published": "Thu, 24 Oct 2024 18:37:19 GMT"
+    },
+    {
+        "title": "Smart recon to PWN the panel",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://ro0od.medium.com/smart-recon-to-pwn-the-panel-a23b0b9466bb?source=rss------hackerone-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*n2VFktKgRGjJ6kPM1KZG0g.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62d;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62d;&#x64a;&#x645;</p><p class=\"medium-feed-link\"><a href=\"https://ro0od.medium.com/smart-recon-to-pwn-the-panel-a23b0b9466bb?source=rss------hackerone-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://ro0od.medium.com/smart-recon-to-pwn-the-panel-a23b0b9466bb?source=rss------hackerone-5",
+        "published": "Thu, 24 Oct 2024 13:02:29 GMT"
+    },
+    {
+        "title": "How i found exposed db creds on\u00a0.gov site",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@jenroots/how-i-found-exposed-db-creds-on-gov-site-24588d9eb9c8?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/800/1*5IeGkGst8w7XSPKbXb-VOw.jpeg\" width=\"800\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@jenroots/how-i-found-exposed-db-creds-on-gov-site-24588d9eb9c8?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@jenroots/how-i-found-exposed-db-creds-on-gov-site-24588d9eb9c8?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 24 Oct 2024 23:27:17 GMT"
+    },
+    {
+        "title": "Unreleased function leads to 150$ bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*kxSw2O591Ue54j62BZ6p0A.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Story:</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 24 Oct 2024 15:02:40 GMT"
+    },
+    {
+        "title": "Smart recon to PWN the panel",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://ro0od.medium.com/smart-recon-to-pwn-the-panel-a23b0b9466bb?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*n2VFktKgRGjJ6kPM1KZG0g.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62d;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62d;&#x64a;&#x645;</p><p class=\"medium-feed-link\"><a href=\"https://ro0od.medium.com/smart-recon-to-pwn-the-panel-a23b0b9466bb?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://ro0od.medium.com/smart-recon-to-pwn-the-panel-a23b0b9466bb?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 24 Oct 2024 13:02:29 GMT"
+    },
+    {
+        "title": "Bugcrowd Triage is Terrible",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">I had heard many horror stories about Bugcrowd triage but didn&#x2019;t really believe it.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@cybersecnoneed/bugcrowd-triage-is-terrible-97065059aaff?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@cybersecnoneed/bugcrowd-triage-is-terrible-97065059aaff?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 24 Oct 2024 07:36:40 GMT"
+    },
+    {
+        "title": "PII Data Breach | Lazy Threat Actor Methodology",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/pii-data-breach-lazy-threat-actor-methodology-03f52f197606?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*FiFCHIzMmBF3VTVYbLAMcg.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Welcome hackers, I am Abhirup Konwar (aka LegionHunter)&#xa0;. In this article I will elaborate easy ways to find instant PII.</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/pii-data-breach-lazy-threat-actor-methodology-03f52f197606?source=rss------bug_bounty_tips-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/pii-data-breach-lazy-threat-actor-methodology-03f52f197606?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 24 Oct 2024 07:03:47 GMT"
+    },
+    {
+        "title": "Bug Bounty Burnout: Stay Motivated and Mentally Strong",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://bevijaygupta.medium.com/bug-bounty-burnout-stay-motivated-and-mentally-strong-9408b92fa6c8?source=rss------bug_bounty_tips-5\"><img src=\"https://cdn-images-1.medium.com/max/800/0*dWgXwuj5osetcxlV.jpeg\" width=\"800\" /></a></p><p class=\"medium-feed-snippet\">Bug bounties have become an exciting frontier in cybersecurity. The idea of turning digital detective and finding vulnerabilities for&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://bevijaygupta.medium.com/bug-bounty-burnout-stay-motivated-and-mentally-strong-9408b92fa6c8?source=rss------bug_bounty_tips-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://bevijaygupta.medium.com/bug-bounty-burnout-stay-motivated-and-mentally-strong-9408b92fa6c8?source=rss------bug_bounty_tips-5",
+        "published": "Thu, 24 Oct 2024 06:53:27 GMT"
+    },
+    {
+        "title": "Unreleased function leads to 150$ bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*kxSw2O591Ue54j62BZ6p0A.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Story:</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_hunting-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_hunting-5",
+        "published": "Thu, 24 Oct 2024 15:02:40 GMT"
+    },
+    {
+        "title": "PII Data Breach | Lazy Threat Actor Methodology",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/pii-data-breach-lazy-threat-actor-methodology-03f52f197606?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*FiFCHIzMmBF3VTVYbLAMcg.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Welcome hackers, I am Abhirup Konwar (aka LegionHunter)&#xa0;. In this article I will elaborate easy ways to find instant PII.</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/pii-data-breach-lazy-threat-actor-methodology-03f52f197606?source=rss------bug_hunting-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/pii-data-breach-lazy-threat-actor-methodology-03f52f197606?source=rss------bug_hunting-5",
+        "published": "Thu, 24 Oct 2024 07:03:47 GMT"
     }
 ]
