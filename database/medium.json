@@ -9346,5 +9346,71 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/pii-data-breach-lazy-threat-actor-methodology-03f52f197606?source=rss------bug_hunting-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*FiFCHIzMmBF3VTVYbLAMcg.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Welcome hackers, I am Abhirup Konwar (aka LegionHunter)&#xa0;. In this article I will elaborate easy ways to find instant PII.</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/pii-data-breach-lazy-threat-actor-methodology-03f52f197606?source=rss------bug_hunting-5\">Continue reading on System Weakness \u00bb</a></p></div>",
         "link": "https://systemweakness.com/pii-data-breach-lazy-threat-actor-methodology-03f52f197606?source=rss------bug_hunting-5",
         "published": "Thu, 24 Oct 2024 07:03:47 GMT"
+    },
+    {
+        "title": "Bug Bounty with AI in Real-Time: The Future of Cybersecurity",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://prakash888kpk.medium.com/bug-bounty-with-ai-in-real-time-the-future-of-cybersecurity-b3f783c7f0de?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*ZodYh6rBMcq9-5F4\" width=\"3882\" /></a></p><p class=\"medium-feed-snippet\">In the fast-evolving world of cybersecurity, threats are constantly emerging. Traditional methods of finding vulnerabilities, while still&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://prakash888kpk.medium.com/bug-bounty-with-ai-in-real-time-the-future-of-cybersecurity-b3f783c7f0de?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://prakash888kpk.medium.com/bug-bounty-with-ai-in-real-time-the-future-of-cybersecurity-b3f783c7f0de?source=rss------bug_bounty-5",
+        "published": "Sat, 26 Oct 2024 04:32:14 GMT"
+    },
+    {
+        "title": "Find CSRF and get a bounty of $900 Quickly",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anandrishav2228/find-csrf-and-get-a-bounty-of-900-quickly-a9c3bf311dfb?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*jV_XKG250EfYHqjOi6J-8A.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Understanding CSRF in Simple Terms</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anandrishav2228/find-csrf-and-get-a-bounty-of-900-quickly-a9c3bf311dfb?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anandrishav2228/find-csrf-and-get-a-bounty-of-900-quickly-a9c3bf311dfb?source=rss------bug_bounty-5",
+        "published": "Sat, 26 Oct 2024 03:11:43 GMT"
+    },
+    {
+        "title": "One idea Uncovers Authentication Bypass & Session management flaw",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@CipherHawk/one-idea-uncovers-authentication-bypass-session-management-flaw-2e1536f5c52d?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2362/1*n08Itr_pPPGn_VU6T2MHQw.jpeg\" width=\"2362\" /></a></p><p class=\"medium-feed-snippet\">Little did I know that a simple mix-up would lead me to uncover a critical flaw in the platform&#x2019;s session management.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@CipherHawk/one-idea-uncovers-authentication-bypass-session-management-flaw-2e1536f5c52d?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@CipherHawk/one-idea-uncovers-authentication-bypass-session-management-flaw-2e1536f5c52d?source=rss------bug_bounty-5",
+        "published": "Sat, 26 Oct 2024 02:07:06 GMT"
+    },
+    {
+        "title": "Firefox&Chrome extensions for bugbounty hunters.(PART 2)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/firefox-chrome-extensions-for-bugbounty-hunters-part-2-c3febcb6e64b?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*Z88-3EKTDe-4M7BHIIHAQg.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">HELLO ALL.</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/firefox-chrome-extensions-for-bugbounty-hunters-part-2-c3febcb6e64b?source=rss------bug_bounty-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/firefox-chrome-extensions-for-bugbounty-hunters-part-2-c3febcb6e64b?source=rss------bug_bounty-5",
+        "published": "Sat, 26 Oct 2024 00:50:58 GMT"
+    },
+    {
+        "title": "Free vps for hacking and bug bounty hunting.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/free-vps-for-hacking-and-bug-bounty-hunting-921d1dda71ce?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*x-aciJPvNPFYNmOzrf73aw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hello all.</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/free-vps-for-hacking-and-bug-bounty-hunting-921d1dda71ce?source=rss------bug_bounty-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/free-vps-for-hacking-and-bug-bounty-hunting-921d1dda71ce?source=rss------bug_bounty-5",
+        "published": "Sat, 26 Oct 2024 00:50:17 GMT"
+    },
+    {
+        "title": "Finding Cross-Site Scripting (XSS) vulnerabilities in Bug bounty program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Finding XSS in Bug bounty program can be hard at first, so I have wrote some things together to do have a roadmap whenever doing bug&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@curiouskhanna/finding-cross-site-scripting-xss-vulnerabilities-in-bug-bounty-program-2a40bef4c8d7?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@curiouskhanna/finding-cross-site-scripting-xss-vulnerabilities-in-bug-bounty-program-2a40bef4c8d7?source=rss------bug_bounty-5",
+        "published": "Fri, 25 Oct 2024 20:00:57 GMT"
+    },
+    {
+        "title": "My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1220/1*BQusECWt7nhqpyh9RyNJKQ.png\" width=\"1220\" /></a></p><p class=\"medium-feed-snippet\">Firstly here&#x2019;s a brief intro about me I&#x2019;m an Application Security Engineer at Day &amp; Penetration Tester at Night, Funny right!? I help&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty-5",
+        "published": "Fri, 25 Oct 2024 18:12:26 GMT"
+    },
+    {
+        "title": "Uncovering Vulnerabilities: My Discovery of Hashed Passwords on a Dutch Government Website",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anonymousshetty2003/uncovering-vulnerabilities-my-discovery-of-hashed-passwords-on-a-dutch-government-website-f30969e6ebbc?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1290/0*2sYKILUNX0HbYCsZ.jpg\" width=\"1290\" /></a></p><p class=\"medium-feed-snippet\">I often explore various websites to understand their security posture.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anonymousshetty2003/uncovering-vulnerabilities-my-discovery-of-hashed-passwords-on-a-dutch-government-website-f30969e6ebbc?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anonymousshetty2003/uncovering-vulnerabilities-my-discovery-of-hashed-passwords-on-a-dutch-government-website-f30969e6ebbc?source=rss------bug_bounty-5",
+        "published": "Fri, 25 Oct 2024 17:23:27 GMT"
+    },
+    {
+        "title": "Information Disclosure in Top 500 Company through Source Code",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anonymousshetty2003/information-disclosure-in-top-500-company-through-source-code-fe91a7806acc?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/860/0*PxjBGzw-jvIWq970.jpg\" width=\"860\" /></a></p><p class=\"medium-feed-snippet\">In today&#x2019;s digital landscape, information disclosure is a critical concern for organizations, particularly for those in the top 500&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anonymousshetty2003/information-disclosure-in-top-500-company-through-source-code-fe91a7806acc?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anonymousshetty2003/information-disclosure-in-top-500-company-through-source-code-fe91a7806acc?source=rss------bug_bounty-5",
+        "published": "Fri, 25 Oct 2024 17:04:16 GMT"
+    },
+    {
+        "title": "WordPress Penetration Testing: A Hacker\u2019s Playbook",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://systemweakness.com/wordpress-penetration-testing-a-hackers-playbook-bb97b8a009b1?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*QcBO8GDcxrTD-4Q5\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Know what you hack</p><p class=\"medium-feed-link\"><a href=\"https://systemweakness.com/wordpress-penetration-testing-a-hackers-playbook-bb97b8a009b1?source=rss------bug_bounty-5\">Continue reading on System Weakness \u00bb</a></p></div>",
+        "link": "https://systemweakness.com/wordpress-penetration-testing-a-hackers-playbook-bb97b8a009b1?source=rss------bug_bounty-5",
+        "published": "Fri, 25 Oct 2024 16:44:44 GMT"
+    },
+    {
+        "title": "My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1220/1*BQusECWt7nhqpyh9RyNJKQ.png\" width=\"1220\" /></a></p><p class=\"medium-feed-snippet\">Firstly here&#x2019;s a brief intro about me I&#x2019;m an Application Security Engineer at Day &amp; Penetration Tester at Night, Funny right!? I help&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty_writeup-5",
+        "published": "Fri, 25 Oct 2024 18:12:26 GMT"
     }
 ]
