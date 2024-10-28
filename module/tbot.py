@@ -1,6 +1,5 @@
 import telegram
 import os
-import telebot
 from yt_dlp import YoutubeDL
 from moviepy.editor import VideoFileClip
 import requests
