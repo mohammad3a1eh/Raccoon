@@ -23,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install feedparser python-telegram-bot pytube pydub pyTelegramBotAPI yt-dlp moviepy
+        pip install feedparser python-telegram-bot pytube pydub pyTelegramBotAPI yt-dlp moviepy telebot
 
     - name: Run RSS to Telegram script
       env:
