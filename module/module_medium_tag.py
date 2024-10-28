@@ -45,6 +45,7 @@ def get_categories(entry):
         return categories
     return ""
 
+
 async def run(token, chat_id):
     db, tags = load_(data="medium", key=FILENAME)
     
@@ -62,8 +63,7 @@ async def run(token, chat_id):
                 await asyncio.sleep(15)
             else:
                 await asyncio.sleep(10)
-            
-            
+
             post = {
                 "title" : f"{entry.title}",
                 "summary" : f"{entry.summary}",
@@ -78,6 +78,10 @@ async def run(token, chat_id):
             
             author = entry.author if hasattr(entry, 'author') else "Unknown"
             categories = get_categories(entry)
+
+
+
+
             
             text = f"""
 **{post['title']}**
@@ -92,16 +96,17 @@ async def run(token, chat_id):
             
             img_src = re.search(r'<img src="([^"]+)"', post["summary"])
             
-            if img_src:
-                image_url = img_src.group(1)
-                await module.tbot.Telegram.send_image_to_tel(text, chat_id, image_url)
-            else:
-                await module.tbot.Telegram.send_text_to_tel(text, chat_id)
+            # if img_src:
+            #     image_url = img_src.group(1)
+            #     await module.tbot.Telegram.send_image_to_tel(text, chat_id, image_url)
+            # else:
+            #     await module.tbot.Telegram.send_text_to_tel(text, chat_id)
+
+            module.tbot.Telegram.send_text_with_btn(text, post['link'], chat_id, token)
             
             db.append(post)
 
             with open(f"database/medium.json", "w") as file:
                 json.dump(db, file, indent=4)
-                
-                
+
     await module.tbot.send_text_to_tel(f"Find {post_} post", chat_id)
