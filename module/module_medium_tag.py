@@ -78,21 +78,17 @@ async def run(token, chat_id):
             
             author = entry.author if hasattr(entry, 'author') else "Unknown"
             categories = get_categories(entry)
+            data = post['published'].split()
 
-
-
-
-            
             text = f"""
-**{post['title']}**
--> {author}
+<b>{post['title']}</b>
+<i>{author}</i>
 
-{post['link']}
+<a href='{post['link']}'>Link</a>
 
-{post['published']}
--------------------
-#{tag} {categories} #medium
-            """
+{data[1]}-{data[2]}-{data[3]}
+
+{categories}"""
             
             img_src = re.search(r'<img src="([^"]+)"', post["summary"])
             
