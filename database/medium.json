@@ -9712,5 +9712,35 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@susapr/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*KXAN_MlATp-IKkow_OKYPQ.png\" width=\"3000\" /></a></p><p class=\"medium-feed-snippet\">&#x201c;Is this secure?&#x201d;&#x200a;&#x2014;&#x200a;The other day, a friend sent me a URL with a simple question.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@susapr/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@susapr/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss------bug_bounty_writeup-5",
         "published": "Tue, 29 Oct 2024 05:19:28 GMT"
+    },
+    {
+        "title": "File Transfer Cheatsheet: Windows and Linux",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@verylazytech/file-transfer-cheatsheet-windows-and-linux-1e36ec9a22ac?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*GrAKEdWI3vNGDCpm\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">File transfer is a critical component in post-exploitation, penetration testing, and red teaming. Different environments require specific&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@verylazytech/file-transfer-cheatsheet-windows-and-linux-1e36ec9a22ac?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@verylazytech/file-transfer-cheatsheet-windows-and-linux-1e36ec9a22ac?source=rss------bug_bounty-5",
+        "published": "Wed, 30 Oct 2024 01:31:52 GMT"
+    },
+    {
+        "title": "How do SSL Scanners Work",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@serhatcck/how-do-ssl-scanners-work-b4977308e981?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*b16J5IhSqGzxqHhJooDJIg.jpeg\" width=\"5760\" /></a></p><p class=\"medium-feed-snippet\">Just Brute Force&#xa0;:)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@serhatcck/how-do-ssl-scanners-work-b4977308e981?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@serhatcck/how-do-ssl-scanners-work-b4977308e981?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 22:20:24 GMT"
+    },
+    {
+        "title": "Data Breach Affects 800,000 Citizens in Italy",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/data-breach-affects-800-000-citizens-in-italy-1f977df0cab6?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*KzqCqdHioyvmjZeZrr3enw.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/data-breach-affects-800-000-citizens-in-italy-1f977df0cab6?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/data-breach-affects-800-000-citizens-in-italy-1f977df0cab6?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 22:03:22 GMT"
+    },
+    {
+        "title": "Massive PSAUX Ransomware Attack Targets 22,000 CyberPanel Instances!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances-2925859c759c?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*M3wRz9_wneGSd2f613-5LA.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances-2925859c759c?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances-2925859c759c?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 21:56:44 GMT"
+    },
+    {
+        "title": "WIRE TOR\u200a\u2014\u200aThe Ethical Hacking Services",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/wire-tor-the-ethical-hacking-services-47ef9ecf7471?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*fTqliLU8BJaTkefaCzdWmg.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">&#x1f50d; Overview In a significant cybersecurity development, the U.S. Department of Justice (DOJ) has charged Russian national Maxim Rudometov&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/wire-tor-the-ethical-hacking-services-47ef9ecf7471?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/wire-tor-the-ethical-hacking-services-47ef9ecf7471?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 21:46:26 GMT"
     }
 ]
