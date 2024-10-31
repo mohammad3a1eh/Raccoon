@@ -90,7 +90,7 @@ async def run(token, chat_id):
 
 {categories}"""
             
-            img_src = re.search(r'<img src="([^"]+)"', post["summary"])
+            # img_src = re.search(r'<img src="([^"]+)"', post["summary"])
             
             # if img_src:
             #     image_url = img_src.group(1)
@@ -106,3 +106,4 @@ async def run(token, chat_id):
                 json.dump(db, file, indent=4)
 
     await module.tbot.send_text_to_tel(f"Find {post_} post", chat_id)
+
