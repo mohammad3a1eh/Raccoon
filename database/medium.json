@@ -9814,5 +9814,89 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@prasenjitkantipaul/my-first-remote-code-execution-rce-ea9c3e32943f?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2038/1*9-zTg0B8tvbI0AlVAZ7LEQ.png\" width=\"2038\" /></a></p><p class=\"medium-feed-snippet\">Hello Reader,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@prasenjitkantipaul/my-first-remote-code-execution-rce-ea9c3e32943f?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@prasenjitkantipaul/my-first-remote-code-execution-rce-ea9c3e32943f?source=rss------bug_bounty_writeup-5",
         "published": "Wed, 30 Oct 2024 10:06:50 GMT"
+    },
+    {
+        "title": "Comprehensive Bug Bounty Hunting Methodology (2024 Edition)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://xalgord.medium.com/comprehensive-bug-bounty-hunting-checklist-2024-edition-4abb3a9cbe66?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*hj37VuEe1jWFmknwYb2FSg.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Welcome to your complete bug bounty guide! &#x1f575;&#xfe0f; This is designed for beginners, but even if you&#x2019;re experienced, there&#x2019;s always something&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://xalgord.medium.com/comprehensive-bug-bounty-hunting-checklist-2024-edition-4abb3a9cbe66?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://xalgord.medium.com/comprehensive-bug-bounty-hunting-checklist-2024-edition-4abb3a9cbe66?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 18:25:51 GMT"
+    },
+    {
+        "title": "Tale of Zendesk 0 day and a potential 25K $ bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/1*zPw1RoYUuMpLuxj9DVRE5A.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">In this blog, I will share how I found template injection affecting Zendesk customers with default configuration.</p><p class=\"medium-feed-link\"><a href=\"https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 17:34:32 GMT"
+    },
+    {
+        "title": "How One Accidental Find Led to Full App Security Testing",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hasirhamdan77/how-one-accidental-find-led-to-full-app-security-testing-ea1c317174cb?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/875/0*jMPAYqpAoB00CPYo.png\" width=\"875\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hasirhamdan77/how-one-accidental-find-led-to-full-app-security-testing-ea1c317174cb?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hasirhamdan77/how-one-accidental-find-led-to-full-app-security-testing-ea1c317174cb?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 16:41:28 GMT"
+    },
+    {
+        "title": "0-Click ATO Via reset password weird scenario",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mos693570/0-click-ato-via-reset-password-weird-scenario-9afa4a88e413?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*bDPji2a46KqREFGcYkaH6Q.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">Introduction: ATO ia Reset Password</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mos693570/0-click-ato-via-reset-password-weird-scenario-9afa4a88e413?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mos693570/0-click-ato-via-reset-password-weird-scenario-9afa4a88e413?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 14:40:41 GMT"
+    },
+    {
+        "title": "Could a Simple IDOR Vulnerability in Facebook Affects the Outcome of US Elections?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bazzounbassem/could-a-simple-idor-vulnerability-in-facebook-affects-the-outcome-of-us-elections-c17bc5e12e30?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/768/1*3zPzkSpo-C13mI_uIc4LEw.png\" width=\"768\" /></a></p><p class=\"medium-feed-snippet\">In this blog, I will discuss how a security vulnerability I discovered a year ago in Facebook/Meta could be used to affect the US election&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bazzounbassem/could-a-simple-idor-vulnerability-in-facebook-affects-the-outcome-of-us-elections-c17bc5e12e30?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bazzounbassem/could-a-simple-idor-vulnerability-in-facebook-affects-the-outcome-of-us-elections-c17bc5e12e30?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 13:33:45 GMT"
+    },
+    {
+        "title": "Responsible Discovery, Irresponsible Response: The Cost of Punishing Security Researchers",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Imagine finding a door to your neighbor&#x2019;s house mysteriously unlocked. Do you: a) walk in and take their valuables, b) ignore it and walk&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://khalifayakub.medium.com/responsible-discovery-irresponsible-response-the-cost-of-punishing-security-researchers-8bbb15f66ab7?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://khalifayakub.medium.com/responsible-discovery-irresponsible-response-the-cost-of-punishing-security-researchers-8bbb15f66ab7?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 13:01:38 GMT"
+    },
+    {
+        "title": "7 Real-Life Bug Bounties That Made Headlines: Lessons You Can\u2019t Afford to Miss!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@qaafqasim/7-real-life-bug-bounties-that-made-headlines-lessons-you-cant-afford-to-miss-4b812b2caafa?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*b1eXnFBHJtFXylpX9Zjncg.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Bug bounties are changing the way companies think about security, offering rewards for those who find vulnerabilities. But not all bug&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@qaafqasim/7-real-life-bug-bounties-that-made-headlines-lessons-you-cant-afford-to-miss-4b812b2caafa?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@qaafqasim/7-real-life-bug-bounties-that-made-headlines-lessons-you-cant-afford-to-miss-4b812b2caafa?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 10:53:14 GMT"
+    },
+    {
+        "title": "OAuth Account Takeover (ATO) Vulnerability via Email Manipulation",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@muhammedgalal66/oauth-account-takeover-ato-vulnerability-via-email-manipulation-94e0e942bcb8?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*oUaxwYmdSUfHieQ7SMpHfQ.jpeg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">I&#x2019;m Muhammed Galal, a cybersecurity researcher, currently working as a hunter on HackerOne, specializing in web application</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@muhammedgalal66/oauth-account-takeover-ato-vulnerability-via-email-manipulation-94e0e942bcb8?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@muhammedgalal66/oauth-account-takeover-ato-vulnerability-via-email-manipulation-94e0e942bcb8?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 08:08:42 GMT"
+    },
+    {
+        "title": "SSRF to Internal Port Scanning on Self-Hosted Platform",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1366/1*UzoFD36YBghzOsc-eC8auw.png\" width=\"1366\" /></a></p><p class=\"medium-feed-snippet\">Free Artices</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 07:20:48 GMT"
+    },
+    {
+        "title": "HOW I FOUND CVE-2023\u201335813?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://doordiefordream.medium.com/how-i-found-cve-2023-35813-c239c2f03192?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*ssPhk8SIrsiGzy8ZDh8WIA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">(its worth around 15k dollars)</p><p class=\"medium-feed-link\"><a href=\"https://doordiefordream.medium.com/how-i-found-cve-2023-35813-c239c2f03192?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://doordiefordream.medium.com/how-i-found-cve-2023-35813-c239c2f03192?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 07:00:07 GMT"
+    },
+    {
+        "title": "Tale of Zendesk 0 day and a potential 25K $ bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/1*zPw1RoYUuMpLuxj9DVRE5A.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">In this blog, I will share how I found template injection affecting Zendesk customers with default configuration.</p><p class=\"medium-feed-link\"><a href=\"https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 31 Oct 2024 17:34:32 GMT"
+    },
+    {
+        "title": "7 Real-Life Bug Bounties That Made Headlines: Lessons You Can\u2019t Afford to Miss!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@qaafqasim/7-real-life-bug-bounties-that-made-headlines-lessons-you-cant-afford-to-miss-4b812b2caafa?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*b1eXnFBHJtFXylpX9Zjncg.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Bug bounties are changing the way companies think about security, offering rewards for those who find vulnerabilities. But not all bug&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@qaafqasim/7-real-life-bug-bounties-that-made-headlines-lessons-you-cant-afford-to-miss-4b812b2caafa?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@qaafqasim/7-real-life-bug-bounties-that-made-headlines-lessons-you-cant-afford-to-miss-4b812b2caafa?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 31 Oct 2024 10:53:14 GMT"
+    },
+    {
+        "title": "SSRF to Internal Port Scanning on Self-Hosted Platform",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1366/1*UzoFD36YBghzOsc-eC8auw.png\" width=\"1366\" /></a></p><p class=\"medium-feed-snippet\">Free Artices</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty_writeup-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 31 Oct 2024 07:20:48 GMT"
+    },
+    {
+        "title": "How I get Open Redirect Vulnerability in BBP\u00a0?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://keroayman77.medium.com/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*R5sVVjHT7k67XqTL7y4dUw.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">First, I&#x2019;m Kerolos Ayman, Bug Bounty Hunter, Junior Penetration Tester and CTF player.</p><p class=\"medium-feed-link\"><a href=\"https://keroayman77.medium.com/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://keroayman77.medium.com/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602?source=rss------bug_bounty_writeup-5",
+        "published": "Tue, 29 Oct 2024 16:34:38 GMT"
     }
 ]
