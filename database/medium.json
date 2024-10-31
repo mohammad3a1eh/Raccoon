@@ -9652,5 +9652,167 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@salaheddine_kalada/breaking-down-my-bug-bounty-find-exploiting-ec-councils-iclass-platform-68bd9a6c8460?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1284/1*AIJ3UAQQUTZ3tb80vTNYbQ.jpeg\" width=\"1284\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@salaheddine_kalada/breaking-down-my-bug-bounty-find-exploiting-ec-councils-iclass-platform-68bd9a6c8460?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@salaheddine_kalada/breaking-down-my-bug-bounty-find-exploiting-ec-councils-iclass-platform-68bd9a6c8460?source=rss------bug_bounty_writeup-5",
         "published": "Mon, 28 Oct 2024 23:41:25 GMT"
+    },
+    {
+        "title": "My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-hunting-from-finding-targets-to-submission-of-the-c3ad5d4b07ad?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1233/1*jmg_q5zwYd6ldAQI8i-NJw.png\" width=\"1233\" /></a></p><p class=\"medium-feed-snippet\">So after our recon part where we gather all of the subdomains we&#x2019;ll proceed to check all live host and crawl it, the way I do it is to use&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-hunting-from-finding-targets-to-submission-of-the-c3ad5d4b07ad?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-hunting-from-finding-targets-to-submission-of-the-c3ad5d4b07ad?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 18:55:05 GMT"
+    },
+    {
+        "title": "How I get Open Redirect Vulnerability in BBP\u00a0?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@keroayman77/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*R5sVVjHT7k67XqTL7y4dUw.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">First, I&#x2019;m Kerolos Ayman, Bug Bounty Hunter, Junior Penetration Tester and CTF player.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@keroayman77/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@keroayman77/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 16:34:38 GMT"
+    },
+    {
+        "title": "Web cache poisoning explained",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ad.abhi0013/web-cache-poisoning-explained-f3ddc4bfbf94?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2000/0*kwXWY02LWMfu2J32.png\" width=\"2000\" /></a></p><p class=\"medium-feed-snippet\">Web cache poisoning involves manipulating the web cache to store harmful content, which is then delivered to other users.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ad.abhi0013/web-cache-poisoning-explained-f3ddc4bfbf94?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ad.abhi0013/web-cache-poisoning-explained-f3ddc4bfbf94?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 13:43:50 GMT"
+    },
+    {
+        "title": "Find Open Redirect in Just 2 min - $1000",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@mdnafeed3/find-open-redirect-in-just-2-min-1000-c527bb3e65fb?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/850/1*f5hHDpnDE-hHG-7J1DbrHA.png\" width=\"850\" /></a></p><p class=\"medium-feed-snippet\">The Secrets of Web Application Security Vulnerabilities!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@mdnafeed3/find-open-redirect-in-just-2-min-1000-c527bb3e65fb?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@mdnafeed3/find-open-redirect-in-just-2-min-1000-c527bb3e65fb?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 13:32:32 GMT"
+    },
+    {
+        "title": "How can SQL injection, CSRF, and XSS attacks be prevented in Golang\u200a\u2014\u200aBug Bounty Tuesday",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kerstan/how-can-sql-injection-csrf-and-xss-attacks-be-prevented-in-golang-bug-bounty-tuesday-2f857b2e4b53?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*lSu2qguA5LoMg0ws0yBiNg.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Today, let&#x2019;s discuss a few recurring yet challenging security issues that many developers grapple with&#x200a;&#x2014;&#x200a;SQL injection, CSRF&#xa0;&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kerstan/how-can-sql-injection-csrf-and-xss-attacks-be-prevented-in-golang-bug-bounty-tuesday-2f857b2e4b53?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kerstan/how-can-sql-injection-csrf-and-xss-attacks-be-prevented-in-golang-bug-bounty-tuesday-2f857b2e4b53?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 12:02:12 GMT"
+    },
+    {
+        "title": "How I Started My Bug Bounty Journey\u2026!!!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://harshbardhanx.medium.com/how-i-started-my-bug-bounty-journey-1b9683fa6252?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*yOVtzzW9Ul9hYJ6Yyeslqw.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">Whenever you hear about fields like Cybersecurity or Ethical Hacking, you probably feel like you should get into it&#x200a;&#x2014;&#x200a;and it&#x2019;s not just&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://harshbardhanx.medium.com/how-i-started-my-bug-bounty-journey-1b9683fa6252?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://harshbardhanx.medium.com/how-i-started-my-bug-bounty-journey-1b9683fa6252?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 11:18:27 GMT"
+    },
+    {
+        "title": "My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-hunting-from-finding-targets-to-submission-of-the-c3ad5d4b07ad?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1233/1*jmg_q5zwYd6ldAQI8i-NJw.png\" width=\"1233\" /></a></p><p class=\"medium-feed-snippet\">So after our recon part where we gather all of the subdomains we&#x2019;ll proceed to check all live host and crawl it, the way I do it is to use&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-hunting-from-finding-targets-to-submission-of-the-c3ad5d4b07ad?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-hunting-from-finding-targets-to-submission-of-the-c3ad5d4b07ad?source=rss------bug_bounty_writeup-5",
+        "published": "Tue, 29 Oct 2024 18:55:05 GMT"
+    },
+    {
+        "title": "How I get Open Redirect Vulnerability in BBP\u00a0?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@keroayman77/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*R5sVVjHT7k67XqTL7y4dUw.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">First, I&#x2019;m Kerolos Ayman, Bug Bounty Hunter, Junior Penetration Tester and CTF player.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@keroayman77/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@keroayman77/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602?source=rss------bug_bounty_writeup-5",
+        "published": "Tue, 29 Oct 2024 16:34:38 GMT"
+    },
+    {
+        "title": "How I Started My Bug Bounty Journey\u2026!!!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://harshbardhanx.medium.com/how-i-started-my-bug-bounty-journey-1b9683fa6252?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*yOVtzzW9Ul9hYJ6Yyeslqw.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">Whenever you hear about fields like Cybersecurity or Ethical Hacking, you probably feel like you should get into it&#x200a;&#x2014;&#x200a;and it&#x2019;s not just&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://harshbardhanx.medium.com/how-i-started-my-bug-bounty-journey-1b9683fa6252?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://harshbardhanx.medium.com/how-i-started-my-bug-bounty-journey-1b9683fa6252?source=rss------bug_bounty_writeup-5",
+        "published": "Tue, 29 Oct 2024 11:18:27 GMT"
+    },
+    {
+        "title": "How I Stopped a Data Breach In 2 Minutes: A Lesson on Insecure Direct Object\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@susapr/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*KXAN_MlATp-IKkow_OKYPQ.png\" width=\"3000\" /></a></p><p class=\"medium-feed-snippet\">&#x201c;Is this secure?&#x201d;&#x200a;&#x2014;&#x200a;The other day, a friend sent me a URL with a simple question.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@susapr/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@susapr/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss------bug_bounty_writeup-5",
+        "published": "Tue, 29 Oct 2024 05:19:28 GMT"
+    },
+    {
+        "title": "File Transfer Cheatsheet: Windows and Linux",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@verylazytech/file-transfer-cheatsheet-windows-and-linux-1e36ec9a22ac?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*GrAKEdWI3vNGDCpm\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">File transfer is a critical component in post-exploitation, penetration testing, and red teaming. Different environments require specific&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@verylazytech/file-transfer-cheatsheet-windows-and-linux-1e36ec9a22ac?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@verylazytech/file-transfer-cheatsheet-windows-and-linux-1e36ec9a22ac?source=rss------bug_bounty-5",
+        "published": "Wed, 30 Oct 2024 01:31:52 GMT"
+    },
+    {
+        "title": "How do SSL Scanners Work",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@serhatcck/how-do-ssl-scanners-work-b4977308e981?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*b16J5IhSqGzxqHhJooDJIg.jpeg\" width=\"5760\" /></a></p><p class=\"medium-feed-snippet\">Just Brute Force&#xa0;:)</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@serhatcck/how-do-ssl-scanners-work-b4977308e981?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@serhatcck/how-do-ssl-scanners-work-b4977308e981?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 22:20:24 GMT"
+    },
+    {
+        "title": "Data Breach Affects 800,000 Citizens in Italy",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/data-breach-affects-800-000-citizens-in-italy-1f977df0cab6?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*KzqCqdHioyvmjZeZrr3enw.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/data-breach-affects-800-000-citizens-in-italy-1f977df0cab6?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/data-breach-affects-800-000-citizens-in-italy-1f977df0cab6?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 22:03:22 GMT"
+    },
+    {
+        "title": "Massive PSAUX Ransomware Attack Targets 22,000 CyberPanel Instances!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances-2925859c759c?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*M3wRz9_wneGSd2f613-5LA.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances-2925859c759c?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances-2925859c759c?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 21:56:44 GMT"
+    },
+    {
+        "title": "WIRE TOR\u200a\u2014\u200aThe Ethical Hacking Services",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/wire-tor-the-ethical-hacking-services-47ef9ecf7471?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*fTqliLU8BJaTkefaCzdWmg.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">&#x1f50d; Overview In a significant cybersecurity development, the U.S. Department of Justice (DOJ) has charged Russian national Maxim Rudometov&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/wire-tor-the-ethical-hacking-services-47ef9ecf7471?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/wire-tor-the-ethical-hacking-services-47ef9ecf7471?source=rss------bug_bounty-5",
+        "published": "Tue, 29 Oct 2024 21:46:26 GMT"
+    },
+    {
+        "title": "How HTML injection can help to make $1000.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anandrishav2228/how-html-injection-can-help-to-make-1000-531c6f7b6672?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*b6R7yRtDGZhzvuVQzhXJBQ.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">HTML Injection is a type of web vulnerability that allows attackers to inject arbitrary HTML code into a web page.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anandrishav2228/how-html-injection-can-help-to-make-1000-531c6f7b6672?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anandrishav2228/how-html-injection-can-help-to-make-1000-531c6f7b6672?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 04:10:24 GMT"
+    },
+    {
+        "title": "bugbountytraining\u9776\u573a(\u4e8c)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@starkxun5215/bugbountytraining%E9%9D%B6%E5%9C%BA-%E4%BA%8C-669c3ac29651?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2165/1*wqqAqJJ5ujv33n8cIJiR_w.png\" width=\"2165\" /></a></p><p class=\"medium-feed-snippet\">&#x524d;&#x9762;&#x6211;&#x4eec;&#x627e;&#x5230;&#x4e86;&#x4e09;&#x4e2a;&#x6f0f;&#x6d1e;&#xff1a;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@starkxun5215/bugbountytraining%E9%9D%B6%E5%9C%BA-%E4%BA%8C-669c3ac29651?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@starkxun5215/bugbountytraining%E9%9D%B6%E5%9C%BA-%E4%BA%8C-669c3ac29651?source=rss------bug_bounty-5",
+        "published": "Thu, 31 Oct 2024 02:22:24 GMT"
+    },
+    {
+        "title": "Spooktacular Halloween Sale: 50% Off!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/spooktacular-halloween-sale-50-off-f1967438dac0?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*I2lxhFYoCxSUS4Pu-AF4og.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">This Halloween, we&#x2019;re brewing up something special!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/spooktacular-halloween-sale-50-off-f1967438dac0?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/spooktacular-halloween-sale-50-off-f1967438dac0?source=rss------bug_bounty-5",
+        "published": "Wed, 30 Oct 2024 21:35:24 GMT"
+    },
+    {
+        "title": "Automating Bug Bounty Hunts with Bash: A Beginner-Friendly Guide",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://pwndecoco.medium.com/automating-bug-bounty-hunts-with-bash-a-beginner-friendly-guide-3fc2b3d7f341?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*Ar2IcpS7lITVJ-SFxsoRLw.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Automating your methodologies makes life easier, every Bug hunters has their own script for automating their hunt. In this guide We&#x2019;re&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://pwndecoco.medium.com/automating-bug-bounty-hunts-with-bash-a-beginner-friendly-guide-3fc2b3d7f341?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://pwndecoco.medium.com/automating-bug-bounty-hunts-with-bash-a-beginner-friendly-guide-3fc2b3d7f341?source=rss------bug_bounty-5",
+        "published": "Wed, 30 Oct 2024 21:09:39 GMT"
+    },
+    {
+        "title": "Lets Get into the Real field.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://harshbardhanx.medium.com/lets-get-into-the-real-field-b2c9278d0b63?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*9qkwmFenKX61kivIcDe4Kw.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">Before getting started, it&#x2019;s essential to understand some basic terminology:Injection Point, Vulnerability, Payload, Exploitation&#x2026;.</p><p class=\"medium-feed-link\"><a href=\"https://harshbardhanx.medium.com/lets-get-into-the-real-field-b2c9278d0b63?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://harshbardhanx.medium.com/lets-get-into-the-real-field-b2c9278d0b63?source=rss------bug_bounty-5",
+        "published": "Wed, 30 Oct 2024 20:12:50 GMT"
+    },
+    {
+        "title": "Email Spoofing",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@hacragon/email-spoofing-1a81728f92b3?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/850/1*hVjZWZfcjxNfvPqDHl1sjA.jpeg\" width=\"850\" /></a></p><p class=\"medium-feed-snippet\">Hello Hackers,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@hacragon/email-spoofing-1a81728f92b3?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@hacragon/email-spoofing-1a81728f92b3?source=rss------bug_bounty-5",
+        "published": "Wed, 30 Oct 2024 19:22:16 GMT"
+    },
+    {
+        "title": "Exposed Git Configs Lead to 15,000 Stolen Cloud Credentials: The WireTor Solution",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/exposed-git-configs-lead-to-15-000-stolen-cloud-credentials-the-wiretor-solution-d6de23eaca26?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*p1GvLIcx-fgHYNe2eM7ATA.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/exposed-git-configs-lead-to-15-000-stolen-cloud-credentials-the-wiretor-solution-d6de23eaca26?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/exposed-git-configs-lead-to-15-000-stolen-cloud-credentials-the-wiretor-solution-d6de23eaca26?source=rss------bug_bounty-5",
+        "published": "Wed, 30 Oct 2024 19:15:24 GMT"
+    },
+    {
+        "title": "WIRE TOR\u200a\u2014\u200aThe Ethical Hacking Services",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/wire-tor-the-ethical-hacking-services-bac69e4fa28a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*yuepYI0xHBV76oiOSTXpSA.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">North Korea&#x2019;s state-sponsored hacking group, Andariel, has surfaced as a central player in the PLAY ransomware attacks, as revealed by&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/wire-tor-the-ethical-hacking-services-bac69e4fa28a?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/wire-tor-the-ethical-hacking-services-bac69e4fa28a?source=rss------bug_bounty-5",
+        "published": "Wed, 30 Oct 2024 19:12:19 GMT"
+    },
+    {
+        "title": "Protect Yourself from Election Scams: Insights from WireTor",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/protect-yourself-from-election-scams-insights-from-wiretor-1e118e682f76?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*EigcNapGTGsHCz5ALlXGJQ.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/protect-yourself-from-election-scams-insights-from-wiretor-1e118e682f76?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/protect-yourself-from-election-scams-insights-from-wiretor-1e118e682f76?source=rss------bug_bounty-5",
+        "published": "Wed, 30 Oct 2024 19:10:55 GMT"
+    },
+    {
+        "title": "Predictable Initial Passwords vulnerability",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">In certain systems, users are given automatically generated initial passwords. This approach is common when accounts are created in bulk&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@istibaroudissou/predictable-initial-passwords-vulnerability-3292322bfdd4?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@istibaroudissou/predictable-initial-passwords-vulnerability-3292322bfdd4?source=rss------bug_bounty-5",
+        "published": "Wed, 30 Oct 2024 18:50:09 GMT"
+    },
+    {
+        "title": "Lets Get into the Real field.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://harshbardhanx.medium.com/lets-get-into-the-real-field-b2c9278d0b63?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*9qkwmFenKX61kivIcDe4Kw.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">Before getting started, it&#x2019;s essential to understand some basic terminology:Injection Point, Vulnerability, Payload, Exploitation&#x2026;.</p><p class=\"medium-feed-link\"><a href=\"https://harshbardhanx.medium.com/lets-get-into-the-real-field-b2c9278d0b63?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://harshbardhanx.medium.com/lets-get-into-the-real-field-b2c9278d0b63?source=rss------bug_bounty_writeup-5",
+        "published": "Wed, 30 Oct 2024 20:12:50 GMT"
+    },
+    {
+        "title": "My First Remote Code Execution (RCE)",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@prasenjitkantipaul/my-first-remote-code-execution-rce-ea9c3e32943f?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2038/1*9-zTg0B8tvbI0AlVAZ7LEQ.png\" width=\"2038\" /></a></p><p class=\"medium-feed-snippet\">Hello Reader,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@prasenjitkantipaul/my-first-remote-code-execution-rce-ea9c3e32943f?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@prasenjitkantipaul/my-first-remote-code-execution-rce-ea9c3e32943f?source=rss------bug_bounty_writeup-5",
+        "published": "Wed, 30 Oct 2024 10:06:50 GMT"
     }
 ]
