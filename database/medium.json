@@ -10078,5 +10078,89 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">A website had a vulnerability known as an open redirect.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-escalating-to-xss-xss-series-part-2-1d6b75ecf942?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-escalating-to-xss-xss-series-part-2-1d6b75ecf942?source=rss------bug_bounty_writeup-5",
         "published": "Sat, 02 Nov 2024 08:18:42 GMT"
+    },
+    {
+        "title": "Cloud flare bypass leads to Account Takeover via Password Reset Poisoning",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@abdulparkar/cloud-flare-bypass-leads-to-account-takeover-via-password-reset-poisoning-ba349d784b97?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1600/0*SyIQ9Ai2fxIPaJmO.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">Hello fellow researchers, my name is Abdul Rehman Parkar, and I work at IZYITS.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@abdulparkar/cloud-flare-bypass-leads-to-account-takeover-via-password-reset-poisoning-ba349d784b97?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@abdulparkar/cloud-flare-bypass-leads-to-account-takeover-via-password-reset-poisoning-ba349d784b97?source=rss------bug_bounty-5",
+        "published": "Mon, 04 Nov 2024 04:54:04 GMT"
+    },
+    {
+        "title": "How to Find the Best Resources for Learning Bug Bounty and Cybersecurity |PRO Tip",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@shaikhminhaz1975/how-to-find-the-best-resources-for-learning-bug-bounty-and-cybersecurity-pro-tip-d5e915e82539?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*ybkQhPxsbgIkMEJV2_tOFw.gif\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">When we talk about cybersecurity, the most prominent thing that comes to mind is, &#x201c;From where should I learn?&#x201d; and &#x201c;How should I learn?&#x201d;&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@shaikhminhaz1975/how-to-find-the-best-resources-for-learning-bug-bounty-and-cybersecurity-pro-tip-d5e915e82539?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@shaikhminhaz1975/how-to-find-the-best-resources-for-learning-bug-bounty-and-cybersecurity-pro-tip-d5e915e82539?source=rss------bug_bounty-5",
+        "published": "Mon, 04 Nov 2024 04:36:01 GMT"
+    },
+    {
+        "title": "Vibe Yo\u2019Tribe",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@onelovemafia/vibe-yotribe-3d8a0c098ee2?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/640/1*l9F8aj6bHpBkFEgQXRYKLw@2x.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">O&#x2019;JudaHahahaha&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@onelovemafia/vibe-yotribe-3d8a0c098ee2?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@onelovemafia/vibe-yotribe-3d8a0c098ee2?source=rss------bug_bounty-5",
+        "published": "Mon, 04 Nov 2024 04:28:27 GMT"
+    },
+    {
+        "title": "Panduan \u201cBug Bounty Programs pada Aplikasi Laravel\u201d berdasarkan kerangka yang telah disusun:",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@_azwar/panduan-bug-bounty-programs-pada-aplikasi-laravel-berdasarkan-kerangka-yang-telah-disusun-7cc3b230397c?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*lrXO7emtU5r_GRRR.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">&#x2014; -</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@_azwar/panduan-bug-bounty-programs-pada-aplikasi-laravel-berdasarkan-kerangka-yang-telah-disusun-7cc3b230397c?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@_azwar/panduan-bug-bounty-programs-pada-aplikasi-laravel-berdasarkan-kerangka-yang-telah-disusun-7cc3b230397c?source=rss------bug_bounty-5",
+        "published": "Mon, 04 Nov 2024 02:32:22 GMT"
+    },
+    {
+        "title": "Easy logic bug that leaks the email for every user",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62d;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62d;&#x64a;&#x645; &#x648; &#x627;&#x644;&#x635;&#x644;&#x627;&#x629; &#x648; &#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x649; &#x627;&#x634;&#x631;&#x641; &#x627;&#x644;&#x645;&#x631;&#x633;&#x644;&#x64a;&#x646;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@banertheinrich/easy-logic-bug-that-leaks-the-email-for-every-user-ef2d9d0cf088?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@banertheinrich/easy-logic-bug-that-leaks-the-email-for-every-user-ef2d9d0cf088?source=rss------bug_bounty-5",
+        "published": "Mon, 04 Nov 2024 00:03:55 GMT"
+    },
+    {
+        "title": "Dstat.cc DDoS Site Seized & Two Suspects Arrested in Germany",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/dstat-cc-ddos-site-seized-two-suspects-arrested-in-germany-c8d44187b181?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*zkQxAdRV1uoJx6HUhBi57A.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/dstat-cc-ddos-site-seized-two-suspects-arrested-in-germany-c8d44187b181?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/dstat-cc-ddos-site-seized-two-suspects-arrested-in-germany-c8d44187b181?source=rss------bug_bounty-5",
+        "published": "Sun, 03 Nov 2024 19:42:32 GMT"
+    },
+    {
+        "title": "CRA Breach Exposed: Over 62,000 Taxpayer Accounts Compromised!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/cra-breach-exposed-over-62-000-taxpayer-accounts-compromised-62bc0cf3cb9a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*NBbH0Was5To-mcjisq3azQ.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/cra-breach-exposed-over-62-000-taxpayer-accounts-compromised-62bc0cf3cb9a?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/cra-breach-exposed-over-62-000-taxpayer-accounts-compromised-62bc0cf3cb9a?source=rss------bug_bounty-5",
+        "published": "Sun, 03 Nov 2024 19:41:13 GMT"
+    },
+    {
+        "title": "FBI Arrests Suspect in SEC Account Hack: What This Means for Cybersecurity",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/fbi-arrests-suspect-in-sec-account-hack-what-this-means-for-cybersecurity-735d8dd72512?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*1bWcGR9Fb0im-bjTpzG2Iw.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/fbi-arrests-suspect-in-sec-account-hack-what-this-means-for-cybersecurity-735d8dd72512?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/fbi-arrests-suspect-in-sec-account-hack-what-this-means-for-cybersecurity-735d8dd72512?source=rss------bug_bounty-5",
+        "published": "Sun, 03 Nov 2024 19:40:01 GMT"
+    },
+    {
+        "title": "Becoming a Web Security Specialist: Essential Insights and a Roadmap",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@halildeniz313/becoming-a-web-security-specialist-essential-insights-and-a-roadmap-91032925d1aa?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*ydl7_WKzWMk7DVGlK33jLA.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@halildeniz313/becoming-a-web-security-specialist-essential-insights-and-a-roadmap-91032925d1aa?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@halildeniz313/becoming-a-web-security-specialist-essential-insights-and-a-roadmap-91032925d1aa?source=rss------bug_bounty-5",
+        "published": "Sun, 03 Nov 2024 19:20:26 GMT"
+    },
+    {
+        "title": "A Comprehensive Guide to SQL Injection: Types, Hunting Methods, and Tools",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@n4itr0_07/a-comprehensive-guide-to-sql-injection-types-hunting-methods-and-tools-8d716dd34355?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/704/1*_e2EfD1bUMf_h3-bsbO9mw.png\" width=\"704\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@n4itr0_07/a-comprehensive-guide-to-sql-injection-types-hunting-methods-and-tools-8d716dd34355?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@n4itr0_07/a-comprehensive-guide-to-sql-injection-types-hunting-methods-and-tools-8d716dd34355?source=rss------bug_bounty-5",
+        "published": "Sun, 03 Nov 2024 19:04:53 GMT"
+    },
+    {
+        "title": "Cloud flare bypass leads to Account Takeover via Password Reset Poisoning",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@abdulparkar/cloud-flare-bypass-leads-to-account-takeover-via-password-reset-poisoning-ba349d784b97?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1600/0*SyIQ9Ai2fxIPaJmO.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">Hello fellow researchers, my name is Abdul Rehman Parkar, and I work at IZYITS.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@abdulparkar/cloud-flare-bypass-leads-to-account-takeover-via-password-reset-poisoning-ba349d784b97?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@abdulparkar/cloud-flare-bypass-leads-to-account-takeover-via-password-reset-poisoning-ba349d784b97?source=rss------bug_bounty_writeup-5",
+        "published": "Mon, 04 Nov 2024 04:54:04 GMT"
+    },
+    {
+        "title": "Easy logic bug that leaks the email for every user",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">&#x628;&#x633;&#x645; &#x627;&#x644;&#x644;&#x647; &#x627;&#x644;&#x631;&#x62d;&#x645;&#x646; &#x627;&#x644;&#x631;&#x62d;&#x64a;&#x645; &#x648; &#x627;&#x644;&#x635;&#x644;&#x627;&#x629; &#x648; &#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x649; &#x627;&#x634;&#x631;&#x641; &#x627;&#x644;&#x645;&#x631;&#x633;&#x644;&#x64a;&#x646;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@banertheinrich/easy-logic-bug-that-leaks-the-email-for-every-user-ef2d9d0cf088?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@banertheinrich/easy-logic-bug-that-leaks-the-email-for-every-user-ef2d9d0cf088?source=rss------bug_bounty_writeup-5",
+        "published": "Mon, 04 Nov 2024 00:03:55 GMT"
+    },
+    {
+        "title": "\u201cKeyed In\u201d Compromising an entire organization through their API",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@s1renhead/keyed-in-compromising-an-entire-organization-through-their-api-2ed6cb54eec5?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1484/1*o5EzRadeeHCUE1OauvL0nQ.png\" width=\"1484\" /></a></p><p class=\"medium-feed-snippet\">&#x628;&#x650;&#x633;&#x652;&#x645;&#x650; &#x671;&#x644;&#x644;&#x64e;&#x651;&#x670;&#x647;&#x650; &#x671;&#x644;&#x631;&#x64e;&#x651;&#x62d;&#x652;&#x645;&#x64e;&#x670;&#x646;&#x650; &#x671;&#x644;&#x631;&#x64e;&#x651;&#x62d;&#x650;&#x64a;&#x645;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@s1renhead/keyed-in-compromising-an-entire-organization-through-their-api-2ed6cb54eec5?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@s1renhead/keyed-in-compromising-an-entire-organization-through-their-api-2ed6cb54eec5?source=rss------bug_bounty_writeup-5",
+        "published": "Sun, 03 Nov 2024 14:04:58 GMT"
+    },
+    {
+        "title": "AcquiFinder | a tool to grab acquisitions of a company by Crunchbase",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@AmmarxLe0x/acquifinder-a-tool-to-grab-acquisitions-of-a-company-by-crunchbase-6315db784813?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*MieW3J0gmUk13j0aAnEE8w.png\" width=\"3000\" /></a></p><p class=\"medium-feed-snippet\">&#x627;&#x644;&#x633;&#x644;&#x627;&#x645; &#x639;&#x644;&#x64a;&#x643;&#x645; &#x648;&#x631;&#x62d;&#x645;&#x629; &#x627;&#x644;&#x644;&#x647; &#x648;&#x628;&#x631;&#x643;&#x627;&#x62a;&#x647;.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@AmmarxLe0x/acquifinder-a-tool-to-grab-acquisitions-of-a-company-by-crunchbase-6315db784813?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@AmmarxLe0x/acquifinder-a-tool-to-grab-acquisitions-of-a-company-by-crunchbase-6315db784813?source=rss------bug_bounty_writeup-5",
+        "published": "Sun, 03 Nov 2024 12:09:02 GMT"
     }
 ]
