@@ -10450,5 +10450,101 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@abdulparkar/how-i-earned-350-exploiting-clickjacking-vulnerability-to-trigger-xss-attack-23b3216ca640?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*f3yEymFw8K31VyxHk5Pzbg.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hello researchers, my name is Abdul Rehman Parkar, and I work at IZYITS.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@abdulparkar/how-i-earned-350-exploiting-clickjacking-vulnerability-to-trigger-xss-attack-23b3216ca640?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@abdulparkar/how-i-earned-350-exploiting-clickjacking-vulnerability-to-trigger-xss-attack-23b3216ca640?source=rss------bug_bounty_writeup-5",
         "published": "Wed, 06 Nov 2024 07:03:25 GMT"
+    },
+    {
+        "title": "Advanced Google Dorking Techniques for Bug Bounty Hunting: Finding Responsible Disclosure Programs\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Identifying Responsible Disclosure Programs</p><p class=\"medium-feed-link\"><a href=\"https://dineshpathro9.medium.com/advanced-google-dorking-techniques-for-bug-bounty-hunting-finding-responsible-disclosure-programs-5a00a0d9d0e9?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://dineshpathro9.medium.com/advanced-google-dorking-techniques-for-bug-bounty-hunting-finding-responsible-disclosure-programs-5a00a0d9d0e9?source=rss------bug_bounty-5",
+        "published": "Fri, 08 Nov 2024 02:22:33 GMT"
+    },
+    {
+        "title": "Fast Setup Mobile Apps Pentest With Burpsuite And memu",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">bahan:</p><p class=\"medium-feed-link\"><a href=\"https://zucki.medium.com/fast-setup-mobile-apps-pentest-with-burpsuite-and-memu-567d661b6bb9?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://zucki.medium.com/fast-setup-mobile-apps-pentest-with-burpsuite-and-memu-567d661b6bb9?source=rss------bug_bounty-5",
+        "published": "Fri, 08 Nov 2024 00:27:13 GMT"
+    },
+    {
+        "title": "Why is recon so very important? API key exposure by only recon",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Hello guys, I am learning bug bounty And I want to tell you why recon is so so so important\nand how I got a bug from recon only.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@karim.engmohamed/why-is-recon-so-very-important-api-key-exposure-by-only-recon-f8aff4ab1ac3?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@karim.engmohamed/why-is-recon-so-very-important-api-key-exposure-by-only-recon-f8aff4ab1ac3?source=rss------bug_bounty-5",
+        "published": "Fri, 08 Nov 2024 00:26:00 GMT"
+    },
+    {
+        "title": "Understanding Broken Access Control (BAC): A Comprehensive Guide",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://thexssrat.medium.com/understanding-broken-access-control-bac-a-comprehensive-guide-c0e325c43b04?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1146/0*ZwRwRuw_IQE_yTCX\" width=\"1146\" /></a></p><p class=\"medium-feed-snippet\">Learn how to detect, prevent, and mitigate Broken Access Control (BAC) vulnerabilities, from privilege escalation and IDOR to multi-tenancy</p><p class=\"medium-feed-link\"><a href=\"https://thexssrat.medium.com/understanding-broken-access-control-bac-a-comprehensive-guide-c0e325c43b04?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://thexssrat.medium.com/understanding-broken-access-control-bac-a-comprehensive-guide-c0e325c43b04?source=rss------bug_bounty-5",
+        "published": "Thu, 07 Nov 2024 23:32:46 GMT"
+    },
+    {
+        "title": "Uygulamalarla XSS\u2019e Ger\u00e7ek\u00e7i Bir Yakla\u015f\u0131m",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sgzldmrc/uygulamalarla-xsse-ger%C3%A7ek%C3%A7i-bir-yakla%C5%9F%C4%B1m-a3e82ae0be3a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/738/1*yZwqhjP2VRJCLkdEY2v0EA.png\" width=\"738\" /></a></p><p class=\"medium-feed-snippet\">Web g&#xfc;venli&#x11f;inin temel ta&#x15f;lar&#x131;ndan biri olan XSS (Cross-Site Scripting) zafiyeti, hem kullan&#x131;c&#x131;lar&#x131;n ki&#x15f;isel verilerini riske atar hem de&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sgzldmrc/uygulamalarla-xsse-ger%C3%A7ek%C3%A7i-bir-yakla%C5%9F%C4%B1m-a3e82ae0be3a?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@sgzldmrc/uygulamalarla-xsse-ger%C3%A7ek%C3%A7i-bir-yakla%C5%9F%C4%B1m-a3e82ae0be3a?source=rss------bug_bounty-5",
+        "published": "Thu, 07 Nov 2024 21:50:18 GMT"
+    },
+    {
+        "title": "OAuth Misconfiguration Pre-Account Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/h7w/oauth-misconfiguration-pre-account-takeover-535beb8d1987?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*XzVVBoFrQ3NMmNJmEqBWwA.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Read For Free&#x200a;&#x2014;&#x200a;https://nexguardians.com/oauth-misconfiguration-pre-account-takeover/</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/h7w/oauth-misconfiguration-pre-account-takeover-535beb8d1987?source=rss------bug_bounty-5\">Continue reading on T3CH \u00bb</a></p></div>",
+        "link": "https://medium.com/h7w/oauth-misconfiguration-pre-account-takeover-535beb8d1987?source=rss------bug_bounty-5",
+        "published": "Thu, 07 Nov 2024 21:40:39 GMT"
+    },
+    {
+        "title": "China-Aligned MirrorFace Hackers Target EU Diplomats with World Expo 2025 Bait",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/china-aligned-mirrorface-hackers-target-eu-diplomats-with-world-expo-2025-bait-a289ad3ec600?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*W5DtyGSMix1-6CUSKcCX6A.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/china-aligned-mirrorface-hackers-target-eu-diplomats-with-world-expo-2025-bait-a289ad3ec600?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/china-aligned-mirrorface-hackers-target-eu-diplomats-with-world-expo-2025-bait-a289ad3ec600?source=rss------bug_bounty-5",
+        "published": "Thu, 07 Nov 2024 21:07:30 GMT"
+    },
+    {
+        "title": "How To Automate Your Broad Scope Recon",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1444/0*KNcXaPTWnsVeLtQX\" width=\"1444\" /></a></p><p class=\"medium-feed-snippet\">Objective: To provide a comprehensive, automated reconnaissance methodology for web application hacking that combines Python and Bash&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty-5",
+        "published": "Thu, 07 Nov 2024 21:04:40 GMT"
+    },
+    {
+        "title": "Canada Orders TikTok to Close Canadian Operations Amid Growing Security Concerns",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/canada-orders-tiktok-to-close-canadian-operations-amid-growing-security-concerns-45b40c461986?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*3H7mtuIc2OoR4TH812uOkQ.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/canada-orders-tiktok-to-close-canadian-operations-amid-growing-security-concerns-45b40c461986?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/canada-orders-tiktok-to-close-canadian-operations-amid-growing-security-concerns-45b40c461986?source=rss------bug_bounty-5",
+        "published": "Thu, 07 Nov 2024 20:53:49 GMT"
+    },
+    {
+        "title": "SteelFox Malware Hits Hard: Protect Your System This Black Friday & Cyber Monday with 50% Off\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/steelfox-malware-hits-hard-protect-your-system-this-black-friday-cyber-monday-with-50-off-d96831583b9e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*IGnhOL7Pk5gRF-ILFuxdOQ.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/steelfox-malware-hits-hard-protect-your-system-this-black-friday-cyber-monday-with-50-off-d96831583b9e?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/steelfox-malware-hits-hard-protect-your-system-this-black-friday-cyber-monday-with-50-off-d96831583b9e?source=rss------bug_bounty-5",
+        "published": "Thu, 07 Nov 2024 20:32:32 GMT"
+    },
+    {
+        "title": "Why is recon so very important? API key exposure by only recon",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Hello guys, I am learning bug bounty And I want to tell you why recon is so so so important\nand how I got a bug from recon only.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@karim.engmohamed/why-is-recon-so-very-important-api-key-exposure-by-only-recon-f8aff4ab1ac3?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@karim.engmohamed/why-is-recon-so-very-important-api-key-exposure-by-only-recon-f8aff4ab1ac3?source=rss------bug_bounty_writeup-5",
+        "published": "Fri, 08 Nov 2024 00:26:00 GMT"
+    },
+    {
+        "title": "How To Automate Your Broad Scope Recon",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1444/0*KNcXaPTWnsVeLtQX\" width=\"1444\" /></a></p><p class=\"medium-feed-snippet\">Objective: To provide a comprehensive, automated reconnaissance methodology for web application hacking that combines Python and Bash&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 07 Nov 2024 21:04:40 GMT"
+    },
+    {
+        "title": "Exposing hidden DOS techniques laying in plain sight.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@omarahmed_13016/exposing-hidden-dos-techniques-laying-in-plain-sight-29965ab1d53b?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/0*EAPocb2hiKMv_rCn.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone! Since I always love giving back to the community, in this post, I&#x2019;ll be sharing a few techniques I&#x2019;ve leveraged to&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@omarahmed_13016/exposing-hidden-dos-techniques-laying-in-plain-sight-29965ab1d53b?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@omarahmed_13016/exposing-hidden-dos-techniques-laying-in-plain-sight-29965ab1d53b?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 07 Nov 2024 16:41:09 GMT"
+    },
+    {
+        "title": "No Rate Limiting\u200a\u2014\u200aBug",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@Jitheshjithu/no-rate-limiting-bug-7107cfc5d175?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/640/1*Sc5x8GwOmXim7dNegggbgA.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">How to find No Rate Limiting Bug in websites</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@Jitheshjithu/no-rate-limiting-bug-7107cfc5d175?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@Jitheshjithu/no-rate-limiting-bug-7107cfc5d175?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 07 Nov 2024 15:13:19 GMT"
+    },
+    {
+        "title": "Bypass Rich Text Editors lead to Stored XSS - $500 Rewards",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bugbounty_learners/bypass-rich-text-editors-lead-to-stored-xss-500-rewards-077e22eba20f?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/719/1*JP0v-HhN2B3uXVydHp7G7g.jpeg\" width=\"719\" /></a></p><p class=\"medium-feed-snippet\">Hi Everyone,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bugbounty_learners/bypass-rich-text-editors-lead-to-stored-xss-500-rewards-077e22eba20f?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bugbounty_learners/bypass-rich-text-editors-lead-to-stored-xss-500-rewards-077e22eba20f?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 07 Nov 2024 10:14:12 GMT"
+    },
+    {
+        "title": "Google Dorking in Bug Hunting: Uncovering Hidden Vulnerabilities",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://myselfakash20.medium.com/google-dorking-in-bug-hunting-uncovering-hidden-vulnerabilities-aebe773f73be?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/825/1*wNLTYbXZ3IfvfZJu11OXoA.jpeg\" width=\"825\" /></a></p><p class=\"medium-feed-snippet\">As cybersecurity experts and bug hunters, we are always on the lookout for creative ways to identify vulnerabilities on the web.</p><p class=\"medium-feed-link\"><a href=\"https://myselfakash20.medium.com/google-dorking-in-bug-hunting-uncovering-hidden-vulnerabilities-aebe773f73be?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://myselfakash20.medium.com/google-dorking-in-bug-hunting-uncovering-hidden-vulnerabilities-aebe773f73be?source=rss------bug_bounty_writeup-5",
+        "published": "Thu, 07 Nov 2024 05:50:19 GMT"
     }
 ]
