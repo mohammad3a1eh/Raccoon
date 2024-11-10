@@ -10606,5 +10606,95 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@sgzldmrc/xss-ve-context-%C3%B6rnekleri-6ba2bc976c1f?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*tcRZ6IR6b1xQ4TZ_.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">HTML Context Nedir?</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@sgzldmrc/xss-ve-context-%C3%B6rnekleri-6ba2bc976c1f?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@sgzldmrc/xss-ve-context-%C3%B6rnekleri-6ba2bc976c1f?source=rss------bug_bounty-5",
         "published": "Fri, 08 Nov 2024 14:37:40 GMT"
+    },
+    {
+        "title": "How I Found a Critical 9.8 Bug\u200a\u2014\u200aDirectory Listing leads to Critical P1 Exposure of PII and more",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@enigma_/how-i-found-a-critical-9-8-9c4d14d82e20?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*sFSx-4bNU21TlAczFuvPhw.jpeg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Hello friend&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@enigma_/how-i-found-a-critical-9-8-9c4d14d82e20?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@enigma_/how-i-found-a-critical-9-8-9c4d14d82e20?source=rss------bug_bounty-5",
+        "published": "Sun, 10 Nov 2024 03:32:22 GMT"
+    },
+    {
+        "title": "RCE by finding secret hidden files via Encryption and hashing",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Before dirsearching you can encrypt the word list in base64 to find hidden files</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@karim.engmohamed/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-e37717c23cfd?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@karim.engmohamed/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-e37717c23cfd?source=rss------bug_bounty-5",
+        "published": "Sat, 09 Nov 2024 22:34:59 GMT"
+    },
+    {
+        "title": "My Obsidian Setup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://cybersechemmars.medium.com/my-obsidian-setup-b3e96516feaa?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*ZawUEaZax4fN8afYG-oF5g.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">INTRODUCTION\nHey, welcome to CHAPTER THREE! It&#x2019;s awesome to have you back, and if you&#x2019;re new here, welcome to the journey. In the last&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://cybersechemmars.medium.com/my-obsidian-setup-b3e96516feaa?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://cybersechemmars.medium.com/my-obsidian-setup-b3e96516feaa?source=rss------bug_bounty-5",
+        "published": "Sat, 09 Nov 2024 19:47:01 GMT"
+    },
+    {
+        "title": "Broken Authentication: Full Methodology for Identifying and Exploiting Vulnerabilities",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Broken Authentication is one of the top vulnerabilities affecting web applications today. It is a significant attack vector that can lead&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://dineshpathro9.medium.com/broken-authentication-full-methodology-for-identifying-and-exploiting-vulnerabilities-63a55c3d4399?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://dineshpathro9.medium.com/broken-authentication-full-methodology-for-identifying-and-exploiting-vulnerabilities-63a55c3d4399?source=rss------bug_bounty-5",
+        "published": "Sat, 09 Nov 2024 19:45:39 GMT"
+    },
+    {
+        "title": "Advanced Techniques for CSRF (Cross-Site Request Forgery) Attacks: A Full Methodology Guide",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Understanding CSRF: The Basics</p><p class=\"medium-feed-link\"><a href=\"https://dineshpathro9.medium.com/advanced-techniques-for-csrf-cross-site-request-forgery-attacks-a-full-methodology-guide-8db29faecc01?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://dineshpathro9.medium.com/advanced-techniques-for-csrf-cross-site-request-forgery-attacks-a-full-methodology-guide-8db29faecc01?source=rss------bug_bounty-5",
+        "published": "Sat, 09 Nov 2024 19:35:02 GMT"
+    },
+    {
+        "title": "CVE-2023\u201327350\u200a: PaperCut Tryhackme Write up",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://jawstar.medium.com/cve-2023-27350-papercut-tryhackme-write-up-2237fe48d3a7?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/847/1*pW7XqpEL0vgpzFDKVsr3rQ.png\" width=\"847\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://jawstar.medium.com/cve-2023-27350-papercut-tryhackme-write-up-2237fe48d3a7?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://jawstar.medium.com/cve-2023-27350-papercut-tryhackme-write-up-2237fe48d3a7?source=rss------bug_bounty-5",
+        "published": "Sat, 09 Nov 2024 19:08:52 GMT"
+    },
+    {
+        "title": "Escalating RXSS with HttpOnly SameSite Session Cookies",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Recently, I found a reflected XSS (RXSS) bug &#x1fab2; on a well-known API documentation platform. Here&#x2019;s how I escalated this bug to high&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@dhakatedeep909/escalating-rxss-with-httponly-samesite-session-cookies-a1ba3b9e50c1?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@dhakatedeep909/escalating-rxss-with-httponly-samesite-session-cookies-a1ba3b9e50c1?source=rss------bug_bounty-5",
+        "published": "Sat, 09 Nov 2024 18:44:54 GMT"
+    },
+    {
+        "title": "Predicting Cyber Threats: Can We Use Threat Intelligence to Forecast Attacks Like Weather?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@paritoshblogs/predicting-cyber-threats-can-we-use-threat-intelligence-to-forecast-attacks-like-weather-4f57175b25ec?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/800/0*Np0dVZbihC5Qc0qp.jpg\" width=\"800\" /></a></p><p class=\"medium-feed-snippet\">Imagine if we could predict cyberattacks the same way meteorologists predict the weather. Instead of getting alerts about thunderstorms&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@paritoshblogs/predicting-cyber-threats-can-we-use-threat-intelligence-to-forecast-attacks-like-weather-4f57175b25ec?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@paritoshblogs/predicting-cyber-threats-can-we-use-threat-intelligence-to-forecast-attacks-like-weather-4f57175b25ec?source=rss------bug_bounty-5",
+        "published": "Sat, 09 Nov 2024 16:32:25 GMT"
+    },
+    {
+        "title": "Critical Vulnerabilities in Aruba Access Points: What You Need to Know!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/critical-vulnerabilities-in-aruba-access-points-what-you-need-to-know-7053d6349bf1?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*3g-6J_4dBa_2DTrRwdLy5A.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/critical-vulnerabilities-in-aruba-access-points-what-you-need-to-know-7053d6349bf1?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/critical-vulnerabilities-in-aruba-access-points-what-you-need-to-know-7053d6349bf1?source=rss------bug_bounty-5",
+        "published": "Sat, 09 Nov 2024 16:32:21 GMT"
+    },
+    {
+        "title": "D-Link Exposes 60,000+ NAS Devices to Unpatched Critical Flaw",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/d-link-exposes-60-000-nas-devices-to-unpatched-critical-flaw-c06b62cf67e9?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*uIZHlXEXpbuZdv-FYNZq9w.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/d-link-exposes-60-000-nas-devices-to-unpatched-critical-flaw-c06b62cf67e9?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/d-link-exposes-60-000-nas-devices-to-unpatched-critical-flaw-c06b62cf67e9?source=rss------bug_bounty-5",
+        "published": "Sat, 09 Nov 2024 16:31:25 GMT"
+    },
+    {
+        "title": "Broken Authentication: Full Methodology for Identifying and Exploiting Vulnerabilities",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">Broken Authentication is one of the top vulnerabilities affecting web applications today. It is a significant attack vector that can lead&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://dineshpathro9.medium.com/broken-authentication-full-methodology-for-identifying-and-exploiting-vulnerabilities-63a55c3d4399?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://dineshpathro9.medium.com/broken-authentication-full-methodology-for-identifying-and-exploiting-vulnerabilities-63a55c3d4399?source=rss------bug_bounty_writeup-5",
+        "published": "Sat, 09 Nov 2024 19:45:39 GMT"
+    },
+    {
+        "title": "Breaking into \u2018Instant\u2019: A Step-by-Step Guide to Capturing User and Root Flags",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@vignesh6872610/breaking-into-instant-a-step-by-step-guide-to-capturing-user-and-root-flags-5cd095a2e209?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/621/1*padc6l3IBSJ5kZo6TuQ6bA.png\" width=\"621\" /></a></p><p class=\"medium-feed-snippet\">1. Nmap Scanning</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@vignesh6872610/breaking-into-instant-a-step-by-step-guide-to-capturing-user-and-root-flags-5cd095a2e209?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@vignesh6872610/breaking-into-instant-a-step-by-step-guide-to-capturing-user-and-root-flags-5cd095a2e209?source=rss------bug_bounty_writeup-5",
+        "published": "Sat, 09 Nov 2024 12:16:32 GMT"
+    },
+    {
+        "title": "Username restrictions bypass on Hackerone program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bugbounty_learners/username-restrictions-bypass-on-hackerone-program-61f4c8ff8b44?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*pviyG6Id042rRoF5Nfz1MA.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bugbounty_learners/username-restrictions-bypass-on-hackerone-program-61f4c8ff8b44?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bugbounty_learners/username-restrictions-bypass-on-hackerone-program-61f4c8ff8b44?source=rss------bug_bounty_writeup-5",
+        "published": "Sat, 09 Nov 2024 10:39:58 GMT"
+    },
+    {
+        "title": "\u201cHack Smarter, Not Harder: Google Dorks for Fast Bug Hunting and Recon\u201d",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://myselfakash20.medium.com/hack-smarter-not-harder-google-dorks-for-fast-bug-hunting-and-recon-3029a4004cfd?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/1*4YGWKvgHEo6mh6wkVGgoRw.jpeg\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">As a bug bounty hunter, your most powerful reconnaissance tool might just be Google. By using advanced search operators, known as Google&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://myselfakash20.medium.com/hack-smarter-not-harder-google-dorks-for-fast-bug-hunting-and-recon-3029a4004cfd?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://myselfakash20.medium.com/hack-smarter-not-harder-google-dorks-for-fast-bug-hunting-and-recon-3029a4004cfd?source=rss------bug_bounty_writeup-5",
+        "published": "Sat, 09 Nov 2024 07:59:56 GMT"
+    },
+    {
+        "title": "Deactivating any User Account - HackerOne Private Program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bugbounty_learners/deactivating-any-user-account-hackerone-private-program-b5aa8b412819?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*avEO-XS9wMkH56zKOErgVg.jpeg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hi Everyone,</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bugbounty_learners/deactivating-any-user-account-hackerone-private-program-b5aa8b412819?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bugbounty_learners/deactivating-any-user-account-hackerone-private-program-b5aa8b412819?source=rss------bug_bounty_writeup-5",
+        "published": "Fri, 08 Nov 2024 10:05:07 GMT"
     }
 ]
