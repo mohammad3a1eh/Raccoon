@@ -39,8 +39,8 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        git config --global user.email "actions@github.com"
-        git config --global user.name "GitHub Actions"
+        git config --global user.email "${{ secrets.GMAIL }}"
+        git config --global user.name "${{ secrets.YNAME }}"
         git add --all
         git commit -m "Update with latest posts"
         git push https://x-access-token:${{ secrets.GIT_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
