@@ -10888,5 +10888,95 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@noureldin1042/showing-impact-is-your-friend-500-500-bounties-2ed87f3a64b7?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1200/1*E1zE8nZKub8WkuroCAKQ4w.jpeg\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">Hi There&#xa0;, welcome to another writeup where i will discuss two of business logic vulnerabilities that i discovered by showing impact of&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@noureldin1042/showing-impact-is-your-friend-500-500-bounties-2ed87f3a64b7?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@noureldin1042/showing-impact-is-your-friend-500-500-bounties-2ed87f3a64b7?source=rss------bug_bounty_writeup-5",
         "published": "Tue, 12 Nov 2024 05:14:23 GMT"
+    },
+    {
+        "title": "Breaking In with Guest: My First Bug Bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://ghostman01.medium.com/guest-admin-a7c70aa10ddb?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*c1CBASqZq68LizxTNRi6mA.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Free Article Link</p><p class=\"medium-feed-link\"><a href=\"https://ghostman01.medium.com/guest-admin-a7c70aa10ddb?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://ghostman01.medium.com/guest-admin-a7c70aa10ddb?source=rss------bug_bounty-5",
+        "published": "Wed, 13 Nov 2024 04:50:00 GMT"
+    },
+    {
+        "title": "Exploiting SSTI Vulnerability on an E-commerce Website: A Professional Walkthrough",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-commerce-website-a-professional-walkthrough-6cc95afb2b38?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*N0mH5Bg4aflrSgVVSNdDrA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-commerce-website-a-professional-walkthrough-6cc95afb2b38?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@MianHammadx0root/exploiting-ssti-vulnerability-on-an-e-commerce-website-a-professional-walkthrough-6cc95afb2b38?source=rss------bug_bounty-5",
+        "published": "Wed, 13 Nov 2024 02:56:31 GMT"
+    },
+    {
+        "title": "How I Found an SQL Injection in coupon code",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1366/1*hJEuwLkoqp-NpFTGxNuEfw.png\" width=\"1366\" /></a></p><p class=\"medium-feed-snippet\">The discovery of this vulnerability began when I visited an e-commerce website.\nAt first I just did normal testing for fun like Idor, XSS&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720?source=rss------bug_bounty-5",
+        "published": "Wed, 13 Nov 2024 02:12:15 GMT"
+    },
+    {
+        "title": "Finding more infromation about a email using a osint tool.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/finding-more-infromation-about-a-email-using-a-osint-tool-d557a0579414?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1876/1*R_BJXDsGlS2e1TvD2eEN0Q.png\" width=\"1876\" /></a></p><p class=\"medium-feed-snippet\">Hello all.</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/finding-more-infromation-about-a-email-using-a-osint-tool-d557a0579414?source=rss------bug_bounty-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/finding-more-infromation-about-a-email-using-a-osint-tool-d557a0579414?source=rss------bug_bounty-5",
+        "published": "Tue, 12 Nov 2024 23:55:26 GMT"
+    },
+    {
+        "title": "\ufe0f\u200d\u2642\ufe0fRecon For New Bug bounty Hunters\u200a\u2014\u200aShort Story",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">&#x1f44b; Hello everyone!</p><p class=\"medium-feed-link\"><a href=\"https://sud-defcon.medium.com/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-2992e780fbbb?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://sud-defcon.medium.com/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-2992e780fbbb?source=rss------bug_bounty-5",
+        "published": "Tue, 12 Nov 2024 21:39:11 GMT"
+    },
+    {
+        "title": "Hacking Knowledge Around The Corner. From Where To Learn Hacking Skills?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/meetcyber/hacking-knowledge-around-the-corner-c2a48214d052?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2184/1*loYw9mZOS0lSjckyEcpXzw.png\" width=\"2184\" /></a></p><p class=\"medium-feed-snippet\">How To Gain Hacking Knowledge Like a Pro, and Well Begin In Your Hacking Story? Let&#x2019;s Find Out in the 10th Part Of Primary Hacking School!</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/meetcyber/hacking-knowledge-around-the-corner-c2a48214d052?source=rss------bug_bounty-5\">Continue reading on MeetCyber \u00bb</a></p></div>",
+        "link": "https://medium.com/meetcyber/hacking-knowledge-around-the-corner-c2a48214d052?source=rss------bug_bounty-5",
+        "published": "Tue, 12 Nov 2024 21:07:26 GMT"
+    },
+    {
+        "title": "Volt Typhoon Botnet Rebuilds After FBI Crackdown",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/volt-typhoon-botnet-rebuilds-after-fbi-crackdown-e23a74459ff6?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*y9xPriSAzB8ixpZsA4OUFg.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/volt-typhoon-botnet-rebuilds-after-fbi-crackdown-e23a74459ff6?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/volt-typhoon-botnet-rebuilds-after-fbi-crackdown-e23a74459ff6?source=rss------bug_bounty-5",
+        "published": "Tue, 12 Nov 2024 21:02:34 GMT"
+    },
+    {
+        "title": "North Korean Hackers Use Flutter Apps to Evade macOS Security",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/north-korean-hackers-use-flutter-apps-to-evade-macos-security-e22221dd9696?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*OxMxA1Mvkig00GdHaIUVng.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/north-korean-hackers-use-flutter-apps-to-evade-macos-security-e22221dd9696?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/north-korean-hackers-use-flutter-apps-to-evade-macos-security-e22221dd9696?source=rss------bug_bounty-5",
+        "published": "Tue, 12 Nov 2024 21:00:28 GMT"
+    },
+    {
+        "title": "Massive Data Breach Affects Millions of Hot Topic Customers",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/massive-data-breach-affects-millions-of-hot-topic-customers-b03fe562e0f7?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*s8GxN0sYYyN6i6_zFiKJTA.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/massive-data-breach-affects-millions-of-hot-topic-customers-b03fe562e0f7?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/massive-data-breach-affects-millions-of-hot-topic-customers-b03fe562e0f7?source=rss------bug_bounty-5",
+        "published": "Tue, 12 Nov 2024 20:58:52 GMT"
+    },
+    {
+        "title": "Form I-9 Compliance Data Breach Impacts Over 190,000 People",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/form-i-9-compliance-data-breach-impacts-over-190-000-people-adee0a89694c?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*GFrngilxJQp5x2cU1Bwb7g.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/form-i-9-compliance-data-breach-impacts-over-190-000-people-adee0a89694c?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/form-i-9-compliance-data-breach-impacts-over-190-000-people-adee0a89694c?source=rss------bug_bounty-5",
+        "published": "Tue, 12 Nov 2024 20:56:38 GMT"
+    },
+    {
+        "title": "Breaking In with Guest: My First Bug Bounty",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://ghostman01.medium.com/guest-admin-a7c70aa10ddb?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*c1CBASqZq68LizxTNRi6mA.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Free Article Link</p><p class=\"medium-feed-link\"><a href=\"https://ghostman01.medium.com/guest-admin-a7c70aa10ddb?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://ghostman01.medium.com/guest-admin-a7c70aa10ddb?source=rss------bug_bounty_writeup-5",
+        "published": "Wed, 13 Nov 2024 04:50:00 GMT"
+    },
+    {
+        "title": "How I Found an SQL Injection in coupon code",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1366/1*hJEuwLkoqp-NpFTGxNuEfw.png\" width=\"1366\" /></a></p><p class=\"medium-feed-snippet\">The discovery of this vulnerability began when I visited an e-commerce website.\nAt first I just did normal testing for fun like Idor, XSS&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720?source=rss------bug_bounty_writeup-5",
+        "published": "Wed, 13 Nov 2024 02:12:15 GMT"
+    },
+    {
+        "title": "\ufe0f\u200d\u2642\ufe0fRecon For New Bug bounty Hunters\u200a\u2014\u200aShort Story",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-snippet\">&#x1f44b; Hello everyone!</p><p class=\"medium-feed-link\"><a href=\"https://sud-defcon.medium.com/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-2992e780fbbb?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://sud-defcon.medium.com/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-2992e780fbbb?source=rss------bug_bounty_writeup-5",
+        "published": "Tue, 12 Nov 2024 21:39:11 GMT"
+    },
+    {
+        "title": "HTTP Desync Attack (Request Smuggling) - Mass Account Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bugbounty_learners/http-desync-attack-request-smuggling-mass-account-takeover-0292fcc8c4a4?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1023/1*agZwqaU66rsnCrpGTAjf1g.png\" width=\"1023\" /></a></p><p class=\"medium-feed-snippet\">HTTP Desync Attack (Request Smuggling) - Mass Account Takeover</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bugbounty_learners/http-desync-attack-request-smuggling-mass-account-takeover-0292fcc8c4a4?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@bugbounty_learners/http-desync-attack-request-smuggling-mass-account-takeover-0292fcc8c4a4?source=rss------bug_bounty_writeup-5",
+        "published": "Tue, 12 Nov 2024 10:12:26 GMT"
+    },
+    {
+        "title": "Exposing the Dark Side of Google Dorks: How I Extracted Millions of Emails.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/hacking101/exposing-the-dark-side-of-google-dorks-how-i-extracted-millions-of-emails-0fe0f7f6db8b?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1238/1*GUmzn-VKeZCj1x-AtzKfCw.png\" width=\"1238\" /></a></p><p class=\"medium-feed-snippet\">How I was able to scrape large data of emails from the top mail domains(gmail,yahoo,hotmail etc..),&#xa0;.gov,&#xa0;.edu on of all countries and&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/hacking101/exposing-the-dark-side-of-google-dorks-how-i-extracted-millions-of-emails-0fe0f7f6db8b?source=rss------bug_bounty_writeup-5\">Continue reading on Hacking101 \u00bb</a></p></div>",
+        "link": "https://medium.com/hacking101/exposing-the-dark-side-of-google-dorks-how-i-extracted-millions-of-emails-0fe0f7f6db8b?source=rss------bug_bounty_writeup-5",
+        "published": "Mon, 11 Nov 2024 19:17:08 GMT"
     }
 ]
