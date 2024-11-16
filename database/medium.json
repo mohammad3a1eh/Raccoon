@@ -11080,5 +11080,77 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@bugbounty_learners/1500-open-reduction-bug-performed-restricted-actions-in-login-page-4194359c1fc2?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/615/1*E3kR7NTmIyocQvCDvAgLsA.jpeg\" width=\"615\" /></a></p><p class=\"medium-feed-snippet\">1500$ Open Redirect Bug: Performed Restricted Actions in login page </p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@bugbounty_learners/1500-open-reduction-bug-performed-restricted-actions-in-login-page-4194359c1fc2?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://medium.com/@bugbounty_learners/1500-open-reduction-bug-performed-restricted-actions-in-login-page-4194359c1fc2?source=rss------bug_bounty_writeup-5",
         "published": "Wed, 13 Nov 2024 08:16:48 GMT"
+    },
+    {
+        "title": "Race condition\u200a\u2014\u200acan cause a flood of forgotten password verification SMS requests",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@viperblitzz/race-condition-can-cause-a-flood-of-forgotten-password-verification-sms-requests-1775a375653d?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*RrGGw6-2O05lFT8UrTzG6A.jpeg\" width=\"2688\" /></a></p><p class=\"medium-feed-snippet\">Hello, everyone. I&#x2019;m Viperblitzz. Today, I will share my findings about Race condition vulnerabilities and give a brief overview of the&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@viperblitzz/race-condition-can-cause-a-flood-of-forgotten-password-verification-sms-requests-1775a375653d?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@viperblitzz/race-condition-can-cause-a-flood-of-forgotten-password-verification-sms-requests-1775a375653d?source=rss------bug_bounty-5",
+        "published": "Sat, 16 Nov 2024 04:03:42 GMT"
+    },
+    {
+        "title": "Lemons: A Bug Bounty Analogy",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@lixipluv/lemons-a-bug-bounty-analogy-ef427f514b2a?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*GRpXkdxfnzOA8DMKNbBYyQ.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Bug bounty hunting is like turning a lemon into lemonade. It may sound simple, but there&#x2019;s a labor-intensive process behind it: squeezing&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@lixipluv/lemons-a-bug-bounty-analogy-ef427f514b2a?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@lixipluv/lemons-a-bug-bounty-analogy-ef427f514b2a?source=rss------bug_bounty-5",
+        "published": "Sat, 16 Nov 2024 01:49:02 GMT"
+    },
+    {
+        "title": "New Script\u200a\u2014\u200aLeakix CLI by VECERT",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@vecert/new-script-leakix-cli-by-vecert-68abbf35d08d?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1855/1*puzq8cc5c4Z2Nv7rRwTVQA.png\" width=\"1855\" /></a></p><p class=\"medium-feed-snippet\">leakix is &#x200b;&#x200b;a tool created by leakix.com that helps cybersecurity researchers contribute against cybersecurity problems presented by&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@vecert/new-script-leakix-cli-by-vecert-68abbf35d08d?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@vecert/new-script-leakix-cli-by-vecert-68abbf35d08d?source=rss------bug_bounty-5",
+        "published": "Fri, 15 Nov 2024 21:07:38 GMT"
+    },
+    {
+        "title": "3 reflected XSS in one program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/768/0*WuaJM7BsI9VaZf89.png\" width=\"768\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone, in this blog post, I would like to discuss the Reflected XSS vulnerability I discovered.</p><p class=\"medium-feed-link\"><a href=\"https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522?source=rss------bug_bounty-5",
+        "published": "Fri, 15 Nov 2024 19:43:11 GMT"
+    },
+    {
+        "title": "CSRF leads to delete account",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://xsametyigit.medium.com/csrf-leads-to-delete-account-711dde21af1e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/0*e-6NSRLWTrklSyv9\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone!&#xa0;\nHello everyone, in this blog post I would like to talk about the CSRF (Cross-site request forgery) vulnerability I&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://xsametyigit.medium.com/csrf-leads-to-delete-account-711dde21af1e?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://xsametyigit.medium.com/csrf-leads-to-delete-account-711dde21af1e?source=rss------bug_bounty-5",
+        "published": "Fri, 15 Nov 2024 18:56:34 GMT"
+    },
+    {
+        "title": "How I Got Access to an Admin Portal by Response Manipulation",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anonymousshetty2003/how-i-got-access-to-an-admin-portal-by-response-manipulation-d2abeec7ce58?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1760/0*PyO0zbYQvOHoj8gp.png\" width=\"1760\" /></a></p><p class=\"medium-feed-snippet\">In the vast world of cybersecurity, response manipulation is an intriguing yet often overlooked attack vector. During a recent penetration&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anonymousshetty2003/how-i-got-access-to-an-admin-portal-by-response-manipulation-d2abeec7ce58?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anonymousshetty2003/how-i-got-access-to-an-admin-portal-by-response-manipulation-d2abeec7ce58?source=rss------bug_bounty-5",
+        "published": "Fri, 15 Nov 2024 17:59:07 GMT"
+    },
+    {
+        "title": "These books will help to learn bug bounty & penetration testing and ethical hacking. Part 1\u00a0.",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://osintteam.blog/these-books-will-help-to-learn-bug-bounty-penetration-testing-and-ethical-hacking-part-1-635781cd3aaa?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/600/1*XjV7Pw3Ujr-t4gXup34sew.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Hello all.</p><p class=\"medium-feed-link\"><a href=\"https://osintteam.blog/these-books-will-help-to-learn-bug-bounty-penetration-testing-and-ethical-hacking-part-1-635781cd3aaa?source=rss------bug_bounty-5\">Continue reading on OSINT Team \u00bb</a></p></div>",
+        "link": "https://osintteam.blog/these-books-will-help-to-learn-bug-bounty-penetration-testing-and-ethical-hacking-part-1-635781cd3aaa?source=rss------bug_bounty-5",
+        "published": "Fri, 15 Nov 2024 14:53:19 GMT"
+    },
+    {
+        "title": "Known Brands, Government Domains, and More Hijacked via Sitting Ducks Attacks!",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/known-brands-government-domains-and-more-hijacked-via-sitting-ducks-attacks-fddd61bd6105?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*E-ldfb-ShyO_N_7EQR6jFQ.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/known-brands-government-domains-and-more-hijacked-via-sitting-ducks-attacks-fddd61bd6105?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/known-brands-government-domains-and-more-hijacked-via-sitting-ducks-attacks-fddd61bd6105?source=rss------bug_bounty-5",
+        "published": "Fri, 15 Nov 2024 14:05:32 GMT"
+    },
+    {
+        "title": "New Glove Infostealer Malware Bypasses Chrome\u2019s Cookie Encryption: A Growing Threat",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/new-glove-infostealer-malware-bypasses-chromes-cookie-encryption-a-growing-threat-e4377ef1f2a7?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*0fA9QzMUjCbERAN08DkonA.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/new-glove-infostealer-malware-bypasses-chromes-cookie-encryption-a-growing-threat-e4377ef1f2a7?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/new-glove-infostealer-malware-bypasses-chromes-cookie-encryption-a-growing-threat-e4377ef1f2a7?source=rss------bug_bounty-5",
+        "published": "Fri, 15 Nov 2024 14:04:10 GMT"
+    },
+    {
+        "title": "Critical Plugin Flaw Exposed 4 Million WordPress Websites to Takeover",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@wiretor/critical-plugin-flaw-exposed-4-million-wordpress-websites-to-takeover-7cf7b5984ab4?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1792/1*qzjtC9CXNuLqm8R0yQHL8g.jpeg\" width=\"1792\" /></a></p><p class=\"medium-feed-snippet\">WIRE TOR&#x200a;&#x2014;&#x200a;The Ethical Hacking Services</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@wiretor/critical-plugin-flaw-exposed-4-million-wordpress-websites-to-takeover-7cf7b5984ab4?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@wiretor/critical-plugin-flaw-exposed-4-million-wordpress-websites-to-takeover-7cf7b5984ab4?source=rss------bug_bounty-5",
+        "published": "Fri, 15 Nov 2024 14:02:34 GMT"
+    },
+    {
+        "title": "3 reflected XSS in one program",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/768/0*WuaJM7BsI9VaZf89.png\" width=\"768\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone, in this blog post, I would like to discuss the Reflected XSS vulnerability I discovered.</p><p class=\"medium-feed-link\"><a href=\"https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522?source=rss------bug_bounty_writeup-5",
+        "published": "Fri, 15 Nov 2024 19:43:11 GMT"
+    },
+    {
+        "title": "How I Got Access to an Admin Portal by Response Manipulation",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@anonymousshetty2003/how-i-got-access-to-an-admin-portal-by-response-manipulation-d2abeec7ce58?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1760/0*PyO0zbYQvOHoj8gp.png\" width=\"1760\" /></a></p><p class=\"medium-feed-snippet\">In the vast world of cybersecurity, response manipulation is an intriguing yet often overlooked attack vector. During a recent penetration&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@anonymousshetty2003/how-i-got-access-to-an-admin-portal-by-response-manipulation-d2abeec7ce58?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@anonymousshetty2003/how-i-got-access-to-an-admin-portal-by-response-manipulation-d2abeec7ce58?source=rss------bug_bounty_writeup-5",
+        "published": "Fri, 15 Nov 2024 17:59:07 GMT"
     }
 ]
