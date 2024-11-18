@@ -11254,5 +11254,95 @@
         "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://xsametyigit.medium.com/heroku-subdomain-takeover-39b9f1ce7c4c?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/820/1*QVk89gFlKeD0mDJumAHqeQ.png\" width=\"820\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone, in this blog post, I would like to discuss the Subdomain Takeover vulnerability I discovered.</p><p class=\"medium-feed-link\"><a href=\"https://xsametyigit.medium.com/heroku-subdomain-takeover-39b9f1ce7c4c?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
         "link": "https://xsametyigit.medium.com/heroku-subdomain-takeover-39b9f1ce7c4c?source=rss------bug_bounty_writeup-5",
         "published": "Sat, 16 Nov 2024 08:59:28 GMT"
+    },
+    {
+        "title": "Hackers\u2019 Cache Hotlist",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/h7w/hackers-cache-hotlist-5649742c35b1?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1472/1*jUcDcMSkaxYY90HCoRUt6Q.jpeg\" width=\"1472\" /></a></p><p class=\"medium-feed-snippet\">Must-Check Sites for Pentesters and Security Pros</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/h7w/hackers-cache-hotlist-5649742c35b1?source=rss------bug_bounty-5\">Continue reading on T3CH \u00bb</a></p></div>",
+        "link": "https://medium.com/h7w/hackers-cache-hotlist-5649742c35b1?source=rss------bug_bounty-5",
+        "published": "Mon, 18 Nov 2024 00:56:36 GMT"
+    },
+    {
+        "title": "DOM XSS in document.write sink using source location.search",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@kcaaditya976/dom-xss-in-document-write-sink-using-source-location-search-cc0ba7b461c2?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1328/1*BQ_4ODvGhini2K8zOD22KQ.png\" width=\"1328\" /></a></p><p class=\"medium-feed-snippet\">DOM-Based Cross-Site Scripting (DOM XSS) is a type of XSS vulnerability where the malicious script is executed entirely in the browser&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@kcaaditya976/dom-xss-in-document-write-sink-using-source-location-search-cc0ba7b461c2?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@kcaaditya976/dom-xss-in-document-write-sink-using-source-location-search-cc0ba7b461c2?source=rss------bug_bounty-5",
+        "published": "Sun, 17 Nov 2024 20:32:51 GMT"
+    },
+    {
+        "title": "Who needs credentials, when you have the phone number\u2026?",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@thelazypentester/who-needs-credentials-when-you-have-the-phone-number-fc0c8f51b87e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1080/1*Kyugnwjdu-D6VFg6TECidg.jpeg\" width=\"1080\" /></a></p><p class=\"medium-feed-snippet\">Hello World, as I said in my previous article, I&#x2019;m back with yet another write-up.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@thelazypentester/who-needs-credentials-when-you-have-the-phone-number-fc0c8f51b87e?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@thelazypentester/who-needs-credentials-when-you-have-the-phone-number-fc0c8f51b87e?source=rss------bug_bounty-5",
+        "published": "Sun, 17 Nov 2024 20:04:04 GMT"
+    },
+    {
+        "title": "FB OAuth Misconfiguration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/650/0*YShAL-f6m6KYEGuS.png\" width=\"650\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone, in this blog post, I would like to discuss the Facebook OAuth Misconfiguration vulnerability I discovered.</p><p class=\"medium-feed-link\"><a href=\"https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty-5",
+        "published": "Sun, 17 Nov 2024 18:07:58 GMT"
+    },
+    {
+        "title": "OWASP Top 10\u20132021 Tryhackme Writeup",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://infosecwriteups.com/owasp-top-10-2021-tryhackme-writeup-56f2a04c895e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1017/1*BAOC_5xWhlGXr7iq65vung.png\" width=\"1017\" /></a></p><p class=\"medium-feed-snippet\">Learn about OWASP&apos;s Top 10 &#x2013; 2021 web security flaws findings</p><p class=\"medium-feed-link\"><a href=\"https://infosecwriteups.com/owasp-top-10-2021-tryhackme-writeup-56f2a04c895e?source=rss------bug_bounty-5\">Continue reading on InfoSec Write-ups \u00bb</a></p></div>",
+        "link": "https://infosecwriteups.com/owasp-top-10-2021-tryhackme-writeup-56f2a04c895e?source=rss------bug_bounty-5",
+        "published": "Sun, 17 Nov 2024 17:44:40 GMT"
+    },
+    {
+        "title": "How to Find P4 Vulnerabilities and Information Disclosure Bugs | Step-by-Step Guide to All Key\u2026",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@shaikhminhaz1975/how-to-find-p4-vulnerabilities-and-information-disclosure-bugs-step-by-step-guide-to-all-key-6ba8fc84c882?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/707/1*Ei1BK4MrL96RskuyTxHXzw.png\" width=\"707\" /></a></p><p class=\"medium-feed-snippet\">Still searching for vulnerabilities and haven&#x2019;t found any yet? Don&#x2019;t worry, you&#x2019;re at the right place. I know it&#x2019;s stressful&#x200a;&#x2014;&#x200a;testing&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@shaikhminhaz1975/how-to-find-p4-vulnerabilities-and-information-disclosure-bugs-step-by-step-guide-to-all-key-6ba8fc84c882?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@shaikhminhaz1975/how-to-find-p4-vulnerabilities-and-information-disclosure-bugs-step-by-step-guide-to-all-key-6ba8fc84c882?source=rss------bug_bounty-5",
+        "published": "Sun, 17 Nov 2024 17:11:02 GMT"
+    },
+    {
+        "title": "Hunting for Default Credentials: A Deeper Dive into the Toolkit",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@defaulty.io/hunting-for-default-credentials-a-deeper-dive-into-the-toolkit-2b3edde86f01?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1500/1*BNlpxJh5QsfJdPWLkFoZkg.jpeg\" width=\"1500\" /></a></p><p class=\"medium-feed-snippet\">Introduction</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@defaulty.io/hunting-for-default-credentials-a-deeper-dive-into-the-toolkit-2b3edde86f01?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@defaulty.io/hunting-for-default-credentials-a-deeper-dive-into-the-toolkit-2b3edde86f01?source=rss------bug_bounty-5",
+        "published": "Sun, 17 Nov 2024 15:10:53 GMT"
+    },
+    {
+        "title": "API Hacktics: Unveiling Vulnerabilities in Modern Web APIs",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://myselfakash20.medium.com/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*8t6lapMfT4iRSw_4mZDXhQ.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Hi, I&#x2019;m Akash Ghosh (myselfakash20), my friend I want to share a recent hunting of mine about API vulnerabilities.</p><p class=\"medium-feed-link\"><a href=\"https://myselfakash20.medium.com/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://myselfakash20.medium.com/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty-5",
+        "published": "Sun, 17 Nov 2024 14:35:03 GMT"
+    },
+    {
+        "title": "Bug bounty Cheatsheet",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@shardulsawant67/bug-bounty-cheatsheet-b87d3250bc2e?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/2560/1*npG3OPK4jh0EZgJDOtQMSQ.jpeg\" width=\"2560\" /></a></p><p class=\"medium-feed-snippet\">XSS\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md\nhttps://github.com/ismailtasdelen/xss-payload-list</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@shardulsawant67/bug-bounty-cheatsheet-b87d3250bc2e?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@shardulsawant67/bug-bounty-cheatsheet-b87d3250bc2e?source=rss------bug_bounty-5",
+        "published": "Sun, 17 Nov 2024 12:57:35 GMT"
+    },
+    {
+        "title": "XSS in Registration Form: A Bug Bounty Success",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@ziadsakr/xss-in-registration-form-a-bug-bounty-success-6fb9450b0e66?source=rss------bug_bounty-5\"><img src=\"https://cdn-images-1.medium.com/max/1166/1*x-q5ZAr0pRbhixGanRbBmw.png\" width=\"1166\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone&#xa0;, I hope you are well.</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@ziadsakr/xss-in-registration-form-a-bug-bounty-success-6fb9450b0e66?source=rss------bug_bounty-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@ziadsakr/xss-in-registration-form-a-bug-bounty-success-6fb9450b0e66?source=rss------bug_bounty-5",
+        "published": "Sun, 17 Nov 2024 11:03:01 GMT"
+    },
+    {
+        "title": "FB OAuth Misconfiguration",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/650/0*YShAL-f6m6KYEGuS.png\" width=\"650\" /></a></p><p class=\"medium-feed-snippet\">Hello everyone, in this blog post, I would like to discuss the Facebook OAuth Misconfiguration vulnerability I discovered.</p><p class=\"medium-feed-link\"><a href=\"https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty_writeup-5",
+        "published": "Sun, 17 Nov 2024 18:07:58 GMT"
+    },
+    {
+        "title": "API Hacktics: Unveiling Vulnerabilities in Modern Web APIs",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://myselfakash20.medium.com/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*8t6lapMfT4iRSw_4mZDXhQ.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Hi, I&#x2019;m Akash Ghosh (myselfakash20), my friend I want to share a recent hunting of mine about API vulnerabilities.</p><p class=\"medium-feed-link\"><a href=\"https://myselfakash20.medium.com/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://myselfakash20.medium.com/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty_writeup-5",
+        "published": "Sun, 17 Nov 2024 14:35:03 GMT"
+    },
+    {
+        "title": "Week 2: Hard Work Transforms into a 5-Digit Payday",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://mokhansec.medium.com/week-2-hard-work-transforms-into-a-5-digit-payday-8087819bccd9?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/940/1*8cQGiFX8QSReKq8elWFc9w.png\" width=\"940\" /></a></p><p class=\"medium-feed-snippet\">Date: 11th Nov 2024&#x2013;17th Nov 2024</p><p class=\"medium-feed-link\"><a href=\"https://mokhansec.medium.com/week-2-hard-work-transforms-into-a-5-digit-payday-8087819bccd9?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://mokhansec.medium.com/week-2-hard-work-transforms-into-a-5-digit-payday-8087819bccd9?source=rss------bug_bounty_writeup-5",
+        "published": "Sun, 17 Nov 2024 07:45:59 GMT"
+    },
+    {
+        "title": "Exposing Open Redirect Vulnerabilities: JavaScript File Analysis in HTTP History Burp Suite",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://medium.com/@gheeX/exposing-open-redirect-vulnerabilities-javascript-file-analysis-in-http-history-burp-suite-c64bd1c93c54?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1366/1*X1hXU2_YpDJQNSIpSgYtbQ.png\" width=\"1366\" /></a></p><p class=\"medium-feed-snippet\">A few days ago I opened my email, and I saw a message from yeswehack containing an invitation to a bug bounty program (private program).</p><p class=\"medium-feed-link\"><a href=\"https://medium.com/@gheeX/exposing-open-redirect-vulnerabilities-javascript-file-analysis-in-http-history-burp-suite-c64bd1c93c54?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://medium.com/@gheeX/exposing-open-redirect-vulnerabilities-javascript-file-analysis-in-http-history-burp-suite-c64bd1c93c54?source=rss------bug_bounty_writeup-5",
+        "published": "Sun, 17 Nov 2024 07:15:53 GMT"
+    },
+    {
+        "title": "Comprehensive Guide to Exploitation Techniques for Bug Bounty Hunters: From Beginner to Advanced",
+        "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://myselfakash20.medium.com/comprehensive-guide-to-exploitation-techniques-for-bug-bounty-hunters-from-beginner-to-advanced-b32001326b9e?source=rss------bug_bounty_writeup-5\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*eKAXQi-OnzNycuQn6AOSZg.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Hello, I&#x2019;m Akash Ghosh, a dedicated Bug Bounty Hunter and Cybersecurity Professional with a passion for exploring and uncovering web&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://myselfakash20.medium.com/comprehensive-guide-to-exploitation-techniques-for-bug-bounty-hunters-from-beginner-to-advanced-b32001326b9e?source=rss------bug_bounty_writeup-5\">Continue reading on Medium \u00bb</a></p></div>",
+        "link": "https://myselfakash20.medium.com/comprehensive-guide-to-exploitation-techniques-for-bug-bounty-hunters-from-beginner-to-advanced-b32001326b9e?source=rss------bug_bounty_writeup-5",
+        "published": "Sun, 17 Nov 2024 05:20:03 GMT"
     }
 ]
