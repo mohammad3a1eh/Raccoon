@@ -71,12 +71,13 @@ async def run(token, chat_id):
                 continue
             
             post_ += 1
-            
+
+            title = entry.title
             author = entry.author if hasattr(entry, 'author') else "Unknown"
             categories = get_categories(entry)
 
             text = f"""
-<b>{post['title']}</b>(<i>{author}</i>)
+<b>{title}</b>(<i>{author}</i>)
 <a href='{post['link']}'>Link</a>
 {categories}"""
 
