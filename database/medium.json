@@ -5749,5 +5749,53 @@
     },
     {
         "link": "https://osintteam.blog/unlock-bug-bounty-brilliance-the-ultimate-guide-to-browser-extensions-that-supercharge-your-fbb323e29dc0?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://osintteam.blog/why-bug-bounty-could-be-a-career-for-you-17b6b7b66e16?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://shubhamrooter.medium.com/shodanspider-a-powerful-tool-for-cybersecurity-research-02eac3ed75e2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/my-journey-finding-bugs-on-nasa-a2296d142b0a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Laxious8848/file-path-traversal-validation-of-file-extension-with-null-byte-bypass-6625f4a4fbec?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Laxious8848/file-path-traversal-validation-of-start-of-path-063e8995a55d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/ghost-tap-exploits-nfc-payments-for-fraud-dc2a263ff603?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/oracle-agile-plm-vulnerability-exploited-in-the-wild-protect-your-data-129f8d9ac922?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Laxious8848/file-path-traversal-traversal-sequences-stripped-with-superfluous-url-decode-0b303cfe5b69?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@prathameshbagul/resolving-the-externally-managed-environment-error-in-python-b91650d45946?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/my-journey-finding-bugs-on-nasa-a2296d142b0a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@abdalah336/how-i-reported-over-50-security-vulnerability-in-a-single-program-with-just-the-main-app-in-scope-0045b9d39644?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@l_s_/honey-you-left-the-apis-open-again-c382a3a2d917?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@Aizen-arrancar/how-i-find-open-redirect-and-rfd-on-steam-domain-7f8b27457e5a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@0xbugatti/how-hidden-3xxss-got-revealed-b42f041d36f6?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://mokhansec.medium.com/the-2-200-ato-most-bug-hunters-overlooked-by-closing-intruder-too-soon-505f21d56732?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://aman0.medium.com/bypassing-password-reuse-restriction-a-security-flaw-1bf2210d9bbd?source=rss------bug_bounty_writeup-5"
     }
 ]
