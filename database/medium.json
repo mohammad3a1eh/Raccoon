@@ -5797,5 +5797,35 @@
     },
     {
         "link": "https://aman0.medium.com/bypassing-password-reuse-restriction-a-security-flaw-1bf2210d9bbd?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@captainX404/captainx404-b41a7f1e3ff3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mayank_prajapati/reconnaissance-on-archive-urls-4125ce7544ed?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@j0hnZ3RA/forbidden-bypass-cloudflare-zero-trust-english-version-436efff4a548?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@j0hnZ3RA/forbidden-bypass-cloudflare-zero-trust-6bcc7ad464ee?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@0xw01f/they-ignored-my-bug-report-but-fixed-it-silently-my-experience-with-enhancv-a8ffe5e3e790?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rootelvin/html-encode-il%C9%99-xss-v%C9%99-html-i%CC%87njection-h%C3%BCcumlar%C4%B1n%C4%B1n-qar%C5%9F%C4%B1s%C4%B1n%C4%B1n-al%C4%B1nmas%C4%B1-01e21dfe11b5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://myselfakash20.medium.com/the-900-bug-my-journey-through-ssrf-and-lfi-exploits-222feb276deb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mohanad9837/idor-checklist-2025-443575a389d4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@sugamdangal52/finding-and-exploiting-open-smb-service-bug-bounty-write-up-492d72cd2fa3?source=rss------bug_bounty-5"
     }
 ]
