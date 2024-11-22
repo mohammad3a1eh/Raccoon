@@ -3,7 +3,7 @@ import json
 import feedparser
 import module.tbot
 import asyncio
-import yt_dlp
+from urllib.parse import quote
 
 
 FILENAME = os.path.splitext(os.path.basename(__file__))[0]
@@ -38,24 +38,6 @@ def post_exists_in_db(link, db):
     return False
 
 
-def get_mp3(link):
-    ydl_opts = {
-        'format': 'bestaudio/best',
-        'outtmpl': '%(title)s.%(ext)s',
-        'postprocessors': [{
-            'key': 'FFmpegExtractAudio',
-            'preferredcodec': 'mp3',
-            'preferredquality': '192',
-        }],
-    }
-
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(link, download=True)
-        file_path = f"{info['title']}.mp3"
-
-    return file_path
-
-
 async def run(token, chat_id):
     db, channel_ids = load_(data="youtube", key=FILENAME)
 
@@ -83,13 +65,29 @@ async def run(token, chat_id):
 
             video_ += 1
 
-            module.tbot.Telegram.send_audio_to_tel(
-                file_path=get_mp3(entry.link),
-                caption="",
-                link=entry.link,
-                chat_id=chat_id,
-                bot_token=token
-            )
+            channel = entry.author.name
+            title = entry.title
+
+            text = f"""
+<b>{title}</b>(<i>{channel}</i>)
+<a href='{video['link']}'>Link</a>"""
+
+            links = [
+                [
+                    {
+                        "text": "youtube.com",
+                        "url": f"{video['link']}"
+                    }
+                ],
+                [
+                    {
+                        "text": "YtbAudioBot",
+                        "url": f"https://t.me/YtbAudioBot?start={quote(video['link'])}"
+                    }
+                ]
+            ]
+
+            module.tbot.Telegram.send_text_with_btn(text, links, chat_id, token)
 
             db.append(video)
 
