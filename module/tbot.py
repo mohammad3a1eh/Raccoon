@@ -16,7 +16,7 @@ class Telegram:
         await cls.bot.send_message(chat_id=chat_id, text=text)
 
     @classmethod
-    def send_text_with_btn(cls, text, link, chat_id, bot_token):
+    def send_text_with_btn(cls, text, links, chat_id, bot_token):
         url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
 
         payload = {
@@ -24,20 +24,7 @@ class Telegram:
             "text": text,
             "parse_mode": "HTML",
             "reply_markup": {
-                "inline_keyboard": [
-                    [
-                        {
-                            "text": "medium.com",
-                            "url": f"{link}"
-                        }
-                    ],
-                    [
-                        {
-                            "text": "freedium.cfd",
-                            "url": f"https://freedium.cfd/{link}"
-                        }
-                    ]
-                ]
+                "inline_keyboard": links
             }
         }
 
