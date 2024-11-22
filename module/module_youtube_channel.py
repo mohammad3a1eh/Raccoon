@@ -65,7 +65,7 @@ async def run(token, chat_id):
 
             video_ += 1
 
-            channel = entry.author.name
+            channel = entry.author
             title = entry.title
 
             text = f"""
