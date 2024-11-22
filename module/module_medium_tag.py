@@ -33,7 +33,7 @@ def read_rss(tag):
 
 def post_exists_in_db(post, db):
     for item in db:
-        if post['link'] == item['link']:
+        if post['link'].split("?source=rss")[0] == item['link'].split("?source=rss")[0]:
             return True
     return False
 
