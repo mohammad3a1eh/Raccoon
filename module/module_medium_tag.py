@@ -3,7 +3,6 @@ import os
 import module
 import module.tbot
 import feedparser
-import re
 import asyncio
 
 
@@ -50,7 +49,7 @@ async def run(token, chat_id):
     db, tags = load_(data="medium", key=FILENAME)
     
     module.tbot.Telegram.init(token=token)
-    await module.tbot.Telegram.send_text_to_tel(f"⬛ The raccoon script has started running the '{NAME}' module", chat_id=chat_id)
+    await module.tbot.Telegram.send_text_to_tel(f"The raccoon script has started running the '{NAME}' module", chat_id=chat_id)
     
     post_ = 0
     
@@ -65,10 +64,7 @@ async def run(token, chat_id):
                 await asyncio.sleep(10)
 
             post = {
-                "title" : f"{entry.title}",
-                "summary" : f"{entry.summary}",
-                "link" : f"{entry.link}",
-                "published" : f"{entry.published}" 
+                "link": f"{entry.link}",
             }
             
             if post_exists_in_db(post=post, db=db):
@@ -81,22 +77,9 @@ async def run(token, chat_id):
             data = post['published'].split()
 
             text = f"""
-<b>{post['title']}</b>
-<i>{author}</i>
-
+<b>{post['title']}</b>(<i>{author}</i>)
 <a href='{post['link']}'>Link</a>
-
-{data[1]}-{data[2]}-{data[3]}
-
 {categories}"""
-            
-            # img_src = re.search(r'<img src="([^"]+)"', post["summary"])
-            
-            # if img_src:
-            #     image_url = img_src.group(1)
-            #     await module.tbot.Telegram.send_image_to_tel(text, chat_id, image_url)
-            # else:
-            #     await module.tbot.Telegram.send_text_to_tel(text, chat_id)
 
             module.tbot.Telegram.send_text_with_btn(text, post['link'], chat_id, token)
             
