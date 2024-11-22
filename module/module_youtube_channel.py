@@ -78,12 +78,6 @@ async def run(token, chat_id):
                         "text": "youtube.com",
                         "url": f"{video['link']}"
                     }
-                ],
-                [
-                    {
-                        "text": "YtbAudioBot",
-                        "url": f"https://t.me/YtbAudioBot?start={quote(video['link'])}"
-                    }
                 ]
             ]
 
