@@ -88,4 +88,4 @@ async def run(token, chat_id):
             with open(f"database/youtube.json", "w") as file:
                 json.dump(db, file, indent=4)
 
-    await module.tbot.send_text_to_tel(f"Find {video_} video", chat_id)
+    await module.tbot.Telegram.send_text_to_tel(f"Find {video_} video", chat_id)
