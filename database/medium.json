@@ -5869,5 +5869,35 @@
     },
     {
         "link": "https://medium.com/@wiretor/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs-ccc83ef8b4d6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mohanad9837/race-condition-on-bbp-7294e8582ade?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mshulkhan/idor-is-not-only-on-the-id-8e94b5cc193e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersechemmars.medium.com/my-bug-bounty-hunting-methodology-51ac0a891978?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@k3r0/tryhackme-nosqli-walkthrough-155c6380f5b3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@yarmuhammadnizamani556/beginners-guide-to-ethical-hacking-what-i-learned-from-my-first-bug-bounty-724a9f97f38b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@anandrishav2228/android-pentesting-can-make-you-500-day-818158f9b43d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@demonia/how-i-do-my-recon-and-end-up-finding-hidden-assets-and-vulnerabilities-before-anyone-else-pt-2-2c8dd13d6c19?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://0x4a6f76616e.medium.com/hacking-wordpress-where-to-begin-60179dc403d9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/7-steps-guide-to-cname-subdomain-takeover-f10eebd7e952?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://mokhansec.medium.com/week-3-when-the-drive-to-work-fades-3e94a89559c0?source=rss------bug_bounty_writeup-5"
     }
 ]
