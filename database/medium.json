@@ -6061,5 +6061,41 @@
     },
     {
         "link": "https://medium.com/@muralidharan1530/email-verification-bypass-vulnerability-a-critical-flaw-exploited-1d7a316b2514?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@sharp488/critical-account-takeover-mfa-auth-bypass-due-to-cookie-misconfiguration-3ca7d1672f9d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@zero_4583/understanding-the-scope-navigating-website-pentesting-and-bug-bounty-targets-a6ab701df932?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/p4-bugs-and-their-poc-steps-part-8-910ee6ba5710?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@elkhawaga1900/x-twitter-my-first-real-bug-7c7d26bef48f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/the-ultimate-guide-to-top-ethical-hacking-platforms-in-2024-adcfc808caea?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/%EF%B8%8F-microsoft-hacking-warning-450-million-windows-users-must-now-act-%EF%B8%8F-a7be6255a338?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/russian-script-kiddie-builds-massive-ddos-botnet-bac1b6c57e9f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@TahirAyoub/marianas-web-the-danger-part-of-the-internet-be69e3118e3d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/a-massive-security-breach-at-andrew-tates-platform-the-real-world-has-exposed-the-personal-576892ffca1c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@red.whisperer/5-side-hustles-for-ethical-hackers-8f3e0ca983ed?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://vijetareigns.medium.com/delete-account-functionality-helped-me-earn-250-21baa23c4034?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@gheeX/discovery-of-xss-html-injection-by-analyzing-target-source-code-0bc7a96c3ca4?source=rss------bug_bounty_writeup-5"
     }
 ]
