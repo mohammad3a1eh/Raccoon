@@ -6097,5 +6097,44 @@
     },
     {
         "link": "https://medium.com/@gheeX/discovery-of-xss-html-injection-by-analyzing-target-source-code-0bc7a96c3ca4?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/infosecmatrix/how-i-got-access-to-credentials-easily-00ced4ba15bd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@paritoshblogs/how-to-master-advanced-threat-hunting-bcfb9d1e159c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rcxsecurity/web-shell-upload-via-extension-blacklist-bypass-file-upload-vulnerability-f98ee877aff1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/the-ultimate-guide-to-top-pentest-as-a-service-providers-in-2024-f03b0408b0a5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Laxious8848/sql-injection-union-attack-determining-the-number-of-columns-returned-by-the-query-4792d89ad93f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/exploring-alternatives-to-cobalt-why-hackrate-stands-out-67473c1e74e6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/russia-arrests-cybercriminal-wazawaka-tied-to-ransomware-gangs-9354c557f1d5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/spyloan-android-malware-installed-over-8-million-times-on-google-play-d0331b3c762e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Kamal_S/picoctf-web-exploitation-unminify-6dd45341b7f5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://jackhavoltrey.medium.com/why-i-failed-this-november-a-clowns-reflection-on-failure-3223fec4451e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://mokhansec.medium.com/week-4-a-drive-to-recharge-and-reconnect-4d0f8b7258d0?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/how-i-discovered-an-api-security-issue-my-first-bug-bounty-blog-7deec48453ff?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@muralidharan1530/password-reset-link-not-expiring-after-email-change-a-critical-vulnerability-by-muralidharan-370a58a860f8?source=rss------bug_bounty_writeup-5"
     }
 ]
