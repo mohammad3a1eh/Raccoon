@@ -6235,5 +6235,56 @@
     },
     {
         "link": "https://infosecwriteups.com/firebase-url-exploitation-taking-over-android-databases-like-a-pro-79a00844496d?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://osintteam.blog/why-are-you-not-identifying-bugs-in-website-2025-8ff218815b7d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://imooaaz.medium.com/from-frustration-to-exploitation-how-a-link-shortener-helped-me-bypass-waf-03724dca1592?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/bug-hunting-ff366260d8df?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/chinese-hackers-salt-typhoon-breach-global-telecom-networks-00b40e0ce07e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/new-droidbot-malware-targets-77-banking-crypto-apps-1b5105a66625?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/uk-cracks-down-on-russian-money-laundering-networks-4dfae89f9000?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/%EF%B8%8F-critical-zero-day-uncovered-mitel-micollab-wide-open-to-attackers-%EF%B8%8F-cdc36da3552e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/penetration-testing-on-steroids-revolutionizing-ethical-hacking-with-hackrate-and-hackgate-7edaf7244075?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@awabhassan/practical-bug-bounty-tcm-academy-report-writing-bypass-best-programs-710516804f53?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@AZEX.io/azex-testnet-campaign-is-live-ac553c18af8a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mrasg/how-i-exploited-passkey-to-gain-unauthorized-access-and-takeover-invited-accounts-b8b4547ffe70?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-i-broke-into-my-dev-friends-website-in-less-than-24-hour-6fdb31ad65a1?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/the-story-of-how-i-hacked-an-international-university-in-indonesia-ec819a8c8fc0?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@mrasg/mass-account-takeover-in-stripes-taxjar-a-one-click-exploit-6fd13bb75f04?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@mrasg/how-note-taking-and-hacktivity-analysis-led-to-privilege-escalation-627aaf3bbd84?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@mrasg/how-i-achieved-a-full-account-takeover-through-information-disclosure-16c6f697b76e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@mrasg/how-i-turned-a-low-hanging-fruit-bug-into-mass-unauthorized-deletion-of-invited-members-6f195deffe11?source=rss------bug_bounty_writeup-5"
     }
 ]
