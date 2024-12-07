@@ -6286,5 +6286,38 @@
     },
     {
         "link": "https://medium.com/@mrasg/how-i-turned-a-low-hanging-fruit-bug-into-mass-unauthorized-deletion-of-invited-members-6f195deffe11?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/p3-bug-in-few-minutes-006f57913f71?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mrasg/from-low-privileges-to-owner-rights-a-wild-journey-through-an-ato-vulnerability-cb21c468634c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/my-first-bounty-of-37c2d40cbdd9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@enigma_/a01-broken-access-control-and-a05-security-misconfiguration-leads-to-unauthenticated-access-to-0897e3bec491?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mrasg/10-essential-tips-for-bug-bounty-beginners-a-fun-practical-and-slightly-cheeky-guide-to-kicking-c7da8a9b1b31?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/atrium-health-data-breach-impacts-585-000-people-why-healthcare-cybersecurity-needs-immediate-38a479e96e39?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/%EF%B8%8F-breaking-u-s-arrests-scattered-spider-suspect-behind-telecom-hacks-phishing-scams-%EF%B8%8F-cd44ea215b09?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://aman0.medium.com/now-lets-set-frida-for-ssl-pinning-bypass-9ee8ae11b7b5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/list-of-top-bug-bounty-platforms-for-2024-fc31553c2e78?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://whoisshuvam.medium.com/the-art-of-pwning-okta-for-profit-and-fun-075dedbc4715?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/the-hidden-gps-threat-unstripped-metadata-on-redacted-com-led-5k-rubel-in-bounties-%EF%B8%8F-%EF%B8%8F-fd044d2031b6?source=rss------bug_bounty_writeup-5"
     }
 ]
