@@ -6319,5 +6319,38 @@
     },
     {
         "link": "https://infosecwriteups.com/the-hidden-gps-threat-unstripped-metadata-on-redacted-com-led-5k-rubel-in-bounties-%EF%B8%8F-%EF%B8%8F-fd044d2031b6?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://systemweakness.com/400-bounty-in-10-sec-14d26c2976ec?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@sharp488/critical-authentication-bypass-account-takeover-via-attackers-mfa-code-fadf36fe6e34?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://systemweakness.com/misconfigurations-that-paid-me-big-how-i-exploited-them-and-how-you-can-stop-me-788a5375aa3c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@zero_4583/from-dev-to-disaster-my-hilarious-first-attempt-at-bug-bounties-with-burp-suite-pro-20fddd3ad295?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@zumiyumi/how-i-discovered-my-first-cve-7b1e2987326c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://shuvonsec.medium.com/hackers-arent-built-by-tools-they-build-the-tools-6581f38dbb34?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/ransomware-breach-exposes-310k-patient-records-at-anna-jaques-hospital-8548c120ad63?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/ultralytics-ai-supply-chain-breach-cryptominer-infects-thousands-5a0d82d1c32e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/new-windows-zero-day-alert-ntlm-credentials-at-risk-ad6256807d0c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/police-shut-down-manson-cybercrime-market-arrest-key-suspects-29bdcbaae6cf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mrasg/how-i-found-an-ato-vulnerability-in-stripe-program-in-an-overlooked-corner-dce7d2cdaaf9?source=rss------bug_bounty_writeup-5"
     }
 ]
