@@ -6427,5 +6427,47 @@
     },
     {
         "link": "https://awstip.com/how-i-exploited-amazon-cognito-misconfigurations-to-access-confidential-s3-data-badb62cabfab?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://systemweakness.com/exposed-git-directory-p1-bug-5fd272a62f51?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@paritoshblogs/we-faced-a-brute-force-attack-heres-what-saved-us-1d33547eca61?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://j0nasdias.medium.com/how-i-earned-over-100-points-on-hackerone-with-email-spoofing-1ae0c4bc6aba?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-i-bypassed-otp-like-a-devil-leading-to-full-account-takeover-7bb7a673f7a0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rootspaghetti/naabu-a-fast-and-efficient-port-scanning-tool-a5f8a4cf0641?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/oauth-account-hijacking-via-redirect-uri-ae8ca7a66930?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@reazatih/how-i-bypassed-403-forbidden-private-method-fc066c11f90f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/50m-crypto-heist-linked-to-north-korean-hackers-in-radiant-capital-attack-71be5b6515d7?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/chinese-cyber-attack-targets-european-it-firms-using-visual-studio-code-for-supply-chain-761a472b00b2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/romanian-energy-supplier-electrica-hit-by-ransomware-attack-8e1b3d8e453d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@gourisankara357/vulnerability-hunting-journey-cost-discovering-xss-and-clickjacking-on-goverment-domains-faa81fba7a2a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@rootplinix/i-found-7-log4j-rce-in-a-single-program-5afb7d02dd06?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/zoho-qengine-arbitrary-file-read-08df3d1e167e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/500-bypassing-cloudflare-waf-to-achieve-xss-f3b9c4acb702?source=rss------bug_bounty_writeup-5"
     }
 ]
