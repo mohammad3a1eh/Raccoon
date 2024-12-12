@@ -6469,5 +6469,35 @@
     },
     {
         "link": "https://medium.com/@kumawatabhijeet2002/500-bypassing-cloudflare-waf-to-achieve-xss-f3b9c4acb702?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@kauenavarro/bugbounty-sqli-data-exfiltration-via-dns-3e68ece08205?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@security.tecno/award-winning-survey-about-security-vulnerability-submission-function-c3113e2baec0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/how-i-secured-the-indian-army-9a80ba399202?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/data-breach-446k-patients-employees-affected-at-center-for-vein-restoration-a75cf6fc1a5e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/urgent-warning-ivanti-csa-flaw-exposes-admin-controls-to-hackers-d6937ede4389?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/critical-wpforms-flaw-exposes-6m-sites-to-unauthorized-stripe-refunds-da9f48a7bfd0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@banertheinrich/idor-leads-to-leak-private-users-data-3a2b59f58826?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/hackrate-ptaas-powered-by-hackgate-redefining-penetration-testing-cb91c07ecc8f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mohammed01550038865/easy-sqli-in-just-30-minutes-0296038bb473?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://0xshuvo.medium.com/email-flooding-without-knowing-victim-email-via-csrf-8de8bf5de3a3?source=rss------bug_bounty-5"
     }
 ]
