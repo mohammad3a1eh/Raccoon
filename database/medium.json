@@ -6499,5 +6499,38 @@
     },
     {
         "link": "https://0xshuvo.medium.com/email-flooding-without-knowing-victim-email-via-csrf-8de8bf5de3a3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@enigma_/reflected-xss-on-gaming-blog-website-edc448d613a3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/xxx-bounty-for-2fa-disabled-without-password-and-otp-by-response-manipulation-499ba5234a4f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@andresbe.be/bypasseando-controles-en-un-pos-un-poco-de-humo-del-bueno-b18b6ecbc775?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mrasg/how-a-race-condition-became-an-account-takeover-vulnerability-756f14990f38?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://rikeshbaniya.medium.com/account-takeover-using-sso-logins-fa35f28a358b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@d4nglz17/hack-the-box-academy-file-inclusion-skills-assessment-1ca0283a9a06?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/identity-access-alert-microsoft-mfa-bypassed-via-authquake-attack-fc57043fe39a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/critical-alert-hackers-exploit-hunk-companion-wordpress-plugin-50fcf5834f84?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/how-to-find-and-identify-race-condition-vulnerabilities-as-a-penetration-tester-9d9ecce6ed56?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-web-application-part-1-95f659ff7d0a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mrasg/how-i-bypassed-email-confirmation-a-playful-journey-into-the-world-of-bug-hunting-30f72d6c2fb6?source=rss------bug_bounty_writeup-5"
     }
 ]
