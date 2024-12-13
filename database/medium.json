@@ -6532,5 +6532,26 @@
     },
     {
         "link": "https://medium.com/@mrasg/how-i-bypassed-email-confirmation-a-playful-journey-into-the-world-of-bug-hunting-30f72d6c2fb6?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/third-party-services-takeover-using-oauth-misconfiguration-8888a0c1ad86?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Ahmex000/idor-is-easy-you-may-dont-know-the-longest-privesc-i-ve-ever-faced-on-public-bbp-1bf67cd699d8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mayankmalaviya3/how-i-found-and-fixed-xss-on-a-website-a-bug-hunters-tale-bc7351043928?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/critical-unauthorized-access-to-admin-pages-via-vulnerable-endpoints-e8799b3f7f69?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/hidden-ace-up-hackers-sleeve-hacking-gadgets-1-phone-on-a-simmy-8b3d3cd540cf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/deep-recon-methodology-for-bug-bounty-hunters-part-1-54bdac09dcf4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://shubhamrooter.medium.com/introducing-shodanspider-v2-your-ultimate-free-tool-for-cve-searching-and-shodan-data-analysis-ba7c7b3097b0?source=rss------bug_bounty-5"
     }
 ]
