@@ -6577,5 +6577,41 @@
     },
     {
         "link": "https://medium.com/@hackrate/make-penetration-testing-sexy-again-with-hackgate-51c556944c0b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ProwlSec/jwt-auth-gone-wild-the-unexpected-twist-a0b2ed943225?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/p4-bugs-and-their-poc-steps-part-9-c1f873227917?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mahdisalhi0500/using-platform-profiles-to-send-fake-in-information-a-security-risk-good-logic-bug-0510d73802b8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/dubai-police-identity-used-in-sophisticated-uae-mobile-scams-36b9d149db17?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/are-you-looking-for-an-intigriti-alternative-4128a25888ed?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@bootstrapsecurity/exploiting-api-rate-limiting-bypassing-restrictions-c89a1bd61aee?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/how-i-found-a-broken-link-hijacking-vulnerability-in-2-minutes-250-bounty-0d991eb9c61b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/my-first-critical-bug-exposing-3-5-lakh-pii-%EF%B8%8F-fbad616ddbea?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@burhankhansodhar/git-information-leak-how-to-exploit-an-exposed-git-repository-on-a-web-server-ac190ae18928?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@najeebkm010/simplifying-reconnaissance-building-a-custom-bug-hunting-discord-bot-6792ab4249bf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@jerryhackgather/exploiting-ds-store-a377c19d5b35?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@najeebkm010/how-i-discovered-a-7-000-critical-vulnerability-idor-to-bac-to-account-takeover-0c195eae2ed2?source=rss------bug_bounty_writeup-5"
     }
 ]
