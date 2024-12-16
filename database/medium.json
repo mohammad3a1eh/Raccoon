@@ -6613,5 +6613,38 @@
     },
     {
         "link": "https://medium.com/@najeebkm010/how-i-discovered-a-7-000-critical-vulnerability-idor-to-bac-to-account-takeover-0c195eae2ed2?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@0xNayelx/htb-university-ctf-2024-web-challenges-writeup-breaking-bank-easy-1c3064092abc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://systemweakness.com/advanced-google-dorking-part14-79b21e11ae25?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@0xNayelx/htb-university-ctf-2024-web-challenges-writeup-armaxis-very-easy-404ac9f101b8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/ultimate-django-vulnerability-checklist-ceb7f428c45f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/lkq-hacked-cyberattack-disrupts-canadian-unit-operations-and-exposes-company-data-7db6b9763011?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/russia-blocks-viber-latest-move-to-censor-communications-9dce4d823d67?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@cc1a2bb/javascript-bugbounty-method-5b789bfa7f44?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rootspaghetti/shadowjs-javascript-file-discovery-tool-1ede2f3172b6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@anonymousshetty2003/sql-injection-vulnerability-on-a-security-awareness-website-from-database-dump-to-cpanel-access-4bb3645eef07?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@anonymousshetty2003/how-i-found-a-email-spoofing-vulnerability-to-perform-phishing-attacks-00ec2cc934bb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@bugbounty_learners/sql-injection-2025-17a5c0075a9a?source=rss------bug_bounty_writeup-5"
     }
 ]
