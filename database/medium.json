@@ -6646,5 +6646,35 @@
     },
     {
         "link": "https://medium.com/@bugbounty_learners/sql-injection-2025-17a5c0075a9a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@malvinval/cve-2024-54385-wordpress-plugin-7ff0f8e5ad1d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/200-dll-hijacking-attack-fdb4fd46fea9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@reazatih/osint-and-dorking-tools-67dc970d049d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://theartificialthinker.medium.com/wordlists-every-pentester-must-have-7ad4c1e46ce5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/clop-ransomware-gang-behind-major-cleo-data-breach-421b729bafde?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/connectoncall-breach-exposes-900k-records-dont-be-next-get-wire-tor-protection-today-d4dd7de3570d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/winnti-hackers-strike-again-new-glutton-backdoor-exposed-5cd7bbb0faf0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@nagashygaballah/hacking-scope-exposure-for-tons-of-secret-documents-5ba5c3906600?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/traditional-penetration-testing-vs-bug-bounty-programs-bb792a4d0d3f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/from-minor-glitches-to-major-wins-how-i-chained-csrf-and-idor-for-a-critical-exploit-0b110170cd9c?source=rss------bug_bounty-5"
     }
 ]
