@@ -6676,5 +6676,38 @@
     },
     {
         "link": "https://osintteam.blog/from-minor-glitches-to-major-wins-how-i-chained-csrf-and-idor-for-a-critical-exploit-0b110170cd9c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dsmodi484/admin-panel-access-via-default-credentials-215b92b030bb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mrsingh10978/easiest-p1-702990960a50?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@momenrezkk90/successfully-gained-full-admin-access-and-changed-the-password-through-token-manipulation-%EF%B8%8F-fe91fc0d9a0f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@momenrezkk90/exploiting-access-control-misconfiguration-privilege-escalation-via-improper-patch-method-b653bb92ada6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@sreedeep200/top-5-ways-to-hack-apis-and-find-good-bugs-dfd4a7bbb623?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://rahman0x01.medium.com/403-bypass-changing-http-method-only-f0a32b43a3c8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/cybersecurity-alert-texas-tech-university-system-data-breach-impacts-1-4-million-patients-caceb8096be9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/fbi-alert-hiatusrat-malware-attacks-targeting-web-cameras-dvrs-37f2eeb2bd01?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@loayahmed686/easy-100-in-public-hackerone-program-under-3-minutes-69b20e185d3b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/uncovering-vulnerabilities-through-swagger-ui-directory-enumeration-49e6b43558cd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-i-broke-the-speed-limit-a-bug-bounty-tale-of-bypassing-rate-limiting-29a1ec4e8681?source=rss------bug_bounty_writeup-5"
     }
 ]
