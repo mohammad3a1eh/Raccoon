@@ -6874,5 +6874,41 @@
     },
     {
         "link": "https://medium.com/@zpx15266/open-redirect-get-based-bc86e62c3af2?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@firdansp/find-bug-in-10-minutes-critical-sql-file-leak-reveals-sensitive-data-84e48fece4bb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@paritoshblogs/important-windows-events-every-soc-analyst-should-know-ed91bce15ed2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@BetterBy0x01/website-enumeration-and-information-gathering-part-2-3588cf9e0529?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/how-i-test-for-open-redirect-271cd0d0ae55?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://thexssrat.medium.com/very-basic-beginner-bug-bounty-methodology-practical-tips-and-techniques-for-web-apps-3cf9104e7f50?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://thexssrat.medium.com/100-cli-flags-and-tricks-every-bug-bounty-hunter-should-know-959813992077?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://im4x.medium.com/what-is-wss-fa2476eeddc1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@vishalsuwalkab/ewptx-examination-structure-and-content-577d81379c39?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@bi___ya/how-technology-can-enhance-information-security-in-organizations-9b0ce5029472?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ph4nt0mbyt3/bug-bounty-isnt-always-fair-a-researcher-s-perspective-be0a62b9f0eb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@alexandrevandammepro/stop-data-breaches-in-their-tracks-with-leakradar-io-cc3c4b887c14?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@0xboody/exploiting-password-reset-link-after-email-change-17fe2babc01e?source=rss------bug_bounty_writeup-5"
     }
 ]
