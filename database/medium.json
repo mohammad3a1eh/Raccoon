@@ -6910,5 +6910,41 @@
     },
     {
         "link": "https://medium.com/@0xboody/exploiting-password-reset-link-after-email-change-17fe2babc01e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@firdansp/bug-critical-flaw-default-password-to-super-admin-ef20c4214231?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://gr3yg05t.medium.com/business-logic-i-can-order-anything-from-your-account-without-paying-for-it-86ef070e01dd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/my-first-encounter-with-stored-xss-%EF%B8%8F-%EF%B8%8F-88e167582b7e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/received-an-appreciation-letter-from-nasa-927c3d1ae828?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/seven-critical-vulnerabilities-found-in-premium-wplms-wordpress-plugins-c3ce57c55bae?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/new-glutton-malware-exploits-popular-php-frameworks-2a5914f89407?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/infosecmatrix/advent-of-cyber-2024-day-24-writeup-with-answers-tryhackme-walkthrough-18393b422649?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/from-broken-access-control-to-first-bounty-01712b1dab53?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/a-seemingly-harmless-bug-that-could-cost-a-company-millions-aeada3a31bae?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/why-2025-will-be-the-year-of-bug-bounty-9811e3987e78?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-3-e9837e3da655?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-2-0f3a075e2a65?source=rss------bug_bounty_writeup-5"
     }
 ]
