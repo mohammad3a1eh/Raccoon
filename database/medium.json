@@ -6946,5 +6946,35 @@
     },
     {
         "link": "https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-2-0f3a075e2a65?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://coffinxp.medium.com/find-xss-vulnerabilities-in-just-2-minutes-d14b63d000b1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/infosecmatrix/uncovering-amazon-s3-bucket-vulnerabilities-a-comprehensive-guide-for-ethical-hackers-124790bf9e62?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rootast/cross-site-scripting-xss-techniques-bypasses-and-detection-927af5a55d02?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@afilalbadr2/how-would-i-start-cybersecurity-if-i-knew-this-a-1-year-roadmap-for-2025-c069ba183dc0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://thexssrat.medium.com/the-ultimate-checklist-for-detecting-idor-and-broken-access-control-vulnerabilities-b1585dd4e999?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/10-burp-suite-extensions-you-must-have-in-your-arsenal-a3ce81fefb05?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@atikqur007/how-i-accidentally-found-an-idor-bug-in-google-slides-and-rewarded-3-133-70-96866fac3af1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@saltify/escalating-a-duplicate-access-control-bug-to-hijack-google-calendar-accounts-for-a-300-bounty-a5358cfc868f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://devilwrites.medium.com/api-pentesting-broken-object-property-level-authorization-21d65939ad24?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://autentic.medium.com/autentic-platform-launches-bug-bounty-program-to-strengthen-security-0aaad03b4a6e?source=rss------bug_bounty-5"
     }
 ]
