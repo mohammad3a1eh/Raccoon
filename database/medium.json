@@ -7012,5 +7012,41 @@
     },
     {
         "link": "https://aditya-narayan.medium.com/easy-bounties-javascript-js-file-analysis-72ba5eb44822?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://anontriager.medium.com/403-401-bypass-methods-bash-automation-your-support-5468b93599fd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://anontriager.medium.com/the-bug-bounty-reconnaissance-framework-bbrf-9e6d5d814551?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://anontriager.medium.com/you-can-find-hardcoded-api-key-secret-token-etc-d27130c481a8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://gr3yg05t.medium.com/bug-chain-pre-auth-takeover-to-permanent-access-4d92829ed816?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/hackers-exploit-cve-2024-3393-to-disable-palo-alto-networks-firewalls-00e89bb60c11?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/beware-of-ottercookie-malware-devs-targeted-with-fake-job-offers-01367c51f639?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/chrome-extensions-hijacked-protect-your-data-now-8bd0e43d8473?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/mastering-ffuf-the-ultimate-fuzzing-toolkit-e16a85416c5c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://aryasec.medium.com/bpp-750-arbitrary-file-upload-vulnerability-to-remote-code-execution-rce-outside-the-platform-9093b51d044d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://aiwolfie.medium.com/must-have-browser-extensions-for-bug-bounty-hunters-58edff558912?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mrro0o0tt/complete-takeover-hijack-the-organizatoin-6858b95a5803?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@techinsights5/is-2025-the-year-to-begin-bug-bounty-hunting-heres-what-you-need-to-know-3e61bcf14a4b?source=rss------bug_bounty_writeup-5"
     }
 ]
