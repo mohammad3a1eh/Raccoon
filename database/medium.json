@@ -7081,5 +7081,50 @@
     },
     {
         "link": "https://medium.com/@zerodaystories/idor-flaw-leads-to-1160-bounty-1-30-days-406cd288bebb?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://osintteam.blog/exploiting-sqli-to-query-database-version-on-mysql-and-microsoft-8d38a3ec42b4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kevstrs_/sql-injection-vulnerability-via-registration-form-ccaf7bbddd0b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://gr3yg05t.medium.com/how-i-was-able-to-delete-a-production-backend-server-in-my-first-finding-5dcce8aa093c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://anontriager.medium.com/triaging-an-lfi-vulnerability-report-ad9a33016f0c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://mhmmuneef.medium.com/us-healthcare-providers-may-be-hit-with-new-cybersecurity-rules-61aa2655ea79?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-enhancing-bug-bounty-programs-in-an-ai-driven-market-e512b0b2766a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/mastering-wfuzz-uncover-hidden-web-vulnerabilitiese-351cbbef18d6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@alexandermr289/how-i-unsubscribed-100-emails-including-ceo-cto-ciso-etc-of-the-company-with-out-user-interaction-f6d78320ddaf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mastergojo122/html-injection-b6f4151c7d6a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/every-flask-app-hides-a-story-be-the-one-to-uncover-it-32f2942f7927?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://systemweakness.com/step-by-step-bug-bounty-reconnaissance-for-beginners-86e49f14c3c2?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@bughunt.bochi/unauthorized-access-and-data-leakage-vulnerability-in-a-crypto-platform-ff4dfc8613e1?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://anontriager.medium.com/cross-domain-referrer-leakage-bug-bounty-5c7fb967883d?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://anontriager.medium.com/how-to-find-ssrf-bypass-cloudflare-and-extract-aws-metadata-46d1ee6d1857?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://anjarwilujeng.medium.com/uncovering-race-conditions-in-endpoint-api-key-generation-dec3abf31a83?source=rss------bug_bounty_writeup-5"
     }
 ]
