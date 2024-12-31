@@ -7126,5 +7126,44 @@
     },
     {
         "link": "https://anjarwilujeng.medium.com/uncovering-race-conditions-in-endpoint-api-key-generation-dec3abf31a83?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://anontriager.medium.com/mastering-xss-in-a-single-read-40bc850427bd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@opabravo/file-upload-bypass-fuzz-magic-bytes-mime-types-with-ffuf-b218171533d4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@radwan0x/from-hidden-parameter-to-account-takeover-e6905f35d93a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@swaroopvenkat828/vertical-privilege-escalation-from-manager-to-owner-a-bug-bounty-story-7a039eb0b938?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@BetterBy0x01/sensitive-data-exposure-tryhackme-111ed71542af?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/mastering-the-art-of-bug-bounty-hunting-a-step-by-step-guide-8eaabfe1cbf6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://im4x.medium.com/discovered-30-bola-idor-vulnerabilities-in-a-single-subdomain-bbp-a382e4554e71?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://pwn0sec.medium.com/how-i-took-over-millions-of-instagram-accounts-using-sql-injection-method-takeover-via-filtering-cd858d486a54?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/hidden-gems-simple-exploits-overlooked-by-most-bug-hunters-3113cc1db4b8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/apache-mina-cve-2024-52046-cvss-10-0-flaw-enables-rce-via-unsafe-serialization-1d042d0ad53e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@elghzaly/bypassing-subscription-expiry-with-client-side-time-manipulation-d048fe0a3b3f?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@padhyepushkar/what-bug-bounty-hunters-dont-tell-you-78969ca0916a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://anjarwilujeng.medium.com/csrf-enable-2fa-allow-user-lose-access-to-their-account-331eaed89d25?source=rss------bug_bounty_writeup-5"
     }
 ]
