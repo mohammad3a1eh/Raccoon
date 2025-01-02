@@ -7204,5 +7204,38 @@
     },
     {
         "link": "https://0xshuvo.medium.com/my-first-year-in-bug-bounty-hunting-2b5c2cb9c205?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://anontriager.medium.com/zero-click-account-takeover-7f8bdcda2236?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dark_zone/hunting-1-ee308e923359?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@BetterBy0x01/security-misconfiguration-tryhackme-9c763a743a71?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@v1xtron/dive-into-go-a-full-guide-for-penetration-testers-bounty-hunters-and-developers-5cc013d3f5c6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Dorking1/welcome-to-our-first-article-on-this-account-f7eb4049b768?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@phirojshah20/advanced-enumeration-techniques-45cbeb429231?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@phirojshah20/discovery-and-probing-tools-5bb0a594b5d2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@phirojshah20/bug-bounty-hunting-methodology-2025-797bf8ae4c27?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/cve-2024-56803-ghostty-vulnerability-allows-command-injection-23e41eb1e8ad?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mastergojo122/understanding-dns-for-bug-bounty-hunting-428ec422aac6?source=rss------bug_bounty_writeup-5"
     }
 ]
