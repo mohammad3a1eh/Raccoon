@@ -7351,5 +7351,56 @@
     },
     {
         "link": "https://infosecwriteups.com/how-i-discovered-an-email-disclosure-vulnerability-bf798d3f3228?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/p4-bugs-and-poc-part-7-a379f057ba96?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/day-27-of-30-day-30-vulnerabilities-server-side-template-injection-ssti-12f933587800?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@swaroopvenkat828/from-oos-getting-bounty-improper-access-control-to-create-an-commentor-account-on-the-application-027b517928bb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://hackers-guild-blog.medium.com/top-8-bug-bounty-platforms-in-2025-84a1f6b7b226?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/bug-bounty-goldmine-the-wildest-cybersecurity-discoveries-bb6d1be478dd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/cve-2025-0224-provision-isr-sh-4050a-2-server-js-information-disclosure-42df13998a66?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/cve-2025-0226-information-disclosure-vulnerability-in-tsinghua-unigroup-electronic-archives-cf44084fc78c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@zerodaystories/account-deletion-flaw-exposes-chats-researcher-gets-1-000-5-30days-d51245c30c65?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/strategies-to-maximize-your-earnings-on-bug-bounty-platforms-6053aaf0a781?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@erkankavas/discovering-sqli-vulnerabilities-through-deeper-analysis-4e305dfbc181?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/day-30of-30-day-30-vulnerabilities-cross-site-request-forgery-csrf-49a11b1e1616?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/day-29-of-30-day-30-vulnerabilities-remote-code-execution-rce-f5688f4dce30?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/day-26-of-30-day-30-vulnerabilities-race-conditions-32d56d4da56e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://hamzadzworm.medium.com/critical-logic-issue-lead-to-bypass-file-upload-filtering-363ed57f8668?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://sudosuraj.medium.com/easy-p4-cloudflare-bypass-origin-ip-found-part-1-685d27e73dd0?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@RD_CHOUDHARY07/%E0%A4%9C%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%B6%E0%A4%B9%E0%A4%B0-a3f60b945d60?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/probablysecurity/zero-click-account-takeover-via-secondary-email-feature-f0aaf99404df?source=rss------bug_bounty_writeup-5"
     }
 ]
