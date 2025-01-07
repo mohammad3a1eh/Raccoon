@@ -7402,5 +7402,83 @@
     },
     {
         "link": "https://medium.com/probablysecurity/zero-click-account-takeover-via-secondary-email-feature-f0aaf99404df?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@ravindrajatav0709/how-i-found-ssti-injection-server-side-template-injection-on-yeswehack-platform-in-public-program-bfde6a89f477?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://angixblack.medium.com/detect-open-redirect-vulnerabilities-with-redirxploit-946ac287846f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@br3ss/how-i-exposed-idor-and-path-traversal-vulnerabilities-in-a-parking-portal-0ae8e4940306?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dogxxx10/day-0-05-m-y-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-94f090fdf54a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/p4-bugs-and-poc-part-8-2b4ed878c53a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@a0xtrojan/how-i-found-my-first-bug-rxss-2ac44e94d628?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/hidden-dangers-of-xss-vulnerabilities-real-case-22177daa6fc8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dibyaranjanmohanta2806/i-found-my-first-bug-52e20e37b429?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/eagerbee-backdoor-targets-middle-eastern-government-orgs-isps-e0246bb044c4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/cryptocurrency-wallet-drainers-stole-500-million-in-2024-7e1da1edb1b7?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@oxab/how-ibm-helped-me-get-private-invites-on-hacker1-ffbe3c1b26d3?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/introduction-to-my-bug-bounty-hunting-series-79a68dcb07a6?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://saconychukwu.medium.com/comprehensive-command-and-control-tools-for-red-teaming-operations-23e458d830c0?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://saconychukwu.medium.com/advanced-c-offensive-frameworks-for-red-team-operations-a001cac7e10f?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-i-was-able-to-block-any-username-5707a1fbd25c?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@salaheddine_kalada/how-i-found-pii-at-nasa-using-google-dorking-6447a89decc7?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@mathur.danduprolu/day-5-building-a-movie-recommendation-system-with-django-and-tmdb-api-ead0b2664763?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ariful.islamk777/fastapi-with-django-orm-74e9b973c6f2?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mohbohlahji/introduction-to-django-authentication-understanding-the-core-components-and-benefits-89fa3c043103?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@workinprogress.bibash/how-i-set-up-my-first-django-project-lessons-from-a-clueless-beginner-e87fd55f8e36?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/django-tenants-tutorial-with-real-project-build-a-multi-tenant-blog-application-2bfe69a97525?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@stanker801/tips-to-improve-your-django-project-code-quality-part-1-61376d9a56a0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@stanker801/how-i-dockerize-a-django-project-easiest-guide-cc7ec246f33c?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/how-to-integrate-pytest-with-django-5feba10fd8bf?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mathur.danduprolu/day-4-building-a-recipe-finder-app-with-django-and-spoonacular-api-aa459bc856ca?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@geert_24540/moving-from-mariadb-to-postgresql-will-make-employees-happier-but-how-to-prove-it-5762be9ac598?source=rss------django-5"
     }
 ]
