@@ -7480,5 +7480,68 @@
     },
     {
         "link": "https://medium.com/@geert_24540/moving-from-mariadb-to-postgresql-will-make-employees-happier-but-how-to-prove-it-5762be9ac598?source=rss------django-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/a-beginners-guide-to-pentesting-graphql-apis-395fa1878f6a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@swaroopvenkat828/first-bounty-second-order-stored-xss-on-club-paris2024-org-9a3ad7fe7c7f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dsmodi484/weird-javascript-files-7e6e7296e914?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@paritoshblogs/threat-hunting-with-mitre-att-ck-a-proactive-approach-to-cyber-defence-a84945f61bda?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dogxxx10/day-06-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-5ed71536fd89?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/humorous-xss-vulnerabilities-in-a-movie-website-3600d7828661?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/beginners-introduction-to-server-side-request-forgery-85c3a35eb726?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mickaelbenlolo/my-journey-to-finding-two-xss-vulnerabilities-on-a-bug-bounty-website-b6a1e38425df?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/bug-bounty-hunting-prerequisites-964560919547?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/the-most-groundbreaking-bug-bounty-discoveries-that-changed-cybersecurity-forever-a2a39e7e10af?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@0xRedFox29/blibli-bug-bounty-rxss-bypass-waf-cloudflare-pada-search-url-parameter-di-website-siplah-blibli-co-db1ccc60eb88?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://saconychukwu.medium.com/web-application-penetration-testing-checklist-3da7d3be8f1a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@FullStackSoftwareDeveloper/django-and-graphql-a-comprehensive-practical-guide-for-modern-api-development-88903124a7ee?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mathur.danduprolu/day-6-building-a-url-shortener-with-django-d138bf2380b0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mwendakelvinblog/django-the-framework-powering-dynamic-web-development-649592c0ca17?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@michal.drozdze/how-to-reduce-the-size-of-your-docker-image-and-build-time-by-90-23a303a54c66?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@tanviralam.cse/is-django-a-suitable-framework-for-beginners-in-web-development-2d96f9878b3a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@s.m.shahinul.islam/django-superpowers-advanced-decorator-magic-for-your-superhero-arsenal-175310971e31?source=rss------django-5"
+    },
+    {
+        "link": "https://codepane.medium.com/should-django-developers-learn-fastapi-be59c18f460b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ariefprakom/integrasi-api-di-aplikasi-akreditasi-prodi-fitur-cek-biodata-mahasiswa-ke-web-pddikti-04a86a4869b1?source=rss------django-5"
+    },
+    {
+        "link": "https://chrisdevcode.medium.com/django-polls-simplified-playing-with-the-database-api-cd5fd70e5946?source=rss------django-5"
     }
 ]
