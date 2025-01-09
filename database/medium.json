@@ -7543,5 +7543,68 @@
     },
     {
         "link": "https://chrisdevcode.medium.com/django-polls-simplified-playing-with-the-database-api-cd5fd70e5946?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@hacktheplanet/telegram-leaks-pii-doesnt-care-c75465be1cc2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dogxxx10/day-07-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-cc5eff18ae10?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://mknayek101.medium.com/no-session-expiry-after-log-out-attacker-can-reuse-the-old-cookies-b90a4a45032d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://mknayek101.medium.com/disclosure-of-any-bpost-be-username-via-email-afde00aff7d9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://mknayek101.medium.com/user-information-disclosed-via-api-endpoint-80a1b82e3f3a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/ai-security-hub/ai-security-insights-from-hackerones-8th-annual-security-report-f775473c1226?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/powerschool-hacked-18k-customers-and-60m-students-privacy-compromised-e418e3ed8ccc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/un-aviation-agency-hit-by-cyberattack-42k-recruitment-records-stolen-6a51c8817d7f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/green-bay-packers-pro-shop-breach-over-8-500-credit-cards-stolen-e99ea97bf154?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/how-i-ethically-hacked-the-indian-army-for-the-second-time-edf6ec4495f8?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@tanyago/leaky-response-easy-takeover-25367c18f0dc?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@mathur.danduprolu/day-7-building-an-ai-based-product-description-generator-with-django-and-chatgpt-3574bfe82642?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@trabelsisofiane/how-to-bulletproof-your-django-project-for-production-secrets-to-security-6e82a60b5c40?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@michal.drozdze/setting-up-a-django-api-with-django-rest-framework-drf-a-beginners-guide-cee5d61f00a6?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/writing-tests-in-django-389f2e15e764?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/real-world-and-professional-testing-in-django-98a6a75c744a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/the-call-command-function-655594620dd7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/django-admin-commands-real-world-insights-and-practical-use-cases-eb76cf3a4f13?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@pranavrayaprolu26/understanding-http-requests-responses-and-views-in-django-7b301224e425?source=rss------django-5"
+    },
+    {
+        "link": "https://koka-tic.medium.com/the-future-of-django-evolving-to-meet-modern-development-needs-1420267e7d30?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/real-world-applications-of-django-admin-and-manage-py-commands-in-django-1b7af33a6241?source=rss------django-5"
     }
 ]
