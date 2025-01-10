@@ -7606,5 +7606,74 @@
     },
     {
         "link": "https://medium.com/django-unleashed/real-world-applications-of-django-admin-and-manage-py-commands-in-django-1b7af33a6241?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@agapehearts/server-side-vulnerabilities-3-authentication-ff80ac2efdb4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/h7w/finding-a-easy-p3-a16186613391?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@BetterBy0x01/30-standard-linux-commands-for-beginner-or-intermediate-users-eacae976d92c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dogxxx10/day-08-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-70422a5cd7eb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/the-great-faq-collection-about-bug-bounty-87421d970ddd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dante.falls/what-is-cross-site-scripting-xss-d74b19920d8e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Ursula-/how-i-discovered-a-delete-csrf-vulnerability-a46d4bc2e700?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/urgent-patch-sonicwall-sslvpn-vulnerability-now-385713cdfa2f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://aravind07.medium.com/hacking-made-easy-with-xssify-9637890cd33b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@b.mythili123/stay-ahead-of-cyber-threats-top-websites-for-real-time-updates-and-insights-57a1b384cdfa?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@n45ht/critical-9-8-sql-injection-in-a-major-indonesian-web-hosting-platform-8bda5d2913d3?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://saconychukwu.medium.com/comprehensive-toolkit-for-team-communication-data-exfiltration-log-aggregation-and-wireless-52bd46ceb51d?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@mohamed.yasser442200/how-i-get-7-open-redirect-and-7-xss-in-public-program-7518a3f26b49?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://leapcell.medium.com/fastapi-uvicorn-blazing-speed-the-tech-behind-the-hype-a205af1d9ee4?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mathur.danduprolu/day-8-building-an-ai-powered-image-caption-generator-with-django-6043b1400d40?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@stanker801/i-read-python-object-oriented-programming-what-i-learnt-2281f8442bcd?source=rss------django-5"
+    },
+    {
+        "link": "https://codepane.medium.com/monitoring-django-applications-with-prometheus-and-django-prometheus-86727cf8649e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@anzaloquin/mastering-django-mixins-modular-code-reuse-with-practical-examples-2b353d4de700?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@gowtham.r_30304/why-dockerizing-your-application-matters-8099abf1b439?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/real-world-application-integrating-coverage-py-with-django-for-code-coverage-246e4181458e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/advanced-features-of-transactiontestcase-in-django-5a7620b7c1b5?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/advanced-testing-topics-in-django-handling-multiple-hostnames-databases-and-more-2502cb36c202?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/advanced-testing-topics-in-django-a-professional-approach-5637e4745389?source=rss------django-5"
     }
 ]
