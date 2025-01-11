@@ -7675,5 +7675,77 @@
     },
     {
         "link": "https://medium.com/django-unleashed/advanced-testing-topics-in-django-a-professional-approach-5637e4745389?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@agapehearts/server-side-vulnerabilities-4-server-side-request-forgery-71b7c525eadc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/crawling-for-emails-in-websites-osint-methodology-602e2b274c6e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dogxxx10/day-09-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-220c7c6bb0cf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/revisiting-a-simple-sql-injection-methodology-ecd42634a21e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/race-condition-to-bypass-rate-limiting-a-new-technique-made-by-nillsx-6a60f41dbae6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/how-to-identify-overlooked-bugs-in-android-applications-a-bug-bounty-hunters-guide-5c194ed283a4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/a-new-bug-hunting-story-open-redirection-vulnerability-33a1b6374f88?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@niraj1mahajan/behind-the-scenes-how-i-discovered-flaws-in-a-rewards-and-recognition-portal-27948a75c4d4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/mirrorface-hackers-targeting-japanese-government-politicians-since-2019-080121705345?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/data-breach-alert-baymark-health-services-targeted-by-ransomware-attack-5c4cf81d8e79?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@n0apol0giz3/outrunning-the-limits-exploiting-a-race-condition-in-an-organization-invitation-feature-cf4106263d57?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@itajay22/hello-cyber-security-researchers-356c1e662bbf?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/how-i-got-cert-eu-hall-of-fame-e65b3e72510b?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@GupS3C/poc-vuln%C3%A9rabilit%C3%A9-cache-varnish-purge-ddos-by-gups3c-9ce181fe7fca?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://javascript.plainenglish.io/effortless-development-with-daytona-setting-up-django-react-full-stack-in-a-single-command-88eff80e65eb?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/customizing-modeladmin-methods-in-django-admin-aa78e4690303?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@workinprogress.bibash/django-project-structure-and-organization-decoding-the-blueprint-c666d7bcef82?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/djangos-admin-interface-customizing-fieldsets-and-more-dc8ea8c8fbeb?source=rss------django-5"
+    },
+    {
+        "link": "https://shawnalisson.medium.com/my-journey-through-backend-development-frameworks-a00236c25524?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@niranjan0k/elevate-your-django-game-orm-hacks-for-better-code-536820a45d26?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ehtterami/how-to-add-phpmyadmin-to-your-laragon-53a8232354ed?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/integrating-django-with-oauth2-for-secure-authentication-d256fe45256f?source=rss------django-5"
+    },
+    {
+        "link": "https://koka-tic.medium.com/multi-region-architecture-with-django-best-practices-for-scalable-resilient-applications-6c9413ae7cb4?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@pranavrayaprolu26/understanding-django-url-parameters-a-problem-solving-guide-16f036b35e90?source=rss------django-5"
     }
 ]
