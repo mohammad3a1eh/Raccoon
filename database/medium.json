@@ -7747,5 +7747,68 @@
     },
     {
         "link": "https://medium.com/@pranavrayaprolu26/understanding-django-url-parameters-a-problem-solving-guide-16f036b35e90?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@sc128496/how-i-found-this-crazy-pii-data-leak-worth-500-e39d6dd19133?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dineshkumaar478/the-road-to-crtp-cert-part-14-b7f9cb8bd87f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhammetalgan3547/the-ultimate-idor-testing-checklist-ba4a7c094def?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@securityinsights/how-i-hacked-into-nasa-got-hall-of-fame-acknowledgement-2025-d22815f09e29?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://systemweakness.com/how-to-find-my-first-bounty-68ba0022dcf0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@enesonder001/exif-metadata-based-xss-attacks-a-web-security-research-e88c7ea7b69b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mahdisalhi0500/critical-idor-vulnerability-unauthorized-users-can-modify-companys-paypal-email-92bf24ae19df?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/exposing-the-weak-points-vulnerabilities-in-rest-apis-8e4acb4861b0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/crack-the-code-your-bug-bounty-hunting-journey-starts-here-e61701f8cb36?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://myselfakash20.medium.com/the-subdomain-they-forgot-how-i-chained-bugs-for-a-1-000-bounty-094d89758489?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@n45ht/breaking-vercels-clone-url-with-a-simple-xss-exploit-8f55b21f32eb?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@mathur.danduprolu/day10-building-an-ai-assisted-code-reviewer-with-django-and-chatgpt-6dd3e8c98b5e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mhhashemi1379/comparison-of-django-flask-for-big-database-postgresql-management-in-python-for-real-time-16d97cd119dc?source=rss------django-5"
+    },
+    {
+        "link": "https://awstip.com/git-hub-actions-ci-cd-deployment-in-aws-ec2-c3a87b93b903?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/streamlining-django-admin-actions-with-the-action-decorator-eb633daa63bc?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/django-admin-site-wide-actions-and-conditional-control-8afdbecefec4?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ruansampaio001/preparando-ambiente-python-django-88f52dcc21cc?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@oyewolebarnabas97/jwt-authentication-for-user-login-and-registration-in-django-8a4a008f5101?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/advanced-django-admin-actions-from-custom-methods-to-intermediate-pages-86ea9d23145d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/power-of-django-admin-adding-custom-actions-to-boost-efficiency-1cf40dbf9b72?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@m_digitalnomad/understanding-mvc-architecture-why-0ce726375eba?source=rss------django-5"
     }
 ]
