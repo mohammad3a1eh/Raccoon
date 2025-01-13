@@ -7810,5 +7810,53 @@
     },
     {
         "link": "https://medium.com/@m_digitalnomad/understanding-mvc-architecture-why-0ce726375eba?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@dee.gholase/stored-csrf-via-uploaded-html-file-in-user-account-document-section-dbe98e9184a3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://anontriager.medium.com/javascript-recon-efd981a85cfc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://anontriager.medium.com/diving-in-android-security-a93f017b16f0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@paritoshblogs/emerging-cyber-threats-the-latest-trends-in-ransomware-phishing-and-apts-e3393f6410bc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@carl19722401/hire-a-hack-c54710808c3c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kankojoseph4/from-containers-to-host-privilege-escalation-techniques-in-docker-487fe2124b8e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Kinqdathacker/portswigger-web-security-academy-file-path-traversal-simple-case-walkthrough-d04418d04b76?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mahdisalhi0500/the-art-of-note-taking-in-bug-bounty-hunting-9b28876316e3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@gitlime71/how-i-found-broken-access-control-c3377d3df60e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/coinmonks/the-state-of-web3-security-in-2024-f3713fbe9e04?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shalomo.social/the-http-headers-and-methods-introduction-to-http-e95f28a4ce54?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@CANITEY/idor-uuids-to-leak-pii-7675130ab784?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@mdmerazul75/swagger-%E0%A6%95%E0%A7%80-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%8F%E0%A6%9F%E0%A6%BF-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-d9e7f4963c07?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mathur.danduprolu/day-11-building-a-virtual-assistant-dashboard-with-django-and-chatgpt-9280b0b87edc?source=rss------django-5"
+    },
+    {
+        "link": "https://fleapoco.medium.com/exploring-django-5-1-4-the-latest-updates-and-features-a3b75552aeb9?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/why-is-django-named-django-cae624b44e6b?source=rss------django-5"
     }
 ]
