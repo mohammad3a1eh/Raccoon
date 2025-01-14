@@ -7858,5 +7858,74 @@
     },
     {
         "link": "https://medium.com/django-unleashed/why-is-django-named-django-cae624b44e6b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@enigma_/owasp-top-10-testing-guide-v4-checklist-02448c971539?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dineshkumaar478/the-road-to-crtp-cert-part-15-d9ab41f827a4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/infosec-notes/tips-to-find-stored-xss-bug-bounty-tips-86cb62a529c8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dogxxx10/methodology-for-detecting-idor-vulnerability-1590b14d45a9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dzianisskliar29/bug-bounty-vs-vdp-building-effective-security-programs-with-hacker-collaboration-0a7db1b3f2df?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mon.cybersec/security-session-1-9457a0f5bd27?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dante.falls/how-to-bypass-csrf-defenses-with-xss-44a124b7646a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mahdisalhi0500/get-your-first-bug-bounty-with-burp-suites-match-and-replace-feature-7a32f81a3cb0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/i-changed-someones-profile-picture-and-they-had-no-idea-a1dc621d12c4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/building-your-own-bug-bounty-lab-a-hands-on-guide-with-metasploit-and-more-9595a71fc4c6?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/crack-the-code-part-2-aeaa5055251e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@rhonnysharma783/linkedin-linkedin-com-in-rhonny-99f682300332?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://jxycybersec.medium.com/stored-csrf-via-uploaded-html-file-in-user-account-document-section-dbe98e9184a3?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/django-cache-examples-with-a-complete-project-7307322756e2?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@alfininfo/5-best-django-libraries-to-speed-up-your-projects-in-2025-5b63eac8c956?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.devops.dev/structured-testing-in-django-a-focus-on-test-cases-85cd15834a42?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@guilhermeniclewicz/layered-security-in-django-why-allowed-hosts-cors-and-csrf-are-vital-382d661a9973?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@finnkumar6/the-beginners-guide-to-mastering-python-the-world-s-favorite-language-6e0882ae9f48?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@oreolowola/how-to-ensure-password-encryption-in-django-admin-for-custom-user-models-0cfdd2ee4082?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/djangos-admin-documentation-generator-in-real-world-projects-4c72082dcdf0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/geekculture/automating-django-deployments-poetry-setup-and-configuration-7d77ec35dd81?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@alfininfo/upload-files-to-google-cloud-storage-gcs-with-django-the-complete-guide-733a81a46bfd?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@binodtamang245/how-to-install-ckeditor5-in-django-a-step-by-step-guide-f4ffc25bed84?source=rss------django-5"
     }
 ]
