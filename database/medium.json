@@ -8263,5 +8263,65 @@
     },
     {
         "link": "https://medium.com/@yunusolcardev/cve-2023-31047-django-improper-input-validation-vulnerability-95042d9a3816?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ibtissamhammadi/how-i-turned-a-10-rfi-bug-into-a-300-rce-bounty-step-by-step-guide-75042267969a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ajax12395/response-manipulation-leads-to-access-admin-panel-2295655c646d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://0xy37.medium.com/api-testing-9de53e7736d3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/wolf-haldenstein-data-breach-impacts-3-4-million-individuals-8e567c04e0b6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/star-blizzard-hackers-abuse-whatsapp-to-target-high-value-diplomats-beed8a06a0ec?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/cve-2024-57767-critical-server-side-request-forgery-ssrf-vulnerability-722db6cbba17?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Bl4cky/how-i-found-a-sql-injection-vulnerability-in-website-56a8b2b1edab?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@HackerNasr/command-injection-for-beginners-from-detection-to-exploitation-8e7816dcb53d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/choosing-your-first-program-in-bug-bounties-a-beginners-guide-6b27c58316da?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@Kntjrld/rxss-login-registration-ref-parameter-ea5fa7211c68?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@omkia1/build-a-simple-yes-no-based-recommender-system-with-django-introducing-yesno-recommender-44111c685da3?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/localized-names-of-languages-in-django-a-guide-to-internationalization-e9593179f0f7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/real-world-practical-application-of-the-javascriptcatalog-view-in-django-0d9baeb6ae72?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/lazy-translation-in-django-6397b1be68b1?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/translation-in-django-for-global-web-applications-4cb6fd5e2b1c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@workinprogress.bibash/creating-and-managing-django-apps-bringing-the-project-to-life-c8dd739a494e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@alfininfo/complete-guide-building-crud-with-django-and-redis-complete-with-expired-features-f77a136e6c25?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/codex/internationalization-and-localization-in-django-af532f3c9211?source=rss------django-5"
+    },
+    {
+        "link": "https://chrisdevcode.medium.com/django-polls-simplified-writing-more-views-24812da2eb66?source=rss------django-5"
     }
 ]
