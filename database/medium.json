@@ -8395,5 +8395,65 @@
     },
     {
         "link": "https://medium.com/@kapilesh1/hi-viewers-8fd8de2cb165?source=rss------django-5"
+    },
+    {
+        "link": "https://myselfakash20.medium.com/polluting-my-way-to-victory-how-i-found-http-parameter-pollution-hpp-and-exploited-it-like-a-pro-c4cf39ec90fe?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackxb12/appreciation-letter-from-nasa-for-uncovering-unauthorized-file-access-a1d1497a33e6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@paritoshblogs/threat-hunting-using-powershell-ce8502307b65?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/unique-ways-to-recon-for-bug-hunters-short-series-part-1-7e91f3fcfe25?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/infosec-notes/wordpress-hacking-2025-03985e7d2e08?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/how-to-transition-from-pentesting-to-bug-bounty-hunting-f98398c4ea0a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mahdisalhi0500/the-correct-approach-to-testing-for-privilege-escalation-bugs-d03bd9281a3e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@usmandasthaheer/how-to-install-mobsf-on-kali-linux-for-android-application-pentesting-2025-50c4948a1c0d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/7-zip-fixes-bug-that-bypasses-windows-motw-security-warnings-569ac8a89068?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@.rai/hi-everyone-and-welcome-to-this-lab-project-finding-open-service-ports-using-kali-linux-9be24cde101e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dinukathathsara/fortifying-django-securing-ajax-calls-and-defending-against-csrf-9869ac62d2fd?source=rss------django-5"
+    },
+    {
+        "link": "https://dpjanes.medium.com/onamap-building-a-django-app-from-scratch-b3e5cf57311a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/real-world-practical-application-time-zone-support-faq-e7ff8c3bac36?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@franciscovcbm/coolify-your-django-project-ddbfa83fb0f5?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/real-world-practical-application-troubleshooting-time-zone-issues-in-django-010e6977e236?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/migration-guide-enabling-time-zone-support-in-a-legacy-django-project-ff8ff1f0a2a7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/real-world-applications-of-django-template-tags-for-time-zones-6f791a324d84?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/real-world-applications-of-selecting-the-current-time-zone-in-django-c29918067dd8?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/real-world-practical-applications-of-naive-and-aware-datetime-objects-in-django-cdd8c77ebbe0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/real-world-practical-applications-of-time-zones-in-django-f8dccbce9c6f?source=rss------django-5"
     }
 ]
