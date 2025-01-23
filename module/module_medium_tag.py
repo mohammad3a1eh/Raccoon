@@ -88,13 +88,13 @@ async def run(token, chat_id):
                         "text": "medium.com",
                         "url": f"{post['link']}"
                     }
-                ],
-                [
-                    {
-                        "text": "freedium.cfd",
-                        "url": f"https://freedium.cfd/{post['link']}"
-                    }
-                ]
+                ]#,
+              #  [
+              #      {
+              #          "text": "freedium.cfd",
+              #          "url": f"https://freedium.cfd/{post['link']}"
+              #      }
+              #  ]
             ]
 
             module.tbot.Telegram.send_text_with_btn(text, links, chat_id, token)
