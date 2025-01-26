@@ -8665,5 +8665,68 @@
     },
     {
         "link": "https://leapcell.medium.com/1-background-introduction-307c611a5ab4?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@shalomo.social/here-are-some-solutions-on-countering-ctf-mistake-happened-while-panicking-and-over-extement-9f090424f08b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@manan_sanghvi/securing-nasa-for-certificate-p3-vulnerability-272a6e5f2fca?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/these-books-will-help-to-learn-bug-bounty-penetration-testing-and-ethical-hacking-part-1-852f54c6e075?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/these-books-will-help-to-learn-bug-bounty-penetration-testing-and-ethical-hacking-final-part-b1147247c9dc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/these-books-will-help-to-learn-bug-bounty-penetration-testing-and-ethical-hacking-part-2-7796010139e2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/full-github-dorking-guide-for-osint-and-bugbounty-reconnaissance-27557fb67ee0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://gentilsecurity.medium.com/comprehensive-guide-to-sql-injection-attacks-understanding-and-prevention-by-gentil-security-8f02e3461344?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rstuv/how-i-found-a-vulnerability-in-lemonsqueezys-checkout-flow-393cc7026ab0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/zyxel-warns-of-critical-firewall-issues-due-to-faulty-update-1bedcc5ad085?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/privilege-escalation-in-graphql-exploiting-finance-role-token-to-access-admin-data-part-1-7a017a7aeb89?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ramshath1999/how-i-turned-a-tiny-security-flaw-into-a-250-bounty-90a0227d6c6f?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/handling-unauthorized-access-and-session-management-in-django-648baa882d4c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/advanced-user-access-control-in-django-loginrequiredmixin-and-more-9149ee56748a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/authentication-in-web-requests-enhancing-security-in-django-applications-cc4eda14c5d4?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/groups-and-custom-permissions-in-django-c683b63ab942?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/permissions-and-authorization-in-django-b1a8aaab429b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/a-practical-guide-to-using-djangos-authentication-system-62571463f17b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@shivakumarsunderamurthy/building-a-real-time-iot-sensor-data-dashboard-with-django-mqtt-react-and-esp32-7132198f522a?source=rss------django-5"
+    },
+    {
+        "link": "https://dpjanes.medium.com/onamap-a-virtual-tabletop-for-shadowdark-and-more-a61b50af3f9e?source=rss------django-5"
+    },
+    {
+        "link": "https://leapcell.medium.com/top-10-python-web-frameworks-compared-cfed1ec3f9df?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ashishauti123/deploying-a-python-django-project-on-aws-s3-step-by-step-guide-13189b7634dd?source=rss------django-5"
     }
 ]
