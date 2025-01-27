@@ -8728,5 +8728,68 @@
     },
     {
         "link": "https://medium.com/@ashishauti123/deploying-a-python-django-project-on-aws-s3-step-by-step-guide-13189b7634dd?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@saurabhcsec/idor-leads-to-deletion-of-organization-owner-0f0deb6a71aa?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/infosecmatrix/finding-a-easy-p4-it-can-be-worth-200-ddd90ffe08d8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@vadoliya.nikhil99/mastering-bug-management-part-1-f951e1cf46d0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@samhilliard/practical-amass-how-i-configure-and-use-amass-in-my-recon-flow-94b8814b9025?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@k3r0/privilege-escalation-via-deeplink-hijacking-23b30f74b0ff?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/if-bug-bounty-programs-are-so-effective-why-dont-most-companies-have-them-fbba2f221089?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/cloud-security/netgate-needs-a-bug-bounty-90ae5eebe821?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@lkmn1/silver-platter-tryhackme-walkthrough-7ae5719aa8c0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/ransomware-gang-exploits-ssh-tunnels-for-stealthy-vmware-esxi-access-1f281b18deb8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad4208/mastering-amass-the-ultimate-recon-toolkit-d66a56627849?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@anishnarayan/beginners-guide-to-bug-bounty-easy-tips-for-finding-open-redirect-vulnerabilities-ffda668e6533?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://levelup.gitconnected.com/understanding-django-signals-handler-7eb611834b87?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@staytechrich/django-rest-framework-001-using-a-custom-user-model-cc6975074baf?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@benjamin.figeiredo/create-your-own-docker-images-using-dockerfile-a-step-by-step-guide-with-a-django-example-79639a162620?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@rodionatamaniuc/authentication-authorization-with-django-and-django-rest-framework-a1fd0f711fec?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@matus-kocik/my-preconfigured-django-template-3965a54205e4?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@wawaziphil/handling-deadlocks-in-django-applications-a-comprehensive-guide-03d8a7fd31a3?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/permissionrequiredmixin-in-django-for-fine-grained-access-control-1a1724106d6f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mohareavinash80/turning-webpages-into-pdfs-my-journey-through-chaos-and-code-48e6c95a4be9?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/practical-guide-to-security-middleware-in-django-77b213fa944b?source=rss------django-5"
+    },
+    {
+        "link": "https://leapcell.medium.com/python-logging-loguru-vs-logging-91865c2a2e87?source=rss------django-5"
     }
 ]
