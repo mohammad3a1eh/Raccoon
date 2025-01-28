@@ -8791,5 +8791,77 @@
     },
     {
         "link": "https://leapcell.medium.com/python-logging-loguru-vs-logging-91865c2a2e87?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@huyvo2910/introduction-to-whitebox-testing-ae4316269915?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@anandrishav2228/start-your-ctf-journey-now-101-fa68ed995bca?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@sachinkewat809/my-journey-to-finding-a-bug-and-earning-an-appreciation-letter-88cac7109e0e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/rank-top-66-214-rep-on-hackerone-c260d244ae61?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://clarkvoss.medium.com/feeding-nuclei-06192a30de1c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@curiouskhanna/way-to-find-idors-or-broken-access-bugs-2c9a07c32281?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://0xhassan.medium.com/the-evolution-of-cybersecurity-trends-threats-and-solutions-for-2025-d7f7a7726423?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@HackerPlus/subdomain-takeover-programs-bugcrowd-2100-bounty-f47e78cdb945?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shaikrief2/my-journey-to-finding-my-first-xss-vulnerability-a342f685d7dc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/2-good-tools-for-subdomain-enumeration-fdceb84ac685?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@vrushank2580/the-role-of-http-status-codes-in-web-communication-6ce451c6ada9?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@mrro0o0tt/4-privilege-escalation-idor-on-one-single-feature-a8d511c5d48f?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@osamamohamed21212121/duplicate-accounts-using-the-same-email-bug-a-business-logic-vulnerability-d1852a589c79?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@ibrahimsyamgame/how-i-got-from-old-public-bug-bounty-program-aee4af074bbd?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@shmarhkhalharwmyh28/jdhdb-36294ba2fd1a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@meirgotroot/the-journey-of-my-ticket-tracking-system-tts-34f75775f689?source=rss------django-5"
+    },
+    {
+        "link": "https://awstip.com/how-to-set-up-a-dockerized-development-environment-for-django-with-postgresql-and-pgadmin-8daacc8ce838?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/enhancing-user-authentication-security-in-django-a-practical-guide-to-password-upgrading-and-85483cd60d4d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/password-management-in-django-db00aa877164?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/practical-guide-to-password-management-in-django-real-world-applications-719a8787bb07?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@thomcleary15/from-figma-to-full-stack-building-my-portfolio-website-79bac411f21a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@tolujosh1/deploying-django-rest-framework-on-aws-ec2-with-nginx-and-gunicorn-d27ce048380e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@finnkumar6/exploring-membership-operators-in-python-unlocking-the-power-of-in-and-not-in-bf7c5d519a7c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@finnkumar6/%EF%B8%8F-mastering-bitwise-operators-in-python-decode-the-power-of-binary-0db89d942509?source=rss------django-5"
     }
 ]
