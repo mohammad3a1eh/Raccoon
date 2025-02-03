@@ -9208,5 +9208,68 @@
     },
     {
         "link": "https://medium.com/@staytechrich/django-rest-framework-003-visualizing-django-models-with-django-extensions-4087ceeae4d0?source=rss------django-5"
+    },
+    {
+        "link": "https://aimasterprompt.medium.com/top-235-idor-bug-bounty-reports-e00c8061fe28?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@markanthonyagudo/manually-bypassing-the-client-side-validation-leading-to-command-injection-b0aa6ee531e4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bashoverflow.medium.com/blind-ssrf-with-out-of-band-detection-step-by-step-exploitation-prevention-ssrf-labs-d8a4d890184d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/cyprox-io/understanding-api-security-with-openapi-a-security-engineers-perspective-b8083c457a8a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/cyprox-io/javascript-to-api-bugs-3b5a778e51b7?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/google-did-an-oopsie-a-simple-idor-worth-3-133-7-2abefaef954d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/2025-the-year-to-start-ptaas-c180f83617dd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@jkooo12/a-150-bug-in-my-methodology-8a51cdac53d4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/2-arrested-in-crackdown-on-nulled-and-cracked-hacking-forums-249ed458214a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/apple-iphone-usb-c-security-breach-34011863045a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/xss-on-geeksforgeeks-2eafcbbf90b0?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@wagistop78/web-development-daily-building-an-inventory-system-with-django-pt-1-94a230a1af6b?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/scaling-django-to-the-moon-mastering-database-sharding-replication-5fc0ffabb8cb?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/how-i-write-custom-authentication-in-django-using-simplejwt-af058a507d91?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/mastering-jwt-authentication-in-django-with-simplejwt-drf-a249513d04a3?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@wzaumarojas/filters-using-form-date-with-django-e9cade14dcd9?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/creating-rss-and-atom-feeds-in-django-a-practical-guide-680ccf1acd8b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@nilayansamanta4/test-driven-development-tdd-in-django-a-beginners-guide-5751d1560fac?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@shaanmr/the-power-of-technology-in-my-life-embracing-code-and-creativity-710e54f17872?source=rss------django-5"
+    },
+    {
+        "link": "https://swesadiqul.medium.com/django-websocket-jwt-%E0%A6%8F%E0%A6%AC%E0%A6%82-token-authentication-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97-%E0%A6%97%E0%A6%BE%E0%A6%87%E0%A6%A1-ecb6d4b262fb?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/real-world-practical-guide-configuring-email-for-development-in-django-40d6ba0433b2?source=rss------django-5"
     }
 ]
