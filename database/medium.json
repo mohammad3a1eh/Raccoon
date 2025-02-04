@@ -9271,5 +9271,65 @@
     },
     {
         "link": "https://medium.com/@ewho.ruth2014/real-world-practical-guide-configuring-email-for-development-in-django-40d6ba0433b2?source=rss------django-5"
+    },
+    {
+        "link": "https://bashoverflow.medium.com/a-practical-guide-exploiting-ssrf-with-filter-bypass-via-open-redirection-ssrf-labs-e0cfaa0c5774?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@BugRey/practical-and-easy-steps-to-find-xss-with-a-real-case-study-6959a3fbd6bf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shxsu1/how-i-hacked-my-way-into-college-and-became-a-life-job-afterward-aef3e0e7e843?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/common-vulnerabilities-found-in-bug-bounty-programs-but-overlooked-in-traditional-penetration-10edc6a9ec1e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/secator-a-powerful-security-workflow-automation-tool-41995057c731?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@BugRey/practical-guide-to-finding-sql-injection-real-case-study-3625bdb9d8c3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@debang5hu/discovering-and-reporting-a-reflective-xss-vulnerability-8c5e14206d17?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/find-primary-domains-for-bug-bounty-using-censys-search-complete-guide-a26ea5eea5c2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@halfcircassian/how-bad-regex-can-earn-you-a-bounty-for-an-open-redirect-filter-bypass-bug-6845a2b83f7c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shalomo.social/vulnerabilities-a-comprehensive-exploration-of-client-side-and-server-side-risks-c2f060434ebc?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/advanced-django-syndication-feeds-a-complex-example-17cbf9348e9f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/capturing-query-parameters-of-request-get-in-django-4b9cda00490d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@djangoist/how-to-add-links-to-the-django-admin-detail-page-top-toolbar-e0987abbf309?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@alensabu12xtz/once-you-get-hold-of-forms-in-django-you-will-just-forget-about-html-forms-a5511ce2ed39?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@v2jarvis/when-why-and-how-use-cases-about-views-in-django-rest-framework-drf-b7fcf1a900c4?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.toktokhan.dev/developer-onboarding-toktokhan-0fc766c1a904?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@pawanpandey1251/mastering-javascript-and-django-a-developers-journey-to-building-scalable-applications-eafceaf5b71b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@wawaziphil/testing-api-security-on-a-django-drf-backend-a-comprehensive-guide-following-owasp-guidelines-ccc5be18ee13?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@amitkumat/building-a-chatbot-with-deepseek-ai-and-django-4d6cc5bb7a34?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@bhubanghimire3130/how-to-scale-django-media-storage-without-s3-949dec8d9e93?source=rss------django-5"
     }
 ]
