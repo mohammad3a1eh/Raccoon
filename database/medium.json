@@ -9331,5 +9331,68 @@
     },
     {
         "link": "https://medium.com/@bhubanghimire3130/how-to-scale-django-media-storage-without-s3-949dec8d9e93?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@regan_temudo/dom-based-reflected-xss-in-mtn-groups-notification-server-84289a87094e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/get-easy-bugs-by-these-dorks-b811ca815f3c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/infosecmatrix/finding-a-dos-bug-step-by-step-22216cac37d8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ahmadzuriqi4/critical-session-management-vulnerability-leading-to-account-hijacking-ec71e966265a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shxsu1/the-ghost-email-heist-stealing-accounts-from-the-future-9fce3ae1c086?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Arsenelupin12/from-rookie-to-bounty-how-a-400-idor-flaw-on-hackerone-cracked-open-my-cybersecurity-journey-1566b8564ae4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@remmy9/from-alert-origin-to-ato-an-xss-story-d6bd2684bdca?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@l_s_/live-love-waf-skirt-the-firewalls-or-die-trying-4120facb41c8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/exploring-a-new-sqli-vulnerability-a-ghauri-experience-541c588dc00d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/russian-hackers-exploit-zero-day-attacks-against-ukraine-c96042b7989e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@bughunt.bochi/the-silent-breach-a-story-of-leaked-token-and-pii-4576658030e3?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://magnifywithme.medium.com/creating-a-garden-planner-using-django-part-2-f51a68bb5f95?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@msbaig763/django-bc28079e9ac6?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@Hassan01SE/integrating-mqtt-with-django-rest-framework-a-step-by-step-guide-64d56cda8f49?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@jakubpkrajewski/django-a-high-level-python-web-framework-is-celebrated-for-its-batteries-included-approach-1d9709ec9a0a?source=rss------django-5"
+    },
+    {
+        "link": "https://towardsdev.com/pagination-in-django-slicing-data-like-a-pizza-pro-aab23e2b361a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/mastering-django-model-choices-from-tuples-to-enums-524f0be9556b?source=rss------django-5"
+    },
+    {
+        "link": "https://magnifywithme.medium.com/creating-a-garden-planner-using-django-part-1-f1fab6f2eafb?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@muazzem.mamun/scaling-django-applications-fe1fab043a07?source=rss------django-5"
+    },
+    {
+        "link": "https://akanuragkumar.medium.com/smart-code-search-building-an-ai-powered-query-system-with-django-openai-d1a8b9dc502c?source=rss------django-5"
+    },
+    {
+        "link": "https://kenyattaanthony.medium.com/mastering-django-query-optimization-with-select-related-prefetch-related-and-fixing-n-1-5814ac31d169?source=rss------django-5"
     }
 ]
