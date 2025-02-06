@@ -9394,5 +9394,68 @@
     },
     {
         "link": "https://kenyattaanthony.medium.com/mastering-django-query-optimization-with-select-related-prefetch-related-and-fixing-n-1-5814ac31d169?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/extreme-recon-dorking-eace7444b7c2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ossama.cybersec/all-you-need-to-know-about-path-traversal-5a01c18e01e4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@alimuhammadsecured/cyberforce-2024-how-i-found-my-first-cve-openplcv3-16c058b114b0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/netgear-warns-of-zero-day-vulnerabilities-in-wifi-routers-ffc2d8299b8f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@manav.surti.13728342/otp-bypass-on-redacted-contact-forms-to-unauthorized-calls-453d09837fa4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@danielbelay/day-1-defeating-the-httponly-flag-for-account-takeover-via-rxss-a2fa9cbc0156?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Tanvir0x1/critical-idor-vulnerability-leads-to-user-information-disclosure-b0bb7f06aef5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/from-demo-to-live-zero-click-account-takeover-via-the-same-encryption-algorithm-38b6cabfb21e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@naveen_sparks/accidental-information-disclosure-477198f071eb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/10-must-have-burp-suite-extensions-for-pro-bug-hunters-%EF%B8%8F-e53aa3b5af48?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@adhaamsayed3/mobile-application-pentest-bypass-the-main-restricted-activity-b9d4420b7ff9?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://chrisdevcode.medium.com/django-polls-simplified-urls-05eb508ad722?source=rss------django-5"
+    },
+    {
+        "link": "https://chrisdevcode.medium.com/django-polls-simplified-writing-templates-eb8255e3a4b8?source=rss------django-5"
+    },
+    {
+        "link": "https://ahmadwkhan.medium.com/the-art-and-pain-of-generating-invoice-numbers-that-scale-35c342c0f816?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/using-enclosures-in-django-feeds-real-world-podcast-example-cb2bf9c162c5?source=rss------django-5"
+    },
+    {
+        "link": "https://leapcell.medium.com/exploring-asgi-pythons-async-protocol-for-web-apps-867914a69d14?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mamun700263/how-to-connect-django-with-mongodb-using-djongo-3f555b69b760?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/customizing-feed-language-in-django-real-world-example-da68110a9196?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@otfcoder.seo/how-to-choose-the-right-technology-stack-for-your-web-project-80df6f409b44?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@muazzem.mamun/middleware-in-django-21f2d4c2cbed?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/ambient-innovation/better-unit-tests-for-your-emails-with-django-5-2-535de81b3049?source=rss------django-5"
     }
 ]
