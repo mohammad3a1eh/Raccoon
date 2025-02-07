@@ -9457,5 +9457,59 @@
     },
     {
         "link": "https://medium.com/ambient-innovation/better-unit-tests-for-your-emails-with-django-5-2-535de81b3049?source=rss------django-5"
+    },
+    {
+        "link": "https://osintteam.blog/do-you-struggle-finding-internal-hidden-subdomains-recon-part-5-b06c99a11364?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bashoverflow.medium.com/how-to-exploit-web-cache-poisoning-with-an-unkeyed-header-using-param-miner-web-cache-a3ffacc546a1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/50-xss-mass-hunting-37e51fce5369?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shxsu1/the-50-000-mistake-a-read-write-profile-idor-story-c31c353446d4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://aidilarf.medium.com/part-2-anyone-can-use-unlimited-trial-premium-on-accounts-that-have-used-trial-premium-before-b1ac65c9a2d6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/the-importance-of-proxy-usage-in-bug-hunting-9896618da7fc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/search-engines-every-pentester-should-know-faabe0c7fb64?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/automating-google-dorking-for-bug-bounty-2339abb4b910?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@danielbelay/day-2-account-takeover-via-stored-xss-ac62c49b20c1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@unknown_feature/how-to-stop-a-blockchain-from-reaching-consensus-or-40k-bounty-for-stalling-cometbft-1b8a6959e0f0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://systemweakness.com/advanced-techniques-for-identifying-leaked-api-keys-in-js-files-bb67845e5c0e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@bhussain894/tiktok-bug-bounty-250-82293995c9e4?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://systemweakness.com/200-easy-bounty-improper-rate-limiting-exploit-8822aa2dbe97?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/simplifying-the-feed-class-for-your-django-project-59bf7d03de24?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@anzaloquin/the-hidden-trick-to-handle-date-input-in-django-admin-like-a-pro-e19234124eab?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/timescale/building-multi-node-django-systems-for-time-series-data-free-course-07051a880ea9?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@akhilvp/comprehensive-guide-to-logging-in-django-20d1a9055f35?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@akhilvp/make-your-life-easier-with-custom-bash-functions-automating-common-tasks-c5d0164aa24f?source=rss------django-5"
     }
 ]
