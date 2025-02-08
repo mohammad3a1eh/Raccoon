@@ -9511,5 +9511,65 @@
     },
     {
         "link": "https://medium.com/@akhilvp/make-your-life-easier-with-custom-bash-functions-automating-common-tasks-c5d0164aa24f?source=rss------django-5"
+    },
+    {
+        "link": "https://vijetareigns.medium.com/selecting-a-program-for-bug-bounty-on-hackerone-e51ce8a83b2a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bashoverflow.medium.com/exploiting-web-cache-poisoning-with-multiple-headers-a-practical-guide-using-param-miner-web-aca990356da8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@omaroymdm/bypassing-rate-limit-on-password-reset-page-63814feec6f5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://som3a.medium.com/user-interface-says-no-backend-says-yes-story-of-bypassing-email-verification-b469f20a141f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kohihamed3/introducing-zerodayf-a-dynamic-ai-driven-code-analysis-vulnerability-scanner-7e9ab4ffb6e6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/cloudflare-outage-disrupts-multiple-services-due-to-phishing-block-mishap-4fdac4bcd365?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/kimsuky-hackers-deploy-custom-rdp-wrapper-for-remote-access-aa9d9eae74f6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@danielbelay/day-3-account-takeover-via-xss-in-e-signature-feature-worth-2500-71db9449f74b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/how-i-found-sensitive-log-files-2336cd86226f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/3-digit-codes-that-decides-your-future-dd078f099b06?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@akhandsinghofficial/building-a-django-and-react-web-application-a-step-by-step-guide-e93000692c9e?source=rss------django-5"
+    },
+    {
+        "link": "https://mohammad-rabie.medium.com/experience-webforms-core-technology-in-python-942e3469c764?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@Ajpanges7/web-development-daily-build-an-inventroy-management-system-with-django-pt-1-1e3401cc8517?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.devgenius.io/django-orm-join-queries-simplifying-complex-data-relationships-307ab450f68b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/publishing-both-rss-and-atom-feeds-in-django-real-world-example-2f233fbc6cf4?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/the-low-level-framework-0b42abddabf0?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/specifying-the-feed-type-in-django-a-real-world-example-491203f6deb5?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@muazzem.mamun/atomic-transaction-ec5d15667636?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@akhilvp/handling-exceptions-in-django-views-using-custom-decorators-6877997d1497?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@akhilvp/optimizing-datatables-in-django-handling-large-datasets-like-a-pro-f4217c411abf?source=rss------django-5"
     }
 ]
