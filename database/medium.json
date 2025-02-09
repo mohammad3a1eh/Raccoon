@@ -9571,5 +9571,74 @@
     },
     {
         "link": "https://medium.com/@akhilvp/optimizing-datatables-in-django-handling-large-datasets-like-a-pro-f4217c411abf?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@dsmodi484/%EF%B8%8F-%EF%B8%8Fmy-journey-of-securing-who-85f36c6caf0f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/easy-250-discovered-exposed-env-files-47e0d425795d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-i-got-bounty-and-hall-of-fame-for-finding-easy-bugs-1a72aefe6c3a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-to-find-bugs-in-the-microsoft-iis-page-120c2050b66f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/sniper-an-automated-penetration-testing-tool-fb54c506f60d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://v0ltex.medium.com/just-a-writeup-about-2fa-bypass-at-a-private-program-509238a0a3a1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Arsenelupin12/my-journey-to-earning-the-htb-bug-bounty-hunter-certificate-an-honest-review-323fb71b306a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/hackers-exploit-cityworks-rce-bug-to-breach-microsoft-iis-servers-ad48fc0e13e9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/hpe-notifies-employees-of-data-breach-after-russian-office-365-hack-d5bfed1fd135?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://islammeshriff.medium.com/my-first-finding-in-hackerone-7521597ca04d?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@official.armanreza/account-verification-otp-bypass-in-microsoft-security-response-centre-21855731a6f5?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@umd04843/account-takeover-via-email-change-exploiting-weak-verification-to-access-support-accounts-a3bb8d59e753?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/selecting-a-program-for-bug-bounty-on-hackerone-e51ce8a83b2a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/visualizing-your-django-database-with-django-schema-viewer-7eebd2b90569?source=rss------django-5"
+    },
+    {
+        "link": "https://towardsdev.com/turbocharge-your-database-advanced-query-optimization-with-postgresql-a1e86bf756e3?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@sanjeevanibhandari3/why-is-my-api-getting-called-twice-understanding-preflight-requests-and-how-to-fix-it-187792bd9636?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@stzifkas_96933/unbreakable-django-drf-advanced-security-encryption-strategies-for-enterprise-apis-f9fd2af44f82?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.devops.dev/from-local-to-cloud-deploying-a-django-employment-management-app-with-aws-rds-ff2839905af1?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@stanker801/from-localhost-to-cloud-dockerizing-djangos-perfect-database-match-easiest-guide-5f4a71a34255?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/creating-a-custom-itunes-podcast-feed-in-django-bb8eca08b72f?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/custom-feed-generators-in-django-ac458599b6bb?source=rss------django-5"
+    },
+    {
+        "link": "https://leapcell.medium.com/leapcell-the-best-serverless-platform-for-python-web-hosting-2cbc95bafbc0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@lightningiit123/building-a-blog-backend-with-django-82cb391a3005?source=rss------django-5"
     }
 ]
