@@ -9640,5 +9640,80 @@
     },
     {
         "link": "https://medium.com/@lightningiit123/building-a-blog-backend-with-django-82cb391a3005?source=rss------django-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/bypassed-cloudflare-xss-pop-up-f9c67952abcf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muralidharan1530/html-injection-in-email-invitations-a-security-flaw-exploited-39394f6ac266?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://yogsec.medium.com/getsubdomains-a-fast-efficient-subdomain-enumeration-tool-%EF%B8%8F-11c7d8003931?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://securrtech.medium.com/erc-20-erc-721-erc-1155-how-token-standards-introduce-unique-security-risks-ed9fe5083200?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://blog.stackademic.com/the-7-most-hilarious-bugs-ive-encountered-in-my-career-128aa23532ab?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://zeusvuln.medium.com/the-art-of-recon-hunting-bugs-before-they-hide-part-one-1df269ab1d68?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bugbountylogs.medium.com/exploiting-an-idor-vulnerability-in-target-com-account-management-system-a5bec149e69f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/sql-injection-and-stored-cross-site-scripting-vulnerability-in-super-store-finder-plugin-214237191b5a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/massive-data-breach-882-000-patients-affected-in-us-health-system-cyberattack-ce8ddca0edc0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@danielbelay/day-5-chaining-bugs-from-self-xss-to-full-account-takeover-d01ab3759e06?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ajax12395/so-i-was-casually-hunting-for-bugs-on-this-random-subdomain-of-my-target-just-a-normal-page-no-43a9154a25a3?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/title-privacy-disclosure-on-m-facebook-com-after-add-photo-to-the-post-e7e07e2083e5?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@hhack4737/how-i-chained-3-vulnerabilities-to-achieve-account-takeover-ato-5238b8acc1ae?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://systemweakness.com/automated-bug-hunting-with-semgrep-your-secret-weapon-for-catching-sneaky-bugs-91439484acf4?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://systemweakness.com/how-i-found-reflected-xss-vulnerability-on-australian-government-cve-2022-35653-ead0e56db243?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@codingbolt.in/bug-bounty-roadamp-4acc1220e123?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/mastering-django-models-10-expert-level-tips-and-tricks-2db293862bdc?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/part-1-mastering-advanced-query-optimization-in-django-%EF%B8%8F-6691f8a311f0?source=rss------django-5"
+    },
+    {
+        "link": "https://namrata-bhaumik.medium.com/a-deep-dive-into-ci-cd-automating-my-django-deployments-with-github-actions-5dd82c44129c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@sehouli.hamza/laravel-vs-django-vs-node-js-which-one-is-best-9cfe61b2b8d4?source=rss------django-5"
+    },
+    {
+        "link": "https://syscrews.medium.com/the-ultimate-guide-to-deploying-django-applications-with-uwsgi-b2aa3f217ce5?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@borys_bond/allauth-how-to-link-a-socialaccount-to-an-existing-user-in-django-ec103e48a3f5?source=rss------django-5"
+    },
+    {
+        "link": "https://syscrews.medium.com/mastering-django-generatedfield-enhance-your-models-efficiently-395cdb6a0746?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@afimaamedufie/reflecting-on-my-djangocon-us-2024-experience-f6e294f9f5b4?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@upretianshul9898/a-breakthrough-from-mern-to-ai-integrated-web-apps-677e9b75a537?source=rss------django-5"
     }
 ]
