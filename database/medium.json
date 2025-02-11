@@ -9715,5 +9715,77 @@
     },
     {
         "link": "https://medium.com/@upretianshul9898/a-breakthrough-from-mern-to-ai-integrated-web-apps-677e9b75a537?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/mr-plan-publication/notify-tutorial-for-bug-hunters-8ccb8d0d0b74?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/infosecmatrix/easy-1000-10000-bounty-using-wayback-machine-cb6c5cb77543?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@makarov_bm/the-hidden-business-logic-error-that-exists-on-most-e-commerce-web-application-7b9be9113073?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@g0kb0ru/understanding-and-exploiting-an-open-redirect-vulnerability-in-nvidia-3b1b429cb3c5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@wiretor/international-operation-dismantles-phobos-ransomware-gang-key-arrests-and-8base-takedown-61e126bb54c9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@danielbelay/day-6-css-injection-clickjacking-to-account-takeover-c0a0622ac250?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/how-bug-bounty-programs-work-the-ultimate-guide-143a7bd93451?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://keroayman77.medium.com/xml-rpc-vulnerability-easy-exploit-easy-bounty-8019a35c700b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://keroayman77.medium.com/exposed-api-keys-config-files-in-js-file-bug-bounty-790b02a015ff?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@b4logi.hackbat/idor-unlocked-accessing-unauthorized-data-with-a-simple-tweak-47749e341d4b?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/bug-bounty-target-selection-how-hackers-find-the-most-profitable-juicy-bugs-before-anyone-else-061510e83698?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://metanetwebhostingsecurity.medium.com/jira-misconfiguration-leading-to-unauthorized-access-69d32ab5a5c7?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@hhack4737/my-first-year-in-bug-bounty-from-0-to-10k-lessons-successes-and-encouragement-for-beginners-932bb8884a87?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@sauravkrish59/my-first-paid-bug-bounty-a-250-reward-for-session-management-vulnerability-22cb5163e05f?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@wawaziphil/the-n-1-query-problem-in-django-what-it-is-and-how-to-avoid-it-261896bc1696?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.devgenius.io/django-pdf-actions-d4a87960f4ac?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@arifcse21/django-graphql-and-apollo-federation-towards-scalable-microservices-e6850794924c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/deserializing-data-71ae322a28e7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/serializing-django-objects-a-complete-guide-c2a1b7a4077b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/youre-building-django-apis-the-hard-way-here-s-how-to-fix-it-d533d5c459d7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/using-djangos-messages-framework-for-user-notifications-138826053ca8?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/django-messages-framework-expiration-parallel-requests-and-testing-7f8bc1f89744?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/using-djangos-successmessagemixin-for-class-based-views-d4f18299dcd2?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/enhancing-user-experience-with-djangos-messages-framework-743642709d8d?source=rss------django-5"
     }
 ]
