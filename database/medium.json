@@ -9850,5 +9850,65 @@
     },
     {
         "link": "https://medium.com/@karimbenlghalia/how-to-build-and-deploy-a-react-django-application-with-docker-and-kubernetes-on-google-cloud-58ec8cea28bd?source=rss------django-5"
+    },
+    {
+        "link": "https://rootxabit.medium.com/mastering-sql-injection-detection-exploitation-automation-guide-7f0195fe435d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://aimasterprompt.medium.com/10-5k-bounty-story-aa55497d77b6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/earn-by-finding-csrf-vulnerabilities-638f876918cf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/powerful-burp-suite-extensions-d1c960f376b5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@zatikyan.sevada/hacking-tools-art-of-my-creation-2f47ab1eca18?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/10-500-sso-misconfiguration-bug-on-grammarly-438f2cb87a0c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@halfcircassian/bug-bounty-in-2025-part-1-mastering-regex-for-security-3d58bcf51102?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ibtissamhammadi/facebook-bug-bounty-can-you-really-earn-500-for-finding-bugs-4e71c81af2a2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-93-d66c26764179?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-92-0cc43d2fedb2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@iamshafayat/how-i-discovered-a-wordpress-vulnerability-exposed-usernames-xml-rpc-exploitation-b35b0ec63a54?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/i-pasted-a-link-inspected-the-html-and-facebook-gave-me-1000-9ed4a91e24d1?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@whitehat29/account-takeover-via-lack-of-email-verification-vulnerability-9b9be0751d8b?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@eric_abell/overriding-built-in-field-validators-in-django-rest-framework-modelserializers-0fd44257c7c4?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/building-a-realworld-blog-backend-in-600-lines-of-python-918a259fb395?source=rss------django-5"
+    },
+    {
+        "link": "https://adiramadhan17.medium.com/django-switchable-theme-9d5e6102d4de?source=rss------django-5"
+    },
+    {
+        "link": "https://code4mk.medium.com/py-socialite-implement-on-django-and-drf-2b2531bdb6e9?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/django-ninja-unlocking-its-full-potential-part-2-a4e0b5a6ad1b?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/10-profitable-saas-ideas-you-can-build-today-with-django-python-postgresql-d3ad7df074d0?source=rss------django-5"
+    },
+    {
+        "link": "https://maheshjtp.medium.com/master-django-a-complete-beginners-guide-53dfc95f1c14?source=rss------django-5"
     }
 ]
