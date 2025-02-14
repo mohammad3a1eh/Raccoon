@@ -9910,5 +9910,71 @@
     },
     {
         "link": "https://maheshjtp.medium.com/master-django-a-complete-beginners-guide-53dfc95f1c14?source=rss------django-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/get-your-first-bug-b50dadbea60a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/a-powerful-web-crawling-and-osint-tool-c0a5d118f398?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/bug-bounty-bug-hunter-academy/hypertext-transfer-protocol-http-3719e3eda9ea?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/finding-hidden-api-keys-tokens-and-sensitive-information-in-applications-d8a40a5a162a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-same-origin-policy-23aabe865729?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@metogmer/arcgis-sqli-cve-2012-4949-06ea278ab6a4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-remote-code-execution-3935b5823657?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@bombhajohn/new-to-bug-bounty-simple-way-62cd38d0b9fc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-application-logic-errors-and-broken-access-control-cd15bb9ccc0c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@princepr99/mr-robot-ctf-305aea527bcc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@0x5atab/locked-features-unlocked-access-breaking-restrictions-with-response-manipulation-c7546a39c4c7?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@halfcircassian/bug-bounty-in-2025-part-2-intro-to-open-redirect-vulnerability-with-a-conceptual-lab-c0db11537778?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@knwknw/django-saml-and-google-workspace-dadb4cbe166a?source=rss------django-5"
+    },
+    {
+        "link": "https://levelup.gitconnected.com/building-a-django-api-for-buying-blp-tokens-with-metamask-integration-570883d85e4f?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/nodejs-vs-django-choosing-the-right-backend-framework-6ef045d8d7ca?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@krishangtechnolab/the-most-popular-backend-frameworks-for-web-development-0db1dc69fb59?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/a-layman/custom-domain-name-with-cloudflare-for-heroku-django-application-3071c1b5e77c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@anuj.punasiya99/integrating-celery-and-elasticsearch-in-a-django-project-with-docker-602416ffdac6?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/session-ids-in-urls-why-django-avoids-it-436f4a1a8bf1?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/session-security-risks-with-subdomains-2802c56d681f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/django-session-settings-overview-f1945f4da21e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/clearing-the-session-store-in-django-c1b0d2fa19e8?source=rss------django-5"
     }
 ]
