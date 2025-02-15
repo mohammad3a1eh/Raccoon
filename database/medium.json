@@ -9976,5 +9976,77 @@
     },
     {
         "link": "https://medium.com/@ewho.ruth2014/clearing-the-session-store-in-django-c1b0d2fa19e8?source=rss------django-5"
+    },
+    {
+        "link": "https://osintteam.blog/breaking-architect-matrix-ai-security-challenge-by-repello-6853c34a6874?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/from-recon-to-exploitation-the-power-of-terminatorz-e86d8bf59c08?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/how-to-easily-find-exposed-credentials-in-bug-hunting-bb70ac603bae?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/advanced-secrets-hunting-finding-exposed-credentials-in-unconventional-places-9aaaf52330a3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-secure-code-review-39c61b961afc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-information-disclosure-b1ef91dc0208?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-single-sign-on-services-8fc6e85e5ece?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@gouravrathod8788/from-sql-injection-to-remote-code-execution-a-bug-bounty-hunters-unexpected-journey-bc91a3697f24?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ibtissamhammadi/hackers-wanted-bug-bounty-program-pays-50-000-for-critical-vulnerabilities-e113b868ee0f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-97-34ad1a8bc36c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/breaking-through-the-firewall-how-i-bypassed-a-waf-and-found-a-critical-bug-with-1700-0680e28c8785?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@oXnoOneXo/how-i-got-a-stored-xss-by-searching-through-js-files-fdfe2490668b?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@danielbelay/day-9-crlf-to-account-takeover-chaining-bugs-8e621c9be109?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://r0b0ts.medium.com/how-i-can-trigger-remote-code-execution-via-cron-job-b7d9d7dc9372?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@therespawner69/implementing-jwt-authentication-with-django-and-react-68fe92468873?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@itxvenom203/how-i-built-a-fully-functional-skechers-footwear-store-clone-using-django-6aa5e522dda6?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@matus-kocik/my-preconfigured-django-template-part-4-python-decouple-6c3c7c3a5144?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@easezensolutionz/back-end-development-node-js-django-and-spring-boot-b72c0c6c5cf0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/pythoneers/unveiling-identity-operators-in-python-understanding-is-and-is-not-dc55811559ef?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/customizing-sitemaps-and-leveraging-djangos-sites-framework-for-multi-site-management-e134353100d9?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/customizing-django-sitemaps-with-custom-templates-1eaef1d4988e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/creating-sitemaps-for-static-views-and-large-websites-in-django-94680279522d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/generating-sitemaps-in-django-a-practical-guide-2c25b9a7bf03?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/django-sitemap-class-reference-a-complete-guide-39b42b954dda?source=rss------django-5"
     }
 ]
