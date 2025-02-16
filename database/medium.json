@@ -10048,5 +10048,80 @@
     },
     {
         "link": "https://medium.com/@ewho.ruth2014/django-sitemap-class-reference-a-complete-guide-39b42b954dda?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/500-how-i-found-xss-using-chatgpt-ec55792e35bb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/finding-a-p4-as-per-bug-crowd-vrt-1de5f8074cda?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@youssefawad1357/api-testing-port-swigger-labs-solutions-2f8f7b949f9f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/best-bug-bounty-platforms-in-2025-a-comprehensive-comparison-70aaa7d967eb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/how-a-hidden-github-token-led-to-a-50-000-bug-bounty-6bbec61114d9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rstuv/unauthorized-access-to-blinkist-premium-audiobooks-a-case-study-8b3d7e6c3c17?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ibtissamhammadi/from-0-to-2-500-my-journey-finding-critical-vulnerability-through-bug-bounty-programs-c4d8a5059eec?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shadyfarouk1986/comparing-burp-suite-pro-and-owasp-zap-which-one-is-right-for-you-56629b2dac6d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-98-65be156058f4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/from-cookie-to-p1-exploiting-a-simple-flaw-for-maximum-impact-a05ef35c3e8c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@0x1mohammed/mass-hunting-active-hackerone-bugcrowd-domains-priv-methodology-2025-98fda70c2534?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@shadyfarouk1986/advanced-xss-filter-bypass-methods-using-payload-splitting-c8e32497461a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/cache-control-an-easy-p4-vulnerability-746138597d10?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@rahulgairola/exposed-admin-panel-8000-bounty-the-power-of-shodan-recon-3408ce97531c?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@muhammedgalal66/content-provider-exploitation-from-simple-misconfiguration-to-application-lockdown-fd09520e9d3a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad_saud/rate-limits-bypassed-business-logic-flaw-948a11dce0e4?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@bouroumanamoundher/tracking-django-schema-changes-with-django-schema-history-c7a968ad8b54?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@akhilascoding/django-application-overview-2301273efc45?source=rss------django-5"
+    },
+    {
+        "link": "https://arnopretorius-developer.medium.com/add-a-simple-captcha-in-django-421260dfaebc?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mamun700263/connecting-django-with-mysql-f68b9edd1ac6?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@shmarhkhalhyzd374/hshsj-20a2c8136dd3?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/implementing-redirect-tracking-in-djangos-admin-panel-fef9e0effbbe?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/advanced-redirect-handling-in-django-c8910bd928de?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/using-djangos-redirects-framework-for-managing-url-changes-113d2efd59b0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/getting-the-current-domain-for-full-urls-in-django-fed565d4e61e?source=rss------django-5"
     }
 ]
