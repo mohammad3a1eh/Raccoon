@@ -10123,5 +10123,80 @@
     },
     {
         "link": "https://medium.com/@ewho.ruth2014/getting-the-current-domain-for-full-urls-in-django-fed565d4e61e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@dasmanish6176/finding-vulnerabilities-with-nmap-713bd8693369?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/hidden-method-to-find-bugcrowd-programs-c6ac027be4f4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/ever-used-burp-suite-to-the-fullest-recon-part-9-22c389a29ad7?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/how-i-found-an-open-redirect-vulnerability-easily-worth-500-d677d7693c06?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/how-to-extract-information-from-websites-automated-osint-techniques-and-tools-434204e9c9dc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Y_Waheed/symfonos2-security-challenge-3d6a2a514f37?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@azizkilani88/how-i-found-my-first-bug-a-beginners-guide-to-bug-bounty-hunting-f41afef630d3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhammadwaseem29/log4j-rce-vulnerability-cve-2021-44228-exploitation-041ff74e1349?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@bevennyamande/exposure-of-internal-php-source-code-leading-to-credential-sensitive-data-leakage-209383740e1e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ibtissamhammadi/how-to-earn-100k-as-a-bug-bounty-hunter-584690e63ab4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@krishna9823420058/how-to-write-the-perfect-bug-bounty-report-with-examples-5d95b95559ea?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://0xshuvo.medium.com/ad-connector-dashboard-takeover-a5e3dd6d28ce?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@anonymousshetty2003/how-i-got-into-googles-hall-of-fame-using-github-recon-383cb88d056e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@0x1di0t/business-logic-vulnerabilities-843ea2a316f2?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@shadyfarouk1986/cors-vs-access-control-allow-origin-af5cecc3f4c7?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://systemweakness.com/idor-nightmare-indian-post-office-portal-exposed-thousands-of-kyc-records-with-article-id-with-735cc35a3984?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@njavilas2015/arquitectura-hexagonal-backend-django-draft-bb527adcbf33?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.nonstopio.com/writing-unit-tests-in-django-part-1-urls-1e9618054cfc?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.stackademic.com/django-authentication-using-an-email-address-9252634a77a0?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/part-3-going-async-django-asynchronous-views-orm-d9626b2aace7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@shrugaltayal/django-microweb-dev-1f8cba6e8e49?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/the-django-admin-documentation-generator-f25e341a290c?source=rss------django-5"
+    },
+    {
+        "link": "https://dpjanes.medium.com/four-strategies-for-dealing-with-script-kiddies-probing-attacks-16953bdcce27?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@qpmdz/python-3-13-2-django-installation-on-macos-29868379a1ae?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ktea7743/o%C3%B9-sont-stock%C3%A9s-les-fichiers-source-dune-web-app-python-django-sqlite-sur-linux-azure-3f21fc4ce1da?source=rss------django-5"
     }
 ]
