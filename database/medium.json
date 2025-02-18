@@ -10198,5 +10198,65 @@
     },
     {
         "link": "https://medium.com/@ktea7743/o%C3%B9-sont-stock%C3%A9s-les-fichiers-source-dune-web-app-python-django-sqlite-sur-linux-azure-3f21fc4ce1da?source=rss------django-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-i-bypassed-bookmyshows-otp-limit-with-just-a-space-got-1000-for-it-70eab29fb6aa?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/no-email-verification-leads-to-an-oauth-account-takeover-02eb30496939?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@BugRey/android-app-endpoint-api-discovery-using-static-analysis-methods-2cb2c83ccfbb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@BugRey/practical-guide-arbitrary-file-upload-7c6a6e6becd6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@bombhajohn/monday-vulnerability-disclosure-february-17-2025-08d7fe29c39b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/500-html-injection-in-snapchat-c546282f1f60?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@0x_karim/open-redirect-to-xss-d35eb8eb1cf4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/finding-exposed-credentials-and-sensitive-data-in-cloud-repositories-and-logs-a4a4c9e5323c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@weaponshot/bug-bounty-recon-mastering-the-art-of-information-gathering-part-1-01e24bb24462?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hacker_might/subdomain-bruteforcing-using-burp-suite-a-step-by-step-guide-for-ethical-hackers-6f48f59b9f00?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@rahulgairola/from-curiosity-to-10-000-how-i-found-a-critical-account-takeover-bug-ca6dd169c36b?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@shadyfarouk1986/web-vulnerabilities-101-understanding-and-exploiting-xss-8026617bf396?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@alfininfo/create-simple-chatbot-with-django-javascript-bootstrap-and-gemini-2caaec2becbd?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mshahbazalam/custom-management-commands-in-django-automating-tasks-for-efficiency-ecb0a355d38c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/pythoneers/wait-what-runs-first-understanding-python-operator-precedence-associativity-679edcf5ec9b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/pythoneers/say-goodbye-to-type-errors-type-conversion-in-python-can-break-your-code-0fc3efc29a92?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@okekechimaobi/i-fixed-my-slow-nginx-gunicorn-setup-heres-how-it-became-3x-faster-1c324eb9bbb5?source=rss------django-5"
+    },
+    {
+        "link": "https://levelup.gitconnected.com/one-product-online-shop-with-the-python-django-framework-and-stripe-payment-mini-ecommerce-659b1cb10d18?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/supercharge-your-python-debugging-with-turbo-python-print-in-vs-code-%EF%B8%8F-46f1f2fde808?source=rss------django-5"
     }
 ]
