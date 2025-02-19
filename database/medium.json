@@ -10258,5 +10258,68 @@
     },
     {
         "link": "https://medium.com/django-unleashed/supercharge-your-python-debugging-with-turbo-python-print-in-vs-code-%EF%B8%8F-46f1f2fde808?source=rss------django-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/free-vps-for-penetration-testing-and-bug-bounty-part-2-d88e7ec00e2c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@0xpedrop/insecure-deserialization-lab-resolution-1f53adbf26a1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://0onoproblem.medium.com/unauthorized-access-to-internal-panel-via-response-manipulation-0b6baaae9346?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/infosecmatrix/1000-bounty-command-injection-vulnerability-b190222bf07a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-i-got-a-fileupload-vulnerability-so-easily-a659421a0523?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/i-hacked-fide-com-call-me-hacknus-carlsen-529eeb55440d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ajudeb55/top-search-engines-for-hackers-the-ultimate-guide-00f7ab52689e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@thedevtaskofficial/bug-bounty-made-me-a-madman-346205a6e4af?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@bombhajohn/how-i-learned-xss-e593a9b956e3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-i-earned-a-hall-of-fame-spot-at-unesco-by-bypassing-403-forbidden-fdb2185383f7?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@halfcircassian/bug-bounty-in-2025-part-3-investigating-4-open-redirect-reports-at-hackerone-so-you-dont-have-499948a0e6b1?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@benardmulwa508/5-solid-bug-bounty-niches-you-can-consider-ranked-by-opportunity-and-difficulty-495b0b5ae66c?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@blify/cors-xss-chaining-vulnerabilities-for-critical-data-extraction-aed9d8fbd814?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@yog_sahare/bug-bounty-html-injection-in-email-invitations-d2062d8337ef?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@anuraagkhare_39064/accelerate-your-django-projects-with-uv-fast-python-packaging-lean-docker-images-3af17c46ad76?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@anzaloquin/understanding-the-django-admin-the-definitive-guide-to-its-nomenclature-and-templates-195b8a3e0396?source=rss------django-5"
+    },
+    {
+        "link": "https://awstip.com/the-ultimate-gitignore-guide-for-django-and-next-js-projects-4631b62e5528?source=rss------django-5"
+    },
+    {
+        "link": "https://levelup.gitconnected.com/how-to-deploy-redis-and-redisinsight-on-kubernetes-eks-with-load-balancer-and-ingress-public-ip-2c640b06842c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ayarshabeer/understanding-workers-single-threaded-and-multi-threaded-execution-in-django-855654d43575?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/beyond-crud-implementing-advanced-query-optimization-in-django-orm-420c9deee3e1?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@divyagugulothu/how-to-set-up-microsoft-sso-for-your-react-and-django-application-e3271f5568cc?source=rss------django-5"
     }
 ]
