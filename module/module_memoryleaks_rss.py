@@ -63,8 +63,7 @@ async def run(token, chat_id):
         author = entry.author if hasattr(entry, 'author') else "Unknown"
 
         text = f"""
-<b>{title}</b>(<i>{author}</i>)
-<a href='{post['link']}'>Link</a>"""
+<b>{title}</b>(<i>{author}</i>)"""
 
         links = [
             [
