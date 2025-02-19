@@ -10321,5 +10321,65 @@
     },
     {
         "link": "https://medium.com/@divyagugulothu/how-to-set-up-microsoft-sso-for-your-react-and-django-application-e3271f5568cc?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@zerodaystories/bug-bounty-methodology-exploiting-dev-staging-environments-for-maximum-bounty-414419faf744?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bevijaygupta.medium.com/jsfscan-automation-for-javascript-recon-in-bug-bounty-af3273ac61bf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@HackerNasr/turning-xss-into-account-takeover-ato-how-to-level-up-your-exploit-16126c271476?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/lfi-advanced-methodology-by-abhijeet-6663bede44c6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://yogsec.medium.com/http-filter-streamlining-http-response-analysis-for-security-researchers-9e356e2065d2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@abdulbasitpriv/no-rate-limit-the-easiest-bug-bounty-payout-youre-missing-79335e39c377?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://hiddendom.medium.com/how-i-found-sql-injection-vulnerability-on-the-government-organization-website-01533dba5158?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/critical-security-vulnerability-unauthenticated-access-to-shipments-deleted-endpoint-leads-to-7edb5d9b7f76?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@verylazytech/how-to-identify-a-servers-origin-ip-and-hy-b6312af71e51?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://saeed0x1.medium.com/file-upload-restrictions-bypass-in-s3-bucket-87c2717664a3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@nnannamari/django-the-web-framework-that-thinks-for-you-heres-why-it-s-a-game-changer-65f678abd978?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@psudheer854/django-tutorial-d4e497afb55d?source=rss------django-5"
+    },
+    {
+        "link": "https://leapcell.medium.com/python-decorators-a-game-changer-for-your-code-76c9900a0600?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@malikasrivastav/the-hidden-risk-of-save-in-django-application-for-async-tasks-9b87f84a97a7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/why-django-is-still-thriving-in-2025-and-far-from-dead-0b2fe79165b7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/adding-date-based-filters-for-redirect-analytics-in-django-admin-724dc0e61fea?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ridh57837/hire-django-developers-scale-your-business-today-e9d45d4ad579?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/weekly-redirect-report-via-email-3875be279daf?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/logging-redirect-alerts-for-analysis-c62286b28139?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/real-time-redirect-analytics-alerts-via-slack-%EF%B8%8F-e458b7a59f0e?source=rss------django-5"
     }
 ]
