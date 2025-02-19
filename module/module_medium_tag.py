@@ -79,7 +79,6 @@ async def run(token, chat_id):
 
             text = f"""
 <b>{title}</b>(<i>{author}</i>)
-<a href='{post['link']}'>Link</a>
 {categories}"""
 
             links = [
