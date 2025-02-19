@@ -69,8 +69,7 @@ async def run(token, chat_id):
             title = entry.title
 
             text = f"""
-<b>{title}</b>(<i>{channel}</i>)
-<a href='{video['link']}'>Link</a>"""
+<b>{title}</b>(<i>{channel}</i>)"""
 
             links = [
                 [
