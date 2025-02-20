@@ -10381,5 +10381,47 @@
     },
     {
         "link": "https://medium.com/@ewho.ruth2014/real-time-redirect-analytics-alerts-via-slack-%EF%B8%8F-e458b7a59f0e?source=rss------django-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/how-a-graphql-misconfiguration-exposed-sensitive-information-a-25-000-bug-bounty-report-a8207bc7ff11?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/did-you-know-short-fun-facts/did-you-know-a-woman-launched-the-u-s-governments-first-bug-bounty-program-3b7a32ebf00b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://kalawy.medium.com/there-is-no-subdomain-with-no-usage-how-understanding-this-rule-led-to-5-criticals-59e815ca6df2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@a0xtrojan/easy-p3-broken-access-control-7c28702cb1ee?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-102-33f5cc96116c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ismailismailgamal52/how-i-found-a-csrf-via-a-misconfiguration-in-graphql-42676a1e12b7?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad4208/the-web-application-hackers-handbook-web-application-in-security-b2e7df531100?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad4208/subdomain-enumeration-expanding-the-attack-surface-5fefe74f1d83?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@warisjeet31/how-i-stumbled-upon-indias-government-data-leak-and-why-it-s-a-wake-up-call-c90695d84a29?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mohammadmohajer7091/a-scalable-notification-system-for-a-voting-application-email-slack-integration-24d615789f96?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@godswillutong/a-comprehensive-guide-to-api-pagination-in-django-d0be1e6f6851?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@sagarsangwan/how-to-manage-django-settings-for-local-and-production-environments-d7ba0061df8f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@afrinjamanbd/n-1-queries-problem-solution-14df3060f9b2?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@sunilnepali844/nested-routers-in-django-rest-framework-7d6a5a1cc8f0?source=rss------django-5"
     }
 ]
