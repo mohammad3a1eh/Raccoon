@@ -10423,5 +10423,71 @@
     },
     {
         "link": "https://medium.com/@sunilnepali844/nested-routers-in-django-rest-framework-7d6a5a1cc8f0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@kumawatabhijeet2002/100-bounty-username-restriction-bypassed-0d6422564c36?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://hackerassociate.medium.com/burp-suite-ai-extension-for-pentester-742358811884?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/exploiting-graphql-vulnerabilities-how-misconfigurations-can-lead-to-data-leaks-c41d50a64cc3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@sari.mmusab/y2fuihlvdsbyzwnvbj8-can-you-recon-hacker101-ctf-write-up-f2a446ecc9f0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@muhmoud.barket/open-redirect-in-logout-53656dbb922c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-103-695beef8d81c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/100-worth-open-redirect-automation-3e2f9e36bade?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/the-most-innovative-bug-bounty-platform-bcd812cb3670?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@modernshubhamgupta/even-brahma-had-brahmastra-garudax-have-digi-astra-for-you-834a75d7b337?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mehedihasanemonceh/why-portswigger-labs-is-essential-for-beginner-bug-hunter-8a940472d126?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@RekoJR/uuid-injection-0-click-superadmin-ato-3dc46a19c9ad?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/1000-bug-bounty-guide-uncovering-hidden-vulnerabilities-through-javascript-analysis-c3f1a698b91b?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/12-hidden-gem-django-libraries-you-should-know-about-part-2-041b23772ef0?source=rss------django-5"
+    },
+    {
+        "link": "https://levelup.gitconnected.com/building-a-high-traffic-large-scale-django-stripe-e-commerce-website-part-2-caching-with-332cae05508f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/django-5-2-whats-new-in-the-upcoming-lts-release-4bcc33d4a3cf?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/django-models-single-file-vs-multiple-files-which-one-should-you-choose-9cb85424777b?source=rss------django-5"
+    },
+    {
+        "link": "https://levelup.gitconnected.com/building-a-high-traffic-large-scale-django-stripe-e-commerce-website-part-1-authentication-8ffe348e6424?source=rss------django-5"
+    },
+    {
+        "link": "https://devanshupadhyay01.medium.com/optimizing-database-queries-in-django-a-developers-guide-d6f989e3b2a1?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@oviyan007/django-vs-flask-which-one-should-you-use-for-your-next-project-b3ed3bfa170d?source=rss------django-5"
+    },
+    {
+        "link": "https://maheshjtp.medium.com/python-programming-a-beginners-guide-to-mastering-the-most-popular-language-80e569d70d9f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@smrfcs1093/dont-trust-chatgpt-programming-solutions-at-the-first-glance-73028a7c9e93?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/ditch-requirements-txt-elevate-your-django-projects-with-poetry-e52dd79f32fb?source=rss------django-5"
     }
 ]
