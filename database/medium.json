@@ -10489,5 +10489,80 @@
     },
     {
         "link": "https://medium.com/@aashishkumar12376/ditch-requirements-txt-elevate-your-django-projects-with-poetry-e52dd79f32fb?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@vipulsonule71/how-to-find-xss-in-web-applications-in-bug-hunting-%EF%B8%8F-%EF%B8%8F-e5b3e9e27835?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@HackerNasr/bug-report-rejected-heres-what-you-can-do-b4407d7c19b8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/25000-idor-how-a-simple-id-enumeration-exposed-private-data-7de2f60c46fd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@bombhajohn/the-quickest-way-to-learn-xss-in-2025-free-version-b006fa64f3ed?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/100-worth-rate-limit-bypass-bug-advanced-tricks-tips-7722a98553e3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://krishna-cyber.medium.com/how-to-find-your-first-bug-and-get-paid-bug-bounty-made-easy-da3de634265c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://abhayal.medium.com/installing-and-using-nuclei-for-automated-security-scanning-1b4f53de3ae5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@GoRWAChain/announcing-the-lysa-testnet-bug-bounty-program-b73ed9adbd5c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-104-b2c76940b84b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackrate/how-to-choose-a-bug-bounty-platform-178e0eb95202?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mahmodziad40/how-i-found-5-reflected-xss-in-a-public-program-44b168ae6526?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@rahulgairola/api-loophole-how-i-bypassed-captcha-to-create-unlimited-accounts-0d21de1f96e2?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://progprnv.medium.com/easiest-vulnerability-200-you-can-test-it-under-2-minutes-2f45b4a0c785?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@bayusetb/my-first-bug-discovery-in-facebook-bug-bounty-2025-728b14eaf6cc?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@brbr0s/open-redirect-in-logout-53656dbb922c?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/the-ultimate-django-commands-cheat-sheet-everything-you-need-4c36e215ccd4?source=rss------django-5"
+    },
+    {
+        "link": "https://m-t-a.medium.com/python-how-django-transactions-work-a87083303102?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@barnaantekalign/why-i-stopped-using-django-f531050ebbd4?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/supercharge-your-django-app-with-context-processors-say-goodbye-to-repetition-a2080d42361a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@priyanshu011109/how-django-functions-under-the-hood-from-request-to-response-072bd3e0e7db?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@arora.ajay06/flask-vs-django-vs-fastapi-choosing-the-right-python-web-framework-176f11b49524?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/django-developers-stop-using-all-for-queries-heres-why-cf0e35c79ec2?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/understanding-validators-in-django-ensuring-data-integrity-and-consistency-bf5ee0efef5b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/handling-large-file-uploads-in-django-e86da6bde982?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/serving-django-media-files-with-a-cdn-35c94217519d?source=rss------django-5"
     }
 ]
