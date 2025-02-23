@@ -49,8 +49,6 @@ async def run(token, chat_id):
     db, tags = load_(data="medium", key=FILENAME)
 
     module.tbot.Telegram.init(token=token)
-    await module.tbot.Telegram.send_text_to_tel(f"The raccoon script has started running the '{NAME}' module",
-                                                chat_id=chat_id)
 
     post_ = 0
 
@@ -102,5 +100,3 @@ async def run(token, chat_id):
 
             with open(f"database/medium.json", "w") as file:
                 json.dump(db, file, indent=4)
-
-    await module.tbot.Telegram.send_text_to_tel(f"Find {post_} post", chat_id)
