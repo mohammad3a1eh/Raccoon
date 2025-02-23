@@ -10564,5 +10564,62 @@
     },
     {
         "link": "https://medium.com/@ewho.ruth2014/serving-django-media-files-with-a-cdn-35c94217519d?source=rss------django-5"
+    },
+    {
+        "link": "https://abhayal.medium.com/uncovering-hidden-treasures-mastering-wayback-urls-for-bug-bounty-hunting-8571357b7649?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/information-disclosure-hunting-tool-tips-commands-48003154e8bb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/firefox-and-chrome-extensions-for-bug-bounty-hunters-part-1-49e34f70d076?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hrofficial62/administrator-account-takeover-bf08c592bf6a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@VulnRAM/resource-consumption-vulnerability-542d0b38152e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@paritoshblogs/methods-and-tools-for-extracting-information-from-websites-c26b4584ef43?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/finding-juicy-information-from-graphql-22fb09bd9e61?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/crlf-injection-how-a-simple-bug-can-earn-you-1500-ff3aabc54a77?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://i-am-tibi.medium.com/the-art-of-software-testing-types-methods-and-best-practices-608cc6770136?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/earn-500-with-open-redirect-vulnerabilities-224d637f683c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/bug-bounty-restart-phase-1-preparation-mindset-57ca877a9278?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@0xNayelx/breaking-boundaries-my-journey-from-limited-stored-xss-to-open-redirect-a-sneaky-csrf-referrer-6dc939cf7aed?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@randixploit.shtml/my-approach-to-bypassing-strong-waf-in-xss-0c2e0864043b?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://aiwolfie.medium.com/how-i-found-a-confidential-business-agreement-on-wayback-machine-efd1f0abf4cf?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/django-security-checklist-10-steps-to-bulletproof-your-djangoweb-app-8978b3fb4330?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@priyanshu011109/deploying-django-applications-docker-ci-cd-and-cloud-deployment-guide-401abcb41ff1?source=rss------django-5"
+    },
+    {
+        "link": "https://levelup.gitconnected.com/high-traffic-django-stripe-e-commerce-website-part-5-deploying-celery-redis-on-aws-eks-78800e2808cb?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/understanding-django-orm-object-relational-mapping-16f3c29db7d7?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/building-a-high-traffic-large-scale-django-stripe-e-commerce-website-part-3-product-inventory-46a2501284e2?source=rss------django-5"
     }
 ]
