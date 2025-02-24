@@ -10621,5 +10621,77 @@
     },
     {
         "link": "https://python.plainenglish.io/building-a-high-traffic-large-scale-django-stripe-e-commerce-website-part-3-product-inventory-46a2501284e2?source=rss------django-5"
+    },
+    {
+        "link": "https://osintteam.blog/account-takeover-ato-a-practical-guide-to-finding-and-preventing-attacks-64c071d0ae84?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bxmbn.medium.com/lets-talk-about-encryption-and-idors-yes-idor-s-again-bxmbn-911bfb7a2de3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-i-hacked-indias-most-popular-matrimony-website-and-earned-a-10-000-amazon-gift-card-4dad7b6eff5d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@julius.grosserode.19/top-3-books-to-get-started-bug-hunting-e20db0ccb9c6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bxmbn.medium.com/hijacking-sessions-with-idor-and-xss-bxmbn-396f99761a85?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-106-f15dc8fd13f8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@maxcyber882/hackthebox-challenge-only-hacks-d96d3aeb465c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bxmbn.medium.com/bank-offer-idor-fix-bypassed-how-i-accessed-unauthorized-offers-and-secured-a-10-000-bounty-41052b31a2fc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@danielbelay/day-18-how-a-researcher-hacked-one-of-the-biggest-airlines-group-in-the-world-e2b896e74503?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/infosecmatrix/how-i-found-an-easy-dom-xss-b93bbe09e2bf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@randixploit.shtml/try-fuzzing-backup-files-during-manual-pentesting-d81dce7c223b?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@Nightbloodz/admin-account-takeover-in-moodle-093708a0f749?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/part-2-1000-bug-bounty-guide-advanced-javascript-analysis-for-hidden-vulnerabilities-5a47645b575f?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@ajay.kumar.695632/profile-avatar-unlock-vulnerability-c3f53fe278cd?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/part-4-supercharge-your-django-app-with-caching-make-it-10x-faster-%EF%B8%8F-c6918a293eb4?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@01one/build-tailwind-css-with-python-344fc92c5749?source=rss------django-5"
+    },
+    {
+        "link": "https://joelotepawembo.medium.com/handling-inconsistent-migrations-in-django-a-technical-guide-3b0fe9417c94?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/django-signals-the-hidden-power-behind-scalable-applications-df24d8313c8a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/asynchronous-django-how-to-make-your-app-faster-with-async-views-24314096d530?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/how-to-create-custom-context-processors-in-django-b85a4d286dc7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@priyanshu011109/django-and-websockets-building-real-time-apps-without-a-full-frontend-57e94618d928?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@priyanshu011109/how-to-secure-your-django-app-security-best-practices-common-mistakes-600faad07434?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.devgenius.io/using-the-debug-toolbar-for-debugging-faster-in-django-7c2335a4cda7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@gdgcgescoe/in-todays-digital-age-having-a-personal-blog-is-a-great-way-to-share-your-thoughts-ideas-and-68c111184548?source=rss------django-5"
     }
 ]
