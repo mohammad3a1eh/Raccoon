@@ -10774,5 +10774,77 @@
     },
     {
         "link": "https://medium.com/@rao.swarna24/getting-started-with-django-project-in-windows-using-vs-code-50815ab1ca81?source=rss------django-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-this-999-xss-bug-bounty-was-found-in-just-17-minutes-71677d61c2c6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Abhijeet_kumawat_/500-html-injection-in-snapchat-9513accc6634?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://it4chis3c.medium.com/500-20k-worth-graphql-vulnerabilities-advanced-tips-tricks-74e8f4679b91?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/sql-injection-unleashed-how-i-learned-to-hack-and-protect-databases-6cd2eb572992?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/cyber20-simple-bug-bounty-automation-techniques-b850db32591c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@0x_karim/web-cache-deception-on-private-program-ccce0a612d46?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@danielbelay/day-19-a-tale-of-0-click-account-takeover-and-2fa-bypass-2b2ed4914a3f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Pentestforge/how-i-took-over-a-vercel-subdomain-e7b03dbf222d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://0onoproblem.medium.com/how-i-exploited-a-hidden-race-condition-to-bypass-licensing-and-claim-all-subdomains-on-the-target-64944b148f49?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/cyber-chat-rs0n-ea9725394f6d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://0xshuvo.medium.com/the-hidden-goldmine-for-bug-hunters-documentcloud-org-%EF%B8%8F-%EF%B8%8F-4146b5c1919f?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/autorize-idor-how-a-simple-token-swap-exposed-sensitive-data-f64ee3ceada6?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@rahulgairola/the-12-000-2fa-bypass-so-simple-yet-so-critical-e3f7d7e5751c?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://n0x1.medium.com/think-outside-the-box-again-with-idor-94b010f958ea?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@stanker801/from-localhost-to-cloud-dockerizing-djangos-perfect-database-match-easiest-guide-6796e3673205?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/easydjango-the-fastest-way-to-set-up-your-django-projects-8e579eeae533?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/top-10-backend-frameworks-pros-cons-what-you-need-to-know-2a319ac5f9dc?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/organize-your-django-imports-like-a-pro-with-isort-95b3a3b4b513?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/rolling-updates-rollbacks-for-django-celery-in-kubernetes-ea3e93d7c7a7?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.devgenius.io/complete-guide-to-deploying-django-applications-on-digitalocean-80f9fcac26f5?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@jpouromid/an-inline-csp-compatible-django-editor-backend-part-2-b57315195a09?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@a0931992912/partition%E8%B3%87%E6%96%99%E5%BA%AB%E5%88%86%E5%8D%80%E5%8A%A0%E9%80%9F%E6%9F%A5%E8%A9%A2-a24bad543626?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@rishavupadhaya266/day-9-adding-edit-delete-features-to-my-blog-project-8e184409dd65?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/pythoneers/stop-struggling-with-python-input-statements-master-print-in-minutes-590799ef7842?source=rss------django-5"
     }
 ]
