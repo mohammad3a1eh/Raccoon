@@ -10846,5 +10846,68 @@
     },
     {
         "link": "https://medium.com/pythoneers/stop-struggling-with-python-input-statements-master-print-in-minutes-590799ef7842?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@Abhijeet_kumawat_/how-i-found-an-open-redirect-vulnerability-easily-worth-500-44cda132819b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/1000-25k-worth-api-bug-attack-chaining-strategies-ded4121b5791?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/h7w/how-to-find-xss-vulnerabilities-in-react-js-websites-46f843bb932e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/cloud-reconnaissance-how-to-gather-information-from-cloud-services-34b2e9d42ea0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@vipulsonule71/how-to-hack-a-website-1685484b8c6d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@sb12121111/dont-miss-this-while-working-on-a-bounty-target-fa8c8368129c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/the-500-cache-trick-how-i-turned-cache-deception-into-cold-hard-cash-13a49a2a6d78?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-109-1840bb5bf3e0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@iski/when-a-tiny-sensitive-leak-gave-me-a-big-surprise-%EF%B8%8F-a5feb54d8d82?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@nevildomain/project-recuzzer-d5a63c195605?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/maximize-your-bug-bounty-earnings-automate-endpoint-discovery-find-high-impact-vulnerabilities-c9a530445e97?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@sweetyleah0/understanding-api-views-a-comprehensive-guide-to-building-api-endpoints-f9205bec9d6b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@naufalichsan114/creating-different-django-environment-configuration-fc4e29b7e29d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad.radhitya/django-development-with-85e8095fe851?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/6-django-mistakes-that-expose-you-as-a-rookie-part-2-f39d9ef4d161?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/10-django-secrets-no-one-talks-about-but-you-should-know-3402afe25a40?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/bringing-nosql-to-django-a-first-look-at-django-mongodb-backend-package-b8fa02e9b70f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@dmytro.luzanovskyi/15-django-tips-you-didnt-know-about-8a804665560d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/understanding-django-url-functions-path-re-path-include-and-more-a9c443277059?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/handling-unicode-data-in-django-a-practical-guide-3f2e31974b34?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/mastering-djangos-system-check-framework-a-real-world-guide-5386a8069075?source=rss------django-5"
     }
 ]
