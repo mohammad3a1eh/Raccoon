@@ -10909,5 +10909,77 @@
     },
     {
         "link": "https://medium.com/@ewho.ruth2014/mastering-djangos-system-check-framework-a-real-world-guide-5386a8069075?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ssh_fsociety/root-me-web-server-lab-3-http-open-redirect-walkthrough-25cdcfb53100?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/csrf-in-2025-solved-but-still-bypassable-942ca382ab77?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/finding-an-api-key-in-a-js-file-in-the-comments-67b30af1d451?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/find-related-files-to-your-bug-bounty-target-4752d769eecc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@danielbelay/day-20-admin-account-takeover-via-weird-password-reset-functionality-33afb15fa4c0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Abhijeet_kumawat_/500-how-i-found-xss-using-chatgpt-54b5492af41a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@julius.grosserode.19/hands-on-web-exploitation-course-by-nahamsec-8807aad7de58?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@julius.grosserode.19/csrf-nahamsec-course-f04b49eca048?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/25-000-bounty-simple-ssrf-led-to-aws-credentials-exposure-a6938e0875f9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://harshbardhanx.medium.com/how-i-found-an-idor-vulnerability-and-accessed-100000-user-details-and-got-bounty-3f2faf8642cf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://myselfakash20.medium.com/javascript-enumeration-for-bug-bounties-expose-hidden-endpoints-secrets-like-a-pro-418c2aec318f?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@momenrezkk90/information-disclosure-the-hidden-risk-in-public-reports-fd4ca13fd658?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@rahulgairola/bypassing-email-checks-to-access-private-support-chats-c2895b1c9ef2?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://sudosuraj.medium.com/the-only-guide-you-need-to-find-xss-like-a-pro-c337588f9da3?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/bug-bounty-methodology-part-1-basic-ee4f3f7a4f81?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@sweetyleah0/understanding-viewsets-simplifying-api-development-with-django-928eceb433ec?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/10-powerful-django-decorators-to-supercharge-your-application-9e2d1f403e58?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/10-essential-django-orm-methods-every-developer-must-know-ddee927904bb?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@karanbhardwaj1107/connecting-react-application-with-django-72b4062b40d6?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@thranparsshmarhkhalh833/zhbzv-f2fbba10f1d1?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/django-5-0-a-game-changer-for-modern-web-development-73075bc774fd?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@oviyan007/sql-vs-nosql-which-database-should-you-use-b4e8ae5cbee3?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/part-7-adding-real-time-updates-with-django-channels-540b9fbb2d2b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/building-a-real-world-django-app-a-task-management-system-78401dba5f9f?source=rss------django-5"
     }
 ]
