@@ -10981,5 +10981,68 @@
     },
     {
         "link": "https://medium.com/@ewho.ruth2014/building-a-real-world-django-app-a-task-management-system-78401dba5f9f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@zerohackerone0/web-application-recon-guide-d010e7761d85?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@sajith-dilshan/beyond-the-script-mastering-exploratory-testing-like-a-pro-b78d6c7d95fb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://systemweakness.com/vps-setup-for-bug-bounty-part2-07005bf9aa7d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@AlQa3Qa3_M0X0101/how-i-was-able-to-get-two-account-takeovers-via-oauth-custom-scheme-hijacking-at-the-same-target-6a6980ebbac1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Abhijeet_kumawat_/html-injection-vulnerability-in-google-cb2c73ca5996?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hrofficial62/finding-exposed-aws-buckets-like-a-pro-bug-bounty-recon-c193cc1f9af5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/wordpress-xmlrpc-php-cve-2020-28036-old-is-gold-a0b9c301fbac?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@k3r0/exploiting-webview-vulnerabilities-bypassing-sop-to-access-internal-app-files-2d95529c0293?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/10-automation-tricks-to-uncover-ssrf-flaws-8154529e35b4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shxsu1/how-i-could-access-anyones-college-subscription-idor-strikes-again-a4ea7c30f165?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/how-i-discovered-a-p2-level-sensitive-data-exposure-bug-in-a-web3-platform-4562fcbe655e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/100-must-have-django-packages-to-supercharge-your-application-b15b836eab3a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@xavierjodoin/enhancing-memory-management-in-ai-applications-with-django-mem0-client-64344dcf8fe4?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/django-6-0-a-sneak-peek-into-the-future-of-web-development-92ced8ea19bd?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.devops.dev/deploying-django-applications-docker-ci-cd-and-cloud-deployment-guide-2a74bc3f1042?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@chko/why-django-is-the-best-framework-for-startups-51f8e4e8903e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/adding-whatsapp-notifications-for-task-deadlines-af9e1e3c0662?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/adding-sms-notifications-for-task-deadlines-d4b296dc785a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/adding-scheduled-notifications-for-task-deadlines-c7efb95d5593?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/adding-in-app-notifications-with-django-channels-13474316a933?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/adding-background-sync-task-deadline-notifications-ef700f4944d8?source=rss------django-5"
     }
 ]
