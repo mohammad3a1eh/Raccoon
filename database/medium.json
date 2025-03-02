@@ -11044,5 +11044,71 @@
     },
     {
         "link": "https://medium.com/@ewho.ruth2014/adding-background-sync-task-deadline-notifications-ef700f4944d8?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@Abhijeet_kumawat_/how-i-found-sensitive-information-disclosure-21533fb8c6d2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mahdisalhi0500/time-management-for-bug-hunters-during-ramadan-balancing-hacking-and-life-1cd2bf3cea0d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shadyfarouk1986/insecure-direct-object-reference-idor-vulnerability-a-comprehensive-guide-e61b66bfb20a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/35-000-bounty-how-inappropriate-access-control-led-to-gitlab-account-takeover-39e071b6d9cc?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/firefox-and-chrome-extensions-for-bug-bounty-hunters-part-2-be175b813a9b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/vps-subdomain-monitoring-ac89050869e4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ibtissamhammadi/how-i-turned-the-black-basta-playbook-chat-leak-into-4-000-in-just-24-hours-de60dff8171b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://som3a.medium.com/when-disabled-isn-t-really-disabled-exploiting-a-weird-logic-flaw-to-destroy-an-organization-17ad3d9542d0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@julius.grosserode.19/exploiting-postmessage-nahamsec-b24cb197a299?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ubaidhassan/unlock-the-power-of-cybereagle-scanner-2a6a37afc648?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@devdharan24/how-a-single-vulnerability-exposed-millions-49fdc95f4f35?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@pentestersuresh01/how-i-bypassed-otp-verification-with-response-manipulation-98be8d594a3f?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@youssefmohamedelgohre1/easy-business-logic-bug-allowed-me-to-install-paid-applications-for-my-organization-for-free-c992c9959910?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/advanced-dorking-methodology-for-finding-vulnerabilities-part-1-e3564e314819?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@alfininfo/dont-underestimate-django-middleware-simple-features-with-big-impact-1c39b4f2cca0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@simonangelfong/djangoblog-project-11-connect-with-mysql-on-ec2-d4309481829e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@techwithtwin/tailwind-css-in-django-v4-0-as-of-3-1-2025-techwithtwin-5ea7d10e90d7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@thedatabytenewsletter/outlining-a-marketing-plan-for-my-new-business-415f8ac9cab6?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.devgenius.io/django-widgets-a-deep-dive-into-customizing-forms-8543b645d99c?source=rss------django-5"
+    },
+    {
+        "link": "https://leapcell.medium.com/leapcell-the-next-gen-serverless-platform-for-python-app-hosting-0722d1b32047?source=rss------django-5"
+    },
+    {
+        "link": "https://augustinejoseph.medium.com/boosting-django-performance-with-redis-caching-a-comprehensive-guide-72bd42a21fe8?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/django-master-slave-databases-the-secret-to-high-performance-apps-48e23bb05dcc?source=rss------django-5"
     }
 ]
