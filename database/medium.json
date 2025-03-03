@@ -11110,5 +11110,71 @@
     },
     {
         "link": "https://medium.com/django-unleashed/django-master-slave-databases-the-secret-to-high-performance-apps-48e23bb05dcc?source=rss------django-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/mastering-xss-on-the-fly-the-ultimate-guide-to-web-vulnerabilities-and-bug-bounties-78502107ea9b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/from-zero-to-hero-how-i-uncovered-a-critical-privilege-escalation-flaw-and-earned-500-c6be96484090?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Abhijeet_kumawat_/chatgpt-for-bug-bounty-hunters-custom-payloads-automated-scripts-and-more-125aef1e9a80?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ibtissamhammadi/i-discovered-a-critical-security-flaw-that-changed-how-i-protect-my-data-forever-30becd75d83c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@khalyylgam/how-to-identify-sensitive-data-in-javascript-files-b0bb7eb6d948?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/how-to-earn-bug-bounties-with-github-a-practical-guide-for-beginners-20463cf2c125?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@thecyberkid12/day-114-exploring-cyber-bug-bounty-programs-41b0cc2790fb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@thecyberkid12/day-113-exploring-bug-bounty-programs-and-capture-the-flag-challenges-ba4d45092e1f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ashokpandiya71/finding-a-publicly-accessible-asset-leak-how-i-reported-a-critical-vulnerability-nasa-9fd626df59f5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Bug_Slay3r/how-i-exploited-an-otp-vulnerability-reported-it-660da35d997a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/blind-sql-injection-in-oracle-database-exfiltrating-data-with-burp-collaborator-sql-injection-2b8062b04d51?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://ilhamm0a.medium.com/exploiting-an-exposed-git-gaining-access-to-source-code-and-database-6cb7a5df6b4c?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@ahmedsalauddin677785/separate-settings-development-vs-production-in-django-48be2d98c54b?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/django-vs-fastapi-when-to-stick-with-the-classic-when-to-go-fast-025bdd7b746f?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/part-5-connection-pooling-in-django-optimizing-database-connections-24a2df4792c0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@jeslyn.theodora/test-driven-development-a-quick-guide-d678ed423632?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@erik_stojan/how-to-implement-an-invitation-system-in-django-with-signals-models-and-views-d086052a6ed8?source=rss------django-5"
+    },
+    {
+        "link": "https://leapcell.medium.com/why-are-your-url-designs-so-bad-715c99480bfb?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@staytechrich/djangoapi-001-docker-setup-with-github-and-docker-hub-d4720da5b0f0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@appseed.us/dynamic-services-in-python-django-vite-integration-free-starter-139e26c3b227?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@alyandaastri19/docker-compose-pada-proyek-django-berbasis-postgresql-55868e4553d8?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mdsiaofficial/top-10-backend-frameworks-ranked-8712061520ec?source=rss------django-5"
     }
 ]
