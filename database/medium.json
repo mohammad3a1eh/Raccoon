@@ -11176,5 +11176,74 @@
     },
     {
         "link": "https://medium.com/@mdsiaofficial/top-10-backend-frameworks-ranked-8712061520ec?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@Abhijeet_kumawat_/how-i-achieved-the-hall-of-fame-on-a-u-s-government-website-8ff6fbdcf176?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hrofficial62/finding-exposed-aws-buckets-like-a-pro-bug-bounty-recon-part-2-81012428256f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/different-types-of-burp-suite-extensions-for-bug-hunting-and-penetration-testing-ebc80ec14aa7?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ArtsSEC/c%C3%B3mo-tls-pass-through-ayuda-a-reducir-el-ruido-en-burp-suite-091b2b06d165?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/discovering-sensitive-information-using-github-dorks-10fd7e032bbd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@AhmedSamy-X/subdomain-takeover-how-i-almost-snatched-a-vulnerable-subdomain-but-was-too-late-c-a2a0afe7b2d9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@robert0/discovering-3-in-a-row-bac-read-only-vulnerabilities-total-4-182-59c93b753eb8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://kalawy.medium.com/cross-system-communication-injection-vulnerabilities-internals-19d406bb57d5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@weaponshot/how-reading-disclosed-bug-bounty-reports-can-make-you-a-better-hacker-and-even-earn-you-some-45fb4d1adf4d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hacker_might/bug-bounty-hunting-with-censys-finding-an-unsecured-elasticsearch-instance-and-reporting-it-13a619cc0b4e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://krishna-cyber.medium.com/how-i-uncovered-an-email-leak-that-could-have-cost-millions-66500548d0b6?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@Bug_Slay3r/idor-allows-attackers-to-delete-any-users-identity-documents-idor-18f0cc901d16?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@shadyfarouk1986/advanced-open-redirection-techniques-and-exploitation-using-burp-suite-dynamic-analysis-6d6f5bc23f66?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@nnywwynn88/asynchronous-task-queue-with-django-celery-and-aws-sqs-3ae507f67980?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@afimaamedufie/taking-shots-of-confidence-boosts-through-djangonaut-space-learning-contributing-and-growing-951bf9c4dafb?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@kamilmatejuk/how-to-use-model-inheritance-in-django-rest-framework-with-correct-swagger-typing-and-schema-yml-d6d8a73e945b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@fixitblog/solved-how-does-django-name-the-index-automatically-created-for-foreign-keys-columns-b9b7efd2f1ed?source=rss------django-5"
+    },
+    {
+        "link": "https://m-t-a.medium.com/python-django-what-should-you-never-put-in-a-transaction-5b92a63ad8cb?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@veershah110406/what-after-python-a9ba4140c3e7?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@FullStackSoftwareDeveloper/testing-django-applications-essential-tools-and-strategies-for-reliable-code-98ab492f036c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@bigiebillie/django-interview-questions-part-2-93ed837e6baf?source=rss------django-5"
+    },
+    {
+        "link": "https://kl4us.medium.com/restricting-django-urls-to-intranet-ips-a-complete-guide-to-rfc1918-access-control-2606e16e512c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@anuzz/batching-querysets-in-django-325c9fa7b08c?source=rss------django-5"
     }
 ]
