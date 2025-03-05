@@ -11245,5 +11245,83 @@
     },
     {
         "link": "https://medium.com/@anuzz/batching-querysets-in-django-325c9fa7b08c?source=rss------django-5"
+    },
+    {
+        "link": "https://myselfakash20.medium.com/cracking-the-shield-advanced-waf-bypass-techniques-that-still-work-in-2025-814cee616ccf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@viveksheela1707/understanding-aes-256-encryption-the-ultimate-security-standard-3535a5a8128a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Abhijeet_kumawat_/150-easy-html-injection-vulnerability-08de8584001d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/finding-jwt-tokens-that-lead-to-pii-data-leakage-b047d45d97bf?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/able-to-create-an-account-without-a-phone-number-unique-bug-1fe2d14b9d54?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/find-new-apex-domains-that-are-related-to-your-bug-bounty-target-a05fdcbf5875?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://mukibas37.medium.com/how-i-found-sensitive-information-using-github-dorks-in-bug-bounties-part-1-09c9465fa902?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@AhmedSamy-X/one-program-three-takeovers-a-deep-dive-into-subdomain-hijacking-a97405601a14?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://zeusvuln.medium.com/the-art-of-recon-hunting-bugs-before-they-hide-part-three-from-recon-to-reward-c9eea7cf5b10?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://err0rsecur1ty.medium.com/defining-the-pentest-scope-owasp-zap-context-subdomains-7e5ff5dfd74d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://krishna-cyber.medium.com/from-zero-to-hero-your-step-by-step-guide-to-bagging-your-first-bug-bounty-with-real-world-0e2f63ac0030?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@iamsecure1920/streamline-reconnaissance-with-netsanitizer-a-url-deduplication-powerhouse-for-bug-bounty-hunters-a2832821b03c?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://abhinav-porwal.medium.com/how-to-find-your-first-easy-bug-as-a-bug-bounty-hunter-step-by-step-guide-151f3150ba4e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://hackersatty.medium.com/advanced-dorking-methodology-for-finding-vulnerabilities-part-2-47a251b245c1?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://systemweakness.com/%EF%B8%8F-%EF%B8%8F-when-google-became-my-personal-vulnerability-scanner-and-helped-me-to-find-exposed-d1d28d24d2ac?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://osintteam.blog/bug-bounty-hunting-with-censys-finding-an-unsecured-elasticsearch-instance-and-reporting-it-13a619cc0b4e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@shivanishah0218/basic-overview-of-various-python-web-frameworks-django-flask-and-fastapi-cf1e1f6dc538?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@nilayansamanta4/automated-api-documentation-with-django-rest-framework-and-openapi-e3b0ff4e852e?source=rss------django-5"
+    },
+    {
+        "link": "https://jacychu.medium.com/django-2fa-%E9%9B%99%E9%87%8D%E9%A9%97%E8%AD%89-06f88a41a87b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@anzaloquin/configuring-your-hetzner-cloud-server-like-a-pro-a-beginner-friendly-walkthrough-545d2b917359?source=rss------django-5"
+    },
+    {
+        "link": "https://oluwasegunakinshola.medium.com/building-apis-should-be-fast-so-we-built-djuix-b03974283319?source=rss------django-5"
+    },
+    {
+        "link": "https://nitesh-yadav.medium.com/performance-hmm-select-related-in-python-9d834f71f06c?source=rss------django-5"
+    },
+    {
+        "link": "https://anandsuraj.medium.com/exploring-the-top-django-projects-on-github-inspiration-for-every-developer-35020e1251d2?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@rutujagurav72/containerizing-a-web-app-a-beginners-guide-to-django-postgresql-and-react-with-docker-5b72f61c3031?source=rss------django-5"
+    },
+    {
+        "link": "https://olaitanakano.medium.com/how-to-track-user-activity-in-applications-with-long-term-refresh-token-67aea5ea77c0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@pesarakex/database-design-for-product-management-9280fd7c66fe?source=rss------django-5"
     }
 ]
