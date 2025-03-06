@@ -11323,5 +11323,56 @@
     },
     {
         "link": "https://medium.com/@pesarakex/database-design-for-product-management-9280fd7c66fe?source=rss------django-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/how-to-find-low-hanging-bugs-6e8b3eb8b3ca?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://heinhtetagg.medium.com/my-first-bug-bounty-win-how-i-found-and-reported-a-security-vulnerability-c41fdfd717c2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@spector-sec/cors-exploitation-walkthrough-bypass-exploit-misconfigured-cors-ethical-hacking-tutorial-db15994788d3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dsmodi484/stored-xss-using-pdf-a-bug-0690125015bb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@vipulsonule71/how-to-find-your-first-bug-%EF%B8%8F-%EF%B8%8F-d6a0b0ef40b3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mahad.ahmed0x1/exposed-files-the-gift-that-keeps-on-giving-d0394df80f12?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://clarkvoss.medium.com/the-prefix-the-suffix-and-the-sql-injection-that-almost-got-away-b76376cb74e1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/automating-information-gathering-in-cloud-environments-ee1e56a4f6bd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ibtissamhammadi/how-idor-and-broken-access-control-exposed-private-data-and-earned-me-4-000-in-1-day-dd01a07e93e4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://gaya3-r.medium.com/breachseek-multi-agent-automated-penetration-tester-b5fd61dab0a4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/cracking-the-code-unveiling-the-hidden-dangers-of-account-takeover-487fb5407c2c?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://jxycybersec.medium.com/critical-idor-vulnerability-in-order-tracking-system-exposes-customer-data-a9dbae34d329?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://sapienshack.medium.com/the-curious-case-of-an-insecure-password-reset-flaw-135000e4a462?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@didier.romeda/django-admin-wysiwyg-ai-prompt-editor-manage-ai-prompts-easily-with-tinymce-4468403f2a4e?source=rss------django-5"
+    },
+    {
+        "link": "https://ndouresearch.medium.com/building-a-secure-user-activation-system-in-django-d379e4157f78?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@kajendiran/django-5-2-whats-new-a-look-at-the-latest-lts-release-bd0563761a52?source=rss------django-5"
+    },
+    {
+        "link": "https://bluetickconsultants.medium.com/building-a-scalable-and-maintainable-architecture-for-large-scale-django-projects-78186b1caf8d?source=rss------django-5"
     }
 ]
