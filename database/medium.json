@@ -11374,5 +11374,71 @@
     },
     {
         "link": "https://bluetickconsultants.medium.com/building-a-scalable-and-maintainable-architecture-for-large-scale-django-projects-78186b1caf8d?source=rss------django-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/i-found-exposing-api-keys-and-tokens-in-a-private-program-1d02ef9e49d0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bytesnull44.medium.com/i-hacked-space-x-and-rewarded-2500-bypassing-full-payment-to-regain-internet-access-bd6120483a06?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://zeusvuln.medium.com/the-art-of-ssti-from-detection-to-domination-f5fdd2411439?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/how-i-discovered-a-stored-xss-vulnerability-in-js-files-7b527d2c8962?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/information-disclosure-aws-sensitive-api-key-leakage-0b60d3af5109?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://krishna-cyber.medium.com/unlock-bug-bounty-rewards-by-hunting-exposed-debug-log-0d50382a64d1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://krishna-cyber.medium.com/cyber-guardians-unleashed-the-dynamic-duo-of-soc-siem-80e3ccdc4c62?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dharineeshj2/easy-account-takeover-using-otp-bypass-4de2079fb9b1?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@MutexSec/enhancing-bug-bounty-hunting-and-web-app-pentesting-with-mitmproxy-and-burp-suite-1d6d0f381bd0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/mastering-403-forbidden-bypass-techniques-2ab393f1c77f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Bug_Slay3r/bug-bounty-how-a-race-condition-led-to-application-level-dos-76458ae57e9d?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@ajay.kumar.695632/invite-me-once-i-own-your-account-hindi-english-b27cb72fe64a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://hiddendom.medium.com/never-underestimate-any-error-this-is-why-i-got-appreciation-letter-from-drexel-university-ciso-ba37a6bad077?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@nchaitreddyutilities/how-i-earned-4-000-in-my-first-six-months-of-bug-bounty-hunting-e969144a368a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@jaggannadhan1994/django-a-comprehensive-overview-on-the-most-versatile-python-web-framework-0593b8ce89cd?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ariefprakom/menganalisis-dan-memperbaiki-logging-akses-di-django-dengan-middleware-kustom-be720cb857b6?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@alaxhenry0121/solving-connection-refused-error-with-android-emulator-and-django-development-flutter-tips-90d2a7420a05?source=rss------django-5"
+    },
+    {
+        "link": "https://macercha.medium.com/overriding-clean-method-in-modeladmin-forms-d501959d8b97?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@moizjatala2/building-an-ai-powered-chat-and-sales-workflow-automation-system-with-django-openai-and-azure-ai-99c1620c808c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/mastering-polymorphic-relationships-in-django-the-ultimate-guide-c1b24301a48d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@alfininfo/optimize-django-apps-with-signal-easily-separate-business-logic-24ded3d88246?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@oviyan007/mastering-api-development-with-django-rest-framework-89da5c86d3da?source=rss------django-5"
     }
 ]
