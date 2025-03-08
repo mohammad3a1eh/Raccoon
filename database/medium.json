@@ -11440,5 +11440,65 @@
     },
     {
         "link": "https://medium.com/@oviyan007/mastering-api-development-with-django-rest-framework-89da5c86d3da?source=rss------django-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/lostfuzzer-passive-url-fuzzing-nuclei-dast-for-bug-hunters-a33501b9563b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/find-apex-domains-that-are-related-to-your-bug-bounty-target-part-2-e60644fd3cf8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Abhijeet_kumawat_/deep-recon-methodology-for-bug-bounty-hunters-part-1-724fa4d6324c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@GERRR4Y/exploiting-mass-assignment-to-ato-ab0c1aadc2de?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shadyfarouk1986/cors-misconfiguration-vs-csrf-battle-of-the-web-villains-6743cb0ed08b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shadyfarouk1986/why-custom-linux-python-tools-in-bug-bounty-beat-traditional-tools-db2092a8cf9c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/8-automated-methods-to-discover-api-keys-across-websites-and-api-requests-08d547cdbb80?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@danielbelay/day-23-account-takeover-via-response-manipulation-90a1fe62dd8e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/meetcyber/finding-funded-tron-wallets-is-it-possible-8e36f68f7448?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@blify/hunting-pii-exposures-a-bug-bounty-perspective-79212c65ab10?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@Cr40/zeroclick-account-takeover-a-four-bug-chain-exploit-115ce0f6fc23?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://systemweakness.com/never-underestimate-any-error-this-is-why-i-got-appreciation-letter-from-drexel-university-ciso-ba37a6bad077?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/pythoneers/mastering-the-pass-statement-in-python-your-guide-to-cleaner-code-67de11f2c49b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/pythoneers/from-beginner-to-pro-mastering-pythons-range-function-bf706e10b27c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/pythoneers/break-continue-in-python-the-secrets-to-writing-cleaner-loops-569ec34951c3?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/pythoneers/mastering-the-python-for-loop-from-basics-to-advanced-3adbea3a1215?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@kubaslawski.it/configuring-django-and-react-part-ii-bd4a0ebfdba6?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@fleektyre/why-django-celery-redis-and-flower-is-the-super-stack-you-didnt-know-you-needed-part-1-c364708aec02?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ktea7743/protection-par-mot-de-passe-dun-site-statique-la-m%C3%A9thode-la-plus-simple-81432267513d?source=rss------django-5"
+    },
+    {
+        "link": "https://sarnobatps.medium.com/implementing-c-js-in-django-a-beginner-friendly-guide-80ce99b26f5e?source=rss------django-5"
     }
 ]
