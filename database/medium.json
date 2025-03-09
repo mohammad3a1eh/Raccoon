@@ -11500,5 +11500,56 @@
     },
     {
         "link": "https://sarnobatps.medium.com/implementing-c-js-in-django-a-beginner-friendly-guide-80ce99b26f5e?source=rss------django-5"
+    },
+    {
+        "link": "https://caseyjohnellis.medium.com/the-original-bug-bounty-alfred-hobbs-and-the-great-lock-controversy-of-1851-cd390705befb?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/find-exposed-buckets-and-files-etc-with-this-resource-115f8865015b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@paritoshblogs/attacking-and-defending-active-directory-real-world-scenarios-6533ca82a8d2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/nerd-for-tech/the-art-of-bug-reporting-13be09192741?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@AhmedSamy-X/how-i-found-a-google-api-key-leak-in-a-bug-bounty-program-c9a497efe479?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/from-partial-idor-to-gps-tracking-api-flaw-explained-5eebab2af32a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/blind-css-exfiltration-the-bug-bounty-tactic-that-earns-hackers-10k-heres-how-fdb12a82826f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@canonminibeast/this-tool-helped-me-to-find-idor-c87a9c1a04f3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@canonminibeast/this-tool-helped-me-to-find-idor-c1897eee1b2d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/automating-information-gathering-for-bug-bounty-hunters-161f23dad2ae?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@youssefawad1357/crapi-challenges-comprehensive-solution-bceeb3f570a9?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/the-hidden-danger-sensitive-information-leakage-via-log-files-6244175b26be?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@slash0x01/how-i-found-clickjacking-in-a-public-program-9581aa6bab1f?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/django-5-1-7-released-security-fixes-and-bug-patches-you-need-to-know-724f7c01553c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/django-development-14-best-practices-you-should-always-follow-c04366ec6e7f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@vivekzs440/integrating-celery-with-django-ec0cb6ea3c42?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@bigiebillie/django-interview-questions-part-3-8b9bd610c947?source=rss------django-5"
     }
 ]
