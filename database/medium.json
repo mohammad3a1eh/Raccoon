@@ -11551,5 +11551,71 @@
     },
     {
         "link": "https://medium.com/@bigiebillie/django-interview-questions-part-3-8b9bd610c947?source=rss------django-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/best-tool-for-subdomain-enumeration-f3f40a8e1748?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://learningsomecti.medium.com/with-bluf-always-write-with-clarity-and-effectiveness-b4450939b841?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://siratsami71.medium.com/from-user-to-admin-a-privilege-escalation-via-business-logic-7ae901be7d81?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@josekuttykunnelthazhebinu/how-i-took-over-an-instagram-account-using-broken-link-hijacking-found-open-redirections-on-c03b0c62add6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/2-162-bounty-exploiting-vga-deadlock-in-xen-hypervisor-for-maximum-impact-2a98238ac0dd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@moblig/exposing-pii-and-ssns-through-persistent-session-tokens-15-000-bug-bounty-293ab06c1606?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://yazeedeliwah.medium.com/how-i-find-idor-lead-to-account-takeover-de762cc1e101?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/bug-hunting-recon-guide-find-hidden-vulnerabilities-like-a-pro-353accfe65c4?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@pandurangisuprit/from-remote-code-execution-to-data-base-pwnage-63404905e044?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@julius.grosserode.19/sql-injection-97a239647ac7?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@bevennyamande/oops-i-can-see-everything-a-funny-tale-of-broken-access-control-9089586d5a86?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://ilhamm0a.medium.com/broken-authentication-bypass-otp-with-json-manipulation-6454b45ac624?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@aashishkumar12376/10-essential-django-features-every-developer-must-know-4bb48ff6f80f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/vizneo-academy/how-to-create-a-django-website-1dcfbacba0a7?source=rss------django-5"
+    },
+    {
+        "link": "https://tierrainsights.buzz/django-the-optimal-framework-for-web-mapping-applications-and-geo-services-db4e8a1ede23?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/techtrends-digest/how-to-clean-up-urls-py-in-django-for-better-maintainability-5459ed3c299b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@husseinnaeemsec/why-django-is-the-best-framework-for-backend-development-52ca49422709?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@karthiktv2001/how-to-use-a-legacy-database-in-django-324649d586a3?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@michal.drozdze/build-a-simple-note-taking-app-with-django-d2fdb8d1f02c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@a0931992912/django-%E7%B5%90%E5%90%88-redoc-api-%E6%96%87%E4%BB%B6%E7%B7%A8%E5%AF%AB-60ca0861aa2c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@a0931992912/django-%E6%AC%8A%E9%99%90%E6%8E%A7%E5%88%B6%E7%9B%B8%E9%97%9C%E7%B4%80%E9%8C%84-dcdf9fa9de0a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/enhancing-django-security-prevent-brute-force-attacks-with-django-axes-6cf50a15711d?source=rss------django-5"
     }
 ]
