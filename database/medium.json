@@ -11617,5 +11617,62 @@
     },
     {
         "link": "https://medium.com/django-unleashed/enhancing-django-security-prevent-brute-force-attacks-with-django-axes-6cf50a15711d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@xiaoshi666/%E7%BB%95%E8%BF%87jsbridge%E9%89%B4%E6%9D%83%E5%AE%9E%E7%8E%B0%E8%B4%A6%E6%88%B7%E6%8E%A5%E7%AE%A1-cf421b291484?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/mastering-xss-attacks-to-become-professional-bug-bounty-hunter-816f018643b3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ajudeb55/how-to-write-effective-prompts-for-chatgpt-in-bug-bounty-hunting-b885dcf4f743?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dharineeshj2/exposed-a-massive-data-leak-uncovered-with-just-a-simple-google-dork-%EF%B8%8F-a103b640e2e5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dharineeshj2/idor-unlocked-accessing-unauthorized-data-with-a-simple-tweak-a6a5a01a341f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hrofficial62/linux-privilege-escalation-part-1-ejpt-notes-7f978d958888?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://systemweakness.com/race-conditions-in-bug-bounty-from-beginner-to-advanced-4b48586dfc73?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/extracting-forensic-evidence-from-smartwatch-data-a-cid-hackathon-experience-8a45b6ef7d5b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-to-find-hidden-parameters-in-your-bug-bounty-target-35427ac49b91?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@barotovhojiakbar.me/django-testing-with-pytest-f4c5a2ae382a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ashishauti123/configure-celery-and-flower-with-django-e002e8847660?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ehsanshafiei82/otp-in-django-without-saving-it-in-the-database-using-redis-03e9f71befaf?source=rss------django-5"
+    },
+    {
+        "link": "https://joelotepawembo.medium.com/high-traffic-django-stripe-e-commerce-website-part-6-cart-and-checkout-in-modern-e-commerce-9fe795739b8d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@shmarhkhalharwmyh28/hdhdh-2e6682aa892a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@muhammad.radhitya/django-un-registered-5d160668db66?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@alyandaastri19/doing-test-driven-development-in-django-project-fc1b8f002153?source=rss------django-5"
+    },
+    {
+        "link": "https://blog.devops.dev/blue-green-deployment-with-jenkins-aws-ecr-and-aws-ec2-using-django-05c74887ad4c?source=rss------django-5"
+    },
+    {
+        "link": "https://awstip.com/deploying-a-django-application-with-docker-into-aws-ec2-3ae642541c70?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@Fehmitd/pythonda-migrasyon-nedir-ve-nas%C4%B1l-yap%C4%B1l%C4%B1r-ff2612276cfc?source=rss------django-5"
     }
 ]
