@@ -11674,5 +11674,83 @@
     },
     {
         "link": "https://medium.com/@Fehmitd/pythonda-migrasyon-nedir-ve-nas%C4%B1l-yap%C4%B1l%C4%B1r-ff2612276cfc?source=rss------django-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/how-i-bypassed-cloudflare-waf-and-achieve-xss-500-bounty-32914f652901?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@paritoshblogs/earn-hunting-bugs-a-beginners-guide-to-bug-bounty-success-6ba585935178?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hossam_hamada/zero-click-account-takeover-via-auth-bypass-c3130fb5a5e0?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@readybready4/turn-website-feedback-into-instant-actionable-tickets-40ef4bc14be6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@juanfelipeoz.rar/c%C3%B3mo-consegu%C3%AD-mi-primera-vulnerabilidad-v%C3%A1lida-para-adobe-2d6617ec51e5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bytesnull44.medium.com/100-reward-from-hacking-the-earning-site-803b49028df7?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://ehteshamulhaq198.medium.com/beyond-alert-boxes-exploiting-dom-xss-for-full-account-takeover-094e1507d206?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/critical-sql-injection-exploit-in-url-paths-bounty-report-6bf36e066f1f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@dante.falls/my-first-paid-bug-bounty-stored-blind-xss-abe8ad06b3b3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@danielbelay/day-25-from-alert-origin-to-ato-an-xss-story-41c78c1fe66d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@canonminibeast/this-python-script-saved-my-recon-time-b780ade10b97?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@canonminibeast/this-python-script-saved-my-recon-time-66d6206628a0?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@rahulgairola/one-token-two-apps-the-oauth-flaw-that-can-compromise-your-accounts-a-silent-security-disaster-31cff04dcceb?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-i-uncover-an-idor-led-to-access-private-cv-access-3ff5be987896?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@salaheddine_kalada/exploiting-misconfigured-azure-application-insights-a-1000-bug-bounty-win-cf16f6ad2ff0?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@ebinkantony/how-to-become-a-bug-bounty-hunter-in-2025-e7a528b5cc16?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@alfininfo/django-5-revolution-with-async-must-know-best-practices-16c65b37541d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/adding-background-scheduled-push-notifications-in-django-react-native-5a63d45a8d1a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/secure-your-django-app-with-django-encrypted-model-fields-fdec157a9b04?source=rss------django-5"
+    },
+    {
+        "link": "https://connortran216.medium.com/django-vs-fastapi-making-the-right-choice-for-your-project-014acdc63965?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/adding-push-notifications-to-your-django-react-native-task-app-b2bf303c822f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/adding-real-time-updates-with-django-channels-websockets-7fb43857c065?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/mobile-app-for-django-task-manager-with-voice-commands-%EF%B8%8F-c5777dfa3f89?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/adding-voice-command-support-for-task-management-with-ai-%EF%B8%8F-29100500b597?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/adding-telegram-bot-commands-for-task-management-5ecb8c8441f1?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@bhubanghimire3130/setting-up-pgbouncer-for-postgresql-connection-pooling-f973a9d16766?source=rss------django-5"
     }
 ]
