@@ -11818,5 +11818,77 @@
     },
     {
         "link": "https://medium.com/@iamromandev/django-model-for-engineering-profile-42d57cdce464?source=rss------django-5"
+    },
+    {
+        "link": "https://systemweakness.com/mastering-jsrecon-a-comprehensive-guide-to-identifying-sensitive-data-in-javascript-files-352771f10659?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/part-2-mastering-403-forbidden-bypass-techniques-707e7880fa22?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@sari.mmusab/hackyholidays-ctf-grinch-network-write-up-part-2-hacker101-ctf-89d394702807?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/proffesional-hackers-breakout-nnface-s-advices-3-the-curve-of-hacking-b28c9875145e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/cracking-the-cache-a-bug-bounty-hunters-guide-to-web-cache-vulnerabilities-with-real-world-33bb7b47ff1c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/understanding-sql-injection-a-deep-dive-into-exploitation-and-prevention-0d3712bc6b93?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/the-hidden-goldmine-exploiting-exposed-api-keys-tokens-in-2025-fc22139f4cbd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://krishna-cyber.medium.com/title-mass-assignment-mastery-from-zero-to-ato-hero-in-bug-bounties-%EF%B8%8F-%EF%B8%8F-d3bf53027ce7?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://mukibas37.medium.com/find-bugs-using-github-dorking-part-2-2f80c1023592?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/how-my-knowledge-about-server-nginx-got-me-into-whos-hall-of-fame-host-header-injection-a73552c68c59?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@saiganesh18062003/get-your-first-bounty-as-a-newbie-fcba6a92e998?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/easy-150-misconfigured-sso-led-to-account-takeover-4e2b83b72395?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/hacking-swagger-ui-101-ccbce66ba028?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://saconychukwu.medium.com/how-i-bypassed-email-uniqueness-exploiting-weak-access-control-in-a-bug-bounty-program-28177f3c0b29?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@naveensatyarthi/boost-django-performance-enable-gzip-compression-1b07fc42f8f0?source=rss------django-5"
+    },
+    {
+        "link": "https://ragug.medium.com/how-to-use-swagger-docs-in-django-c38aacc009fd?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@einswilligoeh/deploying-a-django-application-with-docker-and-nginx-on-a-vps-my-developer-journey-78b4321a0ee9?source=rss------django-5"
+    },
+    {
+        "link": "https://bassanthossamxx.medium.com/implementing-google-oauth-in-django-rest-framework-without-third-party-packages-b87abe216f81?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@jayanthigaddameedi/django-cache-with-redis-180461161554?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@shovitkafle/django-python-part-1-7735b2b63237?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@levi64856/django-project-and-app-start-168f135e9002?source=rss------django-5"
+    },
+    {
+        "link": "https://revs.runtime-revolution.com/integrating-grapesjs-with-django-a1a514d1b9f2?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@akhilvp/why-novice-django-developers-ignore-custom-error-pages-and-why-you-shouldnt-6357d9dc8017?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/pythons-gurus/understanding-djangos-workflow-a-visual-guide-adb3867fb042?source=rss------django-5"
     }
 ]
