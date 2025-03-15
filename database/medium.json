@@ -11890,5 +11890,53 @@
     },
     {
         "link": "https://medium.com/pythons-gurus/understanding-djangos-workflow-a-visual-guide-adb3867fb042?source=rss------django-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/a-website-that-will-be-helpful-in-your-bug-bounty-and-osint-journey-2c3368346924?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://strangerwhite.medium.com/bypassing-otp-verification-another-bug-found-without-any-tools-8b2c1013c3e7?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@jeetpal2007/low-level-vulnerability-fixed-hardcoded-data-f0cc9b9d971f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@jeetpal2007/web-3-writeups-collections-9f3cce5bc382?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hrofficial62/how-to-access-anothers-systems-remotely-like-hacker-ethical-hacking-732fca529e49?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@canonminibeast/this-nuclei-template-made-me-to-find-more-bugs-20de8365be3d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@canonminibeast/this-nuclei-template-made-me-to-find-more-bugs-caa8c7d6931e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/how-i-buy-6284-worth-of-items-for-just-1-14b96af18c6e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/automating-sql-injection-a-practical-guide-for-security-researchers-2ee75fd16b84?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://zeusvuln.medium.com/the-art-of-sql-injection-a-comprehensive-guide-d394e8affb6d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@vickyrohith70/how-i-found-an-idor-vulnerability-a-responsible-disclosure-story-def2885bbe0c?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@alfininfo/dont-miss-7-effective-ways-to-optimize-async-in-django-5-406efac24585?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@prozheshop10/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-9a73bb7b3c9d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@junghun9904/django%EC%97%90%EC%84%9C-db-connection-pool%EC%9D%84-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-8021da3bdaa6?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@georgedev/a-django-htmx-boilerplate-for-saas-built-for-myself-shared-for-free-9b857fc59daf?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@mihailmarian12/the-filesystem-a-quick-dirty-way-to-store-temp-data-in-your-api-602ca3cc6dbc?source=rss------django-5"
     }
 ]
