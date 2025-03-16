@@ -11938,5 +11938,50 @@
     },
     {
         "link": "https://medium.com/@mihailmarian12/the-filesystem-a-quick-dirty-way-to-store-temp-data-in-your-api-602ca3cc6dbc?source=rss------django-5"
+    },
+    {
+        "link": "https://aiwolfie.medium.com/how-i-hacked-an-e-commerce-website-found-xss-75db71424d4a?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@aashifm/very-basic-how-i-solve-csrf-in-portswigger-lab-f090e3325a0e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@jkyne6368/cve-2025-26633-a-silent-threat-in-windows-mmc-what-you-need-to-know-0f5156d97738?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mahdisalhi0500/how-i-bypassed-verification-one-pro-tip-for-bug-hunters-28dc82578614?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/beginners-sql-injection-cheat-sheet-7c0f8d217e8e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://bitpanic.medium.com/payload-generation-techniques-for-bug-bounty-hunters-ab8b75bdffa6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://firdausmuhammadismail.medium.com/open-redirect-codepolitan-vulnerability-catch-10d33baa6a71?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@saltify/from-alert-1-to-account-takeover-a-story-of-4-digit-bounties-and-bypassing-html-sanitisers-dd8ca0ac502b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackerfromhills/bug-bounty-hunting-for-absolute-beginners-f4ec4a127705?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/cve-2025-24813-apache-tomcat-path-equivalence-vulnerability-bounty-961350b31e16?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@michal.stachura/user-activity-monitoring-a-complete-solution-with-django-and-nuxt-ed0dd0060483?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@nasirsabbir07/setting-up-django-app-for-multi-tenancy-12977b33a30c?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@jahid.iqbal211/%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-711a6f47ee55?source=rss------django-5"
+    },
+    {
+        "link": "https://jubriltayo.medium.com/docker-for-django-a-beginners-guide-d17bb9b81813?source=rss------django-5"
+    },
+    {
+        "link": "https://kapucuonur.medium.com/how-to-set-up-tailwind-3-in-django-with-vite-and-django-vite-36a3ce3b9a88?source=rss------django-5"
     }
 ]
