@@ -11983,5 +11983,59 @@
     },
     {
         "link": "https://kapucuonur.medium.com/how-to-set-up-tailwind-3-in-django-with-vite-and-django-vite-36a3ce3b9a88?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@ibtissamhammadi/how-i-made-3000-in-3-minutes-with-sqli-d32c7f29c869?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@expression4865/bug-bounty-cookie-timeline-utilization-when-the-system-uses-multiple-authentication-cookies-7d2e6cc68c34?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/how-a-logic-flaw-allowed-attackers-to-hijack-accounts-39509d7340e6?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/how-i-found-an-open-redirect-vulnerability-easily-worth-500-274999bb6527?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@mohamed.yasser442200/csrf-in-json-requests-a-real-world-exploit-on-payout-features-2829086ace5c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/mastering-web-recon-with-webcopilot-78da58bfb428?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@marduk.i.am/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-d6c6d91be74d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@regan_temudo/bypassing-2fa-to-impersonate-users-on-drugs-com-66fb84b0491d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://sahnounoussama.medium.com/cve-2022-45875-command-injection-vulnerability-in-apache-dolphinscheduler-50acfe7dfa07?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://publication.osintambition.org/how-i-hacked-an-e-commerce-website-found-xss-75db71424d4a?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/pythoneers/best-practices-for-structuring-a-django-project-like-a-pro-00bf98c8e40a?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@einswilligoeh/securing-your-django-app-with-ssl-https-using-lets-encrypt-nginx-and-docker-905854ac5697?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/a-layman/build-spa-with-react-and-django-part-13-establish-graphql-endpoints-with-graphene-django-187eed23d3c0?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@priyanshu011109/django-with-htmx-the-future-of-server-rendered-apps-d0c5888ae206?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/8-essential-indexes-every-django-developer-must-know-to-turbocharge-performance-0246bef0b36e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/pythoneers/introducing-generatedfield-the-game-changing-feature-in-django-5-0-e5f4351684fd?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@alfininfo/implementing-cookies-sessions-and-jwts-in-your-django-project-ab632473f76d?source=rss------django-5"
     }
 ]
