@@ -12088,5 +12088,77 @@
     },
     {
         "link": "https://lewoudar.medium.com/python-beyond-3-d3e5a77329fb?source=rss------django-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/a-great-tool-that-will-be-helpful-in-your-bug-bounty-pentesting-journey-8ce118f4ea00?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://rhidayah.medium.com/users-without-roles-member-roles-can-create-private-repositories-and-secret-teams-in-github-8fec746ac684?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@paritoshblogs/active-directory-federation-services-ad-fs-1b7c38929964?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@security.tecno/cve-exclusive-activity-analyze-12-cve-reports-and-start-a-reward-activity-4bab97436b06?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cybersecuritywriteups.com/from-ssrf-to-how-i-hacked-autodesks-rendering-service-and-earned-a-bug-bounty-da444900f7d9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@bugyatri/bugyatri-web2-web3-bugbounty-platform-for-bughunters-476826513b6f?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@cybermanx07/no-rate-limiting-on-login-endpoint-a-brute-force-vulnerability-d1300848b445?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://theindiannetwork.medium.com/open-redirect-vulnerability-a-detailed-overview-and-how-i-discovered-it-b95a228f6047?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/understanding-file-inclusion-vulnerabilities-a-practical-guide-25a22c461c2b?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://krishna-cyber.medium.com/csrf-to-xss-chaining-vulnerabilities-for-critical-bug-bounties-804bced55bb3?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@hackerfromhills/how-to-make-your-first-100-000-in-bug-bounty-51e10cda8f11?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@stepan.parant/skills-assessment-for-hacking-wordpress-hackthebox-cbbh-course-d368e36d90e2?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://myselfakash20.medium.com/the-ultimate-guide-to-cdx-api-for-bug-bounty-recon-e98c36d033ed?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@ewho.ruth2014/advanced-tutorial-how-to-write-reusable-django-apps-896a8a10315c?source=rss------django-5"
+    },
+    {
+        "link": "https://chinmayroy.medium.com/how-to-choose-the-best-password-hashing-algorithm-in-django-ce044ed1f7e5?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@charleswang8711/a-typical-flow-of-how-to-retrieve-and-update-a-single-object-in-django-0a646cc25b0b?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@alfininfo/django-orm-performance-optimization-10-powerful-tricks-with-code-examples-93ede8f05331?source=rss------django-5"
+    },
+    {
+        "link": "https://roddelaporte.medium.com/django-signals-a-powerful-tool-for-decoupled-event-handling-0e3416848b5a?source=rss------django-5"
+    },
+    {
+        "link": "https://diegoexpertai.medium.com/40-frameworks-devweb-apis-2b68445de8ca?source=rss------django-5"
+    },
+    {
+        "link": "https://connortran216.medium.com/introduction-to-django-ninja-part-1-dc836387113d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@anzaloquin/hetzner-cloud-series-article-5-deploying-a-django-application-on-hetzner-cloud-11934f0e3d41?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@afimaamedufie/from-django-ponies-to-unicorns-the-djangocon-us-2025-talks-we-would-love-to-hear-98160912efdb?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/django-google-project-idx-a-game-changer-for-developers-142345bd4b40?source=rss------django-5"
     }
 ]
