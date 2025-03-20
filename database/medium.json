@@ -12160,5 +12160,77 @@
     },
     {
         "link": "https://medium.com/django-unleashed/django-google-project-idx-a-game-changer-for-developers-142345bd4b40?source=rss------django-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/from-zero-to-hero-hunting-high-paying-open-redirect-bugs-in-web-apps-fdb80286236e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@ibtissamhammadi/how-i-made-5000-in-1-hour-finding-5-sqli-vulnerabilities-manually-bfbff1c02a47?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@VulnRAM/mobile-number-verification-bypass-cwe-840-business-logic-error-1cd80b0bced5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/file-inclusion-vulnerabilities-advanced-exploitation-and-mitigation-techniques-6b47cb6547fd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://osintteam.blog/%EF%B8%8F-from-zero-to-hero-how-2fa-bypass-turned-me-into-a-bug-bounty-legend-8eb0b815aaf9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://monsifhmouri.medium.com/unveiled-the-dark-side-of-bugcrowd-unfair-rejections-and-a-warning-to-hackers-ca9d8572ad63?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@EthicalOffsec/12-900-in-bounties-in-my-first-month-of-bug-hunting-with-ax-framework-6d530d25c1c2?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hrofficial62/50k-bounty-just-for-github-access-token-exposure-d92dcc34eb4d?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@sobatistacyber/http-the-invisible-language-of-the-web-and-how-hackers-exploit-it-83456833c4c5?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://strangerwhite.medium.com/no-tools-no-problem-another-fun-bug-hunting-story-22c234331bfd?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://ehteshamulhaq198.medium.com/essential-browser-extensions-for-every-bug-bounty-hunter-393a98d7768e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://icecream23.medium.com/automating-subdomain-takeover-discovery-with-shell-scripting-e9016ee77ddd?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://hiddendom.medium.com/how-i-got-access-to-berkeley-universitys-one-of-server-using-the-legendary-admin-admin-creds-64394e6b3152?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@dimpchubb/secret-keys-to-cash-finding-hidden-flaws-for-bug-bounties-c67ee06dd3eb?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://infosecwriteups.com/users-without-roles-member-roles-can-create-private-repositories-and-secret-teams-in-github-8fec746ac684?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@lawalmuhammed44/authentication-vs-authorization-the-gatekeepers-of-your-app-92cc02c46543?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@allusernameistaken21/test-driven-development-in-django-while-applying-solid-principles-ae5d5f3a78e3?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@antonio.radesca/enhancing-authorization-in-django-with-permguard-a-zero-trust-approach-b85b813d252d?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@evandanowitz21/bitebase-case-study-cec7df485a05?source=rss------django-5"
+    },
+    {
+        "link": "https://leapcell.medium.com/building-a-rule-engine-in-go-using-govaluate-1921ce3d4db8?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@pershyfon/tdd-put-your-expectations-high-db8c9dea53c7?source=rss------django-5"
+    },
+    {
+        "link": "https://python.plainenglish.io/what-is-pycache-%EF%B8%8F-22c29439f87f?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@naveenkorlakunta9/integrating-cashfree-payment-gateway-with-next-js-frontend-and-django-backend-7df980f96964?source=rss------django-5"
+    },
+    {
+        "link": "https://chinmayroy.medium.com/key-use-cases-for-meta-in-django-models-mastering-model-customization-316b8ad42977?source=rss------django-5"
     }
 ]
