@@ -12232,5 +12232,71 @@
     },
     {
         "link": "https://chinmayroy.medium.com/key-use-cases-for-meta-in-django-models-mastering-model-customization-316b8ad42977?source=rss------django-5"
+    },
+    {
+        "link": "https://sudosuraj.medium.com/file-upload-bypass-pulling-off-the-ultimate-disrespect-d7200be31717?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://mknayek101.medium.com/best-google-dorking-00ccc375d415?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://theindiannetwork.medium.com/how-i-earned-700-in-just-10-minutes-by-finding-a-path-traversal-vulnerability-ef311fe25515?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://cyberw1ng.medium.com/cryptographic-failures-a-comprehensive-guide-410064fe6e4e?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@AlasdairGorniak/finding-and-exploiting-xss-in-a-crm-and-getting-paid-for-it-71e2767faeba?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@cybertips96/self-hosted-vs-third-party-bug-bounty-platforms-key-differences-explained-16358ac9488c?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-121-f00a0b2a9abe?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@iski/when-life-gave-me-a-500-error-i-found-aws-keys-instead-rf-b416f8ca68f8?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@vipulsonule71/how-to-approach-a-target-for-bug-hunting-81f8ce89cdf3?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@hackerfromhills/mastering-recon-in-bug-bounty-advanced-techniques-for-2025-1c8b5f3c43b9?source=rss------bug_bounty-5"
+    },
+    {
+        "link": "https://medium.com/@shyam.sam0704/how-i-took-admin-account-via-jwt-bypass-5eb96430c2ad?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://theindiannetwork.medium.com/how-i-made-1-000-000-in-bug-bounties-finding-a-simple-500-000-vulnerability-with-just-a-d5e224041c6e?source=rss------bug_bounty_writeup-5"
+    },
+    {
+        "link": "https://medium.com/@mohammadwow24/migrating-from-integer-id-to-uuid-in-django-without-data-loss-postgresql-d4f21c3b4477?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@fleektyre/building-an-elibrary-for-demo-for-my-uni-with-django-and-aws-ed7ae7865717?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/django-unleashed/requests-vs-httpx-which-python-http-client-is-right-for-you-16422ac18474?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@fleektyre/building-a-scalable-hospital-management-system-with-django-and-aws-s3-e2ff49a54186?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@michal.drozdze/build-a-simple-note-taking-app-with-django-part-2-da01822ec2e9?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@oviyan007/best-practices-for-structuring-a-scalable-django-project-0f72e97680bb?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@jaatcodes/django-for-beginners-the-ultimate-guide-to-your-first-web-app-f95e6a5d2f3e?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@munchtechnoz/python-3-12-key-updates-and-their-impact-with-django-f30ac19c3717?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@fleektyre/almost-reddit-building-an-almost-complete-reddit-like-system-with-django-31e534693d90?source=rss------django-5"
+    },
+    {
+        "link": "https://medium.com/@timkenar/websocket-integration-for-real-time-messaging-with-django-channels-28dc52d21626?source=rss------django-5"
     }
 ]
